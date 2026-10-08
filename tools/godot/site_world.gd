@@ -55,6 +55,11 @@ const CLIPS := {
 		"walk_by": [3, -3], "zoom_to": 15.0},
 	"gates": {"loc": "castle_ravenloft_gates", "hour": 23, "weather": "storm", "at": [19, 31], "zoom": 16.0,
 		"seconds": 5.0, "walk_by": [0, -4], "zoom_to": 13.0},
+	# Interiors, walked through by candlelight (owner's ask: the rooms' mood and lighting).
+	"interior_death_house": {"loc": "death_house_ground", "at": [20, 8], "zoom": 10.0, "seconds": 7.0, "walk": [6, 6],
+		"zoom_to": 11.5},
+	"interior_inn": {"loc": "vallaki_blue_water_inn", "hour": 20, "zoom": 10.0, "seconds": 7.0, "walk_by": [6, 4],
+		"zoom_to": 11.5},
 }
 
 var view: LocationView = null

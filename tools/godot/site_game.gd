@@ -17,7 +17,7 @@ const TALKERS: Array[String] = ["wren_featherfoot", "godrick_pendlebrook", "this
 const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialogue_d20", "combat_odds", "combat_area",
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map"]
-const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss"]
+const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
 
@@ -671,3 +671,51 @@ func _clip_boss() -> void:
 	cv = view.combat_view
 	cv.input_locked = true
 	await _record("boss", 7.0)
+
+
+## Making a hero of your own: the class step, then the appearance changing look by look, then the finished sheet.
+func _clip_creation() -> void:
+	await _title()
+	menu.call("_new_game")
+	await _wait(10)
+	menu.call("_open_hero")
+	await _wait(20)
+	var cs := menu.get("_creation") as CreationScreen
+	if cs == null:
+		push_warning("site_game: no creation screen")
+		return
+	var b := cs.b()
+	b.set_class("paladin")
+	cs.step = CharacterBuilder.Step.CLASS
+	cs.call("_draw")
+	var n := await _record("creation", 2.5)
+	cs.call("_suit_outfit")
+	cs.step = CharacterBuilder.Step.APPEARANCE
+	var looks: Array[Dictionary] = [{"hair": "wavy", "skin": "olive", "hair_colour": "auburn"},
+		{"hair": "long", "skin": "fair", "hair_colour": "blonde"}, {"hair": "braid", "skin": "brown", "hair_colour": "black"},
+		{"hair": "curls", "skin": "infernal", "hair_colour": "white"}]
+	for look: Dictionary in looks:
+		var app := (b.build["appearance"] as Dictionary).duplicate()
+		app.merge(look, true)
+		b.set_appearance(app)
+		cs.call("_draw")
+		n = await _record("creation", 1.0, n)
+	cs.step = CharacterBuilder.Step.REVIEW
+	cs.call("_draw")
+	await _record("creation", 2.0, n)
+
+
+## A level up: Godrick reaches level 4, the picks open blank, then Use Recommended fills them.
+func _clip_levelup() -> void:
+	await _game("vallaki_blue_water_inn", 20, FIGHTERS, 3)
+	GameState.story.milestones = 10
+	root.call("open_screen", "level_up", 0)
+	await _wait(10)
+	var screen := root.get("screen") as Node
+	var n := await _record("levelup", 2.0)
+	for bt in screen.find_children("*", "Button", true, false):
+		if (bt as Button).text == "Use Recommended" and not (bt as Button).disabled:
+			(bt as Button).pressed.emit()
+			break
+	await _record("levelup", 3.5, n)
+	root.call("close_screen")
