@@ -39,8 +39,12 @@ SHOTS = {
 	"combat_boss": "A boss fight, with its name plate and health bar",
 	"dialogue_check": "A skill check shows who will roll and their chance",
 	"dialogue_d20": "The d20 rolls with the DC and every bonus",
-	"cutscene": "A painted storybook still",
-	"tarokka": "Madam Eva lays out the Tarokka cards",
+	"cutscene": "Storybook: a rider watches from the ridge",
+	"tarokka": "Storybook: Madam Eva lays out the Tarokka cards",
+	"story_mists": "Storybook: the mists close in behind you",
+	"story_village": "Storybook: rain over the Village of Barovia",
+	"story_palisade": "Storybook: the palisade of Vallaki",
+	"story_camp": "Storybook: a Vistani camp at Tser Pool",
 	"stealth_sight": "Sneaking: the ground each guard can see",
 	"party_roster": "Choosing four of the six companions",
 	"character_sheet": "The character sheet, with a number's breakdown",
@@ -49,11 +53,21 @@ SHOTS = {
 	"skirmish": "Skirmish and the Character Lab",
 }
 
+# Shots that are the game's own storybook art (data/cutscenes), taken straight from the game's files.
+ART = {
+	"cutscene": "art/cutscenes/strahd_watcher_alone.jpg",
+	"tarokka": "art/cutscenes/madam_eva_reading.jpg",
+	"story_mists": "art/cutscenes/mists_arrival.jpg",
+	"story_village": "art/cutscenes/village_rain.jpg",
+	"story_palisade": "art/cutscenes/vallaki_palisade.jpg",
+	"story_camp": "art/cutscenes/tser_pool_fire.jpg",
+}
+
 # The gallery, in order (the first is shown large).
 GALLERY = ["village_night", "combat_fireball", "vallaki_rain", "dialogue_check", "castle_vista", "combat_odds",
 	"krezk_snow", "combat_area", "death_house", "tarokka", "tser_pool_night", "stealth_sight", "combat_battlefield",
 	"combat_boss", "party_roster", "character_sheet", "inventory", "travel_map", "skirmish", "road_dusk",
-	"dialogue_d20", "title"]
+	"dialogue_d20", "title", "cutscene", "story_mists", "story_village", "story_palisade", "story_camp"]
 
 INK = (12, 6, 7)
 GILT = (226, 196, 117)
@@ -171,8 +185,12 @@ def main() -> None:
 	key_art = args.game / "art/ui/title_backdrop.png"
 	if key_art.exists():
 		Image.open(key_art).convert("RGB").save(SITE / "media/shots/hero.webp", quality=86, method=6)
+	for name, rel in ART.items():
+		if (args.game / rel).exists():
+			write_shot(Image.open(args.game / rel), name)
+			print("art", name)
 	for name in SHOTS:
-		if name == "hero":
+		if name == "hero" or name in ART:
 			continue
 		src = args.raw / f"{name}.png" if args.raw else None
 		if src and src.exists():
