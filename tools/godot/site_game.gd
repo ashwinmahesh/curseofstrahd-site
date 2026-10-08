@@ -50,6 +50,10 @@ func _ready() -> void:
 	# local change).
 	if OS.get_environment("STRAHD_MOVIE_SOUND") != "":
 		Audio.set("_silent", false)
+		# The trailer has its own music: only the game's effects and voices go into the movie.
+		var music := AudioServer.get_bus_index("Music")
+		if music >= 0:
+			AudioServer.set_bus_mute(music, true)
 
 
 func _exit_tree() -> void:
