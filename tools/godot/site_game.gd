@@ -15,6 +15,10 @@ const MENU := "res://scenes/main_menu.tscn"
 const FIGHTERS: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "ratatoille", "kip_smudgewick"]
 ## Kip speaks for the party in conversations (owner, 2026-10-08).
 const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
+## Each conversation still has a different hero speaking for the party, so the site shows that every one has a bust
+## (owner, 2026-10-08): Kip at the inn, Liriel with Blinsky, and Godrick rolling the check.
+const CHECK_SPEAKER := "liriel_dawnsong"
+const ROLL_SPEAKER := "godrick_pendlebrook"
 const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialogue_d20", "combat_odds", "combat_area",
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
@@ -350,10 +354,19 @@ func _still_party_roster() -> void:
 	_shot("party_roster")
 
 
+## The party with `first` leading, and so speaking in conversations.
+func _led_by(first: String) -> Array[String]:
+	var party: Array[String] = [first]
+	for pid in TALKERS:
+		if pid != first:
+			party.append(pid)
+	return party
+
+
 ## Blinsky's toy shop in Vallaki: his welcome, then the choices, the Performance check among them with who rolls it
 ## and their chance.
-func _talk() -> DialogueUI:
-	await _game("vallaki_blinsky_toys", 14, TALKERS, 5)
+func _talk(speaker: String = TALKERS[0]) -> DialogueUI:
+	await _game("vallaki_blinsky_toys", 14, _led_by(speaker), 5)
 	root.call("start_dialogue", "vallaki/blinsky:start", "blinsky")
 	var d := root.get("dialogue") as DialogueUI
 	for i in 12:
@@ -383,7 +396,7 @@ func _seed_that_lands() -> int:
 	if _good_seed >= 0:
 		return _good_seed
 	for roll_seed: int in [7, 3, 5, 9, 13, 21, 34, 55]:
-		var d := await _talk()
+		var d := await _talk(ROLL_SPEAKER)
 		if d != null and _laugh(d, roll_seed):
 			_good_seed = roll_seed
 			return roll_seed
@@ -392,13 +405,13 @@ func _seed_that_lands() -> int:
 
 
 func _still_dialogue_check() -> void:
-	await _talk()
+	await _talk(CHECK_SPEAKER)
 	_shot("dialogue_check")
 
 
 func _still_dialogue_d20() -> void:
 	var roll_seed := await _seed_that_lands()
-	var d := await _talk()
+	var d := await _talk(ROLL_SPEAKER)
 	if d == null:
 		return
 	_laugh(d, roll_seed)
@@ -578,7 +591,7 @@ func _clip_title() -> void:
 ## Blinsky's shop: the options with their odds, and the d20 rolling for the Performance.
 func _clip_dialogue() -> void:
 	var roll_seed := await _seed_that_lands()
-	var d := await _talk()
+	var d := await _talk(ROLL_SPEAKER)
 	if d == null:
 		return
 	var n := await _record("dialogue", 2.5)

@@ -17,7 +17,7 @@
 - Turn-based fights on a 5-foot grid that start where you stand, with hit odds shown before every attack, area
   templates that warn about friendly fire, height and flight, breakable and burnable objects, and enemy AI.
 - Voiced conversations with skill checks that show who rolls and their chance, a big animated d20, and a Narrator.
-- Hand-drawn 2D characters in a lit 3D world (an HD-2D look), with weather, day and night, and a gothic interface.
+- Storybook-style 2D characters in a lit 3D world (an HD-2D look), with weather, day and night, and a gothic interface.
 - Four difficulties (Story, Balanced, Tactician, Honour), Skirmish and a Character Lab, achievements, and rebindable
   keys, text size and interface scale.
 
