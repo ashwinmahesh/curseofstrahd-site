@@ -181,6 +181,12 @@ strong { color: var(--parchment); font-weight: 600; }
 /* Trailer */
 .trailer { background: radial-gradient(ellipse 80% 60% at 50% 0%, rgba(79, 20, 32, 0.45), transparent 70%); }
 .video-frame { max-width: 1040px; margin: 0 auto; }
+/* The trailer's own page and the 404 page: room under the fixed bar, and a page heading the size of a section's. */
+.trailer-page, .notfound { padding-top: clamp(110px, 14vw, 160px); }
+.trailer-page h1, .notfound h1 { font-size: clamp(1.9rem, 4vw, 3rem); }
+.trailer-text { max-width: 760px; margin: 28px auto 0; text-align: center; }
+.trailer-text .hero-actions { margin: 24px 0; }
+.notfound { min-height: 70vh; text-align: center; }
 
 /* What it is */
 .about-grid { display: grid; grid-template-columns: 1.25fr 1fr; gap: clamp(32px, 6vw, 80px); align-items: center; }

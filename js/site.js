@@ -1,4 +1,4 @@
-// The page's small interactions: the navigation bar, the screenshot switchers in the feature sections, the
+// The pages' small interactions: the navigation bar, the screenshot switchers in the feature sections, the
 // companion picker and the gallery's full-size viewer.
 (() => {
 	const nav = document.getElementById("nav");
@@ -42,7 +42,7 @@
 	// Companions: one card picked at a time shows its story below.
 	const grid = document.getElementById("comp-grid");
 	const detail = document.getElementById("comp-detail");
-	grid.addEventListener("click", (e) => {
+	if (grid) grid.addEventListener("click", (e) => {
 		const card = e.target.closest(".comp");
 		if (!card) return;
 		for (const c of grid.querySelectorAll(".comp")) {
@@ -53,8 +53,9 @@
 		for (const a of detail.querySelectorAll("article")) a.hidden = a.dataset.id !== card.dataset.id;
 	});
 
-	// Gallery viewer.
+	// Gallery viewer (the home page only).
 	const lb = document.getElementById("lightbox");
+	if (!lb) return;
 	const lbImg = document.getElementById("lb-img");
 	const lbCap = document.getElementById("lb-cap");
 	const shots = [...document.querySelectorAll("#gal-grid button")];

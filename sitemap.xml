@@ -20,4 +20,15 @@
       <video:duration>88</video:duration>
     </video:video>
   </url>
+  <url>
+    <loc>https://curseofstrahd.app/trailer/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v3-poster.jpg</video:thumbnail_loc>
+      <video:title>Curse of Strahd (unofficial fan game) - gameplay trailer</video:title>
+      <video:description>Gameplay recorded in the game, with its own sound and voices, narrated by Strahd. An unofficial fan game.</video:description>
+      <video:content_loc>https://curseofstrahd.app/media/trailer-v3.mp4</video:content_loc>
+      <video:duration>88</video:duration>
+    </video:video>
+  </url>
 </urlset>
