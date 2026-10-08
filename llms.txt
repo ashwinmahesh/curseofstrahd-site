@@ -28,6 +28,6 @@ Free. macOS on Apple silicon, and Windows 10/11 64-bit. Single player. Keyboard 
 ## Links
 
 - [Website](https://curseofstrahd.app/): features, screenshots, trailer, FAQ and download
-- [Gameplay trailer](https://curseofstrahd.app/media/trailer-v2.mp4)
+- [Gameplay trailer](https://curseofstrahd.app/media/trailer-v3.mp4)
 - [FAQ](https://curseofstrahd.app/#faq)
 - [Download](https://curseofstrahd.app/#download)

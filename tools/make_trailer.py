@@ -12,6 +12,7 @@ which ducks under each line). --status is the end card's last line.
 """
 import argparse
 import audioop
+import math
 import shutil
 import subprocess
 import wave
@@ -87,7 +88,46 @@ EDIT_V2 = [
 # Strahd's lines (build/voice/strahd_trailer_NN.mp3) and when each starts, in seconds.
 VOICE_V2 = [(1.0, "01"), (6.3, "02"), (11.2, "03"), (18.7, "04"), (23.7, "05"), (46.7, "06"), (58.2, "07"),
 	(65.8, "08"), (78.5, "09")]
-CUTS = {"v1": (EDIT_V1, []), "v2": (EDIT_V2, VOICE_V2)}
+# v3 (owner's asks, 2026-10-08): the game's own sound under the fights and the boss, a voiced exchange with a bust on each
+# side (the Baron and Kip), "Available now" on the end card, and the music left at full under Strahd's last line.
+# "sound" lays the clip's own audio (from the Movie Maker run, build/audio/game_movie.wav) under the music; "voices"
+# also dips the music under it. The Blinsky clip under Strahd's "speak to my people" gives way to the inn's townsfolk.
+EDIT_V3 = [
+	{"clip": "title", "seconds": 6.0},
+	{"still": "art/cutscenes/mists_arrival.jpg", "seconds": 4.0},
+	{"clip": "road", "seconds": 2.5, "from": 1.0},
+	{"clip": "village", "seconds": 2.5, "from": 1.0},
+	{"clip": "interior_death_house", "seconds": 3.5, "from": 1.0},
+	{"clip": "vallaki", "seconds": 2.0, "from": 1.5},
+	{"clip": "interior_inn", "seconds": 3.0, "from": 1.0},
+	{"still": "art/cutscenes/strahd_watcher_alone.jpg", "seconds": 2.5, "push": 1.12},
+	{"clip": "fight_smite", "seconds": 3.0, "cut": True, "hud": True, "sound": True,
+		"caption": "Turn-based fights on the 2024 rules"},
+	{"clip": "fight_fireball", "seconds": 3.5, "from": 0.3, "sound": True},
+	{"clip": "fight_odds", "seconds": 2.5, "hud": True, "caption": "See the odds before every roll"},
+	{"clip": "dialogue_voiced", "seconds": 5.7, "from": 1.85, "hud": True, "voices": True,
+		"caption": "Every line voiced"},
+	{"clip": "dialogue_voiced", "seconds": 4.1, "from": 20.75, "voices": True},
+	{"clip": "creation", "seconds": 3.2, "from": 1.5, "caption": "Make a hero of your own"},
+	{"still": "art/cutscenes/madam_eva_reading.jpg", "seconds": 4.2, "push": 1.1},
+	{"clip": "levelup", "seconds": 2.6, "from": 2.0, "caption": "Every 2024 choice at every level"},
+	{"clip": "boss", "seconds": 4.6, "from": 0.5, "sound": True},
+	{"clip": "fight_last", "seconds": 3.4, "from": 0.3, "sound": True},
+	{"clip": "castle", "seconds": 6.6},
+	{"clip": "gates", "seconds": 2.6, "from": 0.5},
+	{"still": "art/cutscenes/tser_pool_fire.jpg", "seconds": 4.0, "push": 1.08},
+	{"card": True, "seconds": 12.0},
+]
+# (start, line, dip the music?) The last line keeps the music at full (owner, 2026-10-08).
+VOICE_V3 = [(1.0, "01", True), (6.3, "02", True), (11.2, "03", True), (18.7, "04", True), (23.7, "05", True),
+	(48.1, "06", True), (56.0, "07", True), (63.6, "08", True), (78.5, "09", False)]
+CUTS = {"v1": (EDIT_V1, []), "v2": (EDIT_V2, VOICE_V2), "v3": (EDIT_V3, VOICE_V3)}
+# The game's sound from the Movie Maker run, and how its frames line up (each clip's first frame, from the run's log).
+GAME_SOUND = "build/audio/game_movie.wav"
+GAME_LOG = "build/raw/clips/site_game.log"
+SOUND_PEAK = 31000  # the fights' own effects, brought up to this peak (the mix's limiter catches the loudest hits)
+SOUND_DUCK = 0.35   # the music dips this far under each blow and comes back between them
+SOUND_LAG = 2       # frames: the movie's sound runs this far ahead of the recorded pictures
 # The music under a line (about -10 dB), how long it takes to dip and to come back, and the voice's gain.
 DUCK = 0.25
 DUCK_IN = 0.3
@@ -203,42 +243,138 @@ def to_wav(src: Path, dst: Path, channels: int) -> bytes:
 		return w.readframes(w.getnframes())
 
 
-def mix_audio(game: Path, voice: list, seconds: float, out: Path) -> Path:
-	"""The music for `seconds`, dipping under each of Strahd's lines, with the lines laid over it."""
+def mix_audio(game: Path, voice: list, seconds: float, out: Path, game_sound: list = []) -> Path:
+	"""The music for `seconds`, dipping under each of Strahd's lines (and the game's own sound), with them laid over it."""
 	tmp = SITE / "build/audio"
 	tmp.mkdir(parents=True, exist_ok=True)
 	music = bytearray(to_wav(game / MUSIC, tmp / "music.wav", 2))
 	total = int(seconds * RATE) * 4
 	music = music[:total] + bytearray(max(0, total - len(music)))
 	lines = []
-	for at, nn in voice:
+	spans = []   # (start, end, how low the music goes)
+	for entry in voice:
+		at, nn = entry[0], entry[1]
 		mono = to_wav(SITE / ("build/voice/strahd_trailer_%s.mp3" % nn), tmp / ("v%s.wav" % nn), 1)
 		g = VOICE_PEAK / max(audioop.max(mono, 2), 1)
-		lines.append((at, audioop.tostereo(mono, 2, g, g)))
-	spans = [(at, at + len(data) / 4 / RATE) for at, data in lines]
+		data = audioop.tostereo(mono, 2, g, g)
+		lines.append((at, data))
+		if len(entry) < 3 or entry[2]:
+			spans.append((at, at + len(data) / 4 / RATE, DUCK))
 	# The dip, 10 ms at a time: down over DUCK_IN before a line, back up over DUCK_OUT after it.
 	step = RATE // 100
+	side = {}   # 10 ms step -> the music's level under the game's effects there
+	for at, data, duck in game_sound:
+		lines.append((at, data))
+		if duck is not None:
+			spans.append((at, at + len(data) / 4 / RATE, duck))
+		else:
+			first = int(at * RATE) // step
+			for k, level in enumerate(follow(data, step)):
+				side[first + k] = min(side.get(first + k, 1.0), level)
 	out_pcm = bytearray()
 	for i in range(0, total // 4, step):
 		t = i / RATE
-		depth = 0.0
-		for a, b in spans:
+		gain = 1.0
+		for a, b, duck in spans:
 			if a - DUCK_IN <= t <= b + DUCK_OUT:
-				depth = max(depth, min(1.0, (t - (a - DUCK_IN)) / DUCK_IN, (b + DUCK_OUT - t) / DUCK_OUT))
-		gain = (1.0 - (1.0 - DUCK) * depth) * HEADROOM
+				depth = min(1.0, (t - (a - DUCK_IN)) / DUCK_IN, (b + DUCK_OUT - t) / DUCK_OUT)
+				gain = min(gain, 1.0 - (1.0 - duck) * depth)
+		gain = min(gain, side.get(i // step, 1.0)) * HEADROOM
 		out_pcm += audioop.mul(bytes(music[i * 4:(i + step) * 4]), 2, gain)
+	# Summed in 32 bits (at a quarter of full scale, so four loud layers can't wrap), then held under full scale.
+	wide = bytearray(audioop.mul(audioop.lin2lin(bytes(out_pcm), 2, 4), 4, 0.25))
 	for at, data in lines:
-		s = int(at * RATE) * 4
-		seg = bytes(out_pcm[s:s + len(data)])
-		out_pcm[s:s + len(seg)] = audioop.add(seg, data[:len(seg)], 2)
-	peak = audioop.max(bytes(out_pcm), 2)
-	out_pcm = bytearray(audioop.mul(bytes(out_pcm), 2, 30000 / max(peak, 1)))
+		s = int(at * RATE) * 8
+		seg = bytes(wide[s:s + len(data) * 2])
+		layer = audioop.mul(audioop.lin2lin(data, 2, 4), 4, 0.25)
+		wide[s:s + len(seg)] = audioop.add(seg, layer[:len(seg)], 4)
+	out_pcm, squeezed = limit(bytes(wide))
 	with wave.open(str(out), "wb") as w:
 		w.setnchannels(2)
 		w.setsampwidth(2)
 		w.setframerate(RATE)
-		w.writeframes(bytes(out_pcm))
-	print("make_trailer: mixed %d lines over the music (peak %d)" % (len(lines), peak))
+		w.writeframes(out_pcm)
+	print("make_trailer: mixed %d lines and sounds over the music (limited %.1f s, at most %.1f dB)"
+		% (len(lines), squeezed[0], squeezed[1]))
+	return out
+
+
+def follow(data: bytes, step: int) -> list:
+	"""The music's level under the game's effects, per `step` samples: nothing below -42 dB, the full SOUND_DUCK from
+	-24 dB, down over 20 ms (starting 20 ms early) and back up over 250 ms, so the music swells again between blows."""
+	loud = []
+	for k in range(0, len(data) // 4, step):
+		r = audioop.rms(data[k * 4:(k + step) * 4], 2)
+		d = 20 * math.log10(max(r, 1) / 32768)
+		loud.append(1.0 - (1.0 - SOUND_DUCK) * min(1.0, max(0.0, (d + 42) / 18)))
+	out = []
+	level = 1.0
+	for k in range(len(loud)):
+		target = min(loud[k:k + 3])
+		level = max(target, level - 0.5) if target < level else min(target, level + 0.04)
+		out.append(level)
+	return out
+
+
+LIMIT = 30000   # 16-bit peak the mix is held under
+
+
+def limit(wide: bytes) -> tuple:
+	"""32-bit stereo at a quarter scale to 16-bit, turning down only the moments that would pass LIMIT: the gain drops
+	the 5 ms before a peak and comes back up over about 150 ms. Returns the PCM and (seconds turned down, deepest dB)."""
+	step = RATE // 200
+	size = step * 8
+	n = (len(wide) + size - 1) // size
+	# 0.25 of full scale in 32 bits is full scale in 16 bits once lin2lin drops the low half, so 4x for 16-bit units.
+	peaks = [audioop.max(wide[i * size:(i + 1) * size], 4) * 4 / 65536 for i in range(n)]
+	want = [min(1.0, LIMIT / p) if p > 0 else 1.0 for p in peaks]
+	gains = []
+	g = 1.0
+	for i in range(n):
+		target = min(want[i:i + 2])
+		g = target if target < g else min(target, g + 1.0 / 30)
+		gains.append(g)
+	out = bytearray()
+	for i in range(n):
+		chunk = audioop.mul(wide[i * size:(i + 1) * size], 4, 4 * gains[i])
+		out += audioop.lin2lin(chunk, 4, 2)
+	low = [x for x in gains if x < 0.999]
+	return bytes(out), (len(low) * step / RATE, 20 * math.log10(min(gains)) if gains else 0.0)
+
+
+def game_sound_for(edit: list) -> list:
+	"""(start in the trailer, 44.1 kHz stereo PCM, music level under it, or None to dip only under each blow) for each
+	segment with "sound" or "voices"."""
+	log = SITE / GAME_LOG
+	src = SITE / GAME_SOUND
+	if not log.exists() or not src.exists():
+		return []
+	first = {}
+	for line in log.read_text().splitlines():
+		if line.startswith("segment "):
+			_, name, _, frame, _ = line.split()
+			first[name] = int(frame)
+	with wave.open(str(src)) as w:
+		rate, channels = w.getframerate(), w.getnchannels()
+		pcm = w.readframes(w.getnframes())
+	out = []
+	at = 0.0
+	for seg in edit:
+		if (seg.get("sound") or seg.get("voices")) and seg.get("clip") in first:
+			start = (first[seg["clip"]] + SOUND_LAG) / FPS + float(seg.get("from", 0.0))
+			a = int(start * rate) * 2 * channels
+			b = a + int(seg["seconds"] * rate) * 2 * channels
+			piece = pcm[a:b]
+			if channels == 1:
+				piece = audioop.tostereo(piece, 2, 1, 1)
+			piece, _ = audioop.ratecv(piece, 2, 2, rate, RATE, None)
+			if seg.get("voices"):
+				g = VOICE_PEAK / max(audioop.max(piece, 2), 1)
+				out.append((at, audioop.mul(piece, 2, g), DUCK))
+			else:
+				g = SOUND_PEAK / max(audioop.max(piece, 2), 1)
+				out.append((at, audioop.mul(piece, 2, g), None))
+		at += seg["seconds"]
 	return out
 
 
@@ -247,7 +383,7 @@ def main() -> None:
 	ap.add_argument("--clips", type=Path, default=SITE / "build/raw/clips")
 	ap.add_argument("--game", type=Path, default=Path.home() / "Documents/CurseOfStrahdGame")
 	ap.add_argument("--only-frames", action="store_true")
-	ap.add_argument("--cut", choices=sorted(CUTS), default="v2")
+	ap.add_argument("--cut", choices=sorted(CUTS), default="v3")
 	ap.add_argument("--status", default="Coming soon", help="the end card's last line")
 	ap.add_argument("--reuse-frames", action="store_true", help="re-encode (and remix) from build/trailer as it is")
 	args = ap.parse_args()
@@ -298,7 +434,7 @@ def main() -> None:
 	name = "trailer" if args.cut == "v1" else "trailer-" + args.cut
 	audio = args.game / MUSIC
 	if voice:
-		mixed = mix_audio(args.game, voice, written / FPS, SITE / "build/audio/mix.wav")
+		mixed = mix_audio(args.game, voice, written / FPS, SITE / "build/audio/mix.wav", game_sound_for(EDIT))
 		# As AAC: the encoder can then pass the video through instead of re-encoding it to fit a WAV.
 		audio = mixed.with_suffix(".m4a")
 		audio.unlink(missing_ok=True)

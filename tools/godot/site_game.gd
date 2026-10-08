@@ -798,10 +798,11 @@ func _clip_dialogue_voiced() -> void:
 	DirAccess.make_dir_recursive_absolute(to)
 	print("segment dialogue_voiced 0 %d 0" % (Engine.get_process_frames() + 1))
 	var quiet := -15   # the first line takes a moment to start
+	var spoke := false
 	var lines := 0
 	var i := 0
 	var tail := -1
-	while i < 30 * 30:
+	while i < 30 * 45:
 		await get_tree().process_frame
 		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [to, i], 0.93)
 		i += 1
@@ -812,10 +813,15 @@ func _clip_dialogue_voiced() -> void:
 			continue
 		if VoiceOver.is_speaking():
 			quiet = 0
+			spoke = true
 			continue
 		quiet += 1
 		if quiet == 15:
-			lines += 1
+			# Notices (the journal, an attitude) have no voice: move past them without counting them.
+			if spoke:
+				lines += 1
+				spoke = false
+				print("line %d ends at frame %d" % [lines, i])
 			if lines >= 3:
 				tail = 30   # Kip has had his say: a second more, then stop
 				continue
