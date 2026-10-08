@@ -123,9 +123,14 @@ func _game(loc: String, hour: int, party: Array[String], level: int, weather: St
 	root = (load(GAME) as PackedScene).instantiate()
 	add_child(root)
 	await _wait(40)
+	# A place's first-visit cutscene (the village by night) would sit over everything with the game paused.
+	if root.get("screen") is CutscenePlayer:
+		root.call("close_screen")
+	get_tree().paused = false
 	_hud().close_narration()
 	_view().input_locked = true
-	await _wait(10)
+	# Clips play the interface's motion, so a new region's loading card holds for its 2.4 s and fades: wait it out.
+	await _wait(110 if clips else 10)
 
 
 func _view() -> LocationView:
@@ -156,6 +161,8 @@ func _title() -> void:
 func _fight(foes: Array = FOES, hour: int = 23) -> bool:
 	await _game("village_of_barovia", hour, FIGHTERS, 7, "fog")
 	var view := _view()
+	if OS.get_environment("SITE_DEBUG") != "":
+		_shot("debug_1_before_fight")
 	var basis := _ground_axes(view.rig)
 	var lead := view.leader().cell
 	var monsters: Array = []
@@ -166,14 +173,21 @@ func _fight(foes: Array = FOES, hour: int = 23) -> bool:
 		var cell := _free_near(view, want, taken)
 		taken[cell] = true
 		monsters.append({"monster": str(spec[0]), "cell": [cell.x, cell.y]})
+	Dice.reseed(11)
 	var ok := view.start_custom_encounter({"id": "site_fight", "text": "", "monsters": monsters, "surprise": "enemies"})
 	if not ok:
 		push_warning("site_game: the fight didn't start")
 		return false
 	cv = view.combat_view
 	cv.input_locked = true
+	if OS.get_environment("SITE_DEBUG") != "":
+		await _wait(30)
+		_shot("debug_2_fight_started")
+		print("site_game: mode %d, current %s, screen %s, paused %s" % [cv.mode, cv.e.current().name() if cv.e.current() != null else "-", root.get("screen"), get_tree().paused])
 	for i in 3000:
 		await get_tree().process_frame
+		if cv.mode == CombatView.Mode.PROMPT:
+			cv.call("_answer", false, "ask")
 		if cv.mode == CombatView.Mode.IDLE and cv.e.current().side == &"party":
 			break
 	await _wait(30)
@@ -319,20 +333,45 @@ func _still_party_roster() -> void:
 	_shot("party_roster")
 
 
-## The Vallaki gate: the watchman's question with the Deception and Intimidation options and who rolls them.
+## Blinsky's toy shop in Vallaki: his welcome, then the choices, the Performance check among them with who rolls it
+## and their chance.
 func _talk() -> DialogueUI:
-	await _game("vallaki", 17, TALKERS, 5, "overcast")
-	root.call("start_dialogue", "vallaki/gate:start", "")
+	await _game("vallaki_blinsky_toys", 14, TALKERS, 5)
+	root.call("start_dialogue", "vallaki/blinsky:start", "blinsky")
 	var d := root.get("dialogue") as DialogueUI
 	for i in 12:
 		if d == null or not d.options_shown.is_empty():
 			break
 		d.call("_advance")
 		await _wait(4)
-	if d != null and d.cutscene != null:
-		d.skip_cutscene()
 	await _wait(20)
 	return d
+
+
+## Picks the Performance check with the dice seeded to `roll_seed`. True if the roll succeeded.
+func _laugh(d: DialogueUI, roll_seed: int) -> bool:
+	Dice.reseed(roll_seed)
+	for i in d.options_shown.size():
+		if str((d.options_shown[i] as Dictionary).get("text", "")).contains("laugh"):
+			d.call("_choose", i)
+			break
+	return d.d20 != null and bool(d.d20.beat.get("success", false))
+
+
+## A seed whose Performance roll succeeds (a laugh out of Blinsky reads better than a groan), tried a few at a time.
+var _good_seed := -1
+
+
+func _seed_that_lands() -> int:
+	if _good_seed >= 0:
+		return _good_seed
+	for roll_seed: int in [7, 3, 5, 9, 13, 21, 34, 55]:
+		var d := await _talk()
+		if d != null and _laugh(d, roll_seed):
+			_good_seed = roll_seed
+			return roll_seed
+	_good_seed = 7
+	return _good_seed
 
 
 func _still_dialogue_check() -> void:
@@ -341,13 +380,11 @@ func _still_dialogue_check() -> void:
 
 
 func _still_dialogue_d20() -> void:
+	var roll_seed := await _seed_that_lands()
 	var d := await _talk()
 	if d == null:
 		return
-	for i in d.options_shown.size():
-		if str((d.options_shown[i] as Dictionary).get("text", "")).contains("festival"):
-			d.call("_choose", i)
-			break
+	_laugh(d, roll_seed)
 	await _wait(30)
 	_shot("dialogue_d20")
 
@@ -413,10 +450,11 @@ func _still_combat_battlefield() -> void:
 	_make_current(cleric)
 	_put(cleric, foes[0].cell - _ground_axes(cv.rig)[0])
 	cv.call("_refresh_all")
-	_frame([cleric, foes[0], foes[1]], 11.0)
+	var far := foes[foes.size() - 1]
+	_frame([cleric, far], 14.0)
 	await _wait(20)
 	_zone(cleric, "spirit_guardians", cleric.cell)
-	_zone(warlock, "hunger_of_hadar", foes[foes.size() - 1].cell)
+	_zone(warlock, "hunger_of_hadar", far.cell)
 	await _wait(60)
 	_shot("combat_battlefield")
 
@@ -520,16 +558,14 @@ func _clip_title() -> void:
 	await _record("title", 6.0)
 
 
-## The Vallaki gate: the watchman's lines, the options with their odds, and the d20 rolling for the Deception.
+## Blinsky's shop: the options with their odds, and the d20 rolling for the Performance.
 func _clip_dialogue() -> void:
+	var roll_seed := await _seed_that_lands()
 	var d := await _talk()
 	if d == null:
 		return
 	var n := await _record("dialogue", 2.5)
-	for i in d.options_shown.size():
-		if str((d.options_shown[i] as Dictionary).get("text", "")).contains("festival"):
-			d.call("_choose", i)
-			break
+	_laugh(d, roll_seed)
 	n = await _record("dialogue", 3.0, n)
 	d.call("_advance")
 	await _record("dialogue", 2.0, n)

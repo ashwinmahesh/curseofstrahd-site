@@ -34,9 +34,9 @@ EDIT = [
 	{"clip": "vallaki", "seconds": 3.0, "from": 1.0},
 	{"clip": "dialogue", "seconds": 3.5, "from": 1.5, "caption": "Talk your way in. Or out."},
 	{"still": "art/cutscenes/strahd_watcher_alone.jpg", "seconds": 2.5, "push": 1.12},
-	{"clip": "fight_smite", "seconds": 3.0, "cut": True, "caption": "Turn-based fights on the 2024 rules"},
+	{"clip": "fight_smite", "seconds": 3.0, "cut": True, "hud": True, "caption": "Turn-based fights on the 2024 rules"},
 	{"clip": "fight_fireball", "seconds": 3.5, "from": 0.3},
-	{"clip": "fight_odds", "seconds": 2.5, "caption": "See the odds before every roll"},
+	{"clip": "fight_odds", "seconds": 2.5, "hud": True, "caption": "See the odds before every roll"},
 	{"clip": "fight_blast", "seconds": 2.5, "from": 0.3},
 	{"clip": "fight_guardians", "seconds": 2.5, "from": 0.2},
 	{"clip": "krezk", "seconds": 3.5, "from": 0.5, "caption": "Six companions. Four at your side."},
@@ -97,14 +97,14 @@ def clip_frames(folder: Path, n: int, start: float) -> list:
 		else Image.open(f).convert("RGB") for f in picked]
 
 
-def caption(img: Image.Image, text: str, alpha: float) -> Image.Image:
+def caption(img: Image.Image, text: str, alpha: float, y: float = H - 190) -> Image.Image:
 	if alpha <= 0:
 		return img
 	layer = Image.new("RGBA", (W, H), (0, 0, 0, 0))
 	d = ImageDraw.Draw(layer)
 	f = font(58)
 	tw = d.textlength(text, font=f)
-	x, y = (W - tw) / 2, H - 190
+	x = (W - tw) / 2
 	# A soft dark band behind the words, then the words with a shadow.
 	band = Image.new("L", (W, H), 0)
 	ImageDraw.Draw(band).rectangle([0, y - 40, W, y + 110], fill=int(150 * alpha))
@@ -175,7 +175,8 @@ def main() -> None:
 			for i in range(n + over):
 				t = i / FPS
 				a = max(0.0, min(1.0, t / 0.5, (seg["seconds"] - t) / 0.5))
-				frames[i] = caption(frames[i], seg["caption"], a)
+				# Over the fight's interface the words sit under the turn order, clear of the hotbar.
+				frames[i] = caption(frames[i], seg["caption"], a, 215 if seg.get("hud") else H - 190)
 		if seg_i == 0:
 			# Up from black.
 			for i in range(min(20, n)):
@@ -200,7 +201,7 @@ def main() -> None:
 	poster_at = 0
 	for seg in EDIT:
 		if seg.get("clip") == "fight_fireball":
-			poster_at += round(1.2 * FPS)
+			poster_at += round(0.55 * FPS)
 			break
 		poster_at += round(seg["seconds"] * FPS)
 	Image.open(frames_dir / ("f%05d.jpg" % min(poster_at, written - 1))).save(SITE / "media/trailer-poster.jpg", quality=86)

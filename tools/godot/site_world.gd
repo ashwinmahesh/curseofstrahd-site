@@ -24,6 +24,18 @@ const STILLS := {
 	"castle_gates": {"loc": "castle_ravenloft_gates", "hour": 23, "weather": "storm", "at": [19, 29], "zoom": 15.0},
 	"road_castle": {"loc": "into_the_mists_road", "hour": 17, "weather": "overcast", "at": [12, 15], "zoom": 30.0,
 		"tilt": 1.0, "face": "castle"},
+	"gates_t0": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5},
+	"gates_t1": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
+		"turns": 1},
+	"gates_t2": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
+		"turns": 2},
+	"gates_t3": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
+		"turns": 3},
+	"village_dusk": {"loc": "village_of_barovia", "hour": 19, "zoom": 15.0},
+	"vallaki_noon": {"loc": "vallaki", "hour": 12, "weather": "overcast", "at": [20, 19], "zoom": 16.0},
+	"abbey_snow": {"loc": "abbey_of_st_markovia", "hour": 12, "weather": "snow", "zoom": 15.0},
+	"lake_dusk": {"loc": "lake_zarovich", "hour": 18, "weather": "overcast", "at": [16, 10], "zoom": 14.0},
+	"wizard_of_wines": {"loc": "wizard_of_wines", "hour": 17, "weather": "rain", "zoom": 15.0},
 }
 
 ## Each clip: a still's set-up, how many seconds it runs, where the party walks ("walk", a square), and the camera's

@@ -29,14 +29,16 @@ SHOTS = {
 	"village_night": "The Village of Barovia at night",
 	"vallaki_rain": "Rain over Vallaki at dusk",
 	"road_dusk": "The party on the misty road at dusk",
-	"castle_vista": "Castle Ravenloft on its crag",
+	"castle_vista": "The gates of Castle Ravenloft in a storm",
+	"vallaki_noon": "Vallaki's square on a festival day",
+	"lake_dusk": "Lake Zarovich at dusk",
 	"krezk_snow": "Snow in the walled village of Krezk",
 	"death_house": "Candlelight in a haunted house, its near walls cut away",
 	"tser_pool_night": "Firelight and water at the Vistani camp by night",
 	"combat_fireball": "A Fireball bursts among the foes",
 	"combat_odds": "Hover a foe for the chance to hit, the damage and any Advantage",
 	"combat_area": "An area spell shows who it will catch, and warns about an ally in the blast",
-	"combat_battlefield": "Fire spreading across spilled oil",
+	"combat_battlefield": "Spirit Guardians and Hunger of Hadar lingering on the field",
 	"combat_boss": "A boss fight, with its name plate and health bar",
 	"dialogue_check": "A skill check shows who will roll and their chance",
 	"dialogue_d20": "The d20 rolls with the DC and every bonus",
@@ -65,9 +67,9 @@ ART = {
 }
 
 # The gallery, in order (the first is shown large).
-GALLERY = ["village_night", "combat_fireball", "vallaki_rain", "dialogue_check", "castle_vista", "combat_odds",
-	"krezk_snow", "combat_area", "death_house", "tarokka", "tser_pool_night", "stealth_sight", "combat_battlefield",
-	"combat_boss", "party_roster", "character_sheet", "inventory", "travel_map", "skirmish", "road_dusk",
+GALLERY = ["combat_fireball", "village_night", "vallaki_rain", "dialogue_check", "castle_vista", "combat_odds",
+	"krezk_snow", "combat_area", "vallaki_noon", "death_house", "tarokka", "tser_pool_night", "stealth_sight", "combat_battlefield",
+	"combat_boss", "lake_dusk", "party_roster", "character_sheet", "inventory", "travel_map", "skirmish", "road_dusk",
 	"dialogue_d20", "title", "cutscene", "story_mists", "story_village", "story_palisade", "story_camp"]
 
 INK = (12, 6, 7)
