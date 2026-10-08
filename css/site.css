@@ -311,6 +311,7 @@ strong { color: var(--parchment); font-weight: 600; }
 .dl { border: 1px solid var(--gilt-dark); border-radius: var(--radius); padding: 30px 28px; text-align: center; background: rgba(18, 7, 9, 0.8); }
 .dl h3 { font-size: 1.5rem; }
 .dl p { color: var(--muted); }
+.dl .dl-how { font-size: 0.95rem; margin: 16px 0 0; text-align: left; }
 .reqs { max-width: 720px; margin: 48px auto 0; }
 .reqs h3 { text-align: center; }
 .reqs table { width: 100%; border-collapse: collapse; font-size: 1.05rem; }
