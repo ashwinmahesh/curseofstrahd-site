@@ -12,6 +12,7 @@
 - media/og.jpg (the link preview) and media/icon.png.
 """
 import argparse
+import hashlib
 import html
 import json
 import re
@@ -202,6 +203,10 @@ def main() -> None:
 	page = (SITE / "index.html").read_text()
 	page = replace_block(page, "gallery", gallery_html())
 	page = replace_block(page, "credits", credits_html(args.game))
+	# The stylesheet and script carry a hash of their contents, so a browser never keeps an old copy.
+	for rel in ("css/site.css", "js/site.js"):
+		digest = hashlib.sha1((SITE / rel).read_bytes()).hexdigest()[:8]
+		page = re.sub(r'%s\?v=[0-9a-z]+' % re.escape(rel), "%s?v=%s" % (rel, digest), page)
 	(SITE / "index.html").write_text(page)
 	og_image()
 	icon()
