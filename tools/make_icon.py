@@ -21,7 +21,8 @@ def main() -> None:
 	crop = art.crop((cx - side // 2, top, cx + side // 2, top + side)).resize((1024, 1024), Image.LANCZOS)
 	size = 1024
 	mask = Image.new("L", (size, size), 0)
-	ImageDraw.Draw(mask).rounded_rectangle([0, 0, size - 1, size - 1], radius=200, fill=255)
+	# The art stops at the gilt rim's outer edge, so none shows outside it at the corners.
+	ImageDraw.Draw(mask).rounded_rectangle([10, 10, size - 11, size - 11], radius=192, fill=255)
 	icon = Image.new("RGBA", (size, size), (0, 0, 0, 0))
 	icon.paste(crop, (0, 0), mask)
 	rim = Image.new("RGBA", (size, size), (0, 0, 0, 0))
