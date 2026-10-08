@@ -57,7 +57,8 @@ python3 tools/make_trailer.py
 
 `--only a,b` on a capture runs only those shots. Raw captures and trailer frames go to `build/`, which git ignores.
 
-## Putting it online
+## Online
 
-Any static host works: GitHub Pages, Netlify, Cloudflare Pages, or an itch.io page for the game. The trailer is the
-only large file (about 65 MB). Before it goes public, read the note on the download in the vault's *Showcase Plan*.
+The site is served by GitHub Pages from this repo's `main` branch at https://curseofstrahd.app (the `CNAME` file holds
+the domain; `.nojekyll` serves the files as they are). Pushing to `main` publishes. The download section stays
+"coming soon" until the download question in the vault's *Showcase Plan* is settled.
