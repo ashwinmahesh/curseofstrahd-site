@@ -1,0 +1,735 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Curse of Strahd: an unofficial fan game</title>
+<meta name="description" content="The whole Curse of Strahd campaign as a single-player, turn-based tactical RPG on the 2024 D&amp;D rules. Lead a party of four through Barovia, from the misty road in to Castle Ravenloft. An unofficial fan game.">
+<meta name="theme-color" content="#120709">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Curse of Strahd: an unofficial fan game">
+<meta property="og:description" content="The whole campaign as a turn-based tactical RPG on the 2024 rules. Six voiced companions, 86 places, five endings.">
+<meta property="og:image" content="media/og.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="media/icon.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/site.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to the content</a>
+
+<header class="nav" id="nav">
+  <a class="nav-brand" href="#top" aria-label="Curse of Strahd, back to the top">
+    <span class="nav-mark" aria-hidden="true">✠</span><span>Curse of Strahd</span>
+  </a>
+  <button class="nav-toggle" id="nav-toggle" aria-expanded="false" aria-controls="nav-links">
+    <span class="sr">Menu</span><span aria-hidden="true">☰</span>
+  </button>
+  <nav class="nav-links" id="nav-links" aria-label="Sections">
+    <a href="#trailer">Trailer</a>
+    <a href="#features">Features</a>
+    <a href="#companions">Companions</a>
+    <a href="#gallery">Gallery</a>
+    <a href="#faq">FAQ</a>
+    <a class="nav-cta" href="#download">Download</a>
+  </nav>
+</header>
+
+<main id="main">
+
+<!-- Banner -->
+<section class="hero" id="top">
+  <div class="hero-art" aria-hidden="true"><img src="media/shots/hero.webp" alt="" fetchpriority="high"></div>
+  <div class="hero-mist" aria-hidden="true"></div>
+  <div class="hero-inner">
+    <p class="kicker">An unofficial fan game · Turn-based tactical RPG</p>
+    <h1 class="hero-title">Curse <span>of</span> Strahd</h1>
+    <p class="hero-tag">Barovia has no way out. Only through.</p>
+    <p class="hero-lede">The whole <em>Curse of Strahd</em> campaign as a single-player tactical RPG on the 2024 D&amp;D
+      rules. Lead a party of four through a valley under a vampire's rule, from the misty road in to the gates of
+      Castle Ravenloft.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#trailer"><span aria-hidden="true">▶</span> Watch the trailer</a>
+      <a class="btn" href="#download">Download</a>
+    </div>
+    <p class="hero-meta">Single player · macOS · Free</p>
+  </div>
+  <a class="hero-down" href="#trailer" aria-label="Scroll to the trailer"><span aria-hidden="true">⌄</span></a>
+</section>
+
+<!-- Trailer -->
+<section class="section trailer" id="trailer">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Gameplay trailer</p>
+      <h2>Step into the mists</h2>
+    </header>
+    <figure class="frame video-frame">
+      <video id="trailer-video" controls preload="metadata" playsinline poster="media/trailer-poster.jpg">
+        <source src="media/trailer.mp4" type="video/mp4">
+        Your browser can't play this video. <a href="media/trailer.mp4">Download the trailer</a>.
+      </video>
+    </figure>
+    <p class="caption">Recorded in the game. Music: "Final Boss Appearance Dark Fantasy" by ISAo (OGA-BY 3.0).</p>
+  </div>
+</section>
+
+<!-- What it is -->
+<section class="section about" id="about">
+  <div class="wrap about-grid">
+    <div class="about-text">
+      <p class="eyebrow">What it is</p>
+      <h2>A gothic campaign, played the way the rules were written</h2>
+      <p class="drop">The mists swallow the road behind you, and the land ahead belongs to Strahd von Zarovich.
+        <strong>Curse of Strahd</strong> plays the classic gothic-horror campaign from start to finish. Walk Barovia's
+        villages, haunted houses and mountain roads in a lit 3D world, talk your way through voiced conversations that
+        roll real skill checks, and fight turn-based battles on a 5-foot grid wherever trouble finds you.</p>
+      <p>It's built on the 2024 rules and keeps to them closely. Every class, spell and feat does what its text says,
+        and every number on screen can show you where it came from. If you've played <em>Baldur's Gate 3</em>,
+        you'll feel at home. If you've played D&amp;D at a table, you'll recognise every roll.</p>
+      <p>You control the whole party, in and out of combat. There's no auto-battle and no AI deciding for your
+        friends: every swing, spell and silver-tongued lie is yours.</p>
+    </div>
+    <dl class="stats" aria-label="The game in numbers">
+      <div><dt>86</dt><dd>places across 19 regions of Barovia</dd></div>
+      <div><dt>6</dt><dd>voiced companions, four in the party at a time</dd></div>
+      <div><dt>12</dt><dd>classes and 69 subclasses, to level 11</dd></div>
+      <div><dt>443</dt><dd>spells, each doing everything its text says</dd></div>
+      <div><dt>125</dt><dd>monsters, and over 540 magic items to find</dd></div>
+      <div><dt>5</dt><dd>endings, and a Tarokka reading that changes every run</dd></div>
+    </dl>
+  </div>
+</section>
+
+<!-- Pillars -->
+<section class="section pillars" id="features">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Features</p>
+      <h2>What to expect</h2>
+    </header>
+    <div class="pillar-grid">
+      <article class="pillar">
+        <img src="media/shots/road_dusk.webp" alt="The party on the misty road at dusk" loading="lazy">
+        <div class="pillar-body">
+          <h3>The whole campaign</h3>
+          <p>From the road where the mists close in to Castle Ravenloft. After the opening chapters the valley opens
+            up: take its regions in any order, with a level milestone in each, and draw more of Strahd's attention
+            the more you defy him.</p>
+        </div>
+      </article>
+      <article class="pillar">
+        <img src="media/shots/combat_odds.webp" alt="Hovering a foe shows the chance to hit and the damage" loading="lazy">
+        <div class="pillar-body">
+          <h3>The 2024 rules, done properly</h3>
+          <p>Twelve classes and 69 subclasses, 443 spells and 147 feats. Every spell and ability does all its text
+            says, secondary effects included, and any number will show its working when you hover it.</p>
+        </div>
+      </article>
+      <article class="pillar">
+        <img src="media/shots/party_roster.webp" alt="Choosing four of the six companions for a new game" loading="lazy">
+        <div class="pillar-body">
+          <h3>A party of your own</h3>
+          <p>Six companions with their own voices, quests and opinions of you. Take four at a time and command every
+            one of them, or make your own hero to stand in for one.</p>
+        </div>
+      </article>
+      <article class="pillar">
+        <img src="media/shots/tarokka.webp" alt="Madam Eva lays out the Tarokka cards" loading="lazy">
+        <div class="pillar-body">
+          <h3>The cards decide</h3>
+          <p>Madam Eva's Tarokka reading is drawn once per playthrough. It moves the treasures you'll need, the ally
+            fated to stand with you, and the place your last battle will be fought.</p>
+        </div>
+      </article>
+      <article class="pillar">
+        <img src="media/shots/stealth_sight.webp" alt="Sneaking past guards whose sight is shown on the floor" loading="lazy">
+        <div class="pillar-body">
+          <h3>A world that notices</h3>
+          <p>Slip past sight cones or strike with Surprise. Pick pockets, but mind the watch. Townsfolk keep their
+            hours, the weather rolls in, and choices made in one village are remembered in the next.</p>
+        </div>
+      </article>
+      <article class="pillar">
+        <img src="media/shots/village_night.webp" alt="The Village of Barovia at night, lit windows and mist" loading="lazy">
+        <div class="pillar-body">
+          <h3>Gothic, voiced, alive</h3>
+          <p>Hand-drawn characters in a lit 3D world, a Narrator with a dry remark for every occasion, and thousands
+            of voiced lines with Barovia's accents intact.</p>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Deep dive: combat -->
+<section class="section dive" id="combat">
+  <div class="wrap dive-grid">
+    <div class="dive-media" data-switcher>
+      <figure class="frame dive-main"><img src="media/shots/combat_fireball.webp" alt="A Fireball bursts among a pack of foes" loading="lazy"></figure>
+      <div class="thumbs" role="list">
+        <button role="listitem" class="thumb is-on" data-src="media/shots/combat_fireball.webp" data-alt="A Fireball bursts among a pack of foes"><img src="media/thumbs/combat_fireball.webp" alt="" loading="lazy"><span class="sr">Fireball</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/combat_area.webp" data-alt="An area spell shows who it will catch and warns about an ally in the blast"><img src="media/thumbs/combat_area.webp" alt="" loading="lazy"><span class="sr">Area targeting</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/combat_battlefield.webp" data-alt="Fire spreading across spilled oil in a fight"><img src="media/thumbs/combat_battlefield.webp" alt="" loading="lazy"><span class="sr">The battlefield</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/combat_boss.webp" data-alt="A boss fight with the boss's name plate and health bar"><img src="media/thumbs/combat_boss.webp" alt="" loading="lazy"><span class="sr">A boss fight</span></button>
+      </div>
+    </div>
+    <div class="dive-text">
+      <p class="eyebrow">Combat</p>
+      <h2>Every fight is a puzzle you can read</h2>
+      <p>Fights start right where you stand, on the same grid you explore. No separate battle screen, no waiting for
+        a transition: someone rolls Initiative and the board is yours.</p>
+      <ul class="ticks">
+        <li><strong>Know the odds before you act.</strong> Hover a foe for your chance to hit and the damage, with
+          Advantage and its reasons. Area spells show who they'll catch, each target's chance to fail the save, and
+          warn you before you catch a friend.</li>
+        <li><strong>The full 2024 toolkit.</strong> Weapon Mastery, Heroic Inspiration, Concentration, opportunity
+          attacks, cover, death saves, summons, mounts, legendary and lair actions.</li>
+        <li><strong>Use the ground.</strong> Climb to high ground, shove foes off ledges, fly out of reach, shoot
+          down a chandelier, light the oil and burn the webs.</li>
+        <li><strong>Your call, always.</strong> Every reaction asks first unless you set a rule for it. Undo a move
+          that came to nothing. A save at the start of every round.</li>
+        <li><strong>Spare or capture.</strong> Knock a foe out instead of killing it, and break a band's nerve until
+          it surrenders.</li>
+        <li><strong>Foes that think.</strong> The enemy AI weighs every move by the damage it expects, with nine
+          behaviour profiles, and a vampire lord with a mind of his own.</li>
+        <li><strong>A log that shows its working.</strong> Click any line to see the roll and every bonus behind it.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Deep dive: exploring -->
+<section class="section dive dive-flip" id="exploring">
+  <div class="wrap dive-grid">
+    <div class="dive-media" data-switcher>
+      <figure class="frame dive-main"><img src="media/shots/vallaki_rain.webp" alt="Rain over the walled town of Vallaki at dusk" loading="lazy"></figure>
+      <div class="thumbs" role="list">
+        <button role="listitem" class="thumb is-on" data-src="media/shots/vallaki_rain.webp" data-alt="Rain over the walled town of Vallaki at dusk"><img src="media/thumbs/vallaki_rain.webp" alt="" loading="lazy"><span class="sr">Vallaki</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/krezk_snow.webp" data-alt="Snow in the walled village of Krezk"><img src="media/thumbs/krezk_snow.webp" alt="" loading="lazy"><span class="sr">Krezk</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/death_house.webp" data-alt="Candlelight in a haunted house, its near walls cut away"><img src="media/thumbs/death_house.webp" alt="" loading="lazy"><span class="sr">A haunted house</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/travel_map.webp" data-alt="The travel map of Barovia with road times and the hour"><img src="media/thumbs/travel_map.webp" alt="" loading="lazy"><span class="sr">The travel map</span></button>
+      </div>
+    </div>
+    <div class="dive-text">
+      <p class="eyebrow">Exploring Barovia</p>
+      <h2>A valley you can get lost in</h2>
+      <p>Villages and a walled town, a winery, ruined abbeys, haunted towers, mountain passes, and the castle above
+        it all: 86 places across 19 regions, each with its own weather, music and mood.</p>
+      <ul class="ticks">
+        <li><strong>Right-click anything.</strong> People, doors, chests and bodies all list what you can do with
+          them. Locks to pick, traps a sharp eye might spot, and secrets that only a careful Search will find.</li>
+        <li><strong>Sneak, plan, strike.</strong> See exactly who would spot you before you step, switch to
+          turn-based exploring to set up an ambush, or split the party.</li>
+        <li><strong>Day, night and the road.</strong> A travel map with road times and a clock. Travel after dark if
+          you must; the roads get worse at night.</li>
+        <li><strong>A living valley.</strong> Townsfolk keep schedules, shops keep hours, and seeded weather brings
+          fog, rain and snow that lengthen journeys and hide foes.</li>
+        <li><strong>Crime has consequences.</strong> Pick a pocket or rifle a private chest, and the town watch may
+          have words.</li>
+        <li><strong>Gold worth spending.</strong> Merchants whose prices follow their mood (haggle with Persuasion),
+          temple services, inn rooms, and a party stash.</li>
+        <li><strong>A journal that keeps up.</strong> Quests, a codex of the books you find, and a bestiary of what
+          you've learned about each creature.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Deep dive: conversations -->
+<section class="section dive" id="conversations">
+  <div class="wrap dive-grid">
+    <div class="dive-media" data-switcher>
+      <figure class="frame dive-main"><img src="media/shots/dialogue_check.webp" alt="A conversation with a Persuasion check showing who rolls and their chance" loading="lazy"></figure>
+      <div class="thumbs" role="list">
+        <button role="listitem" class="thumb is-on" data-src="media/shots/dialogue_check.webp" data-alt="A conversation with a Persuasion check showing who rolls and their chance"><img src="media/thumbs/dialogue_check.webp" alt="" loading="lazy"><span class="sr">A skill check</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/dialogue_d20.webp" data-alt="The d20 rolling for a check, with the DC and every bonus"><img src="media/thumbs/dialogue_d20.webp" alt="" loading="lazy"><span class="sr">The d20</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/cutscene.webp" data-alt="A painted storybook still"><img src="media/thumbs/cutscene.webp" alt="" loading="lazy"><span class="sr">A storybook still</span></button>
+      </div>
+    </div>
+    <div class="dive-text">
+      <p class="eyebrow">Conversations</p>
+      <h2>Talk your way in. Or out.</h2>
+      <p>Barovians are wary, grieving and occasionally very funny. Conversations branch, remember what you've asked,
+        and roll real checks.</p>
+      <ul class="ticks">
+        <li><strong>See the odds first.</strong> Before you pick a Persuasion, Deception or Insight option, the game
+          shows who will roll and their chance. Then the d20 tumbles on screen with the DC and every bonus.</li>
+        <li><strong>Choose who speaks.</strong> Put your silver tongue forward for the Persuasion check and your
+          scholar for the History.</li>
+        <li><strong>Lies stick.</strong> A failed bluff can't be tried again, and sometimes it costs you.</li>
+        <li><strong>Fully voiced.</strong> A Narrator in the tradition of <em>Baldur's Gate 3</em>, Barovians and the
+          Vistani in Eastern European accents, outsiders in their own, and your party chiming in.</li>
+        <li><strong>Storybook moments.</strong> Painted full-screen stills for the scenes the board can't show.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Companions -->
+<section class="section companions" id="companions">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Your party</p>
+      <h2>Six strangers, one valley</h2>
+      <p class="sec-lede">Each was drawn to Barovia by their own errand. Take four at a time, swap them outside a fight,
+        and watch what they make of your choices: approval opens their best endings, camp talks and romances.</p>
+    </header>
+    <div class="comp-grid" id="comp-grid">
+      <button class="comp is-on" data-id="godrick" aria-pressed="true">
+        <img src="media/companions/godrick_pendlebrook.webp" alt="" loading="lazy">
+        <span class="comp-name">Sir Godrick</span><span class="comp-class">Goliath Paladin</span>
+      </button>
+      <button class="comp" data-id="liriel" aria-pressed="false">
+        <img src="media/companions/liriel_dawnsong.webp" alt="" loading="lazy">
+        <span class="comp-name">Liriel</span><span class="comp-class">High Elf Cleric</span>
+      </button>
+      <button class="comp" data-id="thistle" aria-pressed="false">
+        <img src="media/companions/thistle.webp" alt="" loading="lazy">
+        <span class="comp-name">Thistle</span><span class="comp-class">Human Ranger</span>
+      </button>
+      <button class="comp" data-id="ratatoille" aria-pressed="false">
+        <img src="media/companions/ratatoille.webp" alt="" loading="lazy">
+        <span class="comp-name">Ratatoille</span><span class="comp-class">High Elf Wizard</span>
+      </button>
+      <button class="comp" data-id="wren" aria-pressed="false">
+        <img src="media/companions/wren_featherfoot.webp" alt="" loading="lazy">
+        <span class="comp-name">Wren</span><span class="comp-class">Halfling Monk</span>
+      </button>
+      <button class="comp" data-id="kip" aria-pressed="false">
+        <img src="media/companions/kip_smudgewick.webp" alt="" loading="lazy">
+        <span class="comp-name">Kip</span><span class="comp-class">Tiefling Warlock</span>
+      </button>
+    </div>
+    <div class="comp-detail" id="comp-detail" aria-live="polite">
+      <article data-id="godrick">
+        <h3>Sir Godrick Pendlebrook</h3>
+        <p class="comp-sub">Goliath Paladin · Oath of Devotion · Noble</p>
+        <p>A shield, a longsword and a smile that has talked him out of more trouble than his head has. He swore at an
+          old knight's deathbed to carry his sword to an order of knights somewhere in a land of mists, and be knighted
+          there. He has practised kneeling.</p>
+      </article>
+      <article data-id="liriel" hidden>
+        <h3>Liriel Dawnsong</h3>
+        <p class="comp-sub">High Elf Cleric · Light Domain · Acolyte</p>
+        <p>Radiant fire, healing hands and a faith that has never once been asked to bend. On the morning of her vows
+          she was shown a valley where the sun hadn't risen in four hundred years, and told to carry the dawn there.
+          She has never doubted a vision in her life.</p>
+      </article>
+      <article data-id="thistle" hidden>
+        <h3>Thistle</h3>
+        <p class="comp-sub">Human Ranger · Hunter · Guide</p>
+        <p>A longbow, a loud laugh and no idea what a fork is for. The old trapper who raised her in the deep woods
+          followed a wolf the size of a pony into a wall of fog and didn't come back. She's followed his trail blazes
+          ever since, and they lead here.</p>
+      </article>
+      <article data-id="ratatoille" hidden>
+        <h3>Ratatoille</h3>
+        <p class="comp-sub">High Elf Wizard · Diviner · Artisan</p>
+        <p>A spellbook, a skillet and an urgent need to be taken seriously. Nobody sat with him at the academy until he
+          learned to throw fire. Then he heard of a great Wizard of Wines beyond the mists, a master of magic and the
+          table both, and set out to become his apprentice.</p>
+      </article>
+      <article data-id="wren" hidden>
+        <h3>Wren Featherfoot</h3>
+        <p class="comp-sub">Halfling Monk · Warrior of the Open Hand · Entertainer</p>
+        <p>Fast hands, faster feet and the last word in every argument. His old master, an elf who never spoke of where
+          he came from, died last winter and left Wren one errand: a letter for a brother, in the valley where the sun
+          doesn't rise.</p>
+      </article>
+      <article data-id="kip" hidden>
+        <h3>Kip Smudgewick</h3>
+        <p class="comp-sub">Tiefling Warlock · Fiend Patron · Merchant</p>
+        <p>Eldritch fire, a cart of apricots and a contract he reads every night by candlelight. When the blight took
+          his family's orchard he signed a devil's contract to save it. The devil has offered one way out: a signature
+          from the lord of a land of mists. The apricots never rot now.</p>
+      </article>
+    </div>
+    <div class="party-notes">
+      <div>
+        <h3>Or bring your own</h3>
+        <p>Make a hero in a full appearance creator (body, height, head, hair, beard, skin, outfit, portrait and voice)
+          and build them step by step: class, origin, ability scores and gear, with recommendations at every step
+          and a check on what the party is missing.</p>
+      </div>
+      <div>
+        <h3>Command everyone</h3>
+        <p>Every companion and every story guest who joins the party takes your orders, in and out of a fight. The AI
+          only runs your enemies.</p>
+      </div>
+      <div>
+        <h3>Grow them your way</h3>
+        <p>Level up with every 2024 choice, recommended picks if you want them, and a respec if you change your mind.
+          A character sheet in the style of <em>Baldur's Gate 3</em>, and an inventory with a paper doll, weapon sets
+          and quick slots.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Deep dive: look and sound -->
+<section class="section dive dive-flip" id="look">
+  <div class="wrap dive-grid">
+    <div class="dive-media" data-switcher>
+      <figure class="frame dive-main"><img src="media/shots/castle_vista.webp" alt="Castle Ravenloft on its crag above the valley" loading="lazy"></figure>
+      <div class="thumbs" role="list">
+        <button role="listitem" class="thumb is-on" data-src="media/shots/castle_vista.webp" data-alt="Castle Ravenloft on its crag above the valley"><img src="media/thumbs/castle_vista.webp" alt="" loading="lazy"><span class="sr">Castle Ravenloft</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/tser_pool_night.webp" data-alt="Firelight and water at the Vistani camp by night"><img src="media/thumbs/tser_pool_night.webp" alt="" loading="lazy"><span class="sr">Tser Pool</span></button>
+        <button role="listitem" class="thumb" data-src="media/shots/title.webp" data-alt="The animated title screen"><img src="media/thumbs/title.webp" alt="" loading="lazy"><span class="sr">The title screen</span></button>
+      </div>
+    </div>
+    <div class="dive-text">
+      <p class="eyebrow">The look and sound</p>
+      <h2>Hand-drawn heroes in a candlelit world</h2>
+      <p>Characters are 2D illustrations that walk and fight in eight directions. The world around them is 3D,
+        lit like a diorama: think <em>Octopath Traveler</em>, pushed gothic.</p>
+      <ul class="ticks">
+        <li><strong>Light that shapes the scene.</strong> Lanterns, hearths and spells cast soft shadows, and the
+          characters catch the torchlight and the lightning.</li>
+        <li><strong>Weather you can see.</strong> Rain wets the cobbles and pools in puddles, snow settles, and
+          footprints follow you through the mud.</li>
+        <li><strong>A real horizon.</strong> Castle Ravenloft on its crag, the mountains and Lake Zarovich past the
+          edge of the map.</li>
+        <li><strong>Spells with weight.</strong> 3D effects for every spell and ability, a freeze on heavy hits, a
+          push-in on critical hits, slow motion on the last foe.</li>
+        <li><strong>A soundtrack that follows you.</strong> Nearly 70 tracks for its places and moods, music that
+          rises with the fight, footsteps by floor, and foes who scream, taunt and beg.</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Modes and extras -->
+<section class="section modes" id="modes">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Modes and extras</p>
+      <h2>Play it your way</h2>
+    </header>
+    <div class="mode-grid">
+      <article class="mode">
+        <h3>Four difficulties</h3>
+        <p><strong>Story</strong> for the tale, <strong>Balanced</strong> for the table experience,
+          <strong>Tactician</strong> for sharper foes, and <strong>Honour</strong>: one save, no reloads, and a wipe
+          ends the run.</p>
+      </article>
+      <article class="mode">
+        <h3>Skirmish and Character Lab</h3>
+        <p>Build a party of up to four at any level from 1 to 20, pick foes from every stat block and a map, see how
+          deadly it's rated, and fight. Save the setup, or place the monsters yourself in the encounter editor.</p>
+      </article>
+      <article class="mode">
+        <h3>Achievements and run stats</h3>
+        <p>Twenty-one achievements, from your first critical hit to every ending, and a tally of kills, crits,
+          natural 1s and gold when the story ends.</p>
+      </article>
+      <article class="mode">
+        <h3>Saves that look after you</h3>
+        <p>Quicksave and quickload, five rotating autosaves, pictures and notes on every save, a jump-in save at
+          the start of each chapter, and a "Previously in Barovia" recap when you return.</p>
+      </article>
+      <article class="mode">
+        <h3>Settings that fit you</h3>
+        <p>Rebindable keys, text size and interface scale, graphics presets, fight speed, narration and depth blur.
+          Rules words open their definitions wherever they appear.</p>
+      </article>
+      <article class="mode">
+        <h3>Every run different</h3>
+        <p>The Tarokka reading, the treasure and the dice are fresh for each playthrough, and five endings wait at
+          the end of the road.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- Gallery -->
+<section class="section gallery" id="gallery">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Gallery</p>
+      <h2>Screenshots</h2>
+      <p class="sec-lede">All taken in the game. Select one to see it full size.</p>
+    </header>
+    <div class="gal-grid" id="gal-grid">
+      <!-- gallery:start -->
+      <button data-full="media/shots/village_night.webp" data-caption="The Village of Barovia at night"><img src="media/thumbs/village_night.webp" alt="The Village of Barovia at night" loading="lazy"></button>
+      <button data-full="media/shots/combat_fireball.webp" data-caption="A Fireball bursts among the foes"><img src="media/thumbs/combat_fireball.webp" alt="A Fireball bursts among the foes" loading="lazy"></button>
+      <button data-full="media/shots/vallaki_rain.webp" data-caption="Rain over Vallaki at dusk"><img src="media/thumbs/vallaki_rain.webp" alt="Rain over Vallaki at dusk" loading="lazy"></button>
+      <button data-full="media/shots/dialogue_check.webp" data-caption="A skill check shows who will roll and their chance"><img src="media/thumbs/dialogue_check.webp" alt="A skill check shows who will roll and their chance" loading="lazy"></button>
+      <button data-full="media/shots/castle_vista.webp" data-caption="Castle Ravenloft on its crag"><img src="media/thumbs/castle_vista.webp" alt="Castle Ravenloft on its crag" loading="lazy"></button>
+      <button data-full="media/shots/combat_odds.webp" data-caption="Hover a foe for the chance to hit, the damage and any Advantage"><img src="media/thumbs/combat_odds.webp" alt="Hover a foe for the chance to hit, the damage and any Advantage" loading="lazy"></button>
+      <button data-full="media/shots/krezk_snow.webp" data-caption="Snow in the walled village of Krezk"><img src="media/thumbs/krezk_snow.webp" alt="Snow in the walled village of Krezk" loading="lazy"></button>
+      <button data-full="media/shots/combat_area.webp" data-caption="An area spell shows who it will catch, and warns about an ally in the blast"><img src="media/thumbs/combat_area.webp" alt="An area spell shows who it will catch, and warns about an ally in the blast" loading="lazy"></button>
+      <button data-full="media/shots/death_house.webp" data-caption="Candlelight in a haunted house, its near walls cut away"><img src="media/thumbs/death_house.webp" alt="Candlelight in a haunted house, its near walls cut away" loading="lazy"></button>
+      <button data-full="media/shots/tarokka.webp" data-caption="Madam Eva lays out the Tarokka cards"><img src="media/thumbs/tarokka.webp" alt="Madam Eva lays out the Tarokka cards" loading="lazy"></button>
+      <button data-full="media/shots/tser_pool_night.webp" data-caption="Firelight and water at the Vistani camp by night"><img src="media/thumbs/tser_pool_night.webp" alt="Firelight and water at the Vistani camp by night" loading="lazy"></button>
+      <button data-full="media/shots/stealth_sight.webp" data-caption="Sneaking: the ground each guard can see"><img src="media/thumbs/stealth_sight.webp" alt="Sneaking: the ground each guard can see" loading="lazy"></button>
+      <button data-full="media/shots/combat_battlefield.webp" data-caption="Fire spreading across spilled oil"><img src="media/thumbs/combat_battlefield.webp" alt="Fire spreading across spilled oil" loading="lazy"></button>
+      <button data-full="media/shots/combat_boss.webp" data-caption="A boss fight, with its name plate and health bar"><img src="media/thumbs/combat_boss.webp" alt="A boss fight, with its name plate and health bar" loading="lazy"></button>
+      <button data-full="media/shots/party_roster.webp" data-caption="Choosing four of the six companions"><img src="media/thumbs/party_roster.webp" alt="Choosing four of the six companions" loading="lazy"></button>
+      <button data-full="media/shots/character_sheet.webp" data-caption="The character sheet, with a number&#x27;s breakdown"><img src="media/thumbs/character_sheet.webp" alt="The character sheet, with a number&#x27;s breakdown" loading="lazy"></button>
+      <button data-full="media/shots/inventory.webp" data-caption="The inventory&#x27;s paper doll"><img src="media/thumbs/inventory.webp" alt="The inventory&#x27;s paper doll" loading="lazy"></button>
+      <button data-full="media/shots/travel_map.webp" data-caption="The travel map of Barovia"><img src="media/thumbs/travel_map.webp" alt="The travel map of Barovia" loading="lazy"></button>
+      <button data-full="media/shots/skirmish.webp" data-caption="Skirmish and the Character Lab"><img src="media/thumbs/skirmish.webp" alt="Skirmish and the Character Lab" loading="lazy"></button>
+      <button data-full="media/shots/road_dusk.webp" data-caption="The party on the misty road at dusk"><img src="media/thumbs/road_dusk.webp" alt="The party on the misty road at dusk" loading="lazy"></button>
+      <button data-full="media/shots/dialogue_d20.webp" data-caption="The d20 rolls with the DC and every bonus"><img src="media/thumbs/dialogue_d20.webp" alt="The d20 rolls with the DC and every bonus" loading="lazy"></button>
+      <button data-full="media/shots/title.webp" data-caption="The animated title screen"><img src="media/thumbs/title.webp" alt="The animated title screen" loading="lazy"></button>
+      <!-- gallery:end -->
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section class="section faq" id="faq">
+  <div class="wrap wrap-narrow">
+    <header class="sec-head">
+      <p class="eyebrow">FAQ</p>
+      <h2>Questions, answered</h2>
+    </header>
+    <div class="faq-list">
+      <details>
+        <summary>What is this, exactly?</summary>
+        <p>A single-player, turn-based tactical RPG that plays the whole <em>Curse of Strahd</em> campaign on the
+          2024 D&amp;D rules. You lead a party of four through Barovia, explore it in a 3D world, talk to its people in
+          voiced conversations, and fight turn-based battles on a 5-foot grid.</p>
+      </details>
+      <details>
+        <summary>Is it official?</summary>
+        <p>No. It's an unofficial fan project made by one fan, and it isn't approved or endorsed by Wizards of the
+          Coast. <em>Curse of Strahd</em>, <em>Dungeons &amp; Dragons</em> and Ravenloft belong to Wizards of the
+          Coast.</p>
+      </details>
+      <details>
+        <summary>Do I need to know D&amp;D to play?</summary>
+        <p>No. The game shows your odds before every attack, spell and skill check, rules words open their
+          definitions when you hover them, and character creation recommends a choice at every step. Story difficulty
+          is there if you just want the tale. If you do know the rules, everything works the way you'd expect.</p>
+      </details>
+      <details>
+        <summary>Do I need the books?</summary>
+        <p>No. Everything you need is in the game.</p>
+      </details>
+      <details>
+        <summary>Is it like Baldur's Gate 3?</summary>
+        <p>In the ways that matter for play, yes: turn-based fights, control of the whole party, the same edition of
+          the rules, a Narrator, approval and romance. It's a smaller production with a different look: illustrated
+          2D characters in a lit 3D world, seen from above.</p>
+      </details>
+      <details>
+        <summary>I'm about to play Curse of Strahd at a table. Will this spoil it?</summary>
+        <p>Yes. It follows the published campaign closely, so if you're a player in someone's game, wait until your
+          campaign is over. If you're the DM, it's a fine way to see the valley come alive.</p>
+      </details>
+      <details>
+        <summary>Can I make my own character?</summary>
+        <p>Yes. One custom hero can take a companion's place, with a full appearance creator and step-by-step
+          creation. In Skirmish and the Character Lab you can build any party you like, at any level from 1 to 20.</p>
+      </details>
+      <details>
+        <summary>Is there multiplayer?</summary>
+        <p>No, it's single player. You control every member of the party.</p>
+      </details>
+      <details>
+        <summary>How replayable is it?</summary>
+        <p>Very. The Tarokka reading reshuffles where the treasures are, who your ally is and where the last battle
+          happens. There are five endings, four difficulties, six companions to mix and match, and Skirmish for fights
+          on your own terms.</p>
+      </details>
+      <details>
+        <summary>Can my heroes die?</summary>
+        <p>Yes, for good, if the dice and your choices go badly. There are ways back from death for those who can pay.
+          Honour mode keeps a single save, so every loss stands.</p>
+      </details>
+      <details>
+        <summary>Which platforms does it run on?</summary>
+        <p>It's made and tested on macOS with Apple silicon. A Windows build is planned. See
+          <a href="#download">Download</a> for what you'll need.</p>
+      </details>
+      <details>
+        <summary>Can I use a controller?</summary>
+        <p>In fights, yes, with a radial menu for actions. Keyboard and mouse is the recommended way to play, and
+          every key can be rebound.</p>
+      </details>
+      <details>
+        <summary>How much does it cost?</summary>
+        <p>Nothing. It's free.</p>
+      </details>
+      <details>
+        <summary>What kind of content is in it?</summary>
+        <p>Gothic horror: vampires, werewolves, the undead, curses, violence, blood and death, and some dark
+          themes. It's frightening more than gory.</p>
+      </details>
+      <details>
+        <summary>How was it made?</summary>
+        <p>It's built in the Godot engine. The characters, portraits and much of the art were drawn with Google's
+          Gemini image model and finished in Blender; the voices were made with ElevenLabs; the music and sound effects
+          are recordings under free licences, credited below.</p>
+      </details>
+    </div>
+  </div>
+</section>
+
+<!-- Download -->
+<section class="section download" id="download">
+  <div class="wrap">
+    <header class="sec-head">
+      <p class="eyebrow">Download</p>
+      <h2>Coming soon</h2>
+      <p class="sec-lede">The game isn't available to download yet. This is where it will be.</p>
+    </header>
+    <div class="dl-grid">
+      <article class="dl">
+        <h3>macOS</h3>
+        <p>For Macs with Apple silicon.</p>
+        <a class="btn btn-primary is-disabled" href="#download" aria-disabled="true" data-download="mac">Coming soon</a>
+      </article>
+      <article class="dl">
+        <h3>Windows</h3>
+        <p>For Windows 10 and 11, 64-bit.</p>
+        <a class="btn btn-primary is-disabled" href="#download" aria-disabled="true" data-download="windows">Coming soon</a>
+      </article>
+    </div>
+    <div class="reqs">
+      <h3>What you'll need</h3>
+      <table>
+        <tbody>
+          <tr><th scope="row">macOS</th><td>A Mac with Apple silicon (M1 or later)</td></tr>
+          <tr><th scope="row">Windows</th><td>A 64-bit PC with a graphics card that supports Vulkan or Direct3D 12</td></tr>
+          <tr><th scope="row">Storage</th><td>To be confirmed with the first build</td></tr>
+          <tr><th scope="row">Input</th><td>Keyboard and mouse; a controller works in fights</td></tr>
+          <tr><th scope="row">Screen</th><td>1600 × 900 or larger recommended</td></tr>
+        </tbody>
+      </table>
+      <p class="fine">Requirements are provisional until the first build is published.</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- Credits and legal -->
+<footer class="footer" id="credits">
+  <div class="wrap">
+    <div class="foot-top">
+      <a class="nav-brand" href="#top"><span class="nav-mark" aria-hidden="true">✠</span><span>Curse of Strahd</span></a>
+      <p class="foot-tag">An unofficial fan game.</p>
+    </div>
+    <div class="legal">
+      <p><strong>Unofficial fan content.</strong> This game and site are not approved or endorsed by Wizards of the
+        Coast. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+        <em>Dungeons &amp; Dragons</em>, <em>D&amp;D</em>, <em>Curse of Strahd</em> and <em>Ravenloft</em> are
+        trademarks of Wizards of the Coast LLC.</p>
+    </div>
+    <details class="credits">
+      <summary>Credits</summary>
+      <div class="credits-body">
+        <!-- credits:start -->
+        <h4>Rules</h4>
+        <p>This work includes material from the System Reference Document 5.2.1 (&quot;SRD 5.2.1&quot;) by Wizards of the Coast LLC, available at <a href="https://www.dndbeyond.com/srd" rel="noopener">https://www.dndbeyond.com/srd</a>. The SRD 5.2.1 is licensed under the Creative Commons Attribution 4.0 International License, available at <a href="https://creativecommons.org/licenses/by/4.0/legalcode" rel="noopener">https://creativecommons.org/licenses/by/4.0/legalcode</a>.</p>
+        <h4>Art</h4>
+        <p>Characters, portraits, textures, props, menu ornaments, menu icons and the title art were drawn for this game with Google Gemini (gemini-3.1-flash-image) and finished in Blender.</p>
+        <p>Spell, item and cursor icons made by Lorc, Delapouite, Skoll, Sbed, Caro Asercion, Willdabeast, Cathelineau, DarkZaitzev, Carl Olsen, Zajkonur and Faithtoken from game-icons.net, licensed under Creative Commons Attribution 3.0 (<a href="https://creativecommons.org/licenses/by/3.0/" rel="noopener">https://creativecommons.org/licenses/by/3.0/</a>), and by Zeromancer (CC0); framed and coloured for this game.</p>
+        <h4>Voices</h4>
+        <p>The Narrator, the cast and the companions were voiced with ElevenLabs.</p>
+        <h4>Music</h4>
+        <p>&quot;Ossuary 6 - Air&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Oppressive Gloom&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Folk Round&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Duet Musette&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Darkling&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Darkest Child&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Unholy Knight&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>Toccata and Fugue in D minor, BWV 565 (J. S. Bach), played by Norbert Schenk. CC BY 4.0, via Wikimedia Commons.</p>
+        <p>Csárdás (Vittorio Monti), played by the United States Air Force Band. Public domain, via Wikimedia Commons.</p>
+        <p>&quot;Lightless Dawn&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Night Vigil&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Gypsy Shoegazer&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Minstrel Guild&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Clash Defiant&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Nightmare Machine&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Final Count&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Danse Macabre&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Achaidh Cheide&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Agnus Dei X&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Ancient Rite&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Baba Yaga&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Black Vortex&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Bump in the Night&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Celtic Impulse&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Children&#x27;s Theme&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Come Play with Me&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Dama-May&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Dark Walk&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Death and Axes&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Echoes of Time&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Gloom Horizon&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Gregorian Chant&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Grim Idol&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Ice Demon&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Inner Sanctum&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Land of the Dead&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Long Road Ahead&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Lord of the Land&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Lost Frontier&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Malicious&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Midnight Tale&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Mirage&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Moorland&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Mystery Bazaar&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Ossuary 2 - Turn&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Pippin the Hunchback&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Relent&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Rites&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Shadowlands 1 - Horizon&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Teller of the Tales&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Tenebrous Brothers Carnival - Snake Lady&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Thatched Villagers&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;The Britons&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Virtutes Instrumenti&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Volatile Reaction&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&quot;Willow and the Light&quot; Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 <a href="https://creativecommons.org/licenses/by/4.0/" rel="noopener">https://creativecommons.org/licenses/by/4.0/</a></p>
+        <p>&#x27;Memories Of Stone&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>&#x27;Anabasis I&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>&#x27;Eyes In The Void&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>&#x27;Nightfall&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>&#x27;Penumbra&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>&#x27;Unraveling&#x27; by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au</p>
+        <p>Fugue in G minor, BWV 542 (J. S. Bach), played by Herbert Collum on the Silbermann organ at Reinhardtsgrimma. CC BY 1.0, via Wikimedia Commons.</p>
+        <p>Marche funèbre (Chopin) and Night on Bald Mountain (Mussorgsky), recordings from Musopen. CC0 and public domain, via Wikimedia Commons.</p>
+        <p>&quot;Dark Gothic Haunted Masquerade&quot;, &quot;Dark Solemn Choral with Organ&quot; and &quot;Final Boss Appearance Dark Fantasy&quot; by ISAo (airyluvs.com). OGA-BY 3.0, via OpenGameArt.org.</p>
+        <p>&quot;In Darkness&quot; by Of Far Different Nature (fardifferent.carrd.co). CC BY 4.0, via OpenGameArt.org.</p>
+        <p>&quot;Fanfares&quot; (victory and defeat) by Spring Spring. CC BY 4.0, via OpenGameArt.org.</p>
+        <h4>Sound effects</h4>
+        <p>Kenney (kenney.nl): RPG Audio, Impact Sounds and Interface Sounds. CC0.</p>
+        <p>Fantasy SFX Pack Vol 1 by JC Sounds. CC BY 4.0 - Credit: JC Sounds, via OpenGameArt.org.</p>
+        <p>Additional Sound FX by Will Leamon (Fleshy Fight Sounds). OGA-BY 3.0, via OpenGameArt.org.</p>
+        <p>Boom Pack 1 by dklon. CC BY 3.0, via OpenGameArt.org.</p>
+        <p>OpenGameArt.org, CC0: 80 CC0 RPG SFX and 100 CC0 SFX #2 by rubberduck; sword sounds by StarNinjas; swishes by artisticdude; Magic Spell SFX by JaggedStone; fire-1 by AntumDeluge; crow caw by zeroisnotnull; Deep Bone Crack/Break by Zane Little Music; Impact by qubodup; squish sounds by EZduzziteh; Break Pumpkin by TinyWorlds.</p>
+        <p>Wikimedia Commons: Howling wind by Tvabutzku1234 (CC0); Wolf howls by the US Fish and Wildlife Service and Rain and thunder by ezwa (public domain).</p>
+        <p>&quot;Footsteps on different surfaces&quot; by congusbongus. CC BY 3.0, via OpenGameArt.org.</p>
+        <p>&quot;Stream Sounds&quot; by kurt. CC BY 3.0, via OpenGameArt.org.</p>
+        <p>&quot;Open Chest&quot; by spookymodem. CC BY 3.0, via OpenGameArt.org.</p>
+        <p>OpenGameArt.org, CC0 (world sounds): Different steps on wood, stone, leaves, gravel and mud by TinyWorlds; Mechanical Sounds by BMacZero.</p>
+        <!-- credits:end -->
+      </div>
+    </details>
+    <p class="fine">Made with Godot, Blender, Google Gemini and ElevenLabs.</p>
+  </div>
+</footer>
+
+<!-- Full-size viewer for the gallery -->
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true" aria-label="Screenshot viewer" hidden>
+  <button class="lb-close" aria-label="Close">×</button>
+  <button class="lb-prev" aria-label="Previous screenshot">‹</button>
+  <figure>
+    <img id="lb-img" alt="">
+    <figcaption id="lb-cap"></figcaption>
+  </figure>
+  <button class="lb-next" aria-label="Next screenshot">›</button>
+</div>
+
+<script src="js/site.js" defer></script>
+</body>
+</html>
