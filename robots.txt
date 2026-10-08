@@ -1,0 +1,5 @@
+# Everyone is welcome, search engines and AI tools alike.
+User-agent: *
+Allow: /
+
+Sitemap: https://curseofstrahd.app/sitemap.xml

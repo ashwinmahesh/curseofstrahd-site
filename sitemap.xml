@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://curseofstrahd.app/</loc>
+    <lastmod>2026-10-08</lastmod>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/combat_fireball.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/village_night.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/dialogue_busts.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/vallaki_rain.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/creator_appearance.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/castle_vista.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/combat_odds.webp</image:loc></image:image>
+    <image:image><image:loc>https://curseofstrahd.app/media/shots/travel_map.webp</image:loc></image:image>
+    <video:video>
+      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v2-poster.jpg</video:thumbnail_loc>
+      <video:title>Curse of Strahd (unofficial fan game) - gameplay trailer</video:title>
+      <video:description>Gameplay recorded in the game, narrated by Strahd. An unofficial fan game.</video:description>
+      <video:content_loc>https://curseofstrahd.app/media/trailer-v2.mp4</video:content_loc>
+      <video:duration>88</video:duration>
+    </video:video>
+  </url>
+</urlset>
