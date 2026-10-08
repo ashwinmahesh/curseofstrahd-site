@@ -34,6 +34,9 @@ def main() -> int:
 	ap.add_argument("--timeout", type=int, default=1200)
 	ap.add_argument("--quiet", type=int, default=240)
 	ap.add_argument("--env", action="append", default=[], help="KEY=VALUE for the scene")
+	ap.add_argument("--movie", action="store_true",
+		help="clips only: also record the game's sound with Godot's Movie Maker (<out>/clips/<scene>.avi); the scene "
+		"prints each clip's first and last frame so tools/make_trailer.py can cut the sound to match")
 	args = ap.parse_args()
 
 	src = SITE / "tools/godot"
@@ -50,6 +53,12 @@ def main() -> int:
 		"--out=%s/%s" % (out, args.scene), "--frames=10", "--size=%s" % args.size]
 	if args.mode == "clips":
 		godot_args.append("--motion")
+	if args.movie:
+		# Godot's own option goes before the "--" that starts the scene's arguments. The movie takes the window's size
+		# at start, so the (still off-screen) window opens at the capture size.
+		cut = godot_args.index("--")
+		godot_args[cut:cut] = ["--write-movie", str(out / ("%s.avi" % args.scene))]
+		godot_args[godot_args.index("1x1")] = args.size
 	env = dict(os.environ, SITE_MODE=args.mode, SITE_ONLY=args.only,
 		GODOT=os.environ.get("GODOT", "/Applications/Godot.app/Contents/MacOS/Godot"))
 	for kv in args.env:

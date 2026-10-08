@@ -153,6 +153,7 @@ func _clip(shot: Dictionary, dir: String) -> void:
 		var by := shot["walk_by"] as Array
 		view.walk_to(_open_near(lead.cell + Vector2i(int(by[0]), int(by[1]))))
 	var frames := int(float(shot["seconds"]) * 30.0)
+	print("segment %s %d %d %d" % [dir.get_file(), 0, Engine.get_process_frames() + 1, frames])
 	var z0 := view.rig.distance
 	var z1 := float(shot.get("zoom_to", z0))
 	var h0 := view.rig.horizon

@@ -13,11 +13,12 @@ extends Node
 const GAME := "res://scenes/game.tscn"
 const MENU := "res://scenes/main_menu.tscn"
 const FIGHTERS: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "ratatoille", "kip_smudgewick"]
-const TALKERS: Array[String] = ["wren_featherfoot", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
+## Kip speaks for the party in conversations (owner, 2026-10-08).
+const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
 const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialogue_d20", "combat_odds", "combat_area",
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
-const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup"]
+const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup", "dialogue_voiced"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
 
@@ -44,6 +45,11 @@ func _ready() -> void:
 	Graphics.set_preset("high", false)
 	_weather = Weather.data().duplicate(true)
 	Dice.reseed(11)
+	# Movie Maker runs on the Dummy sound driver, which the game treats as "no sound device" (tests): with
+	# STRAHD_MOVIE_SOUND set, music and effects play into the movie anyway (VoiceOver checks it too, in a capture-only
+	# local change).
+	if OS.get_environment("STRAHD_MOVIE_SOUND") != "":
+		Audio.set("_silent", false)
 
 
 func _exit_tree() -> void:
@@ -81,6 +87,8 @@ func _record(clip: String, seconds: float, first: int = 0) -> int:
 	var to := "%s/%s" % [dir, clip]
 	DirAccess.make_dir_recursive_absolute(to)
 	var n := int(seconds * 30.0)
+	# With Movie Maker on, the sound for these frames is in the movie: its frame numbers are the engine's process frames.
+	print("segment %s %d %d %d" % [clip, first, Engine.get_process_frames() + 1, n])
 	for i in n:
 		await get_tree().process_frame
 		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [to, first + i], 0.93)
@@ -123,6 +131,11 @@ func _game(loc: String, hour: int, party: Array[String], level: int, weather: St
 	root = (load(GAME) as PackedScene).instantiate()
 	add_child(root)
 	await _wait(40)
+	# A cold start (the first game of a run) can take longer to build the place.
+	for i in 600:
+		if root.get("view") != null:
+			break
+		await _wait(1)
 	# A place's first-visit cutscene (the village by night) would sit over everything with the game paused.
 	if root.get("screen") is CutscenePlayer:
 		root.call("close_screen")
@@ -766,3 +779,42 @@ func _still_dialogue_busts() -> void:
 		await _wait(4)
 	await _wait(20)
 	_shot("dialogue_busts")
+
+
+## A voiced exchange, a bust on each side: the Baron names the party his festival marshals and Kip answers him. Each
+## line plays out (VoiceOver) before the next; record with --movie to keep the voices.
+func _clip_dialogue_voiced() -> void:
+	await _game("vallaki_burgomaster_mansion", 15, TALKERS, 5)
+	root.call("start_dialogue", "vallaki/baron:pledge", "baron_vargas")
+	var d := root.get("dialogue") as DialogueUI
+	if d == null:
+		push_warning("site_game: the Baron's conversation didn't start")
+		return
+	var to := "%s/dialogue_voiced" % dir
+	DirAccess.make_dir_recursive_absolute(to)
+	print("segment dialogue_voiced 0 %d 0" % (Engine.get_process_frames() + 1))
+	var quiet := -15   # the first line takes a moment to start
+	var lines := 0
+	var i := 0
+	var tail := -1
+	while i < 30 * 30:
+		await get_tree().process_frame
+		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [to, i], 0.93)
+		i += 1
+		if tail >= 0:
+			tail -= 1
+			if tail == 0:
+				break
+			continue
+		if VoiceOver.is_speaking():
+			quiet = 0
+			continue
+		quiet += 1
+		if quiet == 15:
+			lines += 1
+			if lines >= 3:
+				tail = 30   # Kip has had his say: a second more, then stop
+				continue
+			d.call("_advance")
+			quiet = -15
+	print("capture: %s (%d frames)" % [to, i])

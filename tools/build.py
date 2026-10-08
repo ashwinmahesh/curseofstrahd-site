@@ -214,7 +214,6 @@ def main() -> None:
 		page = re.sub(r'%s\?v=[0-9a-z]+' % re.escape(rel), "%s?v=%s" % (rel, digest), page)
 	(SITE / "index.html").write_text(page)
 	og_image()
-	icon()
 	print("index.html updated")
 
 
