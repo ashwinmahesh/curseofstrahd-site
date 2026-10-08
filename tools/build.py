@@ -53,7 +53,7 @@ SHOTS = {
 	"character_sheet": "The character sheet, with a number's breakdown",
 	"inventory": "The inventory's paper doll",
 	"inventory_list": "The inventory in its list view",
-	"creator_appearance": "Make your own hero: choosing their look",
+	"creator_appearance": "Make your own hero: picking his hairstyle",
 	"dialogue_busts": "Kip at the inn, a bust on each side",
 	"travel_map": "The travel map of Barovia",
 	"skirmish": "Skirmish and the Character Lab",

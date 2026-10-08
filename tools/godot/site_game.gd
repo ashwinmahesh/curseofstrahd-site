@@ -763,10 +763,12 @@ func _still_creator_appearance() -> void:
 		return
 	var b := cs.b()
 	b.set_class("paladin")
+	# A man on the Head tab, where the hairstyles are picked (owner, 2026-10-08).
+	var app := HeroLook.default_appearance("male", "paladin")
+	app.merge({"hair": "wavy", "hair_colour": "chestnut", "beard": "full", "skin": "bronze"}, true)
+	b.set_appearance(HeroLook.settle(app))
 	cs.call("_suit_outfit")
-	var app := (b.build["appearance"] as Dictionary).duplicate()
-	app.merge({"hair": "long", "skin": "bronze", "hair_colour": "copper"}, true)
-	b.set_appearance(app)
+	cs.set("_appearance_tab", "Head")
 	cs.step = CharacterBuilder.Step.APPEARANCE
 	cs.call("_draw")
 	await _wait(30)
