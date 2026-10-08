@@ -52,6 +52,9 @@ SHOTS = {
 	"party_roster": "Choosing four of the six companions",
 	"character_sheet": "The character sheet, with a number's breakdown",
 	"inventory": "The inventory's paper doll",
+	"inventory_list": "The inventory in its list view",
+	"creator_appearance": "Make your own hero: choosing their look",
+	"dialogue_busts": "A conversation, a bust on each side",
 	"travel_map": "The travel map of Barovia",
 	"skirmish": "Skirmish and the Character Lab",
 }
@@ -67,9 +70,9 @@ ART = {
 }
 
 # The gallery, in order (the first is shown large).
-GALLERY = ["combat_fireball", "village_night", "vallaki_rain", "dialogue_check", "castle_vista", "combat_odds",
+GALLERY = ["combat_fireball", "village_night", "dialogue_busts", "vallaki_rain", "creator_appearance", "dialogue_check", "castle_vista", "combat_odds",
 	"krezk_snow", "combat_area", "vallaki_noon", "death_house", "tarokka", "tser_pool_night", "stealth_sight", "combat_battlefield",
-	"combat_boss", "lake_dusk", "party_roster", "character_sheet", "inventory", "travel_map", "skirmish", "road_dusk",
+	"combat_boss", "lake_dusk", "party_roster", "character_sheet", "inventory_list", "travel_map", "skirmish", "road_dusk",
 	"dialogue_d20", "title", "cutscene", "story_mists", "story_village", "story_palisade", "story_camp"]
 
 INK = (12, 6, 7)

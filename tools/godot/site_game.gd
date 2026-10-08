@@ -16,7 +16,7 @@ const FIGHTERS: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "rata
 const TALKERS: Array[String] = ["wren_featherfoot", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
 const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialogue_d20", "combat_odds", "combat_area",
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
-	"travel_map"]
+	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
 const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
@@ -719,3 +719,50 @@ func _clip_levelup() -> void:
 			break
 	await _record("levelup", 3.5, n)
 	root.call("close_screen")
+
+
+## The hero creator at its appearance step, a paladin's look being chosen.
+func _still_creator_appearance() -> void:
+	await _title()
+	menu.call("_new_game")
+	await _wait(10)
+	menu.call("_open_hero")
+	await _wait(20)
+	var cs := menu.get("_creation") as CreationScreen
+	if cs == null:
+		return
+	var b := cs.b()
+	b.set_class("paladin")
+	cs.call("_suit_outfit")
+	var app := (b.build["appearance"] as Dictionary).duplicate()
+	app.merge({"hair": "long", "skin": "bronze", "hair_colour": "copper"}, true)
+	b.set_appearance(app)
+	cs.step = CharacterBuilder.Step.APPEARANCE
+	cs.call("_draw")
+	await _wait(30)
+	_shot("creator_appearance")
+
+
+## The inventory in its list view (the player's choice in Settings; this run's own settings file).
+func _still_inventory_list() -> void:
+	GameSettings.set_value("inventory_view", "list", false)
+	await _game("vallaki", 13, FIGHTERS, 7, "overcast")
+	root.call("open_screen", "inventory", 0)
+	await _wait(20)
+	_shot("inventory_list")
+	root.call("close_screen")
+	GameSettings.set_value("inventory_view", "doll", false)
+
+
+## A conversation with a bust on each side: Urwin behind the Blue Water Inn's bar, and the party's speaker.
+func _still_dialogue_busts() -> void:
+	await _game("vallaki_blue_water_inn", 20, TALKERS, 5)
+	root.call("start_dialogue", "vallaki/martikovs:urwin", "urwin_martikov")
+	var d := root.get("dialogue") as DialogueUI
+	for i in 12:
+		if d == null or not d.options_shown.is_empty():
+			break
+		d.call("_advance")
+		await _wait(4)
+	await _wait(20)
+	_shot("dialogue_busts")

@@ -250,6 +250,7 @@ strong { color: var(--parchment); font-weight: 600; }
 .party-notes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 48px; }
 .party-notes > div { border-top: 1px solid var(--gilt-dark); padding-top: 20px; }
 .party-notes p { font-size: 1.05rem; color: var(--text); }
+.note-shot { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border: 1px solid var(--line); margin-bottom: 16px; }
 @media (max-width: 860px) {
 	.comp-grid { grid-template-columns: repeat(3, 1fr); row-gap: 20px; }
 	.party-notes { grid-template-columns: 1fr; }
