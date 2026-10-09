@@ -196,6 +196,7 @@ strong { color: var(--parchment); font-weight: 600; }
 .release-date { font-family: var(--body, inherit); font-size: 1rem; color: var(--muted); font-weight: 400; }
 .release h3 { font-size: 1.05rem; margin: 22px 0 8px; letter-spacing: 0.04em; }
 .release ul { margin: 0; padding-left: 1.2em; }
+.release-lede { color: var(--muted); margin: 0 0 6px; }
 .release li { margin: 6px 0; }
 
 /* What it is */
