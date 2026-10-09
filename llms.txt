@@ -32,5 +32,5 @@ Free. macOS on Apple silicon, and Windows 10/11 64-bit. Single player. Keyboard 
 - [FAQ](https://curseofstrahd.app/#faq)
 - [Download](https://curseofstrahd.app/#download)
 - [Release notes](https://curseofstrahd.app/releases/)
-- [macOS download (disk image), version 1.0.2](https://downloads.curseofstrahd.app/1.0.2/CurseOfStrahd-1.0.2-macos.dmg)
-- [Windows download, version 1.0.2](https://downloads.curseofstrahd.app/1.0.2/CurseOfStrahd-1.0.2-windows.zip)
+- [macOS download (disk image), version 1.0.3](https://downloads.curseofstrahd.app/1.0.3/CurseOfStrahd-1.0.3-macos.dmg)
+- [Windows download, version 1.0.3](https://downloads.curseofstrahd.app/1.0.3/CurseOfStrahd-1.0.3-windows.zip)
