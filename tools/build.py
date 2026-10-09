@@ -213,7 +213,7 @@ def main() -> None:
 		digest = hashlib.sha1((SITE / rel).read_bytes()).hexdigest()[:8]
 		page = re.sub(r'%s\?v=[0-9a-z]+' % re.escape(rel), "%s?v=%s" % (rel, digest), page)
 	(SITE / "index.html").write_text(page)
-	for rel_page in ("trailer/index.html", "404.html"):   # the other pages share the stylesheet and script
+	for rel_page in ("trailer/index.html", "404.html", "releases/index.html"):   # the other pages share the stylesheet and script
 		other = (SITE / rel_page).read_text()
 		for rel in ("css/site.css", "js/site.js"):
 			digest = hashlib.sha1((SITE / rel).read_bytes()).hexdigest()[:8]
