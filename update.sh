@@ -49,9 +49,11 @@ if pgrep -f "$APP/Contents/MacOS/" > /dev/null; then
 fi
 
 work="$(mktemp -d "${TMPDIR:-/tmp}/curseofstrahd-update.XXXXXX")"
-mnt="$work/mnt"
+# The disk image mounts under /tmp: hdiutil can't mount it inside another mounted image, where TMPDIR may be.
+mnt="$(mktemp -d /tmp/curseofstrahd-mount.XXXXXX)"
 cleanup() {
 	hdiutil detach -quiet "$mnt" 2>/dev/null || true
+	rmdir "$mnt" 2>/dev/null || true
 	rm -rf "$work"
 }
 trap cleanup EXIT
@@ -76,12 +78,13 @@ fi
 
 echo "Updating Curse of Strahd from $current to $version (a full download of about 3 GB)..."
 curl -fL --progress-bar -o "$work/game.dmg" "$url"
-mkdir -p "$mnt"
-hdiutil attach -quiet -nobrowse -readonly -mountpoint "$mnt" "$work/game.dmg"
+hdiutil attach -nobrowse -readonly -mountpoint "$mnt" "$work/game.dmg" > /dev/null
 # Copy the new version beside the old one, then swap, so a failed copy leaves the old game as it was.
 next="$(dirname "$APP")/.Curse of Strahd.app.updating"
 rm -rf "$next"
 ditto "$mnt/Curse of Strahd.app" "$next"
+# The disk image's window marks the app with Finder info (its extension hidden), which strict signature checks reject.
+xattr -d com.apple.FinderInfo "$next" 2>/dev/null || true
 rm -rf "$APP"
 mv "$next" "$APP"
 # An old patch builds on the old download; the game would ignore it, so it goes.
