@@ -39,6 +39,18 @@
 		}
 	}
 
+	// The game in motion: each loop plays only while it's on screen, so the page doesn't download them all at once.
+	const loops = document.querySelectorAll("video[data-loop]");
+	if (loops.length && "IntersectionObserver" in window) {
+		const seen = new IntersectionObserver((entries) => {
+			for (const e of entries) {
+				if (e.isIntersecting) e.target.play().catch(() => {});
+				else e.target.pause();
+			}
+		}, { threshold: 0.4 });
+		loops.forEach((v) => seen.observe(v));
+	}
+
 	// Companions: one card picked at a time shows its story below.
 	const grid = document.getElementById("comp-grid");
 	const detail = document.getElementById("comp-detail");

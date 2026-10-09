@@ -29,7 +29,7 @@ SHOTS = {
 	"village_night": "The Village of Barovia at night",
 	"vallaki_rain": "Rain over Vallaki at dusk",
 	"road_dusk": "The party on the misty road at dusk",
-	"castle_vista": "The gates of Castle Ravenloft in a storm",
+	"castle_vista": "Castle Ravenloft above the Village of Barovia at dusk",
 	"vallaki_noon": "Vallaki's square on a festival day",
 	"lake_dusk": "Lake Zarovich at dusk",
 	"krezk_snow": "Snow in the walled village of Krezk",

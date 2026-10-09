@@ -13,6 +13,7 @@ extends Node
 const GAME := "res://scenes/game.tscn"
 const MENU := "res://scenes/main_menu.tscn"
 const FIGHTERS: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "ratatoille", "kip_smudgewick"]
+const FRONT := "Godrick"
 ## Kip speaks for the party in conversations (owner, 2026-10-08).
 const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
 ## Each conversation still has a different hero speaking for the party, so the site shows that every one has a bust
@@ -22,7 +23,8 @@ const ROLL_SPEAKER := "godrick_pendlebrook"
 const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialogue_d20", "combat_odds", "combat_area",
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
-const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup", "dialogue_voiced"]
+const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup", "dialogue_voiced", "d20_roll",
+	"arrival"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
 
@@ -385,7 +387,7 @@ func _laugh(d: DialogueUI, roll_seed: int) -> bool:
 		if str((d.options_shown[i] as Dictionary).get("text", "")).contains("laugh"):
 			d.call("_choose", i)
 			break
-	return d.d20 != null and bool(d.d20.beat.get("success", false))
+	return d.d20 != null and bool(d.d20.result.get("success", false))
 
 
 ## A seed whose Performance roll succeeds (a laugh out of Blinsky reads better than a groan), tried a few at a time.
@@ -422,7 +424,7 @@ func _still_dialogue_d20() -> void:
 func _still_combat_odds() -> void:
 	if not await _fight():
 		return
-	var godrick := _hero("Godrick")
+	var godrick := _hero(FRONT)
 	var foe := _foes()[0]
 	_make_current(godrick)
 	_put(godrick, foe.cell - _ground_axes(cv.rig)[0])
@@ -441,7 +443,7 @@ func _still_combat_area() -> void:
 	var wiz := _hero("Ratatoille")
 	_make_current(wiz)
 	var foes := _foes()
-	var godrick := _hero("Godrick")
+	var godrick := _hero(FRONT)
 	# Godrick has waded in among them: the template warns before the spell catches him.
 	_put(godrick, foes[1].cell + Vector2i(1, 0))
 	cv.call("_refresh_all")
@@ -843,3 +845,33 @@ func _clip_dialogue_voiced() -> void:
 			d.call("_advance")
 			quiet = -15
 	print("capture: %s (%d frames)" % [to, i])
+
+
+## The emerald d20 rolling for a conversation's check, for a looping GIF (owner, 2026-10-09).
+func _clip_d20_roll() -> void:
+	var roll_seed := await _seed_that_lands()
+	var d := await _talk(ROLL_SPEAKER)
+	if d == null:
+		return
+	await _wait(10)
+	_laugh(d, roll_seed)
+	await _record("d20_roll", 4.5)
+
+
+## Arriving in Vallaki: the place resolves out of a soft blur as the black lifts, and its name shows with the hour.
+## Recorded from the moment the game starts building the place, for a GIF.
+func _clip_arrival() -> void:
+	await _clear()
+	Weather.use(_weather)
+	GameState.reset()
+	var st := GameState.story
+	for pid: String in TALKERS:
+		var ch := Pregens.build(pid, 5)
+		ch.finish_long_rest()
+		st.party.append(ch)
+	st.minute_of_day = 17 * 60
+	st.location = "vallaki"
+	root = (load(GAME) as PackedScene).instantiate()
+	add_child(root)
+	await _record("arrival", 7.0)
+

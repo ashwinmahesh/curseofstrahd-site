@@ -36,6 +36,11 @@ const STILLS := {
 	"abbey_snow": {"loc": "abbey_of_st_markovia", "hour": 12, "weather": "snow", "zoom": 15.0},
 	"lake_dusk": {"loc": "lake_zarovich", "hour": 18, "weather": "overcast", "at": [16, 10], "zoom": 14.0},
 	"wizard_of_wines": {"loc": "wizard_of_wines", "hour": 17, "weather": "rain", "zoom": 15.0},
+	# The 1.0.4 look (owner, 2026-10-09): sunbeams at dawn and dusk, puddles that reflect, firelight that moves.
+	"village_dawn": {"loc": "village_of_barovia", "hour": 7, "weather": "overcast", "zoom": 14.0},
+	"vallaki_dusk": {"loc": "vallaki", "hour": 18, "weather": "overcast", "at": [20, 19], "zoom": 14.0},
+	"vallaki_rain_night": {"loc": "vallaki", "hour": 21, "weather": "rain", "zoom": 12.0},
+	"tser_fire": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 10.0},
 }
 
 ## Each clip: a still's set-up, how many seconds it runs, where the party walks ("walk", a square), and the camera's
@@ -60,6 +65,13 @@ const CLIPS := {
 		"zoom_to": 11.5},
 	"interior_inn": {"loc": "vallaki_blue_water_inn", "hour": 20, "zoom": 10.0, "seconds": 7.0, "walk_by": [6, 4],
 		"zoom_to": 11.5},
+	# Short loops for GIFs (owner, 2026-10-09): firelight and heat shimmer, a lightning strike in the rain, footsteps
+	# kicking up snow and splashes.
+	"gif_fire": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 9.0, "seconds": 4.0},
+	"gif_lightning": {"loc": "vallaki", "hour": 20, "weather": "rain", "zoom": 14.0, "seconds": 4.0, "strike_at": 1.0},
+	"gif_snow_steps": {"loc": "krezk", "hour": 12, "weather": "snow", "at": [14, 7], "zoom": 8.0, "seconds": 4.0,
+		"walk_by": [-4, 3]},
+	"gif_splash_steps": {"loc": "vallaki", "hour": 19, "weather": "rain", "zoom": 8.0, "seconds": 4.0, "walk_by": [4, -2]},
 }
 
 var view: LocationView = null
@@ -158,7 +170,10 @@ func _clip(shot: Dictionary, dir: String) -> void:
 	var z1 := float(shot.get("zoom_to", z0))
 	var h0 := view.rig.horizon
 	var h1 := float(shot.get("tilt_to", h0))
+	var strike := int(float(shot.get("strike_at", -1.0)) * 30.0)
 	for i in frames:
+		if i == strike:
+			view.atmosphere.strike(true)
 		var k := smoothstep(0.0, 1.0, float(i) / float(maxi(frames - 1, 1)))
 		view.rig.distance = lerpf(z0, z1, k)
 		view.rig.horizon = lerpf(h0, h1, k)

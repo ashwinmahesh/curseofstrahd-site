@@ -357,3 +357,21 @@ strong { color: var(--parchment); font-weight: 600; }
 	background: rgba(0, 0, 0, 0.35); border: 1px solid rgba(176, 138, 62, 0.35); border-radius: 6px; padding: 10px 16px; }
 .update code { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; font-size: 0.9rem; color: var(--parchment);
 	user-select: all; }
+
+/* The game in motion: short muted loops under the look section, played only while on screen (js/site.js). Two larger
+   loops over three smaller ones; the first alone then pairs on tablets; one a row on phones. */
+.loops { display: grid; grid-template-columns: repeat(6, 1fr); gap: 18px;
+	margin-top: clamp(32px, 5vw, 56px); }
+.loop { margin: 0; grid-column: span 2; min-width: 0; }
+.loop:nth-child(-n+2) { grid-column: span 3; }
+@media (max-width: 820px) {
+	.loops { grid-template-columns: 1fr 1fr; }
+	.loop, .loop:nth-child(-n+2) { grid-column: auto; }
+	.loop:first-child { grid-column: 1 / -1; }
+}
+@media (max-width: 520px) {
+	.loops { grid-template-columns: 1fr; }
+}
+.loop video { width: 100%; height: auto; display: block; border-radius: 6px; border: 1px solid rgba(176, 138, 62, 0.35);
+	background: #0d0507; aspect-ratio: 16 / 9; object-fit: contain; }
+.loop figcaption { color: var(--muted); font-size: 0.95rem; margin-top: 8px; text-align: center; }
