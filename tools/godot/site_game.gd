@@ -24,7 +24,7 @@ const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialo
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
 const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup", "dialogue_voiced", "d20_roll",
-	"arrival"]
+	"arrival", "loop_combat", "loop_guardians", "loop_talk"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
 
@@ -475,20 +475,89 @@ func _still_combat_fireball() -> void:
 func _still_combat_battlefield() -> void:
 	if not await _fight():
 		return
-	# Liriel's Spirit Guardians wheel round her among the dead, and Kip's Hunger of Hadar swallows the far rank.
+	# Liriel's Spirit Guardians wheel round her among the dead, and Kip's Hunger of Hadar swallows the foes beside her.
+	# Both sit in the middle of the frame, where the edge blur (Wide, the default) leaves the view sharp; each quarter
+	# turn of the camera is a shot of its own, since a house can stand between the camera and the square.
 	var cleric := _hero("Liriel")
 	var warlock := _hero("Kip")
 	var foes := _foes()
+	var axes := _ground_axes(cv.rig)
 	_make_current(cleric)
-	_put(cleric, foes[0].cell - _ground_axes(cv.rig)[0])
+	_put(cleric, foes[0].cell - axes[0])
 	cv.call("_refresh_all")
-	var far := foes[foes.size() - 1]
-	_frame([cleric, far], 14.0)
-	await _wait(20)
+	var dark := _open_view(cleric.cell)
+	_stage_spells(cleric, dark)
 	_zone(cleric, "spirit_guardians", cleric.cell)
-	_zone(warlock, "hunger_of_hadar", far.cell)
-	await _wait(60)
-	_shot("combat_battlefield")
+	_zone(warlock, "hunger_of_hadar", dark)
+	_aim_between(cleric.cell, dark, 13.0)
+	# The big spell's camera turn and its pulse settle first.
+	for k in 3:
+		await _wait(90)
+		_shot("combat_battlefield_w%d" % k)
+
+
+## Where to put a second spell five squares from `at`, and the camera's quarter turn, so that both sit on open ground
+## with no house between them and the camera: each turn and each way out from `at` is scored by the walls and roofs
+## (solid squares, or off the map) in a band toward the camera from the pair's middle and under the spell itself. Turns
+## the camera to the best and returns the spell's square.
+func _open_view(at: Vector2i) -> Vector2i:
+	var grid := _view().grid
+	var best := at
+	var best_turn := 0
+	var best_score := 1 << 30
+	for k in 4:
+		var ax := _ground_axes(cv.rig)
+		var right: Vector2i = ax[0]
+		var fwd: Vector2i = ax[1]
+		for dir: Vector2i in [right, -right, fwd, right + fwd, -right + fwd]:
+			var spot := at + Vector2i(roundi(dir.x * 5.0 / Vector2(dir).length()), roundi(dir.y * 5.0 / Vector2(dir).length()))
+			var mid := (at + spot) / 2
+			var score := 0
+			for d in range(1, 8):
+				for side in range(-4, 5):
+					var c := mid - fwd * d + right * side
+					if not grid.in_bounds(c) or grid.is_solid(c):
+						score += 2
+			for dx in range(-3, 4):
+				for dy in range(-3, 4):
+					var c := spot + Vector2i(dx, dy)
+					if not grid.in_bounds(c) or grid.is_solid(c):
+						score += 1
+			if score < best_score:
+				best_score = score
+				best = spot
+				best_turn = k
+		cv.rig.rotate_step(1)
+		cv.rig.snap_to_target()
+	cv.rig.rotate_step(best_turn)
+	cv.rig.snap_to_target()
+	print("site_game: open view turn %d, spell at %s, score %d" % [best_turn, best, best_score])
+	return best
+
+
+## Sets the scene for Spirit Guardians round `cleric` and Hunger of Hadar at `dark`: the foes stand in the darkness
+## and round her, and the rest of the party stands back behind her, out of both.
+func _stage_spells(cleric: Combatant, dark: Vector2i) -> void:
+	var away := Vector2(cleric.cell - dark).normalized()
+	var back := cleric.cell + Vector2i(roundi(away.x * 5.0), roundi(away.y * 5.0))
+	var foes := _foes()
+	var spots: Array[Vector2i] = [dark, dark + Vector2i(1, 1), dark + Vector2i(-1, 1), dark + Vector2i(1, -1),
+		cleric.cell + Vector2i(roundi(-away.x * 2.0), roundi(-away.y * 2.0))]
+	for i in foes.size():
+		_put(foes[i], spots[i % spots.size()])
+	var i := 0
+	for c in cv.e.combatants:
+		if c.side == &"party" and c != cleric:
+			_put(c, back + Vector2i(i % 2, i / 2))
+			i += 1
+	cv.call("_refresh_all")
+
+
+## Points the camera at the middle of two squares, `dist` away.
+func _aim_between(a: Vector2i, b: Vector2i, dist: float) -> void:
+	cv.rig.follow = null
+	cv.rig.global_position = (cv.board.cell_center(a) + cv.board.cell_center(b)) * 0.5 + Vector3(0, 0.3, 0)
+	cv.rig.distance = dist
 
 
 ## A spell's lingering area on the board, as the rules leave it (shown only).
@@ -875,3 +944,113 @@ func _clip_arrival() -> void:
 	add_child(root)
 	await _record("arrival", 7.0)
 
+
+
+# --- Cinematic loops (owner, 2026-10-09: "more cinematic", each showing off one of the game's visuals) --------------
+
+## The fight's camera at work, unbroken (owner: "the dynamic camera we have in combat"): Godrick's smite crits and
+## fells a zombie (the push-in and the jolt), the camera glides to Ratatoille and turns with his Fireball to where it
+## lands, then glides to Kip, whose Eldritch Blast fells the last foe in slow motion.
+func _clip_loop_combat() -> void:
+	if not await _fight():
+		return
+	var godrick := _hero("Godrick")
+	var wiz := _hero("Ratatoille")
+	var warlock := _hero("Kip")
+	var axes := _ground_axes(cv.rig)
+	var foes := _foes()
+	_make_current(godrick)
+	_put(godrick, foes[0].cell - axes[0])
+	cv.call("_refresh_all")
+	cv.rig.distance = 11.0
+	cv.rig.snap_to_target()
+	await _wait(40)
+	var t := foes[0]
+	var amount := t.creature.max_hp() + 5
+	t.creature.hp = 0
+	t.creature.dead = true
+	_play([{"type": "attack", "attacker": godrick.id, "target": t.id, "hit": true, "critical": true},
+		{"type": "smite", "caster": godrick.id, "spell": "divine_smite", "target": t.id},
+		{"type": "damage", "id": t.id, "amount": amount, "critical": true}, {"type": "death", "id": t.id}])
+	var n := await _record("loop_combat", 2.3)
+	foes = _foes()
+	if foes.is_empty():
+		return
+	_make_current(wiz)
+	n = await _record("loop_combat", 0.9, n)
+	# The Fireball fells all but the foe farthest from Kip; that one is left on 1 hit point.
+	var last := foes[0]
+	for f in foes:
+		if f.cell.distance_to(warlock.cell) > last.cell.distance_to(warlock.cell):
+			last = f
+	var events: Array = [{"type": "spell", "caster": wiz.id, "spell": "fireball", "cells": _ball(foes[int(foes.size() / 2.0)].cell), "targets": []}]
+	var deaths: Array = []
+	for f in foes:
+		if f == last:
+			f.creature.hp = 1
+			events.append({"type": "damage", "id": f.id, "amount": 24})
+		else:
+			f.creature.hp = 0
+			f.creature.dead = true
+			events.append({"type": "damage", "id": f.id, "amount": 31})
+			deaths.append({"type": "death", "id": f.id})
+	_play(events + deaths)
+	n = await _record("loop_combat", 3.2, n)
+	_make_current(warlock)
+	n = await _record("loop_combat", 0.8, n)
+	cv.e.state = Encounter.State.OVER
+	cv.e.outcome = "victory"
+	last.creature.hp = 0
+	last.creature.dead = true
+	_play([{"type": "spell", "spell": "eldritch_blast", "caster": warlock.id, "targets": [last.id]},
+		{"type": "attack", "attacker": warlock.id, "target": last.id, "hit": true},
+		{"type": "damage", "id": last.id, "amount": 11}, {"type": "death", "id": last.id}])
+	await _record("loop_combat", 3.6, n)
+
+
+## Spirit Guardians and Hunger of Hadar appearing on the field, the interface hidden and the camera easing in, lower,
+## on the two of them.
+func _clip_loop_guardians() -> void:
+	if not await _fight():
+		return
+	var cleric := _hero("Liriel")
+	var warlock := _hero("Kip")
+	var foes := _foes()
+	var axes := _ground_axes(cv.rig)
+	_make_current(cleric)
+	_put(cleric, foes[0].cell - axes[0])
+	cv.call("_refresh_all")
+	var dark := _open_view(cleric.cell)
+	_stage_spells(cleric, dark)
+	cv.hud.visible = false
+	_aim_between(cleric.cell, dark, 13.5)
+	await _wait(40)
+	var frames := 180
+	var to := "%s/loop_guardians" % dir
+	DirAccess.make_dir_recursive_absolute(to)
+	for i in frames:
+		if i == 10:
+			_zone(cleric, "spirit_guardians", cleric.cell)
+		if i == 45:
+			_zone(warlock, "hunger_of_hadar", dark)
+		var k := smoothstep(0.0, 1.0, float(i) / float(frames - 1))
+		cv.rig.distance = lerpf(13.5, 10.5, k)
+		cv.rig.shot_pitch = lerpf(0.0, 7.0, k)
+		await get_tree().process_frame
+		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [to, i], 0.93)
+	print("capture: %s (%d frames)" % [to, frames])
+	cv.hud.visible = true
+
+
+## The conversation camera (Visual Polish 7): as Urwin's conversation opens at the Blue Water Inn's bar, the view eases
+## in, lower, onto the party's leader and him, and the busts come in.
+func _clip_loop_talk() -> void:
+	await _game("vallaki_blue_water_inn", 20, TALKERS, 5)
+	var n := await _record("loop_talk", 0.8)
+	root.call("start_dialogue", "vallaki/martikovs:urwin", "urwin_martikov")
+	# Past the narrator's opening line, to Urwin's own, with his bust.
+	n = await _record("loop_talk", 0.3, n)
+	var d := root.get("dialogue") as DialogueUI
+	if d != null:
+		d.call("_advance")
+	await _record("loop_talk", 3.6, n)

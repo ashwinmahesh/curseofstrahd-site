@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
 """Short looping clips from captured frames (owner, 2026-10-09: GIFs of the game's motion), in two forms:
 
-  /usr/bin/python3 tools/make_loops.py <clips folder> <name>[:start:seconds[:x0,y0,x1,y1]] ... [--out=media/loops]
-      [--gifs=build/gifs] [--as=<name to save one loop under>]
+  /usr/bin/python3 tools/make_loops.py <clips folder> <name>[:start:seconds[:x0,y0,x1,y1[:poster]]] ...
+      [--out=media/loops] [--gifs=build/gifs] [--as=<name to save one loop under>]
 
 - <gifs>/<name>.gif for the game's README on GitHub (the site doesn't use them): 480 px wide, 10 frames a second, one
   shared palette, looping, kept to a few MB (rain, fog and grain make big GIFs).
 - <out>/<name>.mp4 and <name>.jpg for the site, where a muted looping video is a fraction of the GIF's size:
-  960 px wide at 30 frames a second (build/encode, the Mac's own encoder), with its last frame as the poster.
+  960 px wide at 30 frames a second (build/encode, the Mac's own encoder), with its poster frame as a JPEG.
 Each name is a clip's folder of frames (f0000.jpg on, 30 a second, as tools/capture.py records them); start and seconds
-pick part of it, and a box crops it (in the frames' pixels), e.g. the d20's panel. A cropped loop keeps its own width
-up to 640 px in the GIF.
+pick part of it, and a box crops it (in the frames' pixels, or empty for none), e.g. the d20's panel. A cropped loop
+keeps its own width up to 640 px in the GIF. The poster is the loop's best moment, in seconds from its start (default:
+its last frame); the GIF starts there too, so a paused GIF or one shown without motion shows that moment.
 """
 import subprocess
 import sys
@@ -53,7 +54,7 @@ def gif(frames: list, out: Path, box: tuple = (), width: int = 480, step: int = 
 		optimize=True, disposal=1)
 
 
-def mp4(frames: list, out: Path, box: tuple = (), width: int = 960) -> None:
+def mp4(frames: list, out: Path, box: tuple = (), width: int = 960, poster: int = -1) -> None:
 	if box:
 		width = min(960, (box[2] - box[0]) // 2 * 2)
 	with tempfile.TemporaryDirectory() as tmp:
@@ -63,8 +64,8 @@ def mp4(frames: list, out: Path, box: tuple = (), width: int = 960) -> None:
 				Path(tmp) / ("f%04d.jpg" % i), quality=92)
 		subprocess.run([str(SITE / "build/encode"), "--frames", tmp, "--out", str(out), "--fps", "30",
 			"--bitrate", "3000000"], check=True, capture_output=True)
-	first = load(frames[-1], box)   # the poster is the loop's settled end (the d20's result, the place arrived at)
-	first.resize((width, round(first.height * width / first.width))).save(out.with_suffix(".jpg"), quality=85)
+	still = load(frames[poster], box)
+	still.resize((width, round(still.height * width / still.width))).save(out.with_suffix(".jpg"), quality=85)
 
 
 def main() -> None:
@@ -79,14 +80,15 @@ def main() -> None:
 		name, *rest = spec.split(":")
 		start = float(rest[0]) if rest else 0.0
 		seconds = float(rest[1]) if len(rest) > 1 else 0.0
-		box = tuple(int(v) for v in rest[2].split(",")) if len(rest) > 2 else ()
+		box = tuple(int(v) for v in rest[2].split(",")) if len(rest) > 2 and rest[2] else ()
 		frames = frames_of(clips / name, start, seconds)
 		if not frames:
 			print("make_loops: no frames for %s" % name)
 			continue
+		poster = min(len(frames) - 1, int(float(rest[3]) * 30)) if len(rest) > 3 else len(frames) - 1
 		label = opts.get("as", "") if len(names) == 1 and opts.get("as") else name
-		gif(frames, gifs / (label + ".gif"), box)
-		mp4(frames, out / (label + ".mp4"), box)
+		gif(frames[poster:] + frames[:poster], gifs / (label + ".gif"), box)
+		mp4(frames, out / (label + ".mp4"), box, poster=poster)
 		print("make_loops: %s: %d frames, gif %.1f MB, mp4 %.1f MB" % (label, len(frames),
 			(gifs / (label + ".gif")).stat().st_size / 1e6, (out / (label + ".mp4")).stat().st_size / 1e6))
 

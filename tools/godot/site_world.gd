@@ -44,7 +44,9 @@ const STILLS := {
 }
 
 ## Each clip: a still's set-up, how many seconds it runs, where the party walks ("walk", a square), and the camera's
-## move over the clip: "zoom_to", "tilt_to" (toward the horizon), and "drift" (squares the camera slides, x and z).
+## move over the clip: "zoom_to", "tilt_to" (toward the horizon), "pitch" and "pitch_to" (degrees flatter than the play
+## view), and "drift" (squares the camera slides along its right and forward). "strikes": seconds at which lightning
+## strikes.
 const CLIPS := {
 	"road": {"loc": "into_the_mists_road", "hour": 18, "weather": "fog", "at": [8, 15], "zoom": 11.0, "seconds": 6.0,
 		"walk": [16, 15], "zoom_to": 13.0},
@@ -72,6 +74,16 @@ const CLIPS := {
 	"gif_snow_steps": {"loc": "krezk", "hour": 12, "weather": "snow", "at": [14, 7], "zoom": 8.0, "seconds": 4.0,
 		"walk_by": [-4, 3]},
 	"gif_splash_steps": {"loc": "vallaki", "hour": 19, "weather": "rain", "zoom": 8.0, "seconds": 4.0, "walk_by": [4, -2]},
+	# Cinematic loops (owner, 2026-10-09: "more cinematic", each showing off one of the game's visuals): the party stands
+	# and the camera moves slowly.
+	"loop_castle": {"loc": "village_of_barovia", "hour": 18, "weather": "storm", "zoom": 14.0, "seconds": 7.0,
+		"face": "castle", "zoom_to": 30.0, "tilt_to": 1.0, "strikes": [5.3]},
+	"loop_storm": {"loc": "vallaki", "hour": 21, "weather": "rain", "zoom": 12.5, "zoom_to": 10.0, "pitch_to": 8.0,
+		"drift": [1.5, 0.0], "seconds": 5.0, "strikes": [1.3]},
+	"loop_sunbeams": {"loc": "into_the_mists_road", "hour": 18, "weather": "fog", "at": [12, 15], "zoom": 13.0,
+		"zoom_to": 11.0, "pitch_to": 6.0, "drift": [-2.5, 0.5], "seconds": 6.0},
+	"loop_inn": {"loc": "vallaki_blue_water_inn", "hour": 20, "zoom": 12.0, "zoom_to": 9.5, "pitch_to": 8.0,
+		"seconds": 5.0},
 }
 
 var view: LocationView = null
@@ -170,14 +182,28 @@ func _clip(shot: Dictionary, dir: String) -> void:
 	var z1 := float(shot.get("zoom_to", z0))
 	var h0 := view.rig.horizon
 	var h1 := float(shot.get("tilt_to", h0))
-	var strike := int(float(shot.get("strike_at", -1.0)) * 30.0)
+	var p0 := float(shot.get("pitch", 0.0))
+	var p1 := float(shot.get("pitch_to", p0))
+	var strikes: Array[int] = []
+	for at: Variant in shot.get("strikes", [shot.get("strike_at", -1.0)]):
+		strikes.append(int(float(at) * 30.0))
+	var from := view.rig.global_position
+	var slide := Vector3.ZERO
+	if shot.has("drift"):
+		var by := shot["drift"] as Array
+		var g := view.rig.ground_basis()
+		slide = g[1] * float(by[0]) + g[0] * float(by[1])
+		view.rig.follow = null
 	for i in frames:
-		if i == strike:
+		if i in strikes:
 			view.atmosphere.strike(true)
 		var k := smoothstep(0.0, 1.0, float(i) / float(maxi(frames - 1, 1)))
 		view.rig.distance = lerpf(z0, z1, k)
 		view.rig.horizon = lerpf(h0, h1, k)
 		view.rig.horizon_shown = view.rig.horizon
+		view.rig.shot_pitch = lerpf(p0, p1, k)
+		if shot.has("drift"):
+			view.rig.global_position = from + slide * k
 		await get_tree().process_frame
 		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [dir, i], 0.93)
 	print("capture: %s (%d frames)" % [dir, frames])
