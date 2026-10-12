@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 256" width="288" height="256" font-family="Georgia, serif">
+<rect width="288" height="256" fill="#1a1416"/>
+<rect x="0" y="0" width="288" height="16" fill="#2b2326"/>
+<rect x="0" y="16" width="80" height="16" fill="#2b2326"/>
+<rect x="80" y="16" width="128" height="16" fill="#6f6658"/>
+<rect x="208" y="16" width="80" height="16" fill="#2b2326"/>
+<rect x="0" y="32" width="48" height="16" fill="#2b2326"/>
+<rect x="48" y="32" width="192" height="16" fill="#6f6658"/>
+<rect x="240" y="32" width="48" height="16" fill="#2b2326"/>
+<rect x="0" y="48" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="48" width="224" height="16" fill="#6f6658"/>
+<rect x="256" y="48" width="32" height="16" fill="#2b2326"/>
+<rect x="0" y="64" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="64" width="224" height="16" fill="#6f6658"/>
+<rect x="256" y="64" width="32" height="16" fill="#2b2326"/>
+<rect x="0" y="80" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="80" width="112" height="16" fill="#6f6658"/>
+<rect x="128" y="80" width="32" height="16" fill="#4f4436"/>
+<rect x="160" y="80" width="112" height="16" fill="#6f6658"/>
+<rect x="272" y="80" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="96" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="96" width="96" height="16" fill="#6f6658"/>
+<rect x="112" y="96" width="64" height="16" fill="#4f4436"/>
+<rect x="176" y="96" width="96" height="16" fill="#6f6658"/>
+<rect x="272" y="96" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="112" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="112" width="96" height="16" fill="#6f6658"/>
+<rect x="112" y="112" width="64" height="16" fill="#4f4436"/>
+<rect x="176" y="112" width="96" height="16" fill="#6f6658"/>
+<rect x="272" y="112" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="128" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="128" width="112" height="16" fill="#6f6658"/>
+<rect x="128" y="128" width="32" height="16" fill="#4f4436"/>
+<rect x="160" y="128" width="112" height="16" fill="#6f6658"/>
+<rect x="272" y="128" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="144" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="144" width="224" height="16" fill="#6f6658"/>
+<rect x="256" y="144" width="32" height="16" fill="#2b2326"/>
+<rect x="0" y="160" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="160" width="224" height="16" fill="#6f6658"/>
+<rect x="256" y="160" width="32" height="16" fill="#2b2326"/>
+<rect x="0" y="176" width="48" height="16" fill="#2b2326"/>
+<rect x="48" y="176" width="192" height="16" fill="#6f6658"/>
+<rect x="240" y="176" width="48" height="16" fill="#2b2326"/>
+<rect x="0" y="192" width="80" height="16" fill="#2b2326"/>
+<rect x="80" y="192" width="16" height="16" fill="#6f6658"/>
+<rect x="96" y="192" width="32" height="16" fill="#2b2326"/>
+<rect x="128" y="192" width="32" height="16" fill="#6f6658"/>
+<rect x="160" y="192" width="32" height="16" fill="#2b2326"/>
+<rect x="192" y="192" width="16" height="16" fill="#6f6658"/>
+<rect x="208" y="192" width="80" height="16" fill="#2b2326"/>
+<rect x="0" y="208" width="64" height="16" fill="#2b2326"/>
+<rect x="64" y="208" width="160" height="16" fill="#6f6658"/>
+<rect x="224" y="208" width="64" height="16" fill="#2b2326"/>
+<rect x="0" y="224" width="64" height="16" fill="#2b2326"/>
+<rect x="64" y="224" width="160" height="16" fill="#6f6658"/>
+<rect x="224" y="224" width="64" height="16" fill="#2b2326"/>
+<rect x="0" y="240" width="288" height="16" fill="#2b2326"/>
+<text x="144.0" y="216.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The last landing</text>
+<text x="144.0" y="104.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The Heart of Sorrow</text>
+<circle cx="88.0" cy="232.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
+<text x="88.0" y="236.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">1</text>
+</svg>

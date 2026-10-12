@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 416 208" width="416" height="208" font-family="Georgia, serif">
+<rect width="416" height="208" fill="#1a1416"/>
+<rect x="0" y="0" width="416" height="16" fill="#2b2326"/>
+<rect x="0" y="16" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="16" width="96" height="16" fill="#6f6658"/>
+<rect x="112" y="16" width="16" height="16" fill="#8a6d3b"/>
+<rect x="128" y="16" width="16" height="16" fill="#2b2326"/>
+<rect x="144" y="16" width="112" height="16" fill="#6f6658"/>
+<rect x="256" y="16" width="16" height="16" fill="#2b2326"/>
+<rect x="272" y="16" width="112" height="16" fill="#6f6658"/>
+<rect x="384" y="16" width="16" height="16" fill="#8a6d3b"/>
+<rect x="400" y="16" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="32" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="32" width="384" height="16" fill="#6f6658"/>
+<rect x="400" y="32" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="48" width="400" height="16" fill="#6f6658"/>
+<rect x="400" y="48" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="64" width="400" height="16" fill="#6f6658"/>
+<rect x="400" y="64" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="80" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="80" width="384" height="16" fill="#6f6658"/>
+<rect x="400" y="80" width="16" height="16" fill="#2b2326"/>
+<rect x="0" y="96" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="96" width="384" height="16" fill="#6f6658"/>
+<rect x="400" y="96" width="16" height="16" fill="#2b2326"/>
+<rect x="16" y="112" width="384" height="16" fill="#8a6d3b"/>
+<text x="56.0" y="64.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The end of the walk</text>
+<text x="248.0" y="72.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The overlook</text>
+<circle cx="8.0" cy="56.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
+<text x="8.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">1</text>
+<circle cx="8.0" cy="72.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
+<text x="8.0" y="76.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">2</text>
+</svg>

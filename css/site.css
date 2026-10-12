@@ -100,14 +100,15 @@ strong { color: var(--parchment); font-weight: 600; }
 	border-bottom: 1px solid transparent;
 }
 .nav.is-solid { background: rgba(12, 6, 7, 0.92); border-color: var(--line); padding-top: 10px; padding-bottom: 10px; backdrop-filter: blur(8px); }
-.nav-brand { display: inline-flex; align-items: center; gap: 10px; font: 700 1rem/1 var(--display); letter-spacing: 0.16em; text-transform: uppercase; color: var(--parchment); text-decoration: none; }
+.nav-brand { display: inline-flex; white-space: nowrap; align-items: center; gap: 10px; font: 700 1rem/1 var(--display); letter-spacing: 0.16em; text-transform: uppercase; color: var(--parchment); text-decoration: none; }
 .nav-mark { color: var(--crimson-lit); font-size: 1.2rem; }
 .nav-links { display: flex; align-items: center; gap: clamp(14px, 2.2vw, 30px); }
-.nav-links a { font: 500 0.8rem/1 var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--text); text-decoration: none; }
+.nav-links a { white-space: nowrap; font: 500 0.8rem/1 var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--text); text-decoration: none; }
 .nav-links a:hover { color: var(--gilt-light); }
 .nav-links .nav-cta { border: 1px solid var(--gilt); padding: 10px 16px; border-radius: var(--radius); color: var(--parchment); }
 .nav-toggle { display: none; background: none; border: 1px solid var(--line); color: var(--parchment); font-size: 1.3rem; width: 44px; height: 44px; border-radius: var(--radius); cursor: pointer; }
-@media (max-width: 860px) {
+/* Seven links (with "Wiki (spoilers)") need about 1100px on one line; narrower screens get the menu button. */
+@media (max-width: 1100px) {
 	.nav-toggle { display: block; }
 	.nav-links {
 		position: absolute; top: 100%; left: 0; right: 0;
