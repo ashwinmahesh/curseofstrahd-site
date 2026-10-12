@@ -69,9 +69,7 @@
 <rect x="464" y="144" width="16" height="16" fill="#2b2326"/>
 <rect x="0" y="160" width="16" height="16" fill="#2b2326"/>
 <rect x="16" y="160" width="96" height="16" fill="#6f6658"/>
-<rect x="112" y="160" width="160" height="16" fill="#2b2326"/>
-<rect x="272" y="160" width="96" height="16" fill="#6f6658"/>
-<rect x="368" y="160" width="48" height="16" fill="#2b2326"/>
+<rect x="112" y="160" width="304" height="16" fill="#2b2326"/>
 <rect x="416" y="160" width="16" height="16" fill="#6f6658"/>
 <rect x="432" y="160" width="48" height="16" fill="#2b2326"/>
 <rect x="0" y="176" width="16" height="16" fill="#2b2326"/>
