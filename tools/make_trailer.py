@@ -158,7 +158,7 @@ EDIT_V4 = [
 	{"card": True, "seconds": 12.0},
 ]
 VOICE_V4 = [(1.0, "01", True), (6.3, "02", True), (11.2, "03", True), (18.7, "04", True), (23.7, "05", True),
-	(48.1, "06", True), (62.5, "07", True), (69.4, "08", True), (78.5, "09", False)]
+	(47.8, "06", True), (62.5, "07", True), (69.4, "08", True), (78.5, "09", False)]
 CUTS = {"v1": (EDIT_V1, []), "v2": (EDIT_V2, VOICE_V2), "v3": (EDIT_V3, VOICE_V3), "v4": (EDIT_V4, VOICE_V4)}
 # The game's sound from the Movie Maker run, and how its frames line up (each clip's first frame, from the run's log).
 GAME_SOUND = "build/audio/game_movie.wav"

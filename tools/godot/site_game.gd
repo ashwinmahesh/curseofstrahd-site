@@ -77,11 +77,27 @@ func capture_shots(t: Node, out: String) -> void:
 		if not only.is_empty() and not id in only:
 			continue
 		print("site_game: ", id)
+		_quiet_voices(clips and not id in VOICED)
 		await call(("_clip_" if clips else "_still_") + id)
 	_clear()
 
 
 # --- Set-up ---------------------------------------------------------------------------------------------------------
+
+## The clips whose voices the trailer keeps. Every other clip records its sound effects only: the party's banter on
+## arriving and the fights' narrator lines would talk over Strahd's narration (owner, 2026-10-12).
+const VOICED: Array[String] = ["dialogue", "dialogue_voiced", "eva", "d20_roll", "loop_talk"]
+
+
+func _quiet_voices(on: bool) -> void:
+	var bus := AudioServer.get_bus_index(VoiceOver.BUS)
+	if bus < 0:
+		AudioServer.add_bus()
+		bus = AudioServer.bus_count - 1
+		AudioServer.set_bus_name(bus, VoiceOver.BUS)
+	AudioServer.set_bus_mute(bus, on)
+	if on:
+		VoiceOver.stop()
 
 func _wait(n: int) -> void:
 	await tool.call("wait_frames", n)
