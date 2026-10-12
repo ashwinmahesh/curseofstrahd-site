@@ -107,3 +107,141 @@ details.callout:not([open]) > summary { margin-bottom: 0; }
 @media (max-width: 700px) {
 	.wiki-infobox { float: none; width: auto; margin: 0 0 1.2em; }
 }
+
+/* --- The game-guide look (2026-10-12): page headers, cards, steps, rarity ------------------------------------------ */
+
+/* Section headings with a gilt rule that fades out. */
+.wiki-page h2 { border-bottom: 0; padding-bottom: 8px;
+	background: linear-gradient(90deg, var(--gilt) 0, rgba(176, 138, 62, 0.28) 45%, transparent) left bottom / 100% 1px no-repeat; }
+
+/* The header: what the page is, its title, and for quests and places their screenshot behind it. */
+.wiki-hero { position: relative; margin: 0 0 30px; }
+.wiki-hero h1 { font-size: clamp(2rem, 4.6vw, 3.3rem); line-height: 1.08; margin: 0.12em 0 0.22em; color: var(--parchment); }
+.wiki-eyebrow { font: 700 0.76rem/1.5 var(--display); letter-spacing: 0.18em; text-transform: uppercase;
+	color: var(--gilt-light); margin: 0; }
+.wiki-eyebrow a { color: inherit; text-decoration: none; border-bottom: 1px solid rgba(226, 196, 117, 0.45); }
+.wiki-eyebrow a:hover { border-bottom-color: var(--gilt-light); }
+.wiki-eyebrow span { color: var(--gilt); margin: 0 0.3em; }
+.wiki-lede { font-size: clamp(1.08rem, 1.7vw, 1.28rem); line-height: 1.5; font-style: italic; color: var(--text);
+	margin: 0; max-width: 760px; }
+.wiki-hero:not(.has-pic) { padding-bottom: 16px; border-bottom: 1px solid var(--line); }
+.wiki-hero.has-pic { display: flex; align-items: flex-end; min-height: clamp(250px, 34vw, 420px); overflow: hidden;
+	border: 1px solid var(--line); border-radius: 6px; background: var(--black); box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45); }
+.wiki-hero-pic { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.wiki-hero.has-pic::after { content: ""; position: absolute; inset: 0;
+	background: linear-gradient(180deg, rgba(12, 6, 7, 0) 22%, rgba(12, 6, 7, 0.84) 60%, rgba(12, 6, 7, 0.97)),
+		linear-gradient(90deg, rgba(12, 6, 7, 0.55), rgba(12, 6, 7, 0) 60%); }
+.wiki-hero-text { position: relative; z-index: 1; padding: clamp(18px, 3.2vw, 34px); }
+.wiki-hero.has-pic h1, .wiki-hero.has-pic .wiki-lede, .wiki-hero.has-pic .wiki-eyebrow { text-shadow: 0 2px 14px rgba(0, 0, 0, 0.9); }
+.wiki-hero-home { min-height: clamp(220px, 28vw, 340px); }
+.wiki-hero-home .wiki-hero-pic { object-position: center 35%; }
+
+/* The facts box. */
+.wiki-infobox { padding: 12px; background: linear-gradient(180deg, rgba(79, 20, 32, 0.38), rgba(42, 12, 18, 0.5));
+	box-shadow: 0 10px 28px rgba(0, 0, 0, 0.35); }
+.wiki-infobox dt { text-transform: uppercase; font-size: 0.7rem; letter-spacing: 0.12em; }
+.wiki-infobox dd { font-size: 1rem; line-height: 1.4; }
+.wiki-infobox dl > dd + dt, .wiki-infobox dl > dd + dt + dd { border-top: 1px solid rgba(176, 138, 62, 0.16); padding-top: 6px; }
+.wiki-type-person .wiki-infobox-pic img, .wiki-type-creature .wiki-infobox-pic img { aspect-ratio: 1; object-fit: cover; }
+
+/* Numbered steps: a walkthrough's "Step by step", and any list the page counts through. */
+.wiki-page > ol:not(.wiki-cards) { list-style: none; counter-reset: step; padding-left: 0; display: flow-root; }
+.wiki-page > ol:not(.wiki-cards) > li { counter-increment: step; position: relative; margin: 0 0 12px;
+	padding: 13px 16px 13px 62px; border: 1px solid rgba(176, 138, 62, 0.22); border-radius: 6px; background: rgba(42, 12, 18, 0.35); }
+.wiki-page > ol:not(.wiki-cards) > li::before { content: counter(step); position: absolute; left: 14px; top: 12px;
+	width: 32px; height: 32px; border-radius: 50%; display: grid; place-items: center; font: 700 1rem/1 var(--display);
+	color: var(--ink); background: linear-gradient(180deg, var(--gilt-light), var(--gilt)); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4); }
+.wiki-page > ol:not(.wiki-cards) > li > .wiki-pic { max-width: 100% !important; }
+
+/* A check's difficulty. */
+.wiki-dc { display: inline-block; padding: 0 6px; border-radius: 3px; font: 700 0.74em/1.65 var(--display);
+	letter-spacing: 0.05em; color: var(--ink); background: var(--gilt); vertical-align: 1px; white-space: nowrap; }
+
+/* Folded detail (journal, fight variants, lore). */
+details.callout { padding: 0; }
+details.callout > summary { padding: 11px 16px; }
+details.callout > summary:hover { color: var(--gilt-light); }
+details.callout[open] > summary { border-bottom: 1px solid rgba(176, 138, 62, 0.22); margin-bottom: 10px; }
+details.callout > :not(summary) { margin-left: 16px; margin-right: 16px; }
+details.callout > :last-child { margin-bottom: 12px; }
+
+/* Picture cards: the index pages' lists of places, quests and people. */
+.wiki-cards { list-style: none; margin: 0 0 1.5em; padding: 0; display: grid; gap: 16px;
+	grid-template-columns: repeat(auto-fill, minmax(min(250px, 100%), 1fr)); }
+.wiki-page .wiki-card { margin: 0; display: flex; flex-direction: column; overflow: hidden; border-radius: 6px;
+	border: 1px solid rgba(176, 138, 62, 0.25); background: rgba(42, 12, 18, 0.42); transition: border-color 0.2s, transform 0.2s; }
+.wiki-card:hover { border-color: var(--gilt); transform: translateY(-2px); }
+.wiki-card-pic { display: block; aspect-ratio: 16 / 9; background: var(--black); border-bottom: 1px solid rgba(176, 138, 62, 0.2); }
+.wiki-card-pic img { display: block; width: 100%; height: 100%; object-fit: cover; }
+.wiki-card-pic img.is-portrait { object-fit: contain; background: radial-gradient(circle at 50% 40%, #3a2d44, #1a1220); }
+.wiki-card-text { padding: 12px 14px 14px; }
+.wiki-page .wiki-card-title { font: 700 1.04rem/1.25 var(--display); color: var(--parchment); text-decoration: none; }
+.wiki-page .wiki-card-title:hover { color: var(--gilt-light); }
+.wiki-page .wiki-card-note { margin: 4px 0 0; font-size: 0.9rem; color: var(--muted); }
+.wiki-page .wiki-card-desc { margin: 6px 0 0; font-size: 0.98rem; line-height: 1.45; }
+ol.wiki-cards { counter-reset: card; }
+ol.wiki-cards > .wiki-card { counter-increment: card; position: relative; }
+ol.wiki-cards > .wiki-card::before { content: counter(card); position: absolute; z-index: 1; top: 10px; left: 10px;
+	width: 30px; height: 30px; border-radius: 50%; display: grid; place-items: center; font: 700 0.95rem/1 var(--display);
+	color: var(--ink); background: linear-gradient(180deg, var(--gilt-light), var(--gilt)); box-shadow: 0 2px 8px rgba(0, 0, 0, 0.5); }
+
+/* Thumbnails on table rows (people, creatures, quests, places). */
+.wiki-thumb { display: inline-block; vertical-align: middle; width: 64px; height: 36px; object-fit: cover; margin: -2px 10px 0 0;
+	border-radius: 3px; border: 1px solid rgba(176, 138, 62, 0.3); background: var(--black); }
+.wiki-thumb.is-portrait { width: 34px; height: 34px; border-radius: 50%; }
+
+/* Items, in the colour of their rarity. */
+.r-common { --r: #d3cab7; }
+.r-uncommon { --r: #74d27f; }
+.r-rare { --r: #6fadff; }
+.r-very-rare { --r: #c493ff; }
+.r-legendary { --r: #ffae4f; }
+.r-artifact { --r: #ff7563; }
+.wiki-page a[class^="r-"] { color: var(--r); }
+.wiki-item { margin: 0 0 14px; padding: 2px 18px 8px; border: 1px solid rgba(176, 138, 62, 0.2);
+	border-left: 4px solid var(--r, var(--gilt-dark)); border-radius: 6px; background: rgba(42, 12, 18, 0.3); }
+.wiki-item > h3 { margin-top: 0.55em; color: var(--r, var(--parchment)); }
+.wiki-page .wiki-item-meta { font-size: 0.95rem; color: var(--muted); }
+.wiki-item-meta em { font-style: normal; text-transform: capitalize; color: var(--r, var(--text)); }
+.wiki-item-meta code { letter-spacing: 0.12em; color: var(--parchment); border: 1px dashed var(--gilt-dark); }
+
+/* The front page: a card per part of the wiki. */
+.wiki-type-home .wiki-page { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; align-content: start; }
+.wiki-type-home .wiki-page > :not(.wiki-home-card) { grid-column: 1 / -1; }
+.wiki-type-home .wiki-page > p { margin: 0; font-size: 1.12rem; }
+.wiki-type-home .wiki-spoiler { margin: 0; }
+.wiki-home-card { overflow: hidden; border-radius: 6px; border: 1px solid rgba(176, 138, 62, 0.25); background: rgba(42, 12, 18, 0.42); }
+.wiki-home-pic { display: block; width: 100%; aspect-ratio: 16 / 6; object-fit: cover; border-bottom: 1px solid var(--line); }
+.wiki-page .wiki-home-card h2 { margin: 16px 18px 6px; }
+.wiki-page .wiki-home-card ul { list-style: none; margin: 0 18px 14px; padding: 0; }
+.wiki-page .wiki-home-card li { margin: 0; padding: 9px 0; border-top: 1px solid rgba(176, 138, 62, 0.14); }
+.wiki-home-card li:first-child { border-top: 0; }
+.wiki-home-card li > a:first-child { font: 600 1rem/1.3 var(--display); text-decoration: none; }
+.wiki-home-desc { display: block; font-size: 0.95rem; color: var(--muted); }
+
+/* Where you are in the contents. */
+.wiki-toc a.is-on { color: var(--gilt-light); }
+.wiki-toc li { position: relative; }
+.wiki-toc a.is-on::before { content: ""; position: absolute; left: -17px; top: 0.25em; bottom: 0.25em; width: 2px; background: var(--gilt-light); }
+
+@media (max-width: 760px) {
+	.wiki-type-home .wiki-page { grid-template-columns: minmax(0, 1fr); }
+	.wiki-hero.has-pic { min-height: 230px; }
+	.wiki-page > ol:not(.wiki-cards) > li { padding: 12px 12px 12px 52px; }
+	.wiki-page > ol:not(.wiki-cards) > li::before { left: 10px; width: 30px; height: 30px; }
+	.wiki-item { padding: 2px 14px 8px; }
+}
+.wiki-type-quest .wiki-hero-pic { object-position: center top; }
+.wiki-items { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(340px, 100%), 1fr)); gap: 14px; align-items: start; margin: 0 0 1.4em; }
+.wiki-items > .wiki-item { margin: 0; }
+.wiki-with-thumb { display: flex; align-items: center; gap: 10px; min-width: 180px; }
+.wiki-with-thumb .wiki-thumb { flex: none; margin: 0; }
+@media (max-width: 760px) {
+	/* On a phone the picture sits above the title instead of behind it. */
+	.wiki-hero.has-pic { display: block; min-height: 0; }
+	.wiki-hero.has-pic .wiki-hero-pic { position: static; display: block; height: auto; aspect-ratio: 16 / 9;
+		border-bottom: 1px solid var(--line); }
+	.wiki-hero.has-pic::after { display: none; }
+	.wiki-hero.has-pic .wiki-hero-text { padding: 16px 16px 18px; }
+	.wiki-hero h1 { font-size: 2rem; }
+}

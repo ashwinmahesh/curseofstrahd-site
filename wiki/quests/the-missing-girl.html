@@ -17,13 +17,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=be300721">
-<link rel="stylesheet" href="/css/wiki.css?v=d58dce1f">
+<link rel="stylesheet" href="/css/wiki.css?v=fdd59b6f">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/media/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-quest">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -53,12 +53,10 @@
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+<header class="wiki-hero has-pic"><img class="wiki-hero-pic" src="/wiki/img/shots/quest-missing-arabelle.webp" alt="" fetchpriority="high" decoding="async"><div class="wiki-hero-text"><p class="wiki-eyebrow">Side quest <span aria-hidden="true">·</span> <a href="/wiki/regions/vallaki.html">Vallaki</a> <span aria-hidden="true">·</span> Level 5</p><h1>The Missing Girl</h1><p class="wiki-lede">Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.</p></div></header>
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
-<h1 id="the-missing-girl">The Missing Girl</h1>
-<aside class="wiki-infobox"><div class="wiki-infobox-pic"><img class="wiki-pic" src="/wiki/img/shots/quest-missing-arabelle.webp" alt="quest missing arabelle" loading="lazy" decoding="async" style="max-width: 360px"></div><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/vallaki.html">Vallaki</a> · level 5</dd><dt>Given by</dt><dd><a href="/wiki/people/luvash.html">Luvash</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-vistani-camp.html">The Vistani Camp</a></dd><dt>Rewards</dt><dd><a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray">Cloak of the Manta Ray</a>, 50 gp</dd></dl></aside>
-<h2 id="summary">Summary</h2>
-<p>Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.</p>
+<aside class="wiki-infobox"><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/vallaki.html">Vallaki</a> · level 5</dd><dt>Given by</dt><dd><a href="/wiki/people/luvash.html">Luvash</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-vistani-camp.html">The Vistani Camp</a></dd><dt>Rewards</dt><dd><a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray" class="r-uncommon">Cloak of the Manta Ray</a>, 50 gp</dd></dl></aside>
 <h2 id="walkthrough">Walkthrough</h2>
 <h3 id="getting-the-quest">Getting the quest</h3>
 <p><a href="/wiki/people/luvash.html">Luvash</a> is the one who sets you looking. He sits on the steps of his wagon in <a href="/wiki/locations/the-vistani-camp.html">The Vistani Camp</a>, outside <a href="/wiki/locations/vallaki.html">Vallaki</a>'s west gate, at any hour. The first time you speak to him the quest moves to <em>Asked</em>, whatever you answer. You can hear about him first in several ways (each opens the quest at <em>Rumored</em>):</p>
@@ -75,18 +73,18 @@
 <ul>
 <li><strong>The Vistana at the fire.</strong> Choose "We're looking for Arabelle. Did you see anything?" She saw Bluto, the fisherman from town, walking the shore last night with a moving sack. The journal moves to <em>Clue</em>.</li>
 <li><strong>The camp dog</strong>, with Speak with Animals. It saw her carried off in a sack and tells you the same thing (<em>Clue</em>).</li>
-<li><strong>"Marks in the mud"</strong> on the lakeshore by Luvash's wagon, a hidden spot you find with a search (DC 12). This doesn't change the journal, but it's enough to bring Bluto out.</li>
+<li><strong>"Marks in the mud"</strong> on the lakeshore by Luvash's wagon, a hidden spot you find with a search (<span class="wiki-dc">DC&nbsp;12</span>). This doesn't change the journal, but it's enough to bring Bluto out.</li>
 </ul></li>
 <li><strong>Stop Bluto.</strong> <a href="/wiki/people/bluto-krogarov.html">Bluto Krogarov</a> is now wading into the lake at the north edge of the camp, by the nets, with a kicking sack on his shoulder. When you get within six squares he speaks first. There's no way to walk away from this conversation. You have three choices:
 <ul>
-<li><strong>Persuasion DC 13</strong>: talk him back to the shore.</li>
-<li><strong>Intimidation DC 13</strong>: tell him what happens if he lets go.</li>
-<li><strong>Athletics DC 12</strong>: charge in and grab the sack.</li>
+<li><strong>Persuasion <span class="wiki-dc">DC&nbsp;13</span></strong>: talk him back to the shore.</li>
+<li><strong>Intimidation <span class="wiki-dc">DC&nbsp;13</span></strong>: tell him what happens if he lets go.</li>
+<li><strong>Athletics <span class="wiki-dc">DC&nbsp;12</span></strong>: charge in and grab the sack.</li>
 </ul>
 <p>If any of these works, you have Arabelle. If it fails, he throws the sack into deep water.</p></li>
-<li><strong>If he throws it, dive.</strong> The game picks your best swimmer for an <strong>Athletics DC 13</strong> check. If that fails, your most perceptive hero gets a second try with <strong>Perception DC 12</strong>. If either passes, Arabelle is saved. If both fail, she's lost for good.
+<li><strong>If he throws it, dive.</strong> The game picks your best swimmer for an <strong>Athletics <span class="wiki-dc">DC&nbsp;13</span></strong> check. If that fails, your most perceptive hero gets a second try with <strong>Perception <span class="wiki-dc">DC&nbsp;12</span></strong>. If either passes, Arabelle is saved. If both fail, she's lost for good.
 <p><img class="wiki-pic" src="/wiki/img/cutscenes/arabelle-dive.webp" alt="arabelle dive" loading="lazy" decoding="async" style="max-width: 480px"></p></li>
-<li><strong>Take her home.</strong> Once she's rescued she sits on her father's knee by his wagon. Talk to Luvash and he gives you <strong>50 gp</strong> and his grandmother's <a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray">Cloak of the Manta Ray</a>. If Madam Eva's reading hid one of the three treasures in his chest (the Tax Collector card), he then opens it, since it wouldn't open for him while she was gone, and gives you the treasure too.</li>
+<li><strong>Take her home.</strong> Once she's rescued she sits on her father's knee by his wagon. Talk to Luvash and he gives you <strong>50 gp</strong> and his grandmother's <a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray" class="r-uncommon">Cloak of the Manta Ray</a>. If Madam Eva's reading hid one of the three treasures in his chest (the Tax Collector card), he then opens it, since it wouldn't open for him while she was gone, and gives you the treasure too.</li>
 </ol>
 <h3 id="choices-and-endings">Choices and endings</h3>
 <ul>
@@ -104,7 +102,7 @@
 </ul>
 <h2 id="rewards">Rewards</h2>
 <ul>
-<li><a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray">Cloak of the Manta Ray</a></li>
+<li><a href="/wiki/items/magic-items.html#cloak-of-the-manta-ray" class="r-uncommon">Cloak of the Manta Ray</a></li>
 <li>50 gp</li>
 </ul>
 <p><strong>What your companions think</strong></p>
@@ -126,13 +124,13 @@
 <p><strong>Rescued</strong> (the end: success): We pulled Arabelle out of Bluto the fisherman's sack before the lake could have her, and brought her home to Luvash.</p>
 <p><strong>Lost</strong> (the end: failure): We were too slow. The lake closed over Bluto's sack, and Luvash's camp mourns a daughter it will never bury.</p></details>
 <details class="callout callout-abstract"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Every skill check in its conversations</summary><ul>
-<li>Insight DC 15: There's something he's not saying.</li>
-<li>Insight DC 15: What does he want with Ireena?</li>
-<li>Persuasion DC 13: Talk him back to the shore.</li>
-<li>Intimidation DC 13: Tell him exactly what happens to him if he lets go of that sack.</li>
-<li>Athletics DC 12: Charge into the water and grab the sack.</li>
-<li>Athletics DC 13: (rolled in the scene)</li>
-<li>Perception DC 12: (rolled in the scene)</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;15</span>: There's something he's not saying.</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;15</span>: What does he want with Ireena?</li>
+<li>Persuasion <span class="wiki-dc">DC&nbsp;13</span>: Talk him back to the shore.</li>
+<li>Intimidation <span class="wiki-dc">DC&nbsp;13</span>: Tell him exactly what happens to him if he lets go of that sack.</li>
+<li>Athletics <span class="wiki-dc">DC&nbsp;12</span>: Charge into the water and grab the sack.</li>
+<li>Athletics <span class="wiki-dc">DC&nbsp;13</span>: (rolled in the scene)</li>
+<li>Perception <span class="wiki-dc">DC&nbsp;12</span>: (rolled in the scene)</li>
 </ul></details>
 <h2 id="related">Related</h2>
 <ul>
@@ -143,7 +141,7 @@
 <details class="callout callout-example"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Cutscenes</summary><p><strong>Under the Black Water</strong>: A dive into Lake Zarovich after the sack sinking into the dark.<br>
 <img class="wiki-pic" src="/wiki/img/cutscenes/arabelle-dive.webp" alt="arabelle dive" loading="lazy" decoding="async" style="max-width: 420px"></p></details>
       </article>
-      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#summary">Summary</a></li><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
+      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
     </div>
   </div>
 </main>
@@ -173,6 +171,6 @@
 </footer>
 
 <script src="/js/site.js?v=3dd4a2a6" defer></script>
-<script src="/wiki/wiki.js?v=b2b2db75" defer></script>
+<script src="/wiki/wiki.js?v=538558eb" defer></script>
 </body>
 </html>

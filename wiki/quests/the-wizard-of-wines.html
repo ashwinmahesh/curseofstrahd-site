@@ -17,13 +17,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=be300721">
-<link rel="stylesheet" href="/css/wiki.css?v=d58dce1f">
+<link rel="stylesheet" href="/css/wiki.css?v=fdd59b6f">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/media/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-quest">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -53,12 +53,10 @@
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+<header class="wiki-hero has-pic"><img class="wiki-hero-pic" src="/wiki/img/shots/quest-wizard-of-wines.webp" alt="" fetchpriority="high" decoding="async"><div class="wiki-hero-text"><p class="wiki-eyebrow">Side quest <span aria-hidden="true">·</span> <a href="/wiki/regions/the-wizard-of-wines.html">The Wizard of Wines</a> <span aria-hidden="true">·</span> Level 6</p><h1>The Wizard of Wines</h1><p class="wiki-lede">Druids from Yester Hill have driven the Martikov family out of their winery and taken the magic gems, the family&#x27;s three vine stones, that keep its vines alive.</p></div></header>
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
-<h1 id="the-wizard-of-wines">The Wizard of Wines</h1>
-<aside class="wiki-infobox"><div class="wiki-infobox-pic"><img class="wiki-pic" src="/wiki/img/shots/quest-wizard-of-wines.webp" alt="quest wizard of wines" loading="lazy" decoding="async" style="max-width: 360px"></div><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/the-wizard-of-wines.html">The Wizard of Wines</a> · level 6</dd><dt>Given by</dt><dd><a href="/wiki/people/davian-martikov.html">Davian Martikov</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-wizard-of-wines.html">The Wizard of Wines</a></dd><dt>Rewards</dt><dd>10 gp, a level (milestone)</dd></dl></aside>
-<h2 id="summary">Summary</h2>
-<p>Druids from Yester Hill have driven the Martikov family out of their winery and taken the magic gems, the family's three vine stones, that keep its vines alive.</p>
+<aside class="wiki-infobox"><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/the-wizard-of-wines.html">The Wizard of Wines</a> · level 6</dd><dt>Given by</dt><dd><a href="/wiki/people/davian-martikov.html">Davian Martikov</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-wizard-of-wines.html">The Wizard of Wines</a></dd><dt>Rewards</dt><dd>10 gp, a level (milestone)</dd></dl></aside>
 <h2 id="walkthrough">Walkthrough</h2>
 <h3 id="getting-the-quest">Getting the quest</h3>
 <p>You don't need a rumour to start. <a href="/wiki/locations/the-wizard-of-wines.html">The Wizard of Wines</a> is on the travel map from the beginning, three hours west of <a href="/wiki/locations/vallaki.html">Vallaki</a> along the lake road, and the region expects a party of about level 6. Several people will tell you the wine has stopped first:</p>
@@ -83,8 +81,8 @@
 <li><strong>Around the camp (optional).</strong>
 <ul>
 <li><a href="/wiki/people/stefania-martikov.html">Stefania Martikov</a>, at the cook-pot, tells you about her dead brother if you say "Your father won't speak of Elvir." That starts <a href="/wiki/quests/the-son-who-didnt-fly.html">The Son Who Didn&#x27;t Fly</a>.</li>
-<li>At the camp fire, <strong>Performance DC 13</strong> ("Sing with the Martikovs at the fire") earns Heroic Inspiration.</li>
-<li>At the dead tree full of ravens, at the east end of the foot of the lane, <strong>Persuasion DC 14</strong> ("Ask the ravens for their help") shows you their hoard in the trunk: a <a href="/wiki/items/magic-items.html#ring-of-feather-falling">Ring of Feather Falling</a> (search DC 15).</li>
+<li>At the camp fire, <strong>Performance <span class="wiki-dc">DC&nbsp;13</span></strong> ("Sing with the Martikovs at the fire") earns Heroic Inspiration.</li>
+<li>At the dead tree full of ravens, at the east end of the foot of the lane, <strong>Persuasion <span class="wiki-dc">DC&nbsp;14</span></strong> ("Ask the ravens for their help") shows you their hoard in the trunk: a <a href="/wiki/items/magic-items.html#ring-of-feather-falling" class="r-rare">Ring of Feather Falling</a> (search <span class="wiki-dc">DC&nbsp;15</span>).</li>
 <li>With Speak with Animals running, any of the three ravens around the camp and the yard tells you where the druids came from, where Davian hid his stone, where the stolen one went, and where that ring is.</li>
 </ul></li>
 <li><strong>The lane (<code>vineyard_ambush</code>).</strong> When you step onto the lane between the vines, the rows stand up and you're surprised.
@@ -96,10 +94,10 @@
 <p>It's a Low fight for your level. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. If you've already burned the tree on Yester Hill, there's no ambush at all.</p>
 <p>Finds on the way up the lane and in the yard:</p>
 <ul>
-<li><strong>Search DC 12</strong> between the west rows: a <a href="/wiki/items/magic-items.html#moon-sickle-1">Moon Sickle, +1</a> the druids dropped.</li>
-<li><strong>Nature DC 14</strong> at the withered vines at the top of the lane: traces the blight west to a gully at the foot of Yester Hill and reveals a druid's cache there.</li>
-<li><strong>Athletics DC 13</strong> at the well ("Climb down inside the well"; 1d6 bludgeoning if you fail): you come back up with the <a href="/wiki/items/magic-items.html#rope-of-climbing">Rope of Climbing</a> that was tied below the lip. Without the climb, it's a search DC 13.</li>
-<li><strong>Search DC 13</strong> behind the casks by the winery door: an <a href="/wiki/items/magic-items.html#eversmoking-bottle">Eversmoking Bottle</a>.</li>
+<li><strong>Search <span class="wiki-dc">DC&nbsp;12</span></strong> between the west rows: a <a href="/wiki/items/magic-items.html#moon-sickle-1" class="r-uncommon">Moon Sickle, +1</a> the druids dropped.</li>
+<li><strong>Nature <span class="wiki-dc">DC&nbsp;14</span></strong> at the withered vines at the top of the lane: traces the blight west to a gully at the foot of Yester Hill and reveals a druid's cache there.</li>
+<li><strong>Athletics <span class="wiki-dc">DC&nbsp;13</span></strong> at the well ("Climb down inside the well"; 1d6 bludgeoning if you fail): you come back up with the <a href="/wiki/items/magic-items.html#rope-of-climbing" class="r-uncommon">Rope of Climbing</a> that was tied below the lip. Without the climb, it's a search <span class="wiki-dc">DC&nbsp;13</span>.</li>
+<li><strong>Search <span class="wiki-dc">DC&nbsp;13</span></strong> behind the casks by the winery door: an <a href="/wiki/items/magic-items.html#eversmoking-bottle" class="r-uncommon">Eversmoking Bottle</a>.</li>
 </ul></li>
 <li><strong>The fermenting hall (<code>winery_occupation</code>).</strong> Go through the tasting room. The fight starts as soon as you walk into the fermenting hall.
 <ul>
@@ -112,16 +110,16 @@
 <p>After the fight, loot the hall and the office:</p>
 <ul>
 <li>The druids' bedrolls: 2 <a href="/wiki/items/equipment.html#bedroll">Bedroll</a>s, a <a href="/wiki/items/equipment.html#herbalism-kit">Herbalism Kit</a>, a <a href="/wiki/items/equipment.html#druidic-focus-sprig-of-mistletoe">Druidic Focus (Sprig of Mistletoe)</a> and 12 gp.</li>
-<li><strong>Search DC 15</strong> among the pried-up floorboards: the <a href="/wiki/items/magic-items.html#elemental-gem-emerald">Elemental Gem (Emerald)</a> the druids missed.</li>
+<li><strong>Search <span class="wiki-dc">DC&nbsp;15</span></strong> among the pried-up floorboards: the <a href="/wiki/items/magic-items.html#elemental-gem-emerald" class="r-uncommon">Elemental Gem (Emerald)</a> the druids missed.</li>
 <li>The bottling room: a shelf of bottles, oil and candles.</li>
-<li>Davian's office: his ledger, and his strongbox (lock DC 15, 60 gp). Opening it is up to you, but Davian notices once he's home (see <em>Choices and endings</em>).</li>
+<li>Davian's office: his ledger, and his strongbox (lock <span class="wiki-dc">DC&nbsp;15</span>, 60 gp). Opening it is up to you, but Davian notices once he's home (see <em>Choices and endings</em>).</li>
 </ul>
 <p>The winery is a safe place to rest.</p>
 <p><img class="wiki-pic" src="/wiki/img/shots/loc-wizard-of-wines-cellar-1.webp" alt="loc wizard of wines cellar 1" loading="lazy" decoding="async" style="max-width: 600px"></p></li>
-<li><strong>The cellar and the founder's cask.</strong> The stair down is in the far corner of the fermenting hall. The great black cask at the foot of the stair is the founder's cask. If Davian or a raven told you the trick, pick "Turn the third hoop and pull." Otherwise you need <strong>Investigation DC 14</strong>. A miss only ends the scene, so you can try again or go back and ask Davian. Inside, wrapped in an old shirt, is the first stone.
+<li><strong>The cellar and the founder's cask.</strong> The stair down is in the far corner of the fermenting hall. The great black cask at the foot of the stair is the founder's cask. If Davian or a raven told you the trick, pick "Turn the third hoop and pull." Otherwise you need <strong>Investigation <span class="wiki-dc">DC&nbsp;14</span></strong>. A miss only ends the scene, so you can try again or go back and ask Davian. Inside, wrapped in an old shirt, is the first stone.
 <p>Also in the cellar:</p>
 <ul>
-<li><strong>Investigation DC 14</strong> (a search) on the founder's cask: a stave that opens onto an <a href="/wiki/items/magic-items.html#alchemy-jug">Alchemy Jug</a>.</li>
+<li><strong>Investigation <span class="wiki-dc">DC&nbsp;14</span></strong> (a search) on the founder's cask: a stave that opens onto an <a href="/wiki/items/magic-items.html#alchemy-jug" class="r-uncommon">Alchemy Jug</a>.</li>
 <li>The hollow-sounding cask in the vaults: a <a href="/wiki/items/equipment.html#pouch">Pouch</a> and 9 gp, plus the Tarokka treasure if Madam Eva's reading put one in the cellar.</li>
 <li>The rack of old vintages: bottles and a jug.</li>
 </ul>
@@ -133,12 +131,12 @@
 <li>Level 7: the druid, 2 vine blights and 8 needle blights.</li>
 <li>After the tree burns: the overseer alone, at 35 HP.</li>
 </ul>
-<p>Afterwards a druid's pack by the dig holds a <a href="/wiki/items/equipment.html#potion-of-healing">Potion of Healing</a>, a shovel, a lamp and 10 gp. You don't need this fight to clear the house.</p></li>
+<p>Afterwards a druid's pack by the dig holds a <a href="/wiki/items/equipment.html#potion-of-healing" class="r-common">Potion of Healing</a>, a shovel, a lamp and 10 gp. You don't need this fight to clear the house.</p></li>
 <li><strong>The press house and Kostin (<code>press_house_mash</code>).</strong> The press house is the tall barn on the east side of the yard. <a href="/wiki/people/kostin.html">Kostin</a>, the young druid holding the winery, speaks to you when you come near. Every choice ends in the same fight against the Mash, a <a href="/wiki/bestiary/shambling-mound.html">Shambling Mound</a> grown in a vat. What you pick decides whether Kostin fights too, and what waits for you on the hill:
 <ul>
 <li>"Then we'll take it back." Kostin fights.</li>
-<li><strong>Intimidation DC 15</strong> ("Run back to your hill, boy"): he bolts west to warn the hill. He's out of this fight, but the gully up Yester Hill gets harder and he's in the summit fight. If the roll fails, he fights here.</li>
-<li><strong>Nature DC 14</strong> ("He's a tenant", Thistle +1), the <strong>[Druid]</strong> option (no roll; that druid earns Heroic Inspiration) or <strong>Persuasion DC 16</strong> ("Walk away"): he loses his faith and walks off west. He's out of this fight, and later he waits at the foot of Yester Hill to help you. If either roll fails, he fights here.</li>
+<li><strong>Intimidation <span class="wiki-dc">DC&nbsp;15</span></strong> ("Run back to your hill, boy"): he bolts west to warn the hill. He's out of this fight, but the gully up Yester Hill gets harder and he's in the summit fight. If the roll fails, he fights here.</li>
+<li><strong>Nature <span class="wiki-dc">DC&nbsp;14</span></strong> ("He's a tenant", Thistle +1), the <strong>[Druid]</strong> option (no roll; that druid earns Heroic Inspiration) or <strong>Persuasion <span class="wiki-dc">DC&nbsp;16</span></strong> ("Walk away"): he loses his faith and walks off west. He's out of this fight, and later he waits at the foot of Yester Hill to help you. If either roll fails, he fights here.</li>
 <li>"What's on Yester Hill?" (once) tells you about the effigy and the stone it needs for a heart.</li>
 </ul>
 <p>The fight depends on your level and on Kostin:</p>
@@ -149,20 +147,20 @@
 <li>If Kostin left: the Mash, 2 vine blights and 3 needle blights instead.</li>
 <li>If the tree has burned: Kostin and the Mash, or the Mash alone if he left.</li>
 </ul>
-<p>The Mash is the real threat. Lightning <em>heals</em> it, it resists fire and cold, and its Engulf (DC 15 Strength save) swallows a Medium or smaller hero, who is then blinded, restrained and shocked every turn. Keep your casters out of its reach, and kill it quickly when it has someone inside.</p>
+<p>The Mash is the real threat. Lightning <em>heals</em> it, it resists fire and cold, and its Engulf (<span class="wiki-dc">DC&nbsp;15</span> Strength save) swallows a Medium or smaller hero, who is then blinded, restrained and shocked every turn. Keep your casters out of its reach, and kill it quickly when it has someone inside.</p>
 <p>After the fight:</p>
 <ul>
 <li>Kostin's satchel, if he fought you here: Herbalism Kit, Potion of Healing and 18 gp.</li>
 <li>Ruxandra's letter, pinned with a thorn, and the tally board.</li>
 <li>A tool chest: <a href="/wiki/items/equipment.html#carpenters-tools">Carpenter&#x27;s Tools</a>, a <a href="/wiki/items/equipment.html#crowbar">Crowbar</a> and a <a href="/wiki/items/equipment.html#rope">Rope</a>.</li>
 <li>The wizard's rack on the east wall: a jug and 8 gp, plus the Tarokka treasure if it's here.</li>
-<li><strong>Search DC 14</strong> behind the wizard's casks: a <a href="/wiki/items/magic-items.html#decanter-of-endless-water">Decanter of Endless Water</a>.</li>
+<li><strong>Search <span class="wiki-dc">DC&nbsp;14</span></strong> behind the wizard's casks: a <a href="/wiki/items/magic-items.html#decanter-of-endless-water" class="r-uncommon">Decanter of Endless Water</a>.</li>
 </ul></li>
 <li><strong>Tell Davian.</strong> Back at the camp, "The druids are out of your house." appears once you've won both the fermenting hall and the press house. The family goes home and the quest moves to <em>Reclaimed</em>. From now on Davian stands in the yard, Stefania is by the house and Adrian scrubs vats in the fermenting hall.
 <p>Now pick "Your stone, from the founder's cask." Davian presses it into the soil and a dead vine puts out a leaf. Because the house is his again, the press will run, and you choose where the <strong>first cart</strong> of wine goes: Vallaki, the village under the castle, or Krezk. After that:</p>
 <ul>
 <li>Davian sells three wines ("We'd like to buy some of your wine.").</li>
-<li>Stefania gives you her grandmother's <a href="/wiki/items/magic-items.html#periapt-of-wound-closure">Periapt of Wound Closure</a> ("You've got your kitchen back.").</li>
+<li>Stefania gives you her grandmother's <a href="/wiki/items/magic-items.html#periapt-of-wound-closure" class="r-uncommon">Periapt of Wound Closure</a> ("You've got your kitchen back.").</li>
 </ul>
 <p><img class="wiki-pic" src="/wiki/img/cutscenes/vines-gem.webp" alt="vines gem" loading="lazy" decoding="async" style="max-width: 480px"></p></li>
 <li><strong>Yester Hill.</strong> The hill is two hours west along the barrow track. The road there (and the road from Vallaki) can throw hedge blights at you until the tree burns, druid patrols until the hill is broken, and wolves at night.
@@ -171,26 +169,26 @@
 <ul>
 <li><strong>Kostin</strong>, if you talked him out of his faith. He's sitting by the track. He tells you about the unwatched gully and that the stone is in the effigy's chest. "Go home, Kostin." sends him on his way (Liriel Dawnsong and Wren Featherfoot +1).</li>
 <li><strong><a href="/wiki/people/freydis.html">Freydis</a></strong>, from level 7, sitting by the oldest mound. She starts <a href="/wiki/quests/the-barrow-on-yester-hill.html">The Barrow on Yester Hill</a>.</li>
-<li><strong>The back gully</strong>, at the west end of the hill foot. At "The mouth of a gully" you get one <strong>Stealth DC 13</strong> roll to find a quiet way up, or DC 16 if Kostin ran to warn them. Success means you reach the crown unseen. Failure means the hill hears you coming.</li>
+<li><strong>The back gully</strong>, at the west end of the hill foot. At "The mouth of a gully" you get one <strong>Stealth <span class="wiki-dc">DC&nbsp;13</span></strong> roll to find a quiet way up, or <span class="wiki-dc">DC&nbsp;16</span> if Kostin ran to warn them. Success means you reach the crown unseen. Failure means the hill hears you coming.</li>
 </ul>
 <p>On the hill's shoulder:</p>
 <ul>
-<li><strong>The wardens' camp</strong>, west of the path, is optional. Walking in starts a fight with painted wild men (<a href="/wiki/bestiary/berserker.html">Berserker</a>s: 2, 3 or 4 depending on your level) and 4 twig blights. Elvir's message is on a cage post there (see <a href="/wiki/quests/the-son-who-didnt-fly.html">The Son Who Didn&#x27;t Fly</a>). So is the wardens' hoard: a <a href="/wiki/items/magic-items.html#berserker-axe">Berserker Axe</a>, 2 handaxes, rations, hide armour and 34 gp.</li>
+<li><strong>The wardens' camp</strong>, west of the path, is optional. Walking in starts a fight with painted wild men (<a href="/wiki/bestiary/berserker.html">Berserker</a>s: 2, 3 or 4 depending on your level) and 4 twig blights. Elvir's message is on a cage post there (see <a href="/wiki/quests/the-son-who-didnt-fly.html">The Son Who Didn&#x27;t Fly</a>). So is the wardens' hoard: a <a href="/wiki/items/magic-items.html#berserker-axe" class="r-rare">Berserker Axe</a>, 2 handaxes, rations, hide armour and 34 gp.</li>
 </ul>
 <p>Searches and checks on the hill:</p>
 <ul>
-<li><strong>Search DC 15</strong> under the cage floor: a <a href="/wiki/items/magic-items.html#sword-of-life-stealing">Sword of Life Stealing</a>.</li>
-<li><strong>Investigation DC 15</strong> in the gully: a <a href="/wiki/items/magic-items.html#wand-of-paralysis">Wand of Paralysis</a>.</li>
-<li><strong>History DC 14</strong> at the grave mounds on the barrow slope: reveals an <a href="/wiki/items/magic-items.html#amulet-of-the-devout-2">Amulet of the Devout, +2</a> (search DC 14).</li>
-<li><strong>Medicine DC 14</strong> at the bone cairn: reveals <a href="/wiki/items/magic-items.html#bracers-of-archery">Bracers of Archery</a> (search DC 15).</li>
+<li><strong>Search <span class="wiki-dc">DC&nbsp;15</span></strong> under the cage floor: a <a href="/wiki/items/magic-items.html#sword-of-life-stealing" class="r-rare">Sword of Life Stealing</a>.</li>
+<li><strong>Investigation <span class="wiki-dc">DC&nbsp;15</span></strong> in the gully: a <a href="/wiki/items/magic-items.html#wand-of-paralysis" class="r-rare">Wand of Paralysis</a>.</li>
+<li><strong>History <span class="wiki-dc">DC&nbsp;14</span></strong> at the grave mounds on the barrow slope: reveals an <a href="/wiki/items/magic-items.html#amulet-of-the-devout-2" class="r-rare">Amulet of the Devout, +2</a> (search <span class="wiki-dc">DC&nbsp;14</span>).</li>
+<li><strong>Medicine <span class="wiki-dc">DC&nbsp;14</span></strong> at the bone cairn: reveals <a href="/wiki/items/magic-items.html#bracers-of-archery" class="r-uncommon">Bracers of Archery</a> (search <span class="wiki-dc">DC&nbsp;15</span>).</li>
 </ul>
 <p>The path runs straight up the middle of the hill to the crown.</p>
 <p><img class="wiki-pic" src="/wiki/img/shots/loc-yester-hill-overview.webp" alt="loc yester hill overview" loading="lazy" decoding="async" style="max-width: 600px"></p></li>
 <li><strong>The crown (<code>summit_ritual</code>).</strong> <a href="/wiki/people/mother-ruxandra.html">Mother Ruxandra</a> stands with her hands on the chest of a forty-foot earthen effigy of the lord of the castle, and her circle hums around a black tree. If you came up the gully unseen, you can pick "Strike now, while they chant." Otherwise she talks, and you choose:
 <ul>
 <li>"We're taking the stone. Stand aside or don't." starts the fight.</li>
-<li><strong>Intimidation DC 17</strong>: the whole circle runs, Ruxandra too. You still fight, but only against Wintersplinter and twig blights.</li>
-<li><strong>Religion DC 15</strong>: the other druids lose their nerve and leave. Ruxandra stays.</li>
+<li><strong>Intimidation <span class="wiki-dc">DC&nbsp;17</span></strong>: the whole circle runs, Ruxandra too. You still fight, but only against Wintersplinter and twig blights.</li>
+<li><strong>Religion <span class="wiki-dc">DC&nbsp;15</span></strong>: the other druids lose their nerve and leave. Ruxandra stays.</li>
 <li>"A raven-man died on this hill last spring." (only if Stefania told you about Elvir) and "What is that tree?" cost nothing.</li>
 </ul>
 <p>A failed Intimidation or Religion roll goes straight to the fight. The effigy splits open and <strong>Wintersplinter</strong>, a Huge <a href="/wiki/bestiary/tree-blight.html">Tree Blight</a>, walks out of it. Who fights beside it depends on how you got here (the first match wins):</p>
@@ -203,15 +201,15 @@
 <li><strong>Otherwise, level 6:</strong> Wintersplinter (140 HP), Ruxandra and 6 twig blights.</li>
 <li><strong>Otherwise, below level 6:</strong> Wintersplinter (110 HP), Ruxandra (50 HP), a druid and 4 twig blights.</li>
 </ul>
-<p>This is a Moderate fight and the hardest on the quest's main line. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.</p>
+<p>This is a Moderate fight and the hardest on the quest's main line. Wintersplinter has 15-foot reach. Its Grasping Root (<span class="wiki-dc">DC&nbsp;17</span> Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.</p>
 <p><img class="wiki-pic" src="/wiki/img/cutscenes/yester-wintersplinter.webp" alt="yester wintersplinter" loading="lazy" decoding="async" style="max-width: 480px"></p></li>
 <li><strong>After the fight on the crown.</strong>
 <ul>
 <li><strong>Ruxandra</strong> lies among the roots, unless she fled. "Go. Crawl off this hill and don't come back." spares her (Liriel and Wren +2). "End it." kills her (Thistle +1, Liriel and Wren −1). If Stefania told you about Elvir, you can ask about the raven-man first.</li>
 <li><strong>The black tree.</strong> "Burn it. Use their own fire." (Thistle +2, Liriel and Godrick +1) kills every blight in the region and leaves the stone clean. "Leave it standing." costs Thistle −1. See <em>Choices and endings</em> for what each one changes.</li>
 <li><strong>The splintered heartwood</strong> holds the second stone. Take it.</li>
-<li><strong>The bones among the roots</strong> are Elvir's. "Cut him free. He's going home." takes him home for burial (Liriel +2, Godrick and Kip +1). Speak with Dead (already running, or cast here) and <strong>Medicine DC 12</strong> (one try) tell you how he died.</li>
-<li><strong>Loot:</strong> the druids' offerings (Herbalism Kit, 2 Potions of Healing, a <a href="/wiki/items/equipment.html#druidic-focus-wooden-staff">Druidic Focus (Wooden Staff)</a> and 25 gp); the roots at the trunk (a dagger, a shortsword and 41 gp, plus the Tarokka treasure if it's here); and <strong>Investigation DC 16</strong> at the heartwood for a <a href="/wiki/items/magic-items.html#staff-of-withering">Staff of Withering</a>.</li>
+<li><strong>The bones among the roots</strong> are Elvir's. "Cut him free. He's going home." takes him home for burial (Liriel +2, Godrick and Kip +1). Speak with Dead (already running, or cast here) and <strong>Medicine <span class="wiki-dc">DC&nbsp;12</span></strong> (one try) tell you how he died.</li>
+<li><strong>Loot:</strong> the druids' offerings (Herbalism Kit, 2 Potions of Healing, a <a href="/wiki/items/equipment.html#druidic-focus-wooden-staff">Druidic Focus (Wooden Staff)</a> and 25 gp); the roots at the trunk (a dagger, a shortsword and 41 gp, plus the Tarokka treasure if it's here); and <strong>Investigation <span class="wiki-dc">DC&nbsp;16</span></strong> at the heartwood for a <a href="/wiki/items/magic-items.html#staff-of-withering" class="r-rare">Staff of Withering</a>.</li>
 </ul></li>
 <li><strong>Home again.</strong> Talk to Davian. If he's travelling with you, use Stefania's "We have news for the family." instead. Report in any order:
 <ul>
@@ -223,11 +221,11 @@
 <p>If you broke the hill before clearing the house, Davian moves the quest to <em>Hill Broken</em> and sends you back to the winery. The milestone then comes when you report the reclaiming.</p>
 <p><img class="wiki-pic" src="/wiki/img/cutscenes/vines-feast.webp" alt="vines feast" loading="lazy" decoding="async" style="max-width: 480px"></p></li>
 </ol>
-<div class="callout callout-tip"><p class="callout-title"><span class="callout-icon" aria-hidden="true">✧</span>Speak with Plants: the last green row</p><p>While the druids hold the winery, the last green row of vines tells you the blights and a singing man in a cloak of leaves came down from the hill with the black tree last night. That puts <a href="/wiki/locations/yester-hill.html">Yester Hill</a> on the travel map if it wasn't already. The druid dropped his sickle between the roots fighting off the ravens: a <a href="/wiki/items/magic-items.html#moon-sickle-1">Moon Sickle, +1</a> shows on the map (Search DC 12 without the vines). Once the winery is reclaimed, the vines only mention the family walking the rows.</p></div>
+<div class="callout callout-tip"><p class="callout-title"><span class="callout-icon" aria-hidden="true">✧</span>Speak with Plants: the last green row</p><p>While the druids hold the winery, the last green row of vines tells you the blights and a singing man in a cloak of leaves came down from the hill with the black tree last night. That puts <a href="/wiki/locations/yester-hill.html">Yester Hill</a> on the travel map if it wasn't already. The druid dropped his sickle between the roots fighting off the ravens: a <a href="/wiki/items/magic-items.html#moon-sickle-1" class="r-uncommon">Moon Sickle, +1</a> shows on the map (Search <span class="wiki-dc">DC&nbsp;12</span> without the vines). Once the winery is reclaimed, the vines only mention the family walking the rows.</p></div>
 <h3 id="choices-and-endings">Choices and endings</h3>
 <p>The quest has one ending, <em>Saved</em>, and its reward is the milestone level. Everything else changes what the family, the valley and your companions remember:</p>
 <ul>
-<li><strong>Kostin.</strong> If you talked him round, he helps you at the foot of the hill and becomes one of the possible planters in <a href="/wiki/quests/the-druid-who-came-back.html">The Druid Who Came Back</a>. If you scared him off, the hill is warned: the gully goes up to DC 16, and he fights at the summit with two extra druids. If he died in the press house, that's the end of him.</li>
+<li><strong>Kostin.</strong> If you talked him round, he helps you at the foot of the hill and becomes one of the possible planters in <a href="/wiki/quests/the-druid-who-came-back.html">The Druid Who Came Back</a>. If you scared him off, the hill is warned: the gully goes up to <span class="wiki-dc">DC&nbsp;16</span>, and he fights at the summit with two extra druids. If he died in the press house, that's the end of him.</li>
 <li><strong>The tree.</strong> Burning it kills every blight in the region:
 <ul>
 <li>the vineyard ambush never comes;</li>
@@ -239,13 +237,13 @@
 <li><strong>Ruxandra.</strong> If you spared her or she fled, and the tree still stands, she leads her druids (three druids, two vine blights and four twig blights) against you once on the vineyard road. If you spared her and burned the tree, she's the planter in The Druid Who Came Back. Davian has a line for each fate.</li>
 <li><strong>The first cart.</strong> Sending it to Vallaki earns Kip Smudgewick +1. The village under the castle earns Godrick Pendlebrook, Liriel Dawnsong and Kip +1. Krezk earns no approval, but Davian tells you to walk beside the casks: if <a href="/wiki/locations/krezk.html">Krezk</a>'s gate is still shut to you, the watchman now opens it for the people who brought the Martikovs' cart up the road (see <a href="/wiki/quests/the-gate-of-krezk.html">The Gate of Krezk</a>). After that his "Heard anything interesting?" tells you the cart is in the shrine cellar, and half the town has found a reason to go up and pray. Later, ask Stefania "Any word from the first cart?" to hear how it was received.</li>
 <li><strong>Wine flowing.</strong> Davian's wine shop opens, the Martikovs' casks turn up in Castle Ravenloft's larders, <a href="/wiki/locations/blood-of-the-vine.html">Blood of the Vine</a> gets new stock, Krezk stops talking about the wine that stopped coming (the watchman's news drops it and Dmitri no longer asks after it), and the epilogue mentions it. The epilogue line is warmer if Davian and Adrian were also reconciled.</li>
-<li><strong>The Keepers' oath</strong> (winery reclaimed and two stones back) opens Urwin Martikov's secret "Keepers' stores" at <a href="/wiki/locations/the-blue-water-inn.html">The Blue Water Inn</a>. He sells greater and superior healing potions, Heroism, an Elixir of Health, a <a href="/wiki/items/magic-items.html#figurine-of-wondrous-power-silver-raven">Figurine of Wondrous Power (Silver Raven)</a> and cleric scrolls up to Death Ward and Freedom of Movement. The oath also gives you a plain way to calm the ravens' roost in Castle Ravenloft, and an epilogue line.</li>
+<li><strong>The Keepers' oath</strong> (winery reclaimed and two stones back) opens Urwin Martikov's secret "Keepers' stores" at <a href="/wiki/locations/the-blue-water-inn.html">The Blue Water Inn</a>. He sells greater and superior healing potions, Heroism, an Elixir of Health, a <a href="/wiki/items/magic-items.html#figurine-of-wondrous-power-silver-raven" class="r-uncommon">Figurine of Wondrous Power (Silver Raven)</a> and cleric scrolls up to Death Ward and Freedom of Movement. The oath also gives you a plain way to calm the ravens' roost in Castle Ravenloft, and an epilogue line.</li>
 <li><strong>Davian's strongbox.</strong> If you opened it, it comes up the first time you talk to him at home:
 <ul>
 <li>Give back all 60 gp (you need 60 gp on you). He hands back 10 for the lock and turns friendly. Kip and Godrick +2.</li>
 <li>"We opened it to see if the druids had. We took nothing." He'll count it later. No effect.</li>
 <li>"Call it our fee." You keep it. Kip and Godrick −1, and a cleric in the party grumbles about it later.</li>
-<li><strong>Deception DC 14</strong> ("The druids, surely."): on a success Kip and Godrick −2 and Wren +1. On a failure he sees through you and treats the money as kept.</li>
+<li><strong>Deception <span class="wiki-dc">DC&nbsp;14</span></strong> ("The druids, surely."): on a success Kip and Godrick −2 and Wren +1. On a failure he sees through you and treats the money as kept.</li>
 </ul></li>
 <li><strong>The Raven ally.</strong> If <a href="/wiki/people/madam-eva.html">Madam Eva</a>'s reading named Davian, his menu has "Madam Eva's cards named you." He refuses until the winery is his again. Ask after that and he joins you as a guest, which completes <a href="/wiki/quests/the-destined-ally.html">The Destined Ally</a>.</li>
 <li><strong>The rest of the Martikovs' story</strong> carries on in <a href="/wiki/quests/the-third-stone.html">The Third Stone</a>, <a href="/wiki/quests/the-son-who-didnt-fly.html">The Son Who Didn&#x27;t Fly</a> and <a href="/wiki/quests/the-black-row.html">The Black Row</a>. The Black Row starts from Davian's "Heard anything interesting?" once you're home.</li>
@@ -284,10 +282,10 @@
 <em>Hint:</em> Drive the druids out of the Wizard of Wines' winery and press house, then talk to Davian.</p>
 <p><strong>Saved</strong> (the end: success): The winery is the Martikovs' again and Yester Hill is broken. The family drank to us in the yard, and Davian called us good for something.</p></details>
 <details class="callout callout-abstract"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Every skill check in its conversations</summary><ul>
-<li>Insight DC 12: Study him properly.</li>
-<li>Insight DC 14: It isn't Adrian you're angry with.</li>
-<li>Persuasion DC 14: Because he knew you'd call it an excuse. Are you going to prove him right?</li>
-<li>Deception DC 14: The druids, surely.</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;12</span>: Study him properly.</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;14</span>: It isn't Adrian you're angry with.</li>
+<li>Persuasion <span class="wiki-dc">DC&nbsp;14</span>: Because he knew you'd call it an excuse. Are you going to prove him right?</li>
+<li>Deception <span class="wiki-dc">DC&nbsp;14</span>: The druids, surely.</li>
 </ul></details>
 <h2 id="related">Related</h2>
 <ul>
@@ -306,7 +304,7 @@
 <p><strong>Elvir Comes Home</strong>: The Martikovs bury Elvir at the end of the first green row.<br>
 <img class="wiki-pic" src="/wiki/img/cutscenes/elvir-burial.webp" alt="elvir burial" loading="lazy" decoding="async" style="max-width: 420px"></p></details>
       </article>
-      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#summary">Summary</a></li><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
+      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
     </div>
   </div>
 </main>
@@ -336,6 +334,6 @@
 </footer>
 
 <script src="/js/site.js?v=3dd4a2a6" defer></script>
-<script src="/wiki/wiki.js?v=b2b2db75" defer></script>
+<script src="/wiki/wiki.js?v=538558eb" defer></script>
 </body>
 </html>

@@ -74,3 +74,25 @@
 		if (!e.target.closest(".wiki-search")) hits.hidden = true;
 	});
 })();
+
+// The contents list marks the section you're reading.
+(function () {
+	const toc = document.querySelector(".wiki-toc");
+	if (!toc || !("IntersectionObserver" in window)) return;
+	const links = new Map([...toc.querySelectorAll("a")].map((a) => [decodeURIComponent(a.hash.slice(1)), a]));
+	let current = null;
+	const io = new IntersectionObserver((entries) => {
+		for (const e of entries) {
+			if (!e.isIntersecting) continue;
+			const a = links.get(e.target.id);
+			if (!a) continue;
+			if (current) current.classList.remove("is-on");
+			a.classList.add("is-on");
+			current = a;
+		}
+	}, { rootMargin: "-90px 0px -70% 0px" });
+	for (const id of links.keys()) {
+		const h = document.getElementById(id);
+		if (h) io.observe(h);
+	}
+})();

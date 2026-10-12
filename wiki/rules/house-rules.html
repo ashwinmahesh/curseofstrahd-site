@@ -17,13 +17,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=be300721">
-<link rel="stylesheet" href="/css/wiki.css?v=d58dce1f">
+<link rel="stylesheet" href="/css/wiki.css?v=fdd59b6f">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/media/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-page">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -53,6 +53,7 @@
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
 <h1 id="house-rules">House Rules</h1>
@@ -82,7 +83,7 @@
 <p>A creature at the top of a cliff (or a built ledge 10 ft or more high) can jump down to the square below beside it: 5 ft of its movement, then the fall (1d6 per 10 ft, Prone unless unharmed). Medium or smaller creatures only</p>
 <p><em>Why:</em> The rules let anyone drop off a ledge and fall; one square's move and the fall keeps it a single choice in the menu, the way Baldur's Gate 3 offers it</p>
 <h3 id="long-jump">Long Jump</h3>
-<p>A Long Jump slot on the hotbar for everyone: up to the Strength score in feet when the creature has moved 10 ft or more this turn (its run-up), half from standing, in whole squares, each foot costing a foot of movement; it clears creatures and rough ground but not walls, and lands only on a free square. Leaving a foe's reach on the way draws an Opportunity Attack as any movement does. The obstacle-height limit and the DC 10 Acrobatics check for landing in Difficult Terrain aren't rolled; High Jumps aren't built</p>
+<p>A Long Jump slot on the hotbar for everyone: up to the Strength score in feet when the creature has moved 10 ft or more this turn (its run-up), half from standing, in whole squares, each foot costing a foot of movement; it clears creatures and rough ground but not walls, and lands only on a free square. Leaving a foe's reach on the way draws an Opportunity Attack as any movement does. The obstacle-height limit and the <span class="wiki-dc">DC&nbsp;10</span> Acrobatics check for landing in Difficult Terrain aren't rolled; High Jumps aren't built</p>
 <p><em>Why:</em> The run-up needn't be in a straight line or right before the leap, and the landing check is skipped, to keep the leap one click with an arc to show it</p>
 <h3 id="ground-that-hides">Ground that hides</h3>
 <p>Rising ground between two creatures blocks sight and gives cover the way a wall does: the lines from the top of the one looking to points down the other (its top, then lower) are traced over the ground, and ground above a line blocks it. A ridge hides, a small rise leaves the head showing (Three-Quarters Cover), and from the top of a hill the far side is in sight</p>
@@ -146,7 +147,7 @@
 <p><em>Why:</em> A blow's damage can't stop for a question, and a standing rule is how Baldur's Gate 3 does it; the story has no use for captured heroes</p>
 <h3 id="after-a-won-fight">After a won fight</h3>
 <p>Dying party members are stabilized at 0 Hit Points (their friends tend them)</p>
-<p><em>Why:</em> Rolling death saves every 6 seconds out of combat with nobody hostile adds nothing; the rules let anyone stabilize them with a DC 10 Medicine check</p>
+<p><em>Why:</em> Rolling death saves every 6 seconds out of combat with nobody hostile adds nothing; the rules let anyone stabilize them with a <span class="wiki-dc">DC&nbsp;10</span> Medicine check</p>
 <h3 id="forcing-a-lock">Forcing a lock</h3>
 <p>A Strength (Athletics) check against the lock's DC + 2</p>
 <p><em>Why:</em> The rules leave forcing to the DM; slightly harder than picking keeps Thieves' Tools worth carrying</p>
@@ -160,7 +161,7 @@
 <p>A location's traps are armed in its fights: any creature, friend or foe, that walks or is shoved onto one springs it, found or not (a flyer passes over); a pit drops its victim the pit's depth and leaves it Prone where it fell, without the climb out; a chandelier that is a trap is a thing in the fight instead (break its chain)</p>
 <p><em>Why:</em> The owner's call (2026-10-08) that traps fire in fights too; a pit fight with its bottom modelled would need depths on the grid</p>
 <h3 id="merchants-prices-u11">Merchants' prices (U11)</h3>
-<p>A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.75. One Persuasion check (DC 15 unless the shop says) wins ×0.9 and ×1.1 more with that merchant for good; a failure is final with that merchant (the owner's rule for failed social checks). Every price, buying or selling, at a shop, the trader, a temple or an inn, is rounded up to a whole gold piece after those factors (owner, 2026-10-08), so nothing with a price goes for less than 1 gp; free things stay free</p>
+<p>A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.75. One Persuasion check (<span class="wiki-dc">DC&nbsp;15</span> unless the shop says) wins ×0.9 and ×1.1 more with that merchant for good; a failure is final with that merchant (the owner's rule for failed social checks). Every price, buying or selling, at a shop, the trader, a temple or an inn, is rounded up to a whole gold piece after those factors (owner, 2026-10-08), so nothing with a price goes for less than 1 gp; free things stay free</p>
 <p><em>Why:</em> The 2024 rules leave prices and haggling to the DM; plan §5.6 asks for prices that follow attitude and a Persuasion haggle</p>
 <h3 id="raise-dead-the-ordeal">Raise Dead (the ordeal)</h3>
 <p>A raised hero has -4 on D20 Tests for 10 days, then none (story/services.gd); Resurrection's ordeal is the same</p>
@@ -187,7 +188,7 @@
 <p>A cantrip that only did tricks gives whoever knows it Advantage on one skill's checks outside fights, as they work a little magic into the attempt (story/check_aids.gd): Druidcraft on Nature (and it reads tomorrow's weather), Elementalism on Survival, Mending on Investigation, Message on Stealth, Minor Illusion on Deception, Prestidigitation on Performance, Thaumaturgy on Intimidation. While they run, Detect Thoughts and Zone of Truth give their caster Advantage on Insight, Disguise Self on Deception (Seeming: the whole party's), Silent Image on Stealth, Major Image on Stealth and Deception, Comprehend Languages on History and Investigation, Tongues on Persuasion, Beast Sense on Perception, Locate Object on Perception and Investigation (searching), Locate Creature on Survival; Zone of Amicability makes a d20 of 9 or lower on a check to influence count as a 10 (story/field_casting.gd CHECK_AIDS)</p>
 <p><em>Why:</em> These spells' effects need a table to describe them; in a game made of checks, helping the right check is what they're for (Ashwin's answer to the spell audit, 2026-10-12)</p>
 <h3 id="scouting-and-divining">Scouting and divining</h3>
-<p>Read from the place the party stands in (story/oracles.gd): Augury tells weal (something still hidden here) or woe (a fight that starts on its own still waits here); Divination names what waits, or else shows one hidden find; Commune answers how closely Strahd watches (his attention), whether a fight waits and whether anything is hidden; Contact Other Plane is an Intelligence save (DC 15) or 6d6 Psychic damage (never below 1 Hit Point outside a fight), else names what waits and shows up to five finds; Commune with Nature (outdoors only) shows every hidden find; Clairvoyance and Arcane Eye show every trap and name what waits; Legend Lore and Scrying (unless the legend makes its Wisdom save) fill in a legend's bestiary entry. Unseen Servant springs the nearest trap within 30 ft harmlessly; Stone Shape and Passwall open the nearest locked or secret door within 30 ft; Tenser's Floating Disk adds 500 lb to its caster's carrying capacity for an hour; Leomund's Secret Chest opens the party stash anywhere for 60 days; Tasha's Bubbling Cauldron brews one potion per point of its caster's spellcasting modifier, the last brew going when they brew again; Find the Path keeps the roads free of random encounters for a day</p>
+<p>Read from the place the party stands in (story/oracles.gd): Augury tells weal (something still hidden here) or woe (a fight that starts on its own still waits here); Divination names what waits, or else shows one hidden find; Commune answers how closely Strahd watches (his attention), whether a fight waits and whether anything is hidden; Contact Other Plane is an Intelligence save (<span class="wiki-dc">DC&nbsp;15</span>) or 6d6 Psychic damage (never below 1 Hit Point outside a fight), else names what waits and shows up to five finds; Commune with Nature (outdoors only) shows every hidden find; Clairvoyance and Arcane Eye show every trap and name what waits; Legend Lore and Scrying (unless the legend makes its Wisdom save) fill in a legend's bestiary entry. Unseen Servant springs the nearest trap within 30 ft harmlessly; Stone Shape and Passwall open the nearest locked or secret door within 30 ft; Tenser's Floating Disk adds 500 lb to its caster's carrying capacity for an hour; Leomund's Secret Chest opens the party stash anywhere for 60 days; Tasha's Bubbling Cauldron brews one potion per point of its caster's spellcasting modifier, the last brew going when they brew again; Find the Path keeps the roads free of random encounters for a day</p>
 <p><em>Why:</em> These spells answer questions or reach places the game has no way to ask or show; these are their answers in Barovia's terms (Ashwin's answer to the spell audit, 2026-10-12)</p>
 <h3 id="spells-that-take-minutes-to-cast">Spells that take minutes to cast</h3>
 <p>Outside a fight, a helpful spell that takes minutes or hours to cast (Prayer of Healing, Regenerate, Foresight) is cast from the character sheet like any other, its casting time passing on the clock; in a fight it still takes too long</p>
@@ -259,7 +260,7 @@
 <p>An area laid on the ground reaches as high as its size (a sphere's radius, a cube's side, a cylinder's or wall's height); one from the caster reaches from the caster's own height (an emanation its size, a cone half its distance, a line its width). Points are chosen on the ground</p>
 <p><em>Why:</em> The grid has no vertical aiming; this keeps a Fireball on the ground from catching a creature 30 ft up</p>
 <h3 id="falling-into-deep-water">Falling into deep water</h3>
-<p>Halved with a Reaction and a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check (2024), then the creature swims to the nearest open square</p>
+<p>Halved with a Reaction and a <span class="wiki-dc">DC&nbsp;15</span> Strength (Athletics) or Dexterity (Acrobatics) check (2024), then the creature swims to the nearest open square</p>
 <p><em>Why:</em> Swimming in a fight isn't built</p>
 <h3 id="heroic-inspiration-gained-while-you-already-have-it-you-can-give-it-to-a-player-character-in-your-group-who-lacks-it">Heroic Inspiration gained while you already have it: "you can give it to a player character in your group who lacks it"</h3>
 <p>When a story moment awards it to someone who already has it (story/in_character.gd, F15), it goes to the first party member in marching order who lacks it</p>
@@ -319,7 +320,7 @@
 <p>The creature becomes the Beast's stat block with its own Hit Points kept (Wild Shape also keeps Int, Wis, Cha and Proficiency Bonus); its gear, class features and spells wait until it changes back</p>
 <p><em>Why:</em> A full merge of character and stat block is a large system; these are the parts a fight uses</p>
 <h3 id="mounted-combat">Mounted combat</h3>
-<p>Any willing ally a size larger can be mounted (half your Speed); a ridden ally is a controlled mount that moves on its rider's turn and can't attack; a mount moved against its will makes its rider save (DC 10 Dex) or fall Prone; an uncontrolled (independent) mount isn't offered</p>
+<p>Any willing ally a size larger can be mounted (half your Speed); a ridden ally is a controlled mount that moves on its rider's turn and can't attack; a mount moved against its will makes its rider save (<span class="wiki-dc">DC&nbsp;10</span> Dex) or fall Prone; an uncontrolled (independent) mount isn't offered</p>
 <p><em>Why:</em> Every mount in the game so far is a friendly summon</p>
 <h3 id="banishment">Banishment</h3>
 <p>The banished creature leaves the grid; a native of another plane banished for 10 rounds doesn't return</p>
@@ -463,7 +464,7 @@
 <p>Objects ignore conditions</p>
 <p><em>Why:</em> The rules glossary doesn't say</p>
 <h3 id="chandeliers">Chandeliers</h3>
-<p>Breaking the chain (iron: AC 19, 5 Hit Points; only ranged attacks and spells reach it) drops the chandelier: each creature under it makes a DC 12 Dexterity save (or its trap's), taking 2d6 Bludgeoning damage (or the trap's) and falling Prone on a failure, half the damage on a success; its squares are left as Difficult Terrain wreckage, and a lit one sets oil under it alight. The ones in the game hang in Death House's main hall (its old trap) and over the dining table on Castle Ravenloft's main floor</p>
+<p>Breaking the chain (iron: AC 19, 5 Hit Points; only ranged attacks and spells reach it) drops the chandelier: each creature under it makes a <span class="wiki-dc">DC&nbsp;12</span> Dexterity save (or its trap's), taking 2d6 Bludgeoning damage (or the trap's) and falling Prone on a failure, half the damage on a success; its squares are left as Difficult Terrain wreckage, and a lit one sets oil under it alight. The ones in the game hang in Death House's main hall (its old trap) and over the dining table on Castle Ravenloft's main floor</p>
 <p><em>Why:</em> The rules leave a falling chandelier to the DM</p>
 <h3 id="oil">Oil</h3>
 <p>The 5 extra Fire a soaked creature or object takes comes once, then the oil has burned away; oil on an object dries after 10 rounds; a puddle burns until the end of the turn 2 rounds after it was lit, counted from the initiative count it was lit on. Fire reaches oil when a fire spell's area covers it, when Fire damage hits a creature standing in it, when a burning creature steps in, or when a lit chandelier falls on it; a fire cantrip aimed at the puddle lights it without an attack roll. Oil and Tinderboxes in an adventuring pack count, and using a pack's flask opens the pack (its contents become loose items)</p>
@@ -478,10 +479,10 @@
 <p>A location's door is a door in its fights: the free object interaction opens or shuts one within 5 ft (after it, the Utilize action, or a Thief's Fast Hands); a locked one stays shut (it can still be broken); nobody can shut a door on a creature standing in the doorway</p>
 <p><em>Why:</em> The 2024 rules count opening a door as the turn's object interaction; a door shut on someone is left to the DM</p>
 <h3 id="shoving-objects">Shoving objects</h3>
-<p>One attack of the Attack action and a Strength (Athletics) check against the thing's DC (data/objects/kinds.json: 5 for a chair, 8 for a crate, 10 for a barrel or a table, 12 for a bed, pew, coffin or barrel of lamp oil, 15 for a boulder or a cart) push it 5 ft straight away from the shover (the nearest of the eight directions; not round a corner, into a wall, another object or ground more than 5 ft higher). Into a creature on the floor it stops, and that creature makes a Strength or Dexterity save (its better) against the shover's Shove DC or takes 1d4 (a Tiny or Small thing), 1d6 (Medium) or 2d6 (Large) Bludgeoning damage and falls Prone. Down 10 ft or more it falls: 1d6 Bludgeoning per 10 ft to it, or to the creature it lands on, which makes a DC 12 Dexterity save for half and falls Prone on a failure (the thing breaks on it). Over a map's open drop or into deep water it's gone</p>
+<p>One attack of the Attack action and a Strength (Athletics) check against the thing's DC (data/objects/kinds.json: 5 for a chair, 8 for a crate, 10 for a barrel or a table, 12 for a bed, pew, coffin or barrel of lamp oil, 15 for a boulder or a cart) push it 5 ft straight away from the shover (the nearest of the eight directions; not round a corner, into a wall, another object or ground more than 5 ft higher). Into a creature on the floor it stops, and that creature makes a Strength or Dexterity save (its better) against the shover's Shove DC or takes 1d4 (a Tiny or Small thing), 1d6 (Medium) or 2d6 (Large) Bludgeoning damage and falls Prone. Down 10 ft or more it falls: 1d6 Bludgeoning per 10 ft to it, or to the creature it lands on, which makes a <span class="wiki-dc">DC&nbsp;12</span> Dexterity save for half and falls Prone on a failure (the thing breaks on it). Over a map's open drop or into deep water it's gone</p>
 <p><em>Why:</em> The rules have no shoving of things; our numbers, so a crate can be used the way Baldur's Gate 3 lets you (the owner's pick)</p>
 <h3 id="pushing-things-over">Pushing things over</h3>
-<p>The Utilize action and a Strength (Athletics) check against its DC (12 for shelves, wardrobes and tall clocks, 15 for a statue, 10 for a brazier) push a tall thing within 5 ft over, away from the pusher (one standing against a wall is pulled down the other way, the puller stepping clear): it falls across 2 squares (a brazier 1), short of a wall. Each other creature on the floor there makes a DC 12 Dexterity save (13 against a statue) or takes 1d10 Bludgeoning damage (a statue 2d10; a brazier 1d10 Fire) and falls Prone; a success takes nothing. Objects there take the damage; the squares are left as rubble, and a brazier's coals burn on them like lit oil</p>
+<p>The Utilize action and a Strength (Athletics) check against its DC (12 for shelves, wardrobes and tall clocks, 15 for a statue, 10 for a brazier) push a tall thing within 5 ft over, away from the pusher (one standing against a wall is pulled down the other way, the puller stepping clear): it falls across 2 squares (a brazier 1), short of a wall. Each other creature on the floor there makes a <span class="wiki-dc">DC&nbsp;12</span> Dexterity save (13 against a statue) or takes 1d10 Bludgeoning damage (a statue 2d10; a brazier 1d10 Fire) and falls Prone; a success takes nothing. Objects there take the damage; the squares are left as rubble, and a brazier's coals burn on them like lit oil</p>
 <p><em>Why:</em> Our ruling (the rules have nothing on it), for the owner's Baldur's Gate 3 battlefields</p>
 <h3 id="throwing-things-from-the-ground">Throwing things from the ground</h3>
 <p>A thing lying within 5 ft, or a chair or candlestick standing there, can be thrown as one attack of the Attack action; picking it up takes the free object interaction (or a Thief's Fast Hands), and without one it can't be thrown. A thrown weapon is thrown as itself; anything else is an improvised weapon: 1d4 (a weapon's own damage type, else Bludgeoning), 20/60 ft, Strength, the Proficiency Bonus only with proficiency in improvised weapons (Tavern Brawler). A thrown chair or candlestick breaks where it lands; a thing from the ground lands by its target</p>
@@ -490,7 +491,7 @@
 <p>As each round ends, fire spreads to what's within 5 ft of what was burning then: oil on the floor lights, a barrel of lamp oil bursts, and each flammable object catches fire on a d6 roll of 4 or more</p>
 <p><em>Why:</em> The rules don't spread fire; our ruling, so a fire grows as in the owner's Baldur's Gate 3 picks</p>
 <h3 id="barrels-of-lamp-oil">Barrels of lamp oil</h3>
-<p>Fire reaching a barrel of lamp oil (Fire damage, a fire spell's area, burning oil or coals beside it, catching fire) bursts it: each creature within 10 ft, counted with how high it flies, makes a DC 12 Dexterity save, taking 2d6 Fire damage on a failure and half on a success; the objects there take it and catch fire (another barrel bursts in turn), and the floor within 5 ft is left burning like lit oil. Broken any other way, it spills its oil, unlit, on its square. They stand in the Vistani camp at Tser Pool, Castle Ravenloft's larders and Death House's cult refectory</p>
+<p>Fire reaching a barrel of lamp oil (Fire damage, a fire spell's area, burning oil or coals beside it, catching fire) bursts it: each creature within 10 ft, counted with how high it flies, makes a <span class="wiki-dc">DC&nbsp;12</span> Dexterity save, taking 2d6 Fire damage on a failure and half on a success; the objects there take it and catch fire (another barrel bursts in turn), and the floor within 5 ft is left burning like lit oil. Broken any other way, it spills its oil, unlit, on its square. They stand in the Vistani camp at Tser Pool, Castle Ravenloft's larders and Death House's cult refectory</p>
 <p><em>Why:</em> Our ruling and numbers: the rules have flasks of oil, not barrels of it</p>
 <h3 id="things-on-the-floor-and-flyers">Things on the floor and flyers</h3>
 <p>A thing shoved, pushed over or falling (a chandelier too) hits only creatures on the floor: one flying or floating over the square is above it, and a shoved thing goes under it. Burning oil and coals burn only creatures standing in them</p>
@@ -574,7 +575,7 @@
 <p>Its layers can't be destroyed one by one; passing through applies every layer</p>
 <p><em>Why:</em> Layer-breaking needs targeted counters</p>
 <h3 id="earthquake">Earthquake</h3>
-<p>Fissures open where the caster's foes stand (no choice of place); a creature that falls in climbs out with an action and a DC 15 Strength (Athletics) check; structures don't take damage or collapse</p>
+<p>Fissures open where the caster's foes stand (no choice of place); a creature that falls in climbs out with an action and a <span class="wiki-dc">DC&nbsp;15</span> Strength (Athletics) check; structures don't take damage or collapse</p>
 <p><em>Why:</em> The maps have no structures with Hit Points, and a pit's depth isn't modelled</p>
 <h3 id="wish-gate-teleport-clone-and-other-out-of-combat-high-level-spells">Wish, Gate, Teleport, Clone and other out-of-combat high-level spells</h3>
 <p>Not in fights</p>
@@ -697,6 +698,6 @@
 </footer>
 
 <script src="/js/site.js?v=3dd4a2a6" defer></script>
-<script src="/wiki/wiki.js?v=b2b2db75" defer></script>
+<script src="/wiki/wiki.js?v=538558eb" defer></script>
 </body>
 </html>

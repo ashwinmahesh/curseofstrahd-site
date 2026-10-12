@@ -17,13 +17,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=be300721">
-<link rel="stylesheet" href="/css/wiki.css?v=d58dce1f">
+<link rel="stylesheet" href="/css/wiki.css?v=fdd59b6f">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/media/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-quest">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -53,17 +53,15 @@
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+<header class="wiki-hero has-pic"><img class="wiki-hero-pic" src="/wiki/img/shots/quest-the-guide-to-the-temple.webp" alt="" fetchpriority="high" decoding="async"><div class="wiki-hero-text"><p class="wiki-eyebrow">Side quest <span aria-hidden="true">·</span> <a href="/wiki/regions/the-amber-temple.html">The Amber Temple</a> <span aria-hidden="true">·</span> Level 10</p><h1>The Guide to the Temple</h1><p class="wiki-lede">Since the Tsolenka gate opened, a man has led three parties up the goat path toward the Amber Temple and come down alone each time.</p></div></header>
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
-<h1 id="the-guide-to-the-temple">The Guide to the Temple</h1>
-<aside class="wiki-infobox"><div class="wiki-infobox-pic"><img class="wiki-pic" src="/wiki/img/shots/quest-the-guide-to-the-temple.webp" alt="quest the guide to the temple" loading="lazy" decoding="async" style="max-width: 360px"></div><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/the-amber-temple.html">The Amber Temple</a> · level 10</dd><dt>Given by</dt><dd><a href="/wiki/people/sergeant-dorin-valcu.html">Sergeant Dorin Valcu</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-tsolenka-guard-tower.html">The Tsolenka Guard Tower</a></dd><dt>Rewards</dt><dd><a href="/wiki/items/magic-items.html#rod-of-alertness">Rod of Alertness</a>, 400 gp</dd></dl></aside>
-<h2 id="summary">Summary</h2>
-<p>Since the Tsolenka gate opened, a man has led three parties up the goat path toward the Amber Temple and come down alone each time.</p>
+<aside class="wiki-infobox"><dl><dt>Type</dt><dd>Side quest</dd><dt>Region</dt><dd><a href="/wiki/regions/the-amber-temple.html">The Amber Temple</a> · level 10</dd><dt>Given by</dt><dd><a href="/wiki/people/sergeant-dorin-valcu.html">Sergeant Dorin Valcu</a></dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-tsolenka-guard-tower.html">The Tsolenka Guard Tower</a></dd><dt>Rewards</dt><dd><a href="/wiki/items/magic-items.html#rod-of-alertness" class="r-very-rare">Rod of Alertness</a>, 400 gp</dd></dl></aside>
 <h2 id="walkthrough">Walkthrough</h2>
 <h3 id="getting-the-quest">Getting the quest</h3>
 <p>This one starts in <a href="/wiki/locations/the-tsolenka-guard-tower.html">The Tsolenka Guard Tower</a> once the lowest-level hero in your party is level 10. There are two ways in, depending on how you got past the dead watch (see <a href="/wiki/quests/the-tsolenka-gate.html">The Tsolenka Gate</a>):</p>
 <ul>
-<li><strong>From the sergeant</strong>, if you were let through with the watchword ("Cold hearth, shut door.") or the Deception DC 15 lie that you're the relief. Talk to <a href="/wiki/people/sergeant-dorin-valcu.html">Sergeant Dorin Valcu</a> again and ask <strong>Has anybody else gone up since we passed?</strong> His log shows three parties on the goat path round the tower this winter, with one lantern coming back down each time. Last night it was a man, a woman and a sledge with something small on it, coughing, led by someone who walks like he's never been cold.</li>
+<li><strong>From the sergeant</strong>, if you were let through with the watchword ("Cold hearth, shut door.") or the Deception <span class="wiki-dc">DC&nbsp;15</span> lie that you're the relief. Talk to <a href="/wiki/people/sergeant-dorin-valcu.html">Sergeant Dorin Valcu</a> again and ask <strong>Has anybody else gone up since we passed?</strong> His log shows three parties on the goat path round the tower this winter, with one lantern coming back down each time. Last night it was a man, a woman and a sledge with something small on it, coughing, led by someone who walks like he's never been cold.</li>
 <li><strong>From the watch log</strong> on the desk in the captain's room, once the gate is open. This is the way if you released the watch to rest or fought your way through and the sergeant is gone. The newest entries say the same thing: lanterns on the goat path round the tower, four or five to a party, one coming down, three times; the last a man, a woman and a sledge with something small on it, coughing.</li>
 </ul>
 <p>Either way the quest starts (Asked), and a new road opens on the map from <a href="/wiki/locations/the-tsolenka-pass.html">The Tsolenka Pass</a> to the camp on the goat path (two hours).</p>
@@ -73,16 +71,16 @@
 <img class="wiki-pic" src="/wiki/img/shots/loc-amber-road-camp-1.webp" alt="loc amber road camp 1" loading="lazy" decoding="async" style="max-width: 600px"></li>
 <li>Find out what he's doing:
 <ul>
-<li><strong>Medicine DC 14: (Look at the child on the sledge.)</strong> It isn't lung fever. Her pupils are pinpricks: someone has been giving her sleep-root every day. Floarea quietly admits he makes the girl's tea every night. This option stays if you fail, so you can try again.</li>
-<li><strong>Insight DC 15: (Watch the guide while Remus talks.)</strong> He watches the sledge like a drover the night before market. This only changes a line when the fight starts, and a failure is spent.</li>
+<li><strong>Medicine <span class="wiki-dc">DC&nbsp;14</span>: (Look at the child on the sledge.)</strong> It isn't lung fever. Her pupils are pinpricks: someone has been giving her sleep-root every day. Floarea quietly admits he makes the girl's tea every night. This option stays if you fail, so you can try again.</li>
+<li><strong>Insight <span class="wiki-dc">DC&nbsp;15</span>: (Watch the guide while Remus talks.)</strong> He watches the sledge like a drover the night before market. This only changes a line when the fight starts, and a failure is spent.</li>
 </ul></li>
 <li>Choose <strong>You've been putting something in her tea.</strong> (after the Medicine check), or <strong>Turn back. Take her home.</strong> Either way he stops pretending: something in the amber pays him a year of life for every family he brings to its door, and nobody turns back on his mountain.</li>
-<li>Fight <a href="/wiki/bestiary/the-guide.html">The Guide</a> (170 Hit Points here) with two of the people he led up before (<a href="/wiki/bestiary/wraith.html">Wraith</a>s) and two of his own shadows (<a href="/wiki/bestiary/shadow.html">Shadow</a>s), 9,700 XP. He resists cold and necrotic damage, can turn two failed saves a day into successes, and his Whiteout hits up to three of you at once within 60 feet (Constitution DC 16, or 4d8 cold and blinded). His Amber Bolt hits hard at range, and he has Hold Person and Cone of Cold once a day each. Winning moves the quest to Fought.</li>
+<li>Fight <a href="/wiki/bestiary/the-guide.html">The Guide</a> (170 Hit Points here) with two of the people he led up before (<a href="/wiki/bestiary/wraith.html">Wraith</a>s) and two of his own shadows (<a href="/wiki/bestiary/shadow.html">Shadow</a>s), 9,700 XP. He resists cold and necrotic damage, can turn two failed saves a day into successes, and his Whiteout hits up to three of you at once within 60 feet (Constitution <span class="wiki-dc">DC&nbsp;16</span>, or 4d8 cold and blinded). His Amber Bolt hits hard at range, and he has Hold Person and Cone of Cold once a day each. Winning moves the quest to Fought.</li>
 <li>Talk to Floarea (or Remus) by the sledge. She pours the tea out onto the snow and throws the kettle after it. Without it the girl will wake in a day or two with only a cough. The quest is Done.</li>
 </ol>
 <h3 id="choices-and-endings">Choices and endings</h3>
 <ul>
-<li><strong>Done (success).</strong> In the guide's pack are a purse of other people's money (400 gp), a list of names with lines through them, and a <a href="/wiki/items/magic-items.html#rod-of-alertness">Rod of Alertness</a>. Liriel +3, Godrick +2, Kip +2, Wren +1. The family goes home.</li>
+<li><strong>Done (success).</strong> In the guide's pack are a purse of other people's money (400 gp), a list of names with lines through them, and a <a href="/wiki/items/magic-items.html#rod-of-alertness" class="r-very-rare">Rod of Alertness</a>. Liriel +3, Godrick +2, Kip +2, Wren +1. The family goes home.</li>
 <li>There is no peaceful ending. Leaving them to their fire just leaves the quest open; every way of confronting the guide ends in the fight.</li>
 </ul>
 <h3 id="if-youre-stuck">If you're stuck</h3>
@@ -93,7 +91,7 @@
 </ul>
 <h2 id="rewards">Rewards</h2>
 <ul>
-<li><a href="/wiki/items/magic-items.html#rod-of-alertness">Rod of Alertness</a></li>
+<li><a href="/wiki/items/magic-items.html#rod-of-alertness" class="r-very-rare">Rod of Alertness</a></li>
 <li>400 gp</li>
 </ul>
 <p><strong>What your companions think</strong></p>
@@ -114,8 +112,8 @@
 <em>Hint:</em> Talk to Floarea by the sledge at the camp on the goat path.</p>
 <p><strong>Done</strong> (the end: success): Without the tea the little girl will wake in a day or two, with only a cough to carry home. Remus and Floarea are taking her down.</p></details>
 <details class="callout callout-abstract"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Every skill check in its conversations</summary><ul>
-<li>Medicine DC 14: (Look at the child on the sledge.)</li>
-<li>Insight DC 15: (Watch the guide while Remus talks.)</li>
+<li>Medicine <span class="wiki-dc">DC&nbsp;14</span>: (Look at the child on the sledge.)</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;15</span>: (Watch the guide while Remus talks.)</li>
 </ul></details>
 <h2 id="related">Related</h2>
 <ul>
@@ -124,7 +122,7 @@
 <li><strong>More in The Amber Temple:</strong> <a href="/wiki/quests/something-with-a-lid.html">Something with a Lid</a>, <a href="/wiki/quests/the-amber-debt.html">The Amber Debt</a>, <a href="/wiki/quests/the-amber-temple.html">The Amber Temple</a>, <a href="/wiki/quests/the-wailing-hall.html">The Wailing Hall</a></li>
 </ul>
       </article>
-      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#summary">Summary</a></li><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#fights">Fights</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
+      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#fights">Fights</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
     </div>
   </div>
 </main>
@@ -154,6 +152,6 @@
 </footer>
 
 <script src="/js/site.js?v=3dd4a2a6" defer></script>
-<script src="/wiki/wiki.js?v=b2b2db75" defer></script>
+<script src="/wiki/wiki.js?v=538558eb" defer></script>
 </body>
 </html>

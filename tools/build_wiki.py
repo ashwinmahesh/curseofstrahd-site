@@ -29,11 +29,34 @@ PICTURE_WIDTH = 1280
 IMAGE_EXT = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
 CALLOUT_ICONS = {"warning": "⚠", "danger": "⚠", "caution": "⚠", "info": "✦", "note": "✦", "tip": "✧", "example": "✦",
 	"quote": "❝", "success": "✓", "question": "?", "abstract": "✦", "summary": "✦", "todo": "☐", "bug": "✗"}
+THUMB_WIDTH = 480
+RARITIES = ("common", "uncommon", "rare", "very rare", "legendary", "artifact")
+# The front page's sections, each headed by one of the main site's screenshots (media/thumbs).
+HOME_ART = {"walkthroughs": "story_mists", "the-world": "travel_map", "items-and-money": "inventory",
+	"heroes-and-magic": "party_roster", "rules-and-play": "combat_odds"}
 
 
 def slug(text: str) -> str:
 	text = text.lower().replace("&", " and ").replace("'", "").replace("’", "")
 	return re.sub(r"[^a-z0-9]+", "-", text).strip("-") or "page"
+
+
+def front_matter(text: str) -> dict:
+	"""The page's front matter (wiki, type, region, level, image, summary...) as plain strings."""
+	m = re.match(r"\A---\n(.*?)\n---\n", text, re.S)
+	meta = {}
+	for line in (m.group(1).split("\n") if m else []):
+		kv = re.match(r"^([A-Za-z_][\w-]*):\s*(.*)$", line)
+		if kv:
+			v = kv.group(2).strip()
+			if len(v) >= 2 and v[0] == v[-1] and v[0] in "\"'":
+				v = v[1:-1].replace('\\"', '"')
+			meta[kv.group(1)] = v
+	return meta
+
+
+def rarity_class(rarity: str) -> str:
+	return "r-" + rarity.replace(" ", "-")
 
 
 # --- Pages and links -------------------------------------------------------------------------------------------------
@@ -73,6 +96,21 @@ class Wiki:
 		self.image_names = {}
 		for key, v in self.images.items():
 			self.image_names.setdefault(key.rsplit("/", 1)[-1].lower(), key)
+		# Each page's front matter, the pages by their wiki key (region/vallaki), and each listed item's rarity, so a
+		# link to an item can wear its rarity's colour.
+		self.by_wiki_key = {}
+		self.rarity = {}      # (page key, heading slug) -> "very rare"
+		self.thumbs = {}      # "/wiki/img/thumbs/..." -> source picture
+		for key, info in self.pages.items():
+			text = info["path"].read_text(encoding="utf-8")
+			info["meta"] = front_matter(text)
+			if info["meta"].get("wiki"):
+				self.by_wiki_key[info["meta"]["wiki"]] = key
+			if info["meta"].get("type") == "item-list":
+				for name, line in re.findall(r"^###\s+(.+?)\s*\n+\*([^*\n]+)\*", text, re.M):
+					rarity = line.split(",")[0].strip().lower()
+					if rarity in RARITIES:
+						self.rarity[(key, slug(name))] = rarity
 
 	def page(self, target: str):
 		t = target.strip().removesuffix(".md").lower()
@@ -86,6 +124,40 @@ class Wiki:
 			return self.images["Wiki/" + t]
 		key = self.image_names.get(t.rsplit("/", 1)[-1].lower())
 		return self.images[key] if key else None
+
+	def thumb(self, target: str):
+		"""A small copy of a picture for cards and table rows (written by build), or None."""
+		pic = self.image(target)
+		if not pic or pic[1].endswith(".svg"):
+			return None
+		url = "/wiki/img/thumbs/" + pic[1][len("/wiki/img/"):]
+		self.thumbs[url] = pic[0]
+		return url
+
+	def page_image(self, key: str):
+		"""The page's own picture (relative to Wiki/), from its front matter. For a place, its view from above when
+		there is one, since the arrival shot has the game's interface over it."""
+		meta = self.pages[key].get("meta", {})
+		image = meta.get("image")
+		if image and meta.get("type") == "location":
+			over = re.sub(r"_\d+(\.\w+)$", r"_overview\1", image)
+			if over != image and self.image("Wiki/" + over):
+				return over
+		return image
+
+	def page_pic(self, key: str):
+		"""(thumbnail, is a portrait) for a page's own picture, or (None, False)."""
+		image = self.page_image(key)
+		if not image:
+			return None, False
+		return self.thumb("Wiki/" + image), "/portraits/" in "/" + image
+
+	def region(self, rid: str):
+		"""(name, url) of a region id from the front matter; the url is None when the region has no page."""
+		key = self.by_wiki_key.get("region/" + rid)
+		if key:
+			return self.pages[key]["title"], self.pages[key]["url"]
+		return rid.replace("_", " ").strip().title(), None
 
 
 # --- Inline markup ---------------------------------------------------------------------------------------------------
@@ -108,6 +180,8 @@ class Inline:
 		text = re.sub(r"\[([^\]]+)\]\((https?://[^)\s]+)\)",
 			lambda m: hold('<a href="%s" rel="noopener">%s</a>' % (html.escape(m.group(2)), html.escape(m.group(1)))), text)
 		text = html.escape(text, quote=False)
+		# A check's difficulty reads as a chip: "Insight DC 15".
+		text = re.sub(r"\bDC (\d+)\b", r'<span class="wiki-dc">DC&nbsp;\1</span>', text)
 		text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
 		text = re.sub(r"(?<![\w*])\*(?!\s)(.+?)(?<!\s)\*(?![\w*])", r"<em>\1</em>", text)
 		text = re.sub(r"(?<![\w_])_(?!\s)(.+?)(?<!\s)_(?![\w_])", r"<em>\1</em>", text)
@@ -130,7 +204,9 @@ class Inline:
 			self.wiki.missing[target] = self.wiki.missing.get(target, 0) + 1
 			return '<span class="wl-plain">%s</span>' % html.escape(shown)
 		url = self.wiki.pages[key]["url"] + ("#" + slug(heading.lstrip("^")) if heading else "")
-		return '<a href="%s">%s</a>' % (html.escape(url), html.escape(shown))
+		rarity = self.wiki.rarity.get((key, slug(heading.lstrip("^")))) if heading else None
+		cls = ' class="%s"' % rarity_class(rarity) if rarity else ""
+		return '<a href="%s"%s>%s</a>' % (html.escape(url), cls, html.escape(shown))
 
 	def embed(self, inner: str) -> str:
 		target, _, size = inner.partition("|")
@@ -237,7 +313,7 @@ class Blocks:
 		self.ids[base] = n + 1
 		hid = base if n == 0 else "%s-%d" % (base, n)
 		if level in (2, 3):
-			self.headings.append((level, hid, re.sub(r"<[^>]+>", "", self.inline.render(text))))
+			self.headings.append((level, hid, html.unescape(re.sub(r"<[^>]+>", "", self.inline.render(text)))))
 		return '<h%d id="%s">%s</h%d>' % (level, hid, self.inline.render(text), level)
 
 	def quote(self, lines: list) -> str:
@@ -317,8 +393,20 @@ class Blocks:
 		for c in self.cells(sep):
 			aligns.append("center" if c.startswith(":") and c.endswith(":") else "right" if c.endswith(":") else "")
 		def row_html(cells, tag):
+			shown = [self.inline.render(c) for c in cells]
+			if tag == "td":
+				# The first cell that's only a link to a page with a picture gets that picture as a thumbnail.
+				for k, c in enumerate(cells):
+					m = re.fullmatch(r"\[\[([^\]|#]+)(?:\|[^\]]*)?\]\]", c.strip())
+					key = self.inline.wiki.page(m.group(1)) if m else None
+					if key:
+						pic, portrait = self.inline.wiki.page_pic(key)
+						if pic:
+							shown[k] = ('<span class="wiki-with-thumb"><img class="wiki-thumb%s" src="%s" alt="" loading="lazy" '
+								'decoding="async"><span>%s</span></span>') % (" is-portrait" if portrait else "", pic, shown[k])
+						break
 			return "<tr>%s</tr>" % "".join('<%s%s>%s</%s>' % (tag, ' style="text-align:%s"' % aligns[k]
-				if k < len(aligns) and aligns[k] else "", self.inline.render(c), tag) for k, c in enumerate(cells))
+				if k < len(aligns) and aligns[k] else "", shown[k], tag) for k in range(len(cells)))
 		body = "\n".join(row_html(self.cells(r), "td") for r in rows)
 		return '<div class="wiki-table"><table><thead>%s</thead><tbody>\n%s\n</tbody></table></div>' % (
 			row_html(self.cells(head), "th"), body)
@@ -343,6 +431,47 @@ class Blocks:
 			j += 1
 		return j
 
+	def cards(self, items: list, ordered: bool):
+		"""On the index pages, a list whose every entry is a page link and a line about it ("[[Place]]: what it is"),
+		most of them pages with pictures, as picture cards. None when the list isn't one."""
+		wiki = self.inline.wiki
+		meta = wiki.pages.get(self.inline.here, {}).get("meta", {})
+		if "index" not in meta.get("tags", "") or any(len([l for l in item if l.strip()]) != 1 for item in items):
+			return None
+		rows = []
+		for item in items:
+			text = LIST_RE.match(item[0]).group(3)
+			m = re.match(r"^\[\[([^\]|#]+)(?:\|([^\]]+))?\]\](.*)$", text)
+			key = wiki.page(m.group(1)) if m else None
+			if not key:
+				return None
+			rows.append((key, m.group(2) or wiki.pages[key]["title"], m.group(3).strip()))
+		pics = [wiki.page_pic(key) for key, _, _ in rows]
+		if sum(1 for p, _ in pics if p) * 10 < len(rows) * 6:
+			return None
+		out = []
+		for (key, label, rest), (pic, portrait) in zip(rows, pics):
+			url = html.escape(wiki.pages[key]["url"])
+			note, desc = "", rest
+			m = re.match(r"^\(([^)]*(?:\([^)]*\)[^)]*)*)\)\s*:?\s*(.*)$", rest)
+			if m:
+				note, desc = m.group(1), m.group(2)
+			elif rest.startswith(":"):
+				desc = rest[1:].strip()
+			li = ['<li class="wiki-card%s">' % ("" if pic else " no-pic")]
+			if pic:
+				li.append('<a class="wiki-card-pic" href="%s" tabindex="-1" aria-hidden="true"><img src="%s" alt="" '
+					'loading="lazy" decoding="async"%s></a>' % (url, pic, ' class="is-portrait"' if portrait else ""))
+			li.append('<div class="wiki-card-text"><a class="wiki-card-title" href="%s">%s</a>' % (url, html.escape(label)))
+			if note:
+				li.append('<p class="wiki-card-note">%s</p>' % self.inline.render(note))
+			if desc:
+				li.append('<p class="wiki-card-desc">%s</p>' % self.inline.render(desc))
+			li.append("</div></li>")
+			out.append("".join(li))
+		tag = "ol" if ordered else "ul"
+		return '<%s class="wiki-cards">\n%s\n</%s>' % (tag, "\n".join(out), tag)
+
 	def list(self, lines: list) -> str:
 		base = indent_of(lines[0])
 		ordered = re.match(r"\d", LIST_RE.match(lines[0]).group(2)) is not None
@@ -353,11 +482,14 @@ class Blocks:
 				items.append([line])
 			else:
 				items[-1].append(line)
+		cards = self.cards(items, ordered)
+		if cards:
+			return cards
 		out = []
 		start = ""
 		if ordered:
 			first = int(re.match(r"\d+", LIST_RE.match(lines[0]).group(2)).group(0))
-			start = ' start="%d"' % first if first != 1 else ""
+			start = ' start="%d" style="counter-reset: step %d"' % (first, first - 1) if first != 1 else ""
 		for item in items:
 			m = LIST_RE.match(item[0])
 			text = m.group(3)
@@ -446,7 +578,82 @@ SPOILER_GATE = """<div class="wiki-spoiler" role="note">
 </div>"""
 
 
-def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str, description: str, v: dict) -> str:
+TYPE_LABELS = {"location": "Location", "person": "Person", "creature": "Creature"}
+
+
+def hero(wiki: Wiki, key: str, title: str):
+	"""The page's header: what it is (an eyebrow: "Side quest · Vallaki · Level 5"), its title, and for quests and
+	places their opening screenshot behind it with the summary under the title. Returns (html, the picture's url or
+	None, the summary shown or None)."""
+	meta = wiki.pages[key].get("meta", {})
+	kind = meta.get("type")
+	if key == "Wiki/Home":
+		return ('<header class="wiki-hero has-pic wiki-hero-home"><img class="wiki-hero-pic" src="/media/shots/hero.webp" '
+			'alt="" fetchpriority="high" decoding="async"><div class="wiki-hero-text"><p class="wiki-eyebrow">The game '
+			'guide</p><h1>%s</h1></div></header>' % html.escape(title)), None, None
+	if kind not in ("quest", "location", "person", "creature"):
+		return "", None, None
+	bits = []
+	if kind == "quest":
+		bits.append("Main quest" if meta.get("kind") == "main" else "Side quest")
+	elif kind == "person" and meta.get("title"):
+		bits.append(html.escape(meta["title"]))
+	elif kind == "creature":
+		bits.append(html.escape((meta.get("creature") or "Creature").replace("_", " ").capitalize()))
+	else:
+		bits.append(TYPE_LABELS[kind])
+	if meta.get("region"):
+		name, url = wiki.region(meta["region"])
+		bits.append('<a href="%s">%s</a>' % (url, html.escape(name)) if url else html.escape(name))
+	if meta.get("level"):
+		bits.append("Level %s" % html.escape(meta["level"]))
+	if kind == "creature" and meta.get("cr"):
+		bits.append("CR %s" % html.escape(meta["cr"]))
+	eyebrow = '<p class="wiki-eyebrow">%s</p>' % ' <span aria-hidden="true">·</span> '.join(bits)
+	image = wiki.page_image(key) if kind in ("quest", "location") else None
+	pic = wiki.image("Wiki/" + image) if image else None
+	summary = meta.get("summary", "")
+	lede = summary if pic and summary and not summary.endswith(("…", "...")) else None
+	parts = ['<header class="wiki-hero%s">' % (" has-pic" if pic else "")]
+	if pic:
+		parts.append('<img class="wiki-hero-pic" src="%s" alt="" fetchpriority="high" decoding="async">' % pic[1])
+	parts.append('<div class="wiki-hero-text">%s<h1>%s</h1>' % (eyebrow, html.escape(title)))
+	if lede:
+		parts.append('<p class="wiki-lede">%s</p>' % html.escape(lede))
+	parts.append("</div></header>")
+	return "".join(parts), pic[1] if pic else None, lede
+
+
+def home_cards(body: str) -> str:
+	"""The front page's contents as a card per section, each headed by a screenshot from the main site."""
+	def card(m):
+		hid, head, rest = m.group(1), m.group(2), m.group(3)
+		art = HOME_ART.get(hid)
+		pic = '<img class="wiki-home-pic" src="/media/thumbs/%s.webp" alt="" loading="lazy">' % art if art else ""
+		rest = re.sub(r"<li>(<a [^>]+>[^<]+</a>): (.*?)</li>", r'<li>\1<span class="wiki-home-desc">\2</span></li>', rest)
+		return '<section class="wiki-home-card">%s<h2 id="%s">%s</h2>%s</section>' % (pic, hid, head, rest)
+	return re.sub(r'<h2 id="([^"]+)">(.*?)</h2>\s*(<ul>.*?</ul>)', card, body, flags=re.S)
+
+
+def item_sections(body: str, rarities: dict, key: str) -> str:
+	"""On the item lists, each item (a ### heading, its meta line and text) as a card edged in its rarity's colour."""
+	chunks = re.split(r'(?=<h[23] id=")', body)
+	out = []
+	for c in chunks:
+		m = re.match(r'<h3 id="([^"]+)">', c)
+		if not m:
+			out.append(c)
+			continue
+		rarity = rarities.get((key, m.group(1)))
+		cls = " " + rarity_class(rarity) if rarity else ""
+		c = re.sub(r"(</h3>\s*)<p>(<em>.*?</em>)", r'\1<p class="wiki-item-meta">\2', c, count=1, flags=re.S)
+		out.append('<section class="wiki-item%s">%s</section>\n' % (cls, c))
+	body = "".join(out)
+	return re.sub(r'((?:<section class="wiki-item[^"]*">.*?</section>\n)+)', r'<div class="wiki-items">\n\1</div>\n', body, flags=re.S)
+
+
+def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str, description: str, v: dict,
+		top: str = "") -> str:
 	url = wiki.pages[key]["url"]
 	full_title = "Curse of Strahd Wiki" if key == "Wiki/Home" else "%s - Curse of Strahd Wiki" % title
 	return """<!doctype html>
@@ -474,7 +681,7 @@ def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-%(ptype)s">
 <a class="skip" href="#main">Skip to the content</a>
 
 %(nav)s
@@ -489,6 +696,7 @@ def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+%(top)s
     <div class="wiki-layout%(has_toc)s">
       <article class="wiki-page">
 %(body)s
@@ -506,7 +714,8 @@ def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str
 </html>
 """ % {"full_title": html.escape(full_title), "description": html.escape(description, quote=True), "url": url,
 		"css": v["css"], "wcss": v["wcss"], "js": v["js"], "wjs": v["wjs"], "nav": NAV, "crumbs": crumbs, "body": body,
-		"toc": toc, "has_toc": " has-toc" if toc else "", "footer": FOOTER}
+		"toc": toc, "has_toc": " has-toc" if toc else "", "footer": FOOTER, "top": top,
+		"ptype": "home" if key == "Wiki/Home" else html.escape(wiki.pages[key].get("meta", {}).get("type") or "page")}
 
 
 def build(wiki: Wiki, out: Path) -> None:
@@ -529,11 +738,33 @@ def build(wiki: Wiki, out: Path) -> None:
 				title = plain(inline.render(m.group(1)))
 				break
 		body = blocks.render(lines)
+		top, hero_pic, lede = hero(wiki, key, title)
+		if top:
+			body = re.sub(r"<h1 [^>]*>.*?</h1>\n?", "", body, count=1, flags=re.S)
+			if hero_pic:   # the header shows the picture, so neither the facts box nor the overview repeats it
+				body = re.sub(r'<div class="wiki-infobox-pic"><img [^>]*src="%s"[^>]*></div>' % re.escape(hero_pic), "", body, count=1)
+				body = re.sub(r'<p><img class="wiki-pic" src="%s"[^>]*>(<br>\n<em>[^<]*</em>)?</p>\n?' % re.escape(hero_pic), "",
+					body, count=1)
+			if lede:   # nor the summary's first paragraph, now under the title
+				same = re.sub(r"\s+", " ", lede).strip()
+				for m in re.finditer(r"<p>(.*?)</p>\n?", body, flags=re.S):
+					if plain(m.group(1)) == same:
+						body = body[:m.start()] + body[m.end():]
+						break
+				body = re.sub(r'<h2 id="summary">Summary</h2>\n?(?=<h2 )', "", body, count=1)
+				blocks.headings = [h for h in blocks.headings if not (h[1] == "summary" and 'id="summary"' not in body)]
+		if wiki.pages[key].get("meta", {}).get("type") == "item-list":
+			body = item_sections(body, wiki.rarity, key)
 		if key == "Wiki/Home":
 			# The front page warns first, in the site's own words (the vault's own spoiler callout would repeat it).
 			body = re.sub(r'<div class="callout callout-warning"><p class="callout-title">.*?Spoilers</p>.*?</div>\n?', "",
 				body, count=1, flags=re.S)
-			body = SPOILER_GATE + "\n" + body
+			intro = re.search(r"<p>(.*?)</p>\n?", body, flags=re.S)   # the opening line goes under the header's title
+			if intro:
+				body = body[:intro.start()] + body[intro.end():]
+				top = top.replace("</div></header>", '<p class="wiki-lede">%s</p></div></header>' % intro.group(1))
+				lede = plain(intro.group(1))
+			body = SPOILER_GATE + "\n" + home_cards(body)
 		parts = key.split("/")[1:]
 		crumbs = ['<a href="/wiki/">Wiki</a>'] if key != "Wiki/Home" else ['<span>Wiki</span>']
 		for n in range(1, len(parts)):
@@ -543,18 +774,20 @@ def build(wiki: Wiki, out: Path) -> None:
 			crumbs.append('<a href="%s">%s</a>' % (wiki.pages[sub_key]["url"], label) if sub_key else "<span>%s</span>" % label)
 		if key != "Wiki/Home":
 			crumbs.append("<span>%s</span>" % html.escape(title))
+		if wiki.pages[key].get("meta", {}).get("type") == "item-list":
+			blocks.headings = [h for h in blocks.headings if h[0] == 2]
 		toc = ""
-		if len(blocks.headings) >= 3:
+		if len(blocks.headings) >= 3 and key != "Wiki/Home":
 			toc = '      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul>%s</ul></nav>' % "".join(
 				'<li class="lv%d"><a href="#%s">%s</a></li>' % (lv, hid, html.escape(t)) for lv, hid, t in blocks.headings)
 		para = re.search(r"<p>(.*?)</p>", body.split("</div>", 1)[-1] if key == "Wiki/Home" else body, re.S)
-		desc = plain(para.group(1)) if para else "%s, in the Curse of Strahd game wiki." % title
+		desc = lede or (plain(para.group(1)) if para else "%s, in the Curse of Strahd game wiki." % title)
 		if len(desc) > 155:
 			desc = desc[:152].rsplit(" ", 1)[0] + "..."
 		dest = out / ("index.html" if key == "Wiki/Home" else info["url"][len("/wiki/"):])
 		dest.parent.mkdir(parents=True, exist_ok=True)
-		dest.write_text(page_html(wiki, key, body, title, " <span aria-hidden=\"true\">›</span> ".join(crumbs), toc, desc, v),
-			encoding="utf-8")
+		dest.write_text(page_html(wiki, key, body, title, " <span aria-hidden=\"true\">›</span> ".join(crumbs), toc, desc, v,
+			top), encoding="utf-8")
 		written.add(dest.resolve())
 		index.append({"t": title, "u": info["url"], "s": info["section"]})
 	index.sort(key=lambda e: e["t"].lower())
@@ -576,6 +809,21 @@ def build(wiki: Wiki, out: Path) -> None:
 			if im.width > PICTURE_WIDTH:
 				im = im.resize((PICTURE_WIDTH, round(im.height * PICTURE_WIDTH / im.width)), Image.LANCZOS)
 			im.save(dest, "WEBP", quality=78, method=5)
+		made += 1
+	for url, src in wiki.thumbs.items():
+		dest = out / url[len("/wiki/"):]
+		written.add(dest.resolve())
+		if dest.exists() and dest.stat().st_mtime >= src.stat().st_mtime:
+			continue
+		dest.parent.mkdir(parents=True, exist_ok=True)
+		im = Image.open(src)
+		im = im.convert("RGBA" if im.mode in ("RGBA", "LA", "P") else "RGB")
+		if "/shots/" in url and not re.search(r"overview|travel-map", url) and im.width > im.height:
+			im = im.crop((round(im.width * 0.17), 0, round(im.width * 0.86), round(im.height * 0.6)))
+		width = min(THUMB_WIDTH, im.width, 192 if "/portraits/" in url else THUMB_WIDTH)
+		if im.width > width:
+			im = im.resize((width, round(im.height * width / im.width)), Image.LANCZOS)
+		im.save(dest, "WEBP", quality=74, method=5)
 		made += 1
 	# Whatever the source no longer has goes, except the wiki's own script.
 	keep = {(out / "wiki.js").resolve()}

@@ -17,13 +17,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="/css/site.css?v=be300721">
-<link rel="stylesheet" href="/css/wiki.css?v=d58dce1f">
+<link rel="stylesheet" href="/css/wiki.css?v=fdd59b6f">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/media/icon-192.png" type="image/png" sizes="192x192">
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body">
+<body class="wiki-body wiki-type-quest">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -53,12 +53,10 @@
         <ul id="wiki-hits" class="wiki-hits" hidden></ul>
       </div>
     </div>
+<header class="wiki-hero has-pic"><img class="wiki-hero-pic" src="/wiki/img/shots/quest-into-the-mists.webp" alt="" fetchpriority="high" decoding="async"><div class="wiki-hero-text"><p class="wiki-eyebrow">Main quest <span aria-hidden="true">·</span> <a href="/wiki/regions/into-the-mists.html">Into the Mists</a> <span aria-hidden="true">·</span> Level 1</p><h1>Into the Mists</h1><p class="wiki-lede">The road you were on is gone. The mist has delivered you somewhere else: a dark valley, a wolf-haunted road and a village at the end of it.</p></div></header>
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
-<h1 id="into-the-mists">Into the Mists</h1>
-<aside class="wiki-infobox"><div class="wiki-infobox-pic"><img class="wiki-pic" src="/wiki/img/shots/quest-into-the-mists.webp" alt="quest into the mists" loading="lazy" decoding="async" style="max-width: 360px"></div><dl><dt>Type</dt><dd>Main quest</dd><dt>Region</dt><dd><a href="/wiki/regions/into-the-mists.html">Into the Mists</a> · level 1</dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-old-svalich-road.html">The Old Svalich Road</a></dd><dt>Next</dt><dd><a href="/wiki/quests/death-house.html">Death House</a></dd></dl></aside>
-<h2 id="summary">Summary</h2>
-<p>The road you were on is gone. The mist has delivered you somewhere else: a dark valley, a wolf-haunted road and a village at the end of it.</p>
+<aside class="wiki-infobox"><dl><dt>Type</dt><dd>Main quest</dd><dt>Region</dt><dd><a href="/wiki/regions/into-the-mists.html">Into the Mists</a> · level 1</dd><dt>Starts at</dt><dd><a href="/wiki/locations/the-old-svalich-road.html">The Old Svalich Road</a></dd><dt>Next</dt><dd><a href="/wiki/quests/death-house.html">Death House</a></dd></dl></aside>
 <h2 id="walkthrough">Walkthrough</h2>
 <h3 id="getting-the-quest">Getting the quest</h3>
 <p>The game opens here. Your party stands at the east end of <a href="/wiki/locations/the-old-svalich-road.html">The Old Svalich Road</a>, in the Svalich Woods, with a wall of fog at your backs. Before you do anything else, examine <strong>the mist behind you</strong>. That plays the arrival, puts Into the Mists in your journal at Lost In Mist, and starts each prebuilt hero's personal quest: <a href="/wiki/quests/a-knight-more-or-less.html">A Knight, More or Less</a> for Godrick, <a href="/wiki/quests/carry-the-dawn.html">Carry the Dawn</a> for Liriel, <a href="/wiki/quests/granddas-trail.html">Grandda&#x27;s Trail</a> for Thistle, <a href="/wiki/quests/a-seat-at-the-table.html">A Seat at the Table</a> for Ratatouille, <a href="/wiki/quests/the-last-lesson.html">The Last Lesson</a> for Wren and <a href="/wiki/quests/the-fine-print.html">The Fine Print</a> for Kip. A custom hero in a pregen's place starts none. If you walk off without touching the fog, nothing is lost: the arrival plays instead when you reach the wolf in the narrows (step 3), with the same journal entry and the same personal quests, and then goes straight on to the standoff with the wolves.</p>
@@ -71,37 +69,37 @@
 <ul>
 <li><a href="/wiki/people/ilarion.html">Ilarion</a> sits on a stone right by the fog, asking what day it is. He starts <a href="/wiki/quests/the-last-traveller.html">The Last Traveller</a>. Agreeing to walk him home brings five wolves down on you at level 1, so you may prefer to come back for him later; he waits.</li>
 <li>An abandoned cart in the clearing south of the road: <a href="/wiki/items/equipment.html#rope">Rope</a>, <a href="/wiki/items/equipment.html#torch">Torch</a> (3), <a href="/wiki/items/equipment.html#ration">Ration</a> (2) and 2 gp.</li>
-<li>A hunter's wolf trap hidden in the road itself, a few steps west of where you start. You spot it at DC 11 and can disarm it at DC 11; walk into it and it's a Dexterity save (DC 11) or 1d6 piercing.</li>
-<li>A torn deer carcass in the clearing north of the road. Examine it and you're offered <strong>Survival DC 12</strong> to read the tracks. On a success you see the wolves moving in a line like a picket, which opens an easy way past them in step 3. This is one try for the whole party. Separately, the carcass's right-click check "Read the wolf sign by the carcass" (also <strong>Survival DC 12</strong>) shows you the trap and a traveller's pack trampled under the carcass. The pack is a hidden find (Search, DC 12) holding <a href="/wiki/items/magic-items.html#boots-of-the-winterlands">Boots of the Winterlands</a>.</li>
+<li>A hunter's wolf trap hidden in the road itself, a few steps west of where you start. You spot it at <span class="wiki-dc">DC&nbsp;11</span> and can disarm it at <span class="wiki-dc">DC&nbsp;11</span>; walk into it and it's a Dexterity save (<span class="wiki-dc">DC&nbsp;11</span>) or 1d6 piercing.</li>
+<li>A torn deer carcass in the clearing north of the road. Examine it and you're offered <strong>Survival <span class="wiki-dc">DC&nbsp;12</span></strong> to read the tracks. On a success you see the wolves moving in a line like a picket, which opens an easy way past them in step 3. This is one try for the whole party. Separately, the carcass's right-click check "Read the wolf sign by the carcass" (also <strong>Survival <span class="wiki-dc">DC&nbsp;12</span></strong>) shows you the trap and a traveller's pack trampled under the carcass. The pack is a hidden find (Search, <span class="wiki-dc">DC&nbsp;12</span>) holding <a href="/wiki/items/magic-items.html#boots-of-the-winterlands" class="r-uncommon">Boots of the Winterlands</a>.</li>
 </ul></li>
 <li><strong>Get past the wolves.</strong> At the west end of the woods the road squeezes through a gap one square wide, and a grey wolf stands in it with more waiting behind (<a href="/wiki/people/the-wolves.html">The Wolves</a>). There is no way round. Talk to them and choose:
 <ul>
-<li><strong>Intimidation DC 13</strong>: stand tall and shout them off the road.</li>
-<li><strong>Animal Handling DC 12</strong>: eyes down, walk through slowly. Thistle approves (+2).</li>
-<li><strong>Insight DC 10</strong>: nod to them like sentries at a gate. Only offered if you read the tracks at the carcass in step 2.</li>
-<li><strong>Arcana DC 12</strong>: only offered if you have a Wizard, who scatters them with harmless light and thunder.</li>
+<li><strong>Intimidation <span class="wiki-dc">DC&nbsp;13</span></strong>: stand tall and shout them off the road.</li>
+<li><strong>Animal Handling <span class="wiki-dc">DC&nbsp;12</span></strong>: eyes down, walk through slowly. Thistle approves (+2).</li>
+<li><strong>Insight <span class="wiki-dc">DC&nbsp;10</span></strong>: nod to them like sentries at a gate. Only offered if you read the tracks at the carcass in step 2.</li>
+<li><strong>Arcana <span class="wiki-dc">DC&nbsp;12</span></strong>: only offered if you have a Wizard, who scatters them with harmless light and thunder.</li>
 <li><a href="/wiki/spells/level-1-spells.html#speak-with-animals">Speak with Animals</a> (already running, or cast on the spot by someone who knows it): the lead wolf tells you its master wants to look at you, mentions an "old one in the white" if you haven't met Ilarion yet, and steps aside. No roll, and Thistle approves (+2).</li>
 <li>Draw steel, or wait (which only shows you they aren't leaving).</li>
 </ul>
 <p>Any failed roll means a fight. The fight is three <a href="/wiki/bestiary/wolf.html">Wolf</a> (150 XP, Low for a level 1 party of four): two on the far side of the gap and one coming out of the trees behind you. Wolves get Advantage when a packmate is next to you, and a bite knocks you prone, so turn someone round to deal with the one behind and hold the gap so the other two can only come through one at a time. Talked past or fought, the journal moves to The Pack.</p></li>
 <li><strong>The Gates of Barovia.</strong> Past the narrows two headless stone knights keep a pair of iron gates that swing open by themselves. Worth a stop:
 <ul>
-<li>The wayside shrine to the Morninglord: pray at it (<strong>Religion DC 11</strong>) for Heroic Inspiration.</li>
-<li>A loose board behind the shrine (Search, <strong>Investigation DC 12</strong>): a <a href="/wiki/items/magic-items.html#ring-of-mind-shielding">Ring of Mind Shielding</a>.</li>
-<li>The statues' plinths (<strong>History DC 12</strong>): a codex entry, and it points out their stone heads in the weeds (otherwise a Search at DC 12; they're only scenery).</li>
-<li>A gate guard's sword in the weeds below the statues (Search, <strong>DC 13</strong>): a <a href="/wiki/items/magic-items.html#weapon-of-warning">Weapon of Warning</a>. Climbing the oak at the village edge (step 5) also shows it to you.</li>
+<li>The wayside shrine to the Morninglord: pray at it (<strong>Religion <span class="wiki-dc">DC&nbsp;11</span></strong>) for Heroic Inspiration.</li>
+<li>A loose board behind the shrine (Search, <strong>Investigation <span class="wiki-dc">DC&nbsp;12</span></strong>): a <a href="/wiki/items/magic-items.html#ring-of-mind-shielding" class="r-uncommon">Ring of Mind Shielding</a>.</li>
+<li>The statues' plinths (<strong>History <span class="wiki-dc">DC&nbsp;12</span></strong>): a codex entry, and it points out their stone heads in the weeds (otherwise a Search at <span class="wiki-dc">DC&nbsp;12</span>; they're only scenery).</li>
+<li>A gate guard's sword in the weeds below the statues (Search, <strong><span class="wiki-dc">DC&nbsp;13</span></strong>): a <a href="/wiki/items/magic-items.html#weapon-of-warning" class="r-uncommon">Weapon of Warning</a>. Climbing the oak at the village edge (step 5) also shows it to you.</li>
 </ul>
 <p>Hidden finds that hold an item give each character one look: whoever misses has missed it for good, but someone else can still try. Remember this gate: after dark, once you've heard the rumour, <a href="/wiki/quests/the-last-muster.html">The Last Muster</a> happens here.<br>
 <img class="wiki-pic" src="/wiki/img/shots/loc-into-the-mists-road-overview.webp" alt="loc into the mists road overview" loading="lazy" decoding="async" style="max-width: 600px"></p></li>
 <li><strong>The village edge (optional finds).</strong>
 <ul>
-<li>A traveller's pack in the ferns of the north cottage yard (Search, <strong>DC 12</strong>): a <a href="/wiki/items/equipment.html#signal-whistle">Signal Whistle</a>.</li>
-<li>The old oak with a broad, low bough (<strong>Athletics DC 10</strong> to climb): from the bough, ten feet up, you see the guard's sword glinting by the gates.</li>
+<li>A traveller's pack in the ferns of the north cottage yard (Search, <strong><span class="wiki-dc">DC&nbsp;12</span></strong>): a <a href="/wiki/items/equipment.html#signal-whistle">Signal Whistle</a>.</li>
+<li>The old oak with a broad, low bough (<strong>Athletics <span class="wiki-dc">DC&nbsp;10</span></strong> to climb): from the bough, ten feet up, you see the guard's sword glinting by the gates.</li>
 <li>A crow on a barrel in the alley south of the road. If someone has <a href="/wiki/spells/level-1-spells.html#speak-with-animals">Speak with Animals</a> running or knows it, ask what it's seen: the two children in the road "have no smell", the tall house eats the ones who go in, and there's a pack under the dead deer back up the road (this marks the pack as found). It also gives you something to say to the children.</li>
 </ul></li>
 <li><strong>The children in the road.</strong> <a href="/wiki/people/rose.html">Rose</a> and <a href="/wiki/people/thorn.html">Thorn</a> stand on either side of the road where the cottages begin. Talking to them starts <a href="/wiki/quests/death-house.html">Death House</a>: their baby brother Walter is down in the basement with a monster, and they won't go back in. Ask whatever you like: which house (the tall one inside the village, by the dead tree, with the iron gate), where their parents are (they went downstairs with their friends, in black robes), what the monster is like. Then:
 <ul>
-<li><strong>Insight DC 13</strong> (watch them closely) or <strong>Arcana DC 14</strong> (look for magic on them). You get one try between the two, pass or fail. A success shows you they are an old illusion made to draw you into the house, and counts as one piece of the lore that matters at the end of <a href="/wiki/quests/death-house.html">Death House</a>.</li>
+<li><strong>Insight <span class="wiki-dc">DC&nbsp;13</span></strong> (watch them closely) or <strong>Arcana <span class="wiki-dc">DC&nbsp;14</span></strong> (look for magic on them). You get one try between the two, pass or fail. A success shows you they are an old illusion made to draw you into the house, and counts as one piece of the lore that matters at the end of <a href="/wiki/quests/death-house.html">Death House</a>.</li>
 <li>If the crow talked to you, "The crow down the road says you two don't smell of anything at all" does the same with no roll, even after a failed try.</li>
 <li>A Cleric can offer to pray with them, which earns Heroic Inspiration.</li>
 <li>Into the Mists completes at Village Edge as soon as they've made their plea. <strong>"We'll find Walter. I promise."</strong> or <strong>"We can't help you."</strong> ends the talk.</li>
@@ -143,12 +141,12 @@
 <em>Hint:</em> Follow the road on to the village; there are children on the road at its edge.</p>
 <p><strong>Village Edge</strong> (the end: success): Past the headless statues of a stone gate, the road brought us to the edge of a village. Two children were waiting in the road, as if for us.</p></details>
 <details class="callout callout-abstract"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Every skill check in its conversations</summary><ul>
-<li>Insight DC 13: Something about them is wrong. Watch them closely.</li>
-<li>Arcana DC 14: Is there magic on them?</li>
-<li>Intimidation DC 13: Stand tall and shout them off the road. If they don't give way, they attack.</li>
-<li>Animal Handling DC 12: Eyes down, move slowly, walk through. Startle them and they attack.</li>
-<li>Insight DC 10: They're sentries, not hunters: nod to them and walk on. Misjudge them and they attack.</li>
-<li>Arcana DC 12: Scatter them with harmless light and thunder. If they don't scare, they attack.</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;13</span>: Something about them is wrong. Watch them closely.</li>
+<li>Arcana <span class="wiki-dc">DC&nbsp;14</span>: Is there magic on them?</li>
+<li>Intimidation <span class="wiki-dc">DC&nbsp;13</span>: Stand tall and shout them off the road. If they don't give way, they attack.</li>
+<li>Animal Handling <span class="wiki-dc">DC&nbsp;12</span>: Eyes down, move slowly, walk through. Startle them and they attack.</li>
+<li>Insight <span class="wiki-dc">DC&nbsp;10</span>: They're sentries, not hunters: nod to them and walk on. Misjudge them and they attack.</li>
+<li>Arcana <span class="wiki-dc">DC&nbsp;12</span>: Scatter them with harmless light and thunder. If they don't scare, they attack.</li>
 </ul></details>
 <h2 id="related">Related</h2>
 <ul>
@@ -159,7 +157,7 @@
 <details class="callout callout-example"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>Cutscenes</summary><p><strong>Out of the Mists</strong>: The party steps out of the mist onto the Old Svalich Road, the sunless valley of Barovia below.<br>
 <img class="wiki-pic" src="/wiki/img/cutscenes/mists-arrival.webp" alt="mists arrival" loading="lazy" decoding="async" style="max-width: 420px"></p></details>
       </article>
-      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#summary">Summary</a></li><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#fights">Fights</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
+      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#walkthrough">Walkthrough</a></li><li class="lv3"><a href="#getting-the-quest">Getting the quest</a></li><li class="lv3"><a href="#step-by-step">Step by step</a></li><li class="lv3"><a href="#choices-and-endings">Choices and endings</a></li><li class="lv3"><a href="#if-youre-stuck">If you&#x27;re stuck</a></li><li class="lv2"><a href="#rewards">Rewards</a></li><li class="lv2"><a href="#fights">Fights</a></li><li class="lv2"><a href="#journal">Journal</a></li><li class="lv2"><a href="#related">Related</a></li></ul></nav>
     </div>
   </div>
 </main>
@@ -189,6 +187,6 @@
 </footer>
 
 <script src="/js/site.js?v=3dd4a2a6" defer></script>
-<script src="/wiki/wiki.js?v=b2b2db75" defer></script>
+<script src="/wiki/wiki.js?v=538558eb" defer></script>
 </body>
 </html>
