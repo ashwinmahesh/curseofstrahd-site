@@ -440,7 +440,7 @@ func _still_combat_odds() -> void:
 func _still_combat_area() -> void:
 	if not await _fight():
 		return
-	var wiz := _hero("Ratatoille")
+	var wiz := _hero("Ratatouille")
 	_make_current(wiz)
 	var foes := _foes()
 	var godrick := _hero(FRONT)
@@ -457,7 +457,7 @@ func _still_combat_area() -> void:
 func _still_combat_fireball() -> void:
 	if not await _fight():
 		return
-	var wiz := _hero("Ratatoille")
+	var wiz := _hero("Ratatouille")
 	_make_current(wiz)
 	var foes := _foes()
 	_frame([wiz, foes[0], foes[1], foes[2]], 13.0)
@@ -678,7 +678,7 @@ func _clip_fight() -> void:
 	if not await _fight():
 		return
 	var godrick := _hero("Godrick")
-	var wiz := _hero("Ratatoille")
+	var wiz := _hero("Ratatouille")
 	var warlock := _hero("Kip")
 	var cleric := _hero("Liriel")
 	var axes := _ground_axes(cv.rig)
@@ -949,13 +949,13 @@ func _clip_arrival() -> void:
 # --- Cinematic loops (owner, 2026-10-09: "more cinematic", each showing off one of the game's visuals) --------------
 
 ## The fight's camera at work, unbroken (owner: "the dynamic camera we have in combat"): Godrick's smite crits and
-## fells a zombie (the push-in and the jolt), the camera glides to Ratatoille and turns with his Fireball to where it
+## fells a zombie (the push-in and the jolt), the camera glides to Ratatouille and turns with his Fireball to where it
 ## lands, then glides to Kip, whose Eldritch Blast fells the last foe in slow motion.
 func _clip_loop_combat() -> void:
 	if not await _fight():
 		return
 	var godrick := _hero("Godrick")
-	var wiz := _hero("Ratatoille")
+	var wiz := _hero("Ratatouille")
 	var warlock := _hero("Kip")
 	var axes := _ground_axes(cv.rig)
 	var foes := _foes()
