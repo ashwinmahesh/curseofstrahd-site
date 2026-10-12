@@ -4,66 +4,6 @@
 
 The rules words the game underlines; hover one in the game to read it. *In this game* notes are where it plays differently.
 
-## 
-*Condition*
-You can't see and automatically fail any ability check that needs sight. Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
-
-## 
-*Condition*
-You can't attack the creature that charmed you or target it with damaging abilities or magical effects. The charmer has Advantage on ability checks to interact with you socially.
-
-## 
-*Condition*
-You can't hear and automatically fail any ability check that needs hearing.
-
-## 
-*Condition*
-Exhaustion is cumulative: each time you get it you gain a level. Every D20 Test you make is reduced by 2 times your Exhaustion level, and your Speed is reduced by 5 feet times your level. You die at level 6. A Long Rest removes one level; at level 0 the condition ends.
-
-## 
-*Condition*
-While the source of your fear is within line of sight, you have Disadvantage on ability checks and attack rolls. You can't willingly move closer to the source of your fear.
-
-## 
-*Condition*
-Your Speed is 0 and can't increase. You have Disadvantage on attack rolls against any target other than the grappler. The grappler can drag or carry you, paying 1 extra foot per foot moved unless you are Tiny or two or more sizes smaller than it.
-
-## 
-*Condition*
-You can't take any action, Bonus Action or Reaction, and you can't speak. Your Concentration is broken. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll.
-
-## 
-*Condition*
-If you are Invisible when you roll Initiative, you have Advantage on the roll. Effects that need to see their target don't affect you unless their creator can see you, and neither does anything that targets your gear. Attack rolls against you have Disadvantage and your attack rolls have Advantage, except against a creature that can somehow see you.
-
-## 
-*Condition*
-You have the Incapacitated condition and your Speed is 0 and can't increase. You automatically fail Strength and Dexterity saving throws. Attack rolls against you have Advantage, and any attack that hits you is a Critical Hit if the attacker is within 5 feet of you.
-
-## 
-*Condition*
-You and the nonmagical things you wear and carry turn into an inanimate substance, usually stone; your weight is multiplied by ten and you stop aging. You have the Incapacitated condition, your Speed is 0 and can't increase, attack rolls against you have Advantage, and you automatically fail Strength and Dexterity saving throws. You have Resistance to all damage and Immunity to the Poisoned condition.
-
-## 
-*Condition*
-You have Disadvantage on attack rolls and ability checks.
-
-## 
-*Condition*
-Your only movement options are crawling or spending half your Speed (rounded down) to stand up, which ends the condition; with Speed 0 you can't stand. You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you, and Disadvantage otherwise.
-
-## 
-*Condition*
-Your Speed is 0 and can't increase. Attack rolls against you have Advantage and your attack rolls have Disadvantage. You have Disadvantage on Dexterity saving throws.
-
-## 
-*Condition*
-You have the Incapacitated condition. You automatically fail Strength and Dexterity saving throws, and attack rolls against you have Advantage.
-
-## 
-*Condition*
-You have the Incapacitated and Prone conditions and drop whatever you are holding; when this ends you are still Prone. Your Speed is 0 and can't increase. Attack rolls against you have Advantage, you automatically fail Strength and Dexterity saving throws, any attack that hits you from within 5 feet is a Critical Hit, and you are unaware of your surroundings.
-
 ## Ability Check
 *Rule*
 A d20 plus one ability's modifier against a Difficulty Class, rolled when the outcome of something you try is in doubt. Your Proficiency Bonus is added when a skill or tool you're proficient with applies.
@@ -97,6 +37,10 @@ Some magic items work only for a creature bonded to them. A creature can be attu
 > [!note] In this game
 > Attuning, and ending it, happen at once from the inventory instead of taking a Short Rest.
 
+## Blinded
+*Condition*
+You can't see and automatically fail any ability check that needs sight. Attack rolls against you have Advantage, and your attack rolls have Disadvantage.
+
 ## Blindsight
 *Senses*
 Within its range a creature perceives everything without needing eyes, so darkness and invisibility hide nothing from it there. Total Cover still does.
@@ -119,6 +63,10 @@ Daylight, or close to a torch or a lantern. Creatures in it can be seen normally
 ## Cantrip
 *Spellcasting*
 A level 0 spell, cast as often as you like with no spell slot. Most cantrips grow stronger at character levels 5, 11 and 17.
+
+## Charmed
+*Condition*
+You can't attack the creature that charmed you or target it with damaging abilities or magical effects. The charmer has Advantage on ability checks to interact with you socially.
 
 ## Cleave
 *Weapon Mastery*
@@ -162,6 +110,10 @@ Within its range you see in Dim Light as if it were Bright Light, and in Darknes
 ## Dash
 *Action*
 
+## Deafened
+*Condition*
+You can't hear and automatically fail any ability check that needs hearing.
+
 ## Death Saving Throw
 *Health*
 At the start of each turn you spend at 0 Hit Points, roll a d20 with nothing added: 10 or higher is a success, anything lower a failure. Three successes and you're Stable; three failures and you die. A 1 counts as two failures, and a 20 brings you back with 1 Hit Point. Taking damage at 0 Hit Points is a failure, two if it's a Critical Hit.
@@ -192,6 +144,10 @@ Roll two d20s and keep the lower. Several sources still give only the two dice, 
 *Area of Effect*
 An area that spreads out in every direction from a creature or object and moves with it. The creature at its centre isn't affected unless the effect says so.
 
+## Exhaustion
+*Condition*
+Exhaustion is cumulative: each time you get it you gain a level. Every D20 Test you make is reduced by 2 times your Exhaustion level, and your Speed is reduced by 5 feet times your level. You die at level 6. A Long Rest removes one level; at level 0 the condition ends.
+
 ## Expertise
 *Rule*
 For a skill you have Expertise in, add twice your Proficiency Bonus to its checks instead of once.
@@ -199,8 +155,16 @@ For a skill you have Expertise in, add twice your Proficiency Bonus to its check
 ## Finesse
 *Weapon Property*
 
+## Frightened
+*Condition*
+While the source of your fear is within line of sight, you have Disadvantage on ability checks and attack rolls. You can't willingly move closer to the source of your fear.
+
 ## Grapple
 *Action*
+
+## Grappled
+*Condition*
+Your Speed is 0 and can't increase. You have Disadvantage on attack rolls against any target other than the grappler. The grappler can drag or carry you, paying 1 extra foot per foot moved unless you are Tiny or two or more sizes smaller than it.
 
 ## Graze
 *Weapon Mastery*
@@ -237,6 +201,10 @@ How much harm a creature can take. Damage lowers them and healing restores them,
 *Damage*
 Damage of that type, or the named condition, doesn't affect the creature at all.
 
+## Incapacitated
+*Condition*
+You can't take any action, Bonus Action or Reaction, and you can't speak. Your Concentration is broken. If you are Incapacitated when you roll Initiative, you have Disadvantage on the roll.
+
 ## Influence
 *Action*
 Try to change a creature's mind with words or presence: a Charisma check (Deception, Intimidation, Performance or Persuasion), or Wisdom (Animal Handling) for a beast, against a DC set by how it feels about you.
@@ -247,6 +215,10 @@ Try to change a creature's mind with words or presence: a Charisma check (Decept
 ## Initiative
 *Combat*
 When a fight starts, everyone rolls Initiative (a Dexterity check), and the totals set the order of turns from highest to lowest. The order holds for every round of the fight.
+
+## Invisible
+*Condition*
+If you are Invisible when you roll Initiative, you have Advantage on the roll. Effects that need to see their target don't affect you unless their creator can see you, and neither does anything that targets your gear. Attack rolls against you have Disadvantage and your attack rolls have Advantage, except against a creature that can somehow see you.
 
 ## Light
 *Weapon Property*
@@ -277,13 +249,29 @@ When a creature you can see leaves your reach, you can use your Reaction to make
 *Spellcasting*
 A Warlock's spellcasting: only a few spell slots, but all of them at the Warlock's highest slot level, and every spent one returns after a Short or Long Rest.
 
+## Paralyzed
+*Condition*
+You have the Incapacitated condition and your Speed is 0 and can't increase. You automatically fail Strength and Dexterity saving throws. Attack rolls against you have Advantage, and any attack that hits you is a Critical Hit if the attacker is within 5 feet of you.
+
 ## Passive Perception
 *Senses*
 10 + your Wisdom (Perception) bonus: how alert you are without searching. A hidden creature or trap whose DC it meets is noticed without a roll.
 
+## Petrified
+*Condition*
+You and the nonmagical things you wear and carry turn into an inanimate substance, usually stone; your weight is multiplied by ten and you stop aging. You have the Incapacitated condition, your Speed is 0 and can't increase, attack rolls against you have Advantage, and you automatically fail Strength and Dexterity saving throws. You have Resistance to all damage and Immunity to the Poisoned condition.
+
+## Poisoned
+*Condition*
+You have Disadvantage on attack rolls and ability checks.
+
 ## Proficiency Bonus
 *Rule*
 A bonus that grows with character level: +2 at levels 1 to 4, +3 from 5, +4 from 9, +5 from 13 and +6 from 17. It's added to attacks with weapons you're proficient with and with spells, to the saves and skills you're proficient in, and to your spell save DC.
+
+## Prone
+*Condition*
+Your only movement options are crawling or spending half your Speed (rounded down) to stand up, which ends the condition; with Speed 0 you can't stand. You have Disadvantage on attack rolls. An attack roll against you has Advantage if the attacker is within 5 feet of you, and Disadvantage otherwise.
 
 ## Push
 *Weapon Mastery*
@@ -304,6 +292,10 @@ An instant response to a trigger, such as an Opportunity Attack or the Shield sp
 ## Resistance
 *Damage*
 Damage of that type is halved, rounded down. Several sources of Resistance to the same type count as one.
+
+## Restrained
+*Condition*
+Your Speed is 0 and can't increase. Attack rolls against you have Advantage and your attack rolls have Disadvantage. You have Disadvantage on Dexterity saving throws.
 
 ## Ritual
 *Spellcasting*
@@ -360,6 +352,10 @@ A creature at 0 Hit Points that has stopped dying. It makes no more Death Saving
 ## Study
 *Action*
 
+## Stunned
+*Condition*
+You have the Incapacitated condition. You automatically fail Strength and Dexterity saving throws, and attack rolls against you have Advantage.
+
 ## Surprise
 *Combat*
 A combatant caught off guard as a fight breaks out has Disadvantage on its Initiative roll.
@@ -394,6 +390,10 @@ Within its range a creature sees through normal and magical darkness, sees Invis
 ## Unarmed Strike
 *Combat*
 A punch, kick or headbutt made in place of a weapon attack. It can deal damage (an attack roll with Strength and your Proficiency Bonus, for 1 + your Strength modifier in Bludgeoning damage), or instead Grapple or Shove the target, which then makes a saving throw rather than you rolling to hit.
+
+## Unconscious
+*Condition*
+You have the Incapacitated and Prone conditions and drop whatever you are holding; when this ends you are still Prone. Your Speed is 0 and can't increase. Attack rolls against you have Advantage, you automatically fail Strength and Dexterity saving throws, any attack that hits you from within 5 feet is a Critical Hit, and you are unaware of your surroundings.
 
 ## Utilize
 *Action*
