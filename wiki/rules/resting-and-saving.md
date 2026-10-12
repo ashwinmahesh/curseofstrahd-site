@@ -11,7 +11,11 @@
 - An inn room booked for the night makes the next Long Rest there better: temporary Hit Points equal to each hero's level, or twice that and one more level of Exhaustion gone in the best room ([Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md)).
 - **Making camp.** In the wild (forest, road, riverside, wilderness and shrine-yard maps) the Long Rest button says **Make camp**. The party pitches a fire, a stewpot, bedrolls and a tent where it stands, and everyone gathers round: the party, your benched companions and any guests, with Ratatouille at the pot. Towns, inns, dungeons and the tutorial rest as before.
 - At camp, a speech bubble marks anyone with something to say; walk up to them to start the talk. These camp talks carry the heroes' personal stories ([Companion Approval](https://curseofstrahd.app/wiki/characters/companion-approval.md)), and each plays once.
-- The camp panel offers **Sleep** (the Long Rest), **Change prepared spells** and **Break camp**.
+- The camp panel offers **Sleep (8 hours)**, the Long Rest. The night follows the usual rules (16 hours since the last, the place's risk, wards and Alarm).
+- **Night visitors.** If a night in a risky place is interrupted, you get a Short Rest's benefits, then something comes out of the dark 25 to 40 ft from the fire, from more than one side. What comes depends on the region's land (forest, marsh, mountain or castle) and your level, and these fights are meant to be hard ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md) lists them). Companions waiting at camp keep out of it. Afterwards you can try to sleep again.
+- A full night ends with the night's narration, the region's dream and the morning. Strahd may come in the night, as after any Long Rest.
+- In the morning the panel offers **Change prepared spells** (counted from the list the night ended with) and **Break camp**, which packs everything away. Each companion has one word in the evening and one after the night.
+- Resting indoors, in a town or at an inn uses the rest screen as before. For an hour after a Long Rest, opening it again still offers the companions' words and the change of prepared spells. Strahd's night visit waits until you close the rest screen. Daern's Instant Fortress and the Rod of Security give the same full Long Rest.
 - Mage Armor can be set to cast itself as each Long Rest ends ([How Magic Works](https://curseofstrahd.app/wiki/rules/how-magic-works.md)).
 
 #### Saving

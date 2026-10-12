@@ -250,9 +250,9 @@ St. Andral's sells Cure Wounds, Lesser Restoration, Remove Curse and Raise Dead 
 *Why:* Lucian's stat block casts none of those spells (owner, 2026-10-07: the church keeps scrolls); the 2024 rules give lodging no effect, and a room needs a reason to buy it when resting at the inn is free
 
 ### Long Rest interruption
-In a "risky" place, a 1 in 6 chance (never on Story difficulty); an interrupted rest gives a Short Rest's benefits
+In a "risky" place, a 1 in 6 chance (never on Story difficulty); an interrupted rest gives a Short Rest's benefits. At a camp in the wild, the night's visitors then fall on the camp (data/camp/night_visitors.json: by the region's land and the party's level, each group hard but winnable for a tired party on the test autopilot), and the party can try to sleep again; elsewhere the night just isn't restful
 
-*Why:* Travel has random encounters (Phase 4), but a rest doesn't start one
+*Why:* The 2024 rules leave what interrupts a rest to the DM; a rest indoors (a dungeon, a building) has no visitors of its own
 
 ### Long Rest at 0 Hit Points: "To start a Long Rest, you must have at least 1 Hit Point"
 A hero at 0 Hit Points (stable, outside a fight) wakes from the party's Long Rest with everything back like the others

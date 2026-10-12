@@ -172,3 +172,47 @@ Chance per journey: 10% by day, 35% by night.
 | 2 |  |  | 0 |
 | 1 | night and not den way known and not pack resolved |  | 0 |
 | 2 | night and attention ≥ watched |  | 0 |
+
+## Night visitors at camp
+
+When a night at camp in a risky place is interrupted, one of these comes out of the dark, picked by the region's land and your party's level ([Resting and Saving](https://curseofstrahd.app/wiki/rules/resting-and-saving.md)). They're meant to be hard.
+
+### Forest
+
+*The Old Svalich Road, Into the Mists, The Village of Barovia, Old Bonegrinder, The Werewolf Den, The Wizard of Wines, Van Richten's Tower, Yester Hill, Argynvostholt*
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | *Eyes in the dark beyond the fire, low to the ground, and more of them every time you count.* 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | *Something big moves between the trees, then something bigger. The Count's hounds have found your fire.* 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 600 |
+| 7–11 | *Shapes walk upright out of the pines, sniffing at the smoke, and the wolves behind them grin.* 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 2050 |
+
+### Marsh
+
+*Lake Zarovich, Berez*
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | *The reeds part, and the drowned come up out of the water, walking stiffly toward the warmth.* 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 225 |
+| 4–6 | *A stink of rot comes off the water ahead of them: ghasts, and the drowned they have been feeding on.* 2 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 1200 |
+| 7–11 | *Scarecrows stand at the edge of the firelight that weren't there when you lay down. Behind them, something in a drowned…* [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) | 3600 |
+
+### Mountain
+
+*Mount Baratok, Mount Ghakis, The Tsolenka Pass, The Amber Temple, Krezk*
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | *Grey wolves come down from the rocks above the camp, quiet as the snow.* 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | *Men in furs come down the slope at a run, axes high, howling like wolves.* 3 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md) | 1350 |
+| 7–11 | *A werewolf leads them down off the heights: wild men in furs, and wolves the size of ponies.* [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | 2450 |
+
+### Castle
+
+*Castle Ravenloft, The Abbey of St. Markovia*
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | *The sky over the camp fills with wings, and the dead climb up out of the dark after them.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 200 |
+| 4–6 | *Bats first, a cloud of them, and then the castle's dead and the things that eat them, crawling toward the warmth.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | 900 |
+| 7–11 | *Pale figures walk out of the dark behind the bats, smiling, in no hurry at all.* 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |
