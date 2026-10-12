@@ -16,13 +16,33 @@ Spells follow the 2024 Player's Handbook. Every spell's full text is on its leve
 
 - Spells sit on the hotbar: number keys **1** to **0**, **Z** and **X** to change tab. Pick a spell, then click a target or a square; **T** cycles targets and **Enter** confirms.
 - To cast with a higher slot (upcasting), raise or lower the slot level with **[** and **]** before you cast.
-- Aiming an area spell shows a panel listing every creature it would catch and each one's chance to save.
+- Aiming an area spell draws its shape on the ground and lists every creature it would catch ([below](https://curseofstrahd.app/wiki/rules/how-magic-works.md#aiming-areas-and-lines)).
 - **Hex and Hunter's Mark** move when their target drops: a Move action appears on the hotbar once the marked creature is down, and Hex's ability curse moves with it. Hunter's Mark needs a new quarry you can see.
 - **Teleporting** (Misty Step and the like) frees you from webs, nets, entangling plants and grapples.
 - **Sculpt Spells:** an Evoker picks which creatures a sculpted spell spares, and can spare themselves too (a house rule).
 - Concentration works as in the book: one spell at a time, and taking damage calls for a Constitution save (DC 10 or half the damage, whichever is higher, up to 30).
-- Reactions and choices made mid-roll (Shield, Counterspell, Heroic Inspiration, a Bardic Inspiration die and the like) follow each hero's rule on the class tab of the character sheet: Ask, Automatic or Never.
+- Reactions and choices made mid-roll (Shield, Counterspell, Heroic Inspiration, a Bardic Inspiration die and the like) follow each hero's rule on the class tab of the character sheet: Ask, Automatic or Never ([below](https://curseofstrahd.app/wiki/rules/how-magic-works.md#reactions)).
 - **Divine Smite** uses the older rule the game's owner prefers: it isn't a spell and costs no Bonus Action, so a Paladin can smite every melee hit while slots last. By default the game asks after each hit. Arm it on the Spells tab to smite every hit that turn, or set it to Automatic or Off on the class tab.
+
+#### Aiming areas and lines
+
+Aiming an area spell draws its edge on the ground as a pale gold line, and paints no squares: a circle for a radius ([Fireball](https://curseofstrahd.app/wiki/spells/level-3-spells.md#fireball)), a triangle for a cone ([Burning Hands](https://curseofstrahd.app/wiki/spells/level-1-spells.md#burning-hands)) and a square for a cube ([Thunderwave](https://curseofstrahd.app/wiki/spells/level-1-spells.md#thunderwave), [Hypnotic Pattern](https://curseofstrahd.app/wiki/spells/level-3-spells.md#hypnotic-pattern)). The same line flashes when the spell goes off. A panel beside it lists every creature the spell would catch, with each one's chance to save. Walls still outline their squares.
+
+![area preview fireball](https://curseofstrahd.app/wiki/img/combat/area-preview-fireball.webp)
+
+![area preview cone cube](https://curseofstrahd.app/wiki/img/combat/area-preview-cone-cube.webp)
+
+Emanations and auras are round too. [Spirit Guardians](https://curseofstrahd.app/wiki/spells/level-3-spells.md#spirit-guardians), a [Paladin's](https://curseofstrahd.app/wiki/characters/classes/paladin.md) Aura of Protection and a monster's aura reach everything within their size measured straight from their source, so the circle on the floor shows exactly who's inside. A 5-ft aura covers the same squares as before; from 10 ft up, the far diagonal corners fall outside. In a fight a Paladin's aura shows as a patch on the floor around them, with no glow round the Paladin.
+
+**Line spells** ([Lightning Bolt](https://curseofstrahd.app/wiki/spells/level-3-spells.md#lightning-bolt), Gust of Wind, Sunbeam, a Dragonborn's breath line) aim at any angle. Point the mouse, or the left stick on a controller, and the line runs straight out from the middle of the caster's space. A square is caught when at least half of it lies inside the line, the DMG's grid rule. Within 2° of a row, column or diagonal the line snaps to lie exactly along it. Cones and cubes still point along the nearest of the eight grid directions. Monsters' lines work the same way ([House Rules](https://curseofstrahd.app/wiki/rules/house-rules.md#lines-on-the-grid)).
+
+![line aim lightning bolt](https://curseofstrahd.app/wiki/img/combat/line-aim-lightning-bolt.webp)
+
+#### Reactions
+
+A hero set to Ask who has more than one Reaction that fits the moment gets one prompt listing them all. Pick one and choose **Use Reaction**, or **Skip** to keep the Reaction for later. During an attack the prompt also lists what could come later in it, such as **Sentinel, if the attack hits**: picking that keeps the Reaction for the Opportunity Attack after a hit, and if the attack misses the hero still has it. So a Paladin with the Protection fighting style and the Sentinel feat ([Feats](https://curseofstrahd.app/wiki/characters/feats.md)) is asked once, not once for each. On a controller, **A** on an option picks it.
+
+![reaction prompt](https://curseofstrahd.app/wiki/img/combat/reaction-prompt.webp)
 
 #### Casting while exploring
 

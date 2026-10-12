@@ -339,6 +339,11 @@ An area laid on the ground reaches as high as its size (a sphere's radius, a cub
 
 *Why:* The grid has no vertical aiming; this keeps a Fireball on the ground from catching a creature 30 ft up
 
+### Lines on the grid
+A Line from a creature (Lightning Bolt, Gust of Wind, Sunbeam, a Breath Weapon line, a monster's line) is aimed at any angle and runs straight out from the middle of its space, starting where it leaves it (a corner when aimed diagonally); a square is in it when at least half of it is, the DMG's grid rule. Pointed within 2° of a row, column or diagonal it lies exactly along it, and straight down a row or column a line whose width doesn't match the space's (a 10-ft Gust of Wind from a Medium caster) starts half a square aside, so it takes whole squares as wide as it is. Cones and cubes still point along the nearest of the eight grid directions
+
+*Why:* The DMG puts an area's point of origin on a grid intersection, which makes a 5-ft line straight down a row cover half of two rows and so take both (10 ft wide); starting from the creature's middle keeps a line as wide as its text
+
 ### Falling into deep water
 Halved with a Reaction and a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check (2024), then the creature swims to the nearest open square
 

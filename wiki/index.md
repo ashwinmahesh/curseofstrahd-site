@@ -49,4 +49,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `9facbc7d9` on 2026-10-12 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `1599dfb65` on 2026-10-12 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
