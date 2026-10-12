@@ -4,9 +4,10 @@
 #
 # Run it in PowerShell from the folder you unzipped the game into (the one with CurseOfStrahd.exe), or it asks for
 # that folder. It reads the newest version from https://downloads.curseofstrahd.app/latest.json. When the game you
-# have is the full download that version builds on, it fetches only a patch (the files that changed) into the game's
-# folder beside your saves; otherwise it downloads the whole game and replaces CurseOfStrahd.exe and
-# CurseOfStrahd.pck. Your saves and settings (%APPDATA%\Curse of Strahd Fan Game) aren't touched.
+# have is a full download that version has a patch for (each release patches every version back to 1.0.3), it fetches
+# only that patch (the files that changed) into the game's folder beside your saves; otherwise it downloads the whole
+# game and replaces CurseOfStrahd.exe and CurseOfStrahd.pck. Your saves and settings
+# (%APPDATA%\Curse of Strahd Fan Game) aren't touched.
 $ErrorActionPreference = "Stop"
 $ProgressPreference = "SilentlyContinue"   # Invoke-WebRequest is many times slower with its progress bar
 $downloads = "https://downloads.curseofstrahd.app"
@@ -42,16 +43,23 @@ if ($current -eq $latest.version) {
 $work = Join-Path ([IO.Path]::GetTempPath()) ("curseofstrahd-update-" + [Guid]::NewGuid())
 New-Item -ItemType Directory -Path $work | Out-Null
 try {
-	if ($installed -eq $latest.base -and $latest.patch -and $latest.version -ne $latest.base) {
-		Write-Host ("Updating Curse of Strahd from $current to $($latest.version) with a patch of {0} MB..." -f [math]::Round($latest.patch.size / 1MB))
+	# The patch for the full download installed here: from latest.json's list of patches, one per earlier version, or
+	# (latest.json from before the list) its one patch, on its base.
+	$entry = $null
+	if ($latest.patches) { $entry = @($latest.patches | Where-Object { $_.base -eq $installed })[0] }
+	if (-not $entry -and $installed -eq $latest.base -and $latest.patch -and $latest.version -ne $latest.base) {
+		$entry = $latest.patch
+	}
+	if ($entry) {
+		Write-Host ("Updating Curse of Strahd from $current to $($latest.version) with a patch of {0} MB..." -f [math]::Round($entry.size / 1MB))
 		$pck = Join-Path $work "patch.pck"
-		Invoke-WebRequest -Uri "$downloads/$($latest.version)/$($latest.patch.file)" -OutFile $pck
-		if ((Get-FileHash $pck -Algorithm SHA256).Hash.ToLower() -ne $latest.patch.sha256) {
+		Invoke-WebRequest -Uri "$downloads/$($latest.version)/$($entry.file)" -OutFile $pck
+		if ((Get-FileHash $pck -Algorithm SHA256).Hash.ToLower() -ne $entry.sha256) {
 			throw "The patch didn't download intact. Run this again."
 		}
 		New-Item -ItemType Directory -Force -Path $patches | Out-Null
 		Move-Item -Force $pck (Join-Path $patches "patch.pck")
-		@{ base = $latest.base; version = $latest.version } | ConvertTo-Json | Set-Content -Encoding UTF8 $patchInfo
+		@{ base = $installed; version = $latest.version } | ConvertTo-Json | Set-Content -Encoding UTF8 $patchInfo
 		Write-Host "Done: Curse of Strahd is on $($latest.version). Your saves and settings carry over."
 		return
 	}

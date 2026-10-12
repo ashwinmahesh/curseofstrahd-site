@@ -3,9 +3,10 @@
 #
 #   curl -fsSL https://curseofstrahd.app/update.sh | bash
 #
-# It reads the newest version from https://downloads.curseofstrahd.app/latest.json. When the game you have is the
-# full download that version builds on, it fetches only a patch (the files that changed) into the game's folder
-# beside your saves; otherwise it downloads the whole game and puts it in /Applications in place of the old copy.
+# It reads the newest version from https://downloads.curseofstrahd.app/latest.json. When the game you have is a full
+# download that version has a patch for (each release patches every version back to 1.0.3), it fetches only that patch
+# (the files that changed) into the game's folder beside your saves; otherwise it downloads the whole game and puts it
+# in /Applications in place of the old copy.
 # Your saves and settings (~/Library/Application Support/Curse of Strahd Fan Game) aren't touched. For a copy
 # somewhere else, set CURSE_OF_STRAHD_APP to its path first.
 set -euo pipefail
@@ -58,18 +59,34 @@ cleanup() {
 }
 trap cleanup EXIT
 
-patch_file="$(field patch.file)"
-if [ "$installed" = "$base" ] && [ -n "$patch_file" ] && [ "$version" != "$base" ]; then
-	size="$(field patch.size)"
+# The patch for the full download installed here: from latest.json's list of patches, one per earlier version, or
+# (latest.json from before the list) its one patch, on its base.
+entry=""
+i=0
+while true; do
+	patch_base="$(field "patches.$i.base")"
+	[ -n "$patch_base" ] || break
+	if [ "$patch_base" = "$installed" ]; then
+		entry="patches.$i."
+		break
+	fi
+	i=$((i + 1))
+done
+if [ -z "$entry" ] && [ "$installed" = "$base" ] && [ -n "$(field patch.file)" ] && [ "$version" != "$base" ]; then
+	entry="patch."
+fi
+if [ -n "$entry" ]; then
+	patch_file="$(field "${entry}file")"
+	size="$(field "${entry}size")"
 	echo "Updating Curse of Strahd from $current to $version with a patch of $((size / 1000000)) MB..."
 	curl -fL --progress-bar -o "$work/patch.pck" "$DOWNLOADS/$version/$patch_file"
-	if [ "$(shasum -a 256 "$work/patch.pck" | cut -d' ' -f1)" != "$(field patch.sha256)" ]; then
+	if [ "$(shasum -a 256 "$work/patch.pck" | cut -d' ' -f1)" != "$(field "${entry}sha256")" ]; then
 		echo "The patch didn't download intact. Run this again." >&2
 		exit 1
 	fi
 	mkdir -p "$PATCHES"
 	mv "$work/patch.pck" "$PATCHES/patch.pck.new"
-	printf '{"base": "%s", "version": "%s"}\n' "$base" "$version" > "$PATCHES/patch.json.new"
+	printf '{"base": "%s", "version": "%s"}\n' "$installed" "$version" > "$PATCHES/patch.json.new"
 	mv "$PATCHES/patch.pck.new" "$PATCHES/patch.pck"
 	mv "$PATCHES/patch.json.new" "$PATCHES/patch.json"
 	echo "Done: Curse of Strahd is on $version. Your saves and settings carry over."

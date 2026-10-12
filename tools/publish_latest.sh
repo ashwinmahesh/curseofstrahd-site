@@ -3,8 +3,9 @@
 # Mac, update.ps1 on Windows). Run it when the site's download buttons switch to that release, after its files are
 # checked, so the updaters never get ahead of the site:
 #   tools/publish_latest.sh 1.0.4
-# The release workflow leaves <version>/release.json beside the downloads: the full download it builds on ("base")
-# and its update patch, if it has one (tools/release/patch.py in the game repo). Releases from before that are full.
+# The release workflow leaves <version>/release.json beside the downloads: its update patches, one for each earlier full
+# download it can patch ("patches"), and the oldest of them as "base" and "patch" for update commands from before the
+# list (tools/release/patch.py in the game repo). Releases from before that are full.
 set -euo pipefail
 version="${1:?usage: tools/publish_latest.sh <version>}"
 [[ "$version" =~ '^[0-9]+\.[0-9]+\.[0-9]+$' ]] || { echo "publish_latest: not a version: $version" >&2; exit 1; }
@@ -20,10 +21,11 @@ import json, os
 release = json.loads(os.environ["RELEASE"] or "{}")
 version, downloads = os.environ["VERSION"], os.environ["DOWNLOADS"]
 patch = release.get("patch")
-if patch:
-	# A patch must be on the bucket before anyone is sent to it.
-	import urllib.request
-	req = urllib.request.Request("%s/%s/%s" % (downloads, version, patch["file"]), method="HEAD",
+patches = release.get("patches") or ([dict(patch, base=release.get("base"))] if patch else [])
+# Every patch must be on the bucket before anyone is sent to it.
+import urllib.request
+for p in patches:
+	req = urllib.request.Request("%s/%s/%s" % (downloads, version, p["file"]), method="HEAD",
 		headers={"User-Agent": "curseofstrahd-release (+https://curseofstrahd.app)"})
 	urllib.request.urlopen(req, timeout=30)
 print(json.dumps({
@@ -33,6 +35,7 @@ print(json.dumps({
 	"mac": "%s/%s/CurseOfStrahd-%s-macos.dmg" % (downloads, version, version),
 	"windows": "%s/%s/CurseOfStrahd-%s-windows.zip" % (downloads, version, version),
 	"patch": patch,
+	"patches": patches,
 	"notes": "https://curseofstrahd.app/releases/",
 }, indent=2))
 PY
