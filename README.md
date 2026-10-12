@@ -73,5 +73,7 @@ lane.
 ## Online
 
 The site is served by GitHub Pages from this repo's `main` branch at https://curseofstrahd.app (the `CNAME` file holds
-the domain; `.nojekyll` serves the files as they are). Pushing to `main` publishes. The download section stays
-"coming soon" until the download question in the vault's *Showcase Plan* is settled.
+the domain; `.nojekyll` serves the files as they are). Pushing to `main` publishes. The downloads live on
+Cloudflare R2 at https://downloads.curseofstrahd.app, published by the game repo's `release.yml`; the vault note
+*Website Handoff* has the release routine (`tools/switch_release.py`, `tools/publish_latest.sh`) and the web wiki's
+(`tools/build_wiki.py`, `tools/wiki_check.py`).
