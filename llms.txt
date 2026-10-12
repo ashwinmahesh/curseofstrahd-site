@@ -25,6 +25,23 @@
 
 Free. macOS on Apple silicon, and Windows 10/11 64-bit. Single player. Keyboard and mouse; a controller works in fights.
 
+## Wiki (spoilers)
+
+The game's full guide at https://curseofstrahd.app/wiki/: every quest's walkthrough, every place with its map, every
+person, creature, item (with its cheat code), spell and rule. It covers the whole story, endings included. Every wiki
+page also has a plain Markdown copy at the same address ending in .md, and https://curseofstrahd.app/wiki/sitemap.xml
+lists them all.
+
+- [Wiki front page](https://curseofstrahd.app/wiki/index.md)
+- [Main Story](https://curseofstrahd.app/wiki/quests/main-story.md): the story's quests in order
+- [Side Quests](https://curseofstrahd.app/wiki/quests/side-quests.md): every side quest, by region and level
+- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): every place, with maps
+- [People](https://curseofstrahd.app/wiki/people/all-people.md) and [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md)
+- [Magic Items](https://curseofstrahd.app/wiki/items/magic-items.md), [Equipment](https://curseofstrahd.app/wiki/items/equipment.md) and [Where to Find Items](https://curseofstrahd.app/wiki/items/where-to-find-items.md)
+- [Cheat Codes](https://curseofstrahd.app/wiki/items/cheat-codes.md): every item's code, and how to use one
+- [House Rules](https://curseofstrahd.app/wiki/rules/house-rules.md): where the game differs from the 2024 rules
+- [Endings](https://curseofstrahd.app/wiki/story/endings.md) and [The Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md)
+
 ## Links
 
 - [Website](https://curseofstrahd.app/): features, screenshots, trailer, FAQ and download
@@ -32,5 +49,6 @@ Free. macOS on Apple silicon, and Windows 10/11 64-bit. Single player. Keyboard 
 - [FAQ](https://curseofstrahd.app/#faq)
 - [Download](https://curseofstrahd.app/#download)
 - [Release notes](https://curseofstrahd.app/releases/)
+- [Wiki (spoilers)](https://curseofstrahd.app/wiki/)
 - [macOS download (disk image), version 1.0.6](https://downloads.curseofstrahd.app/1.0.6/CurseOfStrahd-1.0.6-macos.dmg)
 - [Windows download, version 1.0.6](https://downloads.curseofstrahd.app/1.0.6/CurseOfStrahd-1.0.6-windows.zip)

@@ -1,5 +1,7 @@
-# Everyone is welcome, search engines and AI tools alike.
+# Everyone is welcome, search engines and AI tools alike: search, answers and training (Ashwin, 2026-10-12).
 User-agent: *
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 Sitemap: https://curseofstrahd.app/sitemap.xml
+Sitemap: https://curseofstrahd.app/wiki/sitemap.xml

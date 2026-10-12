@@ -1,0 +1,40 @@
+# Castle Ravenloft
+
+> From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/regions/castle-ravenloft.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
+
+![castle chasm](https://curseofstrahd.app/wiki/img/cutscenes/castle-chasm.webp)
+
+Built for a party of about level 10: random treasure here is rolled for that level.
+
+## Places
+
+- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): The crypts under the castle where the house of von Zarovich keeps its dead in rows: generals, servants, a conjurer, a jester, a champion watched by stone, and the black horse's stall. Stairs lead up to the castle and down to the oldest tombs.
+- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): The tomb at the bottom of the castle where Strahd von Zarovich keeps his coffin and sleeps away the day. The only place in the valley where he can be ended for good.
+- [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): The oldest tombs under the castle: Sergei von Zarovich's white tomb, a hall of stone guardians, and the vault where King Barov and Queen Ravenovia lie side by side.
+- [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): The castle's chapel: broken pews in the dark, a window that lets in no morning, and an altar under a thick grey quilt of dust. One of the Tarokka's places, and a room where Strahd may wait for the end.
+- [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): The castle's second floor, where the count keeps court: the long King's Hall, the audience hall and its throne, the study with a lady over the hearth, the trophy room, the accountant's office, the guardroom, and the stairs to the towers and to the rooms above.
+- [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): A vault between the floors, reached by a narrow stair behind a portrait in the King's Hall. The count's hoard lies in heaps on the floor, centuries of tithes he has never needed to spend.
+- [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): The castle's third floor, where the count lives: his bedroom and bath, the gallery where his portrait watches, the lounge where his three brides wait, the guest room where a village girl is kept, and Rahadin's bare room.
+- [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): The road's end below Castle Ravenloft: a drawbridge over a black chasm, the gatehouse and its portcullis, the front courtyard before the keep's great doors, the servants' courtyard and the carriage house, and the walk along the wall to the overlook.
+- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Below the main floor: the servants' hall, the kitchen where Cyrus Belview still cooks for his Master's guests, the larder, the wine cellar with one bricked-over rack, the guardroom of a watch nobody relieved, the lift winch, and the jailers' stair down to the dungeon and on to the crypts.
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Under the larders: a vaulted hall, the jailers' post, two rows of cells and their prisoners, the torture chamber, a workroom where bones are made into furniture, the green furnace and its machinery, and the hall of bones, where the lord of the castle entertains.
+- [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): The heart of the castle's ground floor: the entry and the vaulted great entry with the grand stairs, the guests' hall and the dining hall where Strahd entertains, the turret posts, the hall of faces with its ever-burning hearth, and the passage to the chapel and the crypt stairs. Every part of the castle is reached from here.
+- [Castle Ravenloft, the Overlook](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-overlook.md): A long stone balcony on the castle's flank, with a low parapet and then nothing for a thousand feet. The whole valley lies below it. Strahd comes here to look at what he owns.
+- [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md): The high tower of Castle Ravenloft: a stair that winds up the inside of the tallest tower around an open well, from the main floor past the count's floor to the high landing, where one door leads to the tower rooms and one last stair to the Heart of Sorrow.
+- [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): The round room at the very top of the high tower, with windows on the whole valley. In the middle, over a low dais, hangs a crystal heart the size of a man, beating slowly. It takes Strahd's wounds before he does.
+- [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): The roofs of Castle Ravenloft: the south tower's battlements, a walkway to the slate roof of the keep, and a narrow bridge across the drop to the north tower peak, where stone guardians crouch on the parapet.
+- [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): The rooms high in the towers, off a narrow gallery: the count's bats, a stillroom of four glass vessels, a coven at its cauldron, Escher locked in his suite, and a ladder to the roofs.
+- [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): The long space under the castle's roofs where hundreds of ravens roost on the beams. They hide bright things in their nests, and they watch everything.
+
+## Quests
+
+- [Dinner at Castle Ravenloft](https://curseofstrahd.app/wiki/quests/dinner-at-castle-ravenloft.md) (main)
+- [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md)
+- [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md)
+- [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
+- [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md)
+- [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
+
+## People
+
+[Anastrasya Karelova](https://curseofstrahd.app/wiki/people/anastrasya-karelova.md), [Aurel Mirescu](https://curseofstrahd.app/wiki/people/aurel-mirescu.md), [Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md), [Captain Merrow](https://curseofstrahd.app/wiki/people/captain-merrow.md), [Corvina](https://curseofstrahd.app/wiki/people/corvina.md), [Cyrus Belview](https://curseofstrahd.app/wiki/people/cyrus-belview.md), [Escher](https://curseofstrahd.app/wiki/people/escher.md), [Gertruda](https://curseofstrahd.app/wiki/people/gertruda.md), [Lief Lipsiege](https://curseofstrahd.app/wiki/people/lief-lipsiege.md), [Ludmilla Vilisevic](https://curseofstrahd.app/wiki/people/ludmilla-vilisevic.md), [Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md), [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md), [Querreth](https://curseofstrahd.app/wiki/people/querreth.md), [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md), [Volenta Popofsky](https://curseofstrahd.app/wiki/people/volenta-popofsky.md)

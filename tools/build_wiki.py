@@ -14,6 +14,7 @@ removed, so a rebuild after each regeneration is quick. The wiki is all spoilers
 nothing else on the site links into it except the nav's "Wiki (spoilers)".
 """
 import argparse
+import datetime
 import hashlib
 import html
 import json
@@ -24,6 +25,7 @@ from pathlib import Path
 from PIL import Image
 
 SITE = Path(__file__).resolve().parent.parent
+SITE_URL = "https://curseofstrahd.app"
 SRC = Path.home() / "Documents/Obsidian Vault/CurseOfStrahd/Wiki"
 PICTURE_WIDTH = 1280
 IMAGE_EXT = {".jpg", ".jpeg", ".png", ".webp", ".gif", ".svg"}
@@ -581,6 +583,39 @@ SPOILER_GATE = """<div class="wiki-spoiler" role="note">
 TYPE_LABELS = {"location": "Location", "person": "Person", "creature": "Creature"}
 
 
+def md_url_of(url: str) -> str:
+	return "/wiki/index.md" if url == "/wiki/" else url[:-len(".html")] + ".md"
+
+
+def markdown_copy(wiki: Wiki, key: str, lines: list, title: str) -> str:
+	"""The page as plain Markdown for AI tools and scripts: Obsidian links become ordinary links to the other pages'
+	Markdown copies, pictures point at the site's copies, and a line under the title says where it's from."""
+	def link(m):
+		inner = m.group(2).replace("\\|", "|")
+		target, _, label = inner.partition("|")
+		target, _, heading = target.partition("#")
+		if m.group(1):   # a picture
+			pic = wiki.image(target)
+			if not pic:
+				return ""
+			return "![%s](%s%s)" % (Path(target).stem.replace("_", " "), SITE_URL, pic[1])
+		shown = label or heading or target.rsplit("/", 1)[-1]
+		k = wiki.page(target) if target else key
+		if k is None:
+			return shown
+		return "[%s](%s%s%s)" % (shown, SITE_URL, md_url_of(wiki.pages[k]["url"]), "#" + slug(heading.lstrip("^")) if heading else "")
+	text = "\n".join(lines)
+	text = re.sub(r"(!?)\[\[((?:[^\]\\]|\\.)+?)\]\]", link, text)
+	text = re.sub(r"\n{3,}", "\n\n", text).strip() + "\n"
+	note = ("> From the Curse of Strahd game wiki (it covers the whole game, spoilers included): %s%s. Unofficial Fan "
+		"Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.\n"
+		% (SITE_URL, wiki.pages[key]["url"]))
+	m = re.search(r"^# .*$", text, flags=re.M)
+	if m:
+		return text[:m.end()] + "\n\n" + note.rstrip("\n") + text[m.end():]
+	return "# %s\n\n%s\n%s" % (title, note, text)
+
+
 def hero(wiki: Wiki, key: str, title: str):
 	"""The page's header: what it is (an eyebrow: "Side quest · Vallaki · Level 5"), its title, and for quests and
 	places their opening screenshot behind it with the summary under the title. Returns (html, the picture's url or
@@ -653,7 +688,7 @@ def item_sections(body: str, rarities: dict, key: str) -> str:
 
 
 def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str, description: str, v: dict,
-		top: str = "") -> str:
+		top: str = "", og_image: str = SITE_URL + "/media/og.jpg", md_url: str = "", ld: str = "{}") -> str:
 	url = wiki.pages[key]["url"]
 	full_title = "Curse of Strahd Wiki" if key == "Wiki/Home" else "%s - Curse of Strahd Wiki" % title
 	return """<!doctype html>
@@ -670,7 +705,10 @@ def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str
 <meta property="og:title" content="%(full_title)s">
 <meta property="og:description" content="%(description)s">
 <meta property="og:url" content="https://curseofstrahd.app%(url)s">
-<meta property="og:image" content="https://curseofstrahd.app/media/og.jpg">
+<meta property="og:image" content="%(og_image)s">
+<meta name="robots" content="max-image-preview:large">
+<link rel="alternate" type="text/markdown" href="%(md_url)s" title="This page as Markdown">
+<script type="application/ld+json">%(ld)s</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
@@ -714,7 +752,8 @@ def page_html(wiki: Wiki, key: str, body: str, title: str, crumbs: str, toc: str
 </html>
 """ % {"full_title": html.escape(full_title), "description": html.escape(description, quote=True), "url": url,
 		"css": v["css"], "wcss": v["wcss"], "js": v["js"], "wjs": v["wjs"], "nav": NAV, "crumbs": crumbs, "body": body,
-		"toc": toc, "has_toc": " has-toc" if toc else "", "footer": FOOTER, "top": top,
+		"toc": toc, "has_toc": " has-toc" if toc else "", "footer": FOOTER, "top": top, "og_image": html.escape(og_image),
+		"md_url": html.escape(md_url), "ld": ld,
 		"ptype": "home" if key == "Wiki/Home" else html.escape(wiki.pages[key].get("meta", {}).get("type") or "page")}
 
 
@@ -724,6 +763,7 @@ def build(wiki: Wiki, out: Path) -> None:
 		"wjs": stamp(SITE / "wiki/wiki.js")}
 	written = set()
 	index = []
+	site_map = []
 	for key, info in wiki.pages.items():
 		text = clean(info["path"].read_text(encoding="utf-8"))
 		inline = Inline(wiki, key)
@@ -767,13 +807,17 @@ def build(wiki: Wiki, out: Path) -> None:
 			body = SPOILER_GATE + "\n" + home_cards(body)
 		parts = key.split("/")[1:]
 		crumbs = ['<a href="/wiki/">Wiki</a>'] if key != "Wiki/Home" else ['<span>Wiki</span>']
+		trail = [("Wiki", "/wiki/")]
 		for n in range(1, len(parts)):
 			sub = "Wiki/" + "/".join(parts[:n])
 			sub_key = wiki.page(sub) or wiki.page(sub + "/" + parts[n - 1])
 			label = html.escape(parts[n - 1])
 			crumbs.append('<a href="%s">%s</a>' % (wiki.pages[sub_key]["url"], label) if sub_key else "<span>%s</span>" % label)
+			if sub_key:
+				trail.append((parts[n - 1], wiki.pages[sub_key]["url"]))
 		if key != "Wiki/Home":
 			crumbs.append("<span>%s</span>" % html.escape(title))
+			trail.append((title, info["url"]))
 		if wiki.pages[key].get("meta", {}).get("type") == "item-list":
 			blocks.headings = [h for h in blocks.headings if h[0] == 2]
 		toc = ""
@@ -786,11 +830,44 @@ def build(wiki: Wiki, out: Path) -> None:
 			desc = desc[:152].rsplit(" ", 1)[0] + "..."
 		dest = out / ("index.html" if key == "Wiki/Home" else info["url"][len("/wiki/"):])
 		dest.parent.mkdir(parents=True, exist_ok=True)
+		# For search engines and AI tools: the page's picture, its date, structured data and a Markdown copy.
+		image = hero_pic or (wiki.image("Wiki/" + wiki.page_image(key))[1] if wiki.page_image(key)
+			and wiki.image("Wiki/" + wiki.page_image(key)) else None)
+		if image and image.endswith(".svg"):
+			image = None
+		modified = datetime.date.fromtimestamp(info["path"].stat().st_mtime).isoformat()
+		md_url = md_url_of(info["url"])
+		canon = SITE_URL + info["url"]
+		page_ld = {"@type": "WebPage", "@id": canon, "url": canon, "name": title, "description": desc, "inLanguage": "en",
+			"dateModified": modified,
+			"isPartOf": {"@type": "WebSite", "name": "Curse of Strahd Wiki", "url": SITE_URL + "/wiki/"},
+			"about": {"@type": "VideoGame", "name": "Curse of Strahd (an unofficial fan game)", "url": SITE_URL + "/"},
+			"encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": SITE_URL + md_url}}
+		if image:
+			page_ld["image"] = SITE_URL + image
+		graph = [page_ld]
+		if len(trail) > 1:
+			graph.append({"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": n + 1,
+				"name": name, "item": SITE_URL + u} for n, (name, u) in enumerate(trail)]})
+		ld = json.dumps({"@context": "https://schema.org", "@graph": graph}, ensure_ascii=False).replace("</", "<\\/")
 		dest.write_text(page_html(wiki, key, body, title, " <span aria-hidden=\"true\">›</span> ".join(crumbs), toc, desc, v,
-			top), encoding="utf-8")
+			top, SITE_URL + image if image else SITE_URL + "/media/og.jpg", md_url, ld), encoding="utf-8")
 		written.add(dest.resolve())
+		md_dest = dest.with_suffix(".md")
+		md_dest.write_text(markdown_copy(wiki, key, lines, title), encoding="utf-8")
+		written.add(md_dest.resolve())
+		site_map.append((canon, modified, SITE_URL + image if image else None))
 		index.append({"t": title, "u": info["url"], "s": info["section"]})
 	index.sort(key=lambda e: e["t"].lower())
+	# The wiki's own sitemap (robots.txt names it beside the main site's).
+	rows = []
+	for loc, modified, image in sorted(site_map):
+		pic = "<image:image><image:loc>%s</image:loc></image:image>" % html.escape(image) if image else ""
+		rows.append("  <url><loc>%s</loc><lastmod>%s</lastmod>%s</url>" % (html.escape(loc), modified, pic))
+	(out / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/'
+		'sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">\n%s\n</urlset>\n' % "\n".join(rows),
+		encoding="utf-8")
+	written.add((out / "sitemap.xml").resolve())
 	(out / "search.json").write_text(json.dumps(index, separators=(",", ":"), ensure_ascii=False), encoding="utf-8")
 	written.add((out / "search.json").resolve())
 	# Pictures: compressed WebPs (maps stay SVG), converted only when the source is newer.

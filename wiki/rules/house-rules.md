@@ -1,0 +1,1020 @@
+# House Rules
+
+> From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/rules/house-rules.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
+
+Where this game plays differently from the 2024 rulebooks, and why. Most are calls the books leave to the Dungeon Master; a few are the owner's own house rules, many borrowed from Baldur's Gate 3.
+
+### Temporary Hit Points don't stack: "you decide whether to keep the ones you have or gain the new ones"
+The engine keeps the larger amount for you, a change of shape included (a creature's own, when they're more, go with it into a Polymorph's shape and come back out; Wild Shape's stay after the shape ends, a spell's vanish with it)
+
+*Why:* Nothing in the game makes the smaller amount the better one: Temporary Hit Points last until a Long Rest whatever gave them, and what needs them (Armor of Agathys, a Polymorph's shape) lasts while any remain, as the 2024 text says; a prompt would ask the same question every time
+
+### Combining game effects: the most potent of identical effects applies
+Potency is approximated by the size of the effects' numbers (conditions weigh most); ties go to the most recent
+
+*Why:* The rules leave "most potent" to judgment
+
+### Frightened (positional parts)
+"Can't willingly move closer" holds only for a source the creature can see, and is read strictly: no square closer to it than where the move began. A source that has died frightens no more (no Disadvantage, nothing to back away from)
+
+*Why:* A creature can't keep away from what it can't see; the strict reading never lets a frightened creature end closer; the rules leave a dead source to the DM
+
+### Diagonal moves past a wall corner
+A diagonal step is refused when either square beside it is a wall or low obstacle
+
+*Why:* The 2024 grid rules leave corners to the DM; this is the common table ruling and stops moving through wall seams
+
+### Climbing
+A rise or drop of 5 ft (a dais, a stair) costs nothing extra; anything higher is climbed, up or down, at 1 extra foot per foot (2 in Difficult Terrain, none extra with a Climb Speed)
+
+*Why:* The maps draw stairs and daises as 5 ft steps: climbing each one would make every dais cost double
+
+### Going over an edge
+A creature forced off a ledge 10 ft or more high (on natural ground, a cliff 15 ft or more high), or into a map's open drop, falls, unless it can fly or has a Climb Speed or Spider Climb and isn't Prone or Incapacitated: then it stops at the edge. A push into a ledge 10 ft or more above it (a cliff on natural ground) stops there; one down a steep slope slides without falling
+
+*Why:* The rules leave catching yourself to the DM; flyers and wall-crawlers (vampires, Strahd) holding on keeps one shove from ending a boss fight
+
+### Natural slopes
+A map's natural ground (its `elevation` rows) changes height in 5 ft steps between squares: 5 ft is a gentle slope (nothing extra), 10 ft a steep one (5 extra feet going up, like Difficult Terrain; nothing extra going down), 15 ft or more a cliff, climbed up or down at 1 extra foot per foot (none extra with a Climb Speed). Out of a fight the party's walks go round cliffs where they can and climb them where they can't, with no check
+
+*Why:* The 2024 rules leave the lie of the land to the DM; a 5 ft grid can only tell slopes apart by how much they rise per square, and the walk out of a fight never asks for checks
+
+### Jumping down
+A creature at the top of a cliff (or a built ledge 10 ft or more high) can jump down to the square below beside it: 5 ft of its movement, then the fall (1d6 per 10 ft, Prone unless unharmed). Medium or smaller creatures only
+
+*Why:* The rules let anyone drop off a ledge and fall; one square's move and the fall keeps it a single choice in the menu, the way Baldur's Gate 3 offers it
+
+### Long Jump
+A Long Jump slot on the hotbar for everyone: up to the Strength score in feet when the creature has moved 10 ft or more this turn (its run-up), half from standing, in whole squares, each foot costing a foot of movement; it clears creatures and rough ground but not walls, and lands only on a free square. Leaving a foe's reach on the way draws an Opportunity Attack as any movement does. The obstacle-height limit and the DC 10 Acrobatics check for landing in Difficult Terrain aren't rolled; High Jumps aren't built
+
+*Why:* The run-up needn't be in a straight line or right before the leap, and the landing check is skipped, to keep the leap one click with an arc to show it
+
+### Ground that hides
+Rising ground between two creatures blocks sight and gives cover the way a wall does: the lines from the top of the one looking to points down the other (its top, then lower) are traced over the ground, and ground above a line blocks it. A ridge hides, a small rise leaves the head showing (Three-Quarters Cover), and from the top of a hill the far side is in sight
+
+*Why:* The rules leave terrain cover to the DM; tracing the lines over the grid's own heights decides it the same way every time
+
+### Falling out of the fight
+A creature that goes into a map's open drop (a chasm, the castle's well) falls the map's `drop_ft` and is out of the fight: a foe is gone, a party member rejoins the party when the fight ends. Drops the location doesn't measure are taken as 200 ft (20d6, the most a fall can do)
+
+*Why:* The map has no bottom to land on
+
+### Feather Fall, Slow Fall
+Used when something falls, unless the reactor's rule for it is Never: Slow Fall whenever the fall hurts; Feather Fall by the falling creature or the nearest ally who can see it, for a fall of 20 ft or more or one that could drop it
+
+*Why:* A fall can't pause for a prompt
+
+### Dragging a grappled creature
+It goes into the square its grappler left, or the nearest open square still in the grapple's range (the grappler's reach); with none, the grapple ends. No leaping with Jump while dragging
+
+*Why:* The rule says the grappler drags it, not where it ends up
+
+### High ground
+A ranged attack (weapon, thrown or spell) from 10 ft or more above its target gets +2 to hit; one from 10 ft or more below gets -2. Height counts the floor and how far a creature is off it; a 5 ft step doesn't count
+
+*Why:* Not in the 2024 rules: the owner's pick, from Baldur's Gate 3, so that climbing is worth a turn
+
+### Initiative ties
+Higher Dexterity first, then the party
+
+*Why:* The rules leave ties to the DM
+
+### Shared party turns
+Party members and guests the player runs who stand next to each other in the initiative order take their turns together: the player switches between them freely (a click on a hero's portrait or frame, Tab, the radial's Inspect) and can leave one mid-turn and come back. Each hero's own turn still starts the first time they're taken (or when the one before ends) and ends when it's ended, so everything keyed to a creature's turn happens once, at its own time; a foe, the lair's count 20, a hero the AI plays (Command, fear) or a second turn of the same hero ends the run. Settings, Game, Party turns: One at a time plays the rules' order
+
+*Why:* The rules give every creature its own turn in order; sharing adjacent turns lets the party plan together, the owner's pick from Baldur's Gate 3
+
+### Flanking
+The 2024 DMG's optional Flanking rule is on: a creature has Advantage on melee attack rolls against a foe when it and an ally are both next to that foe on opposite sides or corners of its space (for a bigger creature, on sides across from each other). The ally must be able to act and see the foe, and so must the attacker. Heroes and foes alike; the odds on hover name it. Foes on Tactician and Honour move to flank; on Story and Balanced they fight as before and take the Advantage only when it falls their way. Settings, Game, Flanking: Off plays without it
+
+*Why:* An optional rule the owner asked for; it rewards moving round a foe. Balanced foes chasing flanking squares made three hard side-quest bosses unwinnable
+
+### Sharing a square
+A creature the player moves may end its move in an ally's space, so heroes can share a square (each figure stands a little to one side). Foes the game moves still keep to squares of their own, and a place's `allies_block` still stops it. Out of a fight nobody blocks anybody: the party walks through people and people through the party (foes waiting in plain view still block)
+
+*Why:* The 2024 rules let you move through an ally's space but not end there; rooms full of furniture made fights indoors cramped. Foes stay apart so they don't pile into one square
+
+### Small decor
+A '=' square holding only small decor (a stool, a basket, sacks, candles or lamps on stands, jars, cushions, books on the floor, a small crate) is open floor, in fights and out of them; furniture, barrels, crate stacks and containers still fill their squares
+
+*Why:* The rules leave obstacles to the DM; small things on the floor shouldn't wall off a room
+
+### Identical monsters
+Share one Initiative roll and act one after another
+
+*Why:* 2024 DMG option for groups; keeps turns quick
+
+### Spirit Guardians as it's cast
+Creatures already in the Emanation when it's cast make the save then (Radiant or Necrotic damage, half on a success), as if it had entered their space
+
+*Why:* The 2024 text has the save when the Emanation enters a creature's space, when one enters it and when one ends its turn there; whether its appearing counts is left to the DM. Owner's reading (playtest, 2026-10-08): it does
+
+### Divine Smite
+The 2014 rule, not the 2024 spell (owner decision 2026-10-08): no Bonus Action and not a spell cast (it doesn't count as the turn's one spell with a slot, can't be countered and breaks no Invisibility), on any number of melee hits a turn while slots last. By default the paladin is asked after each melee hit, Opportunity Attacks included (Critical Hits double its dice); armed on the Spells tab it smites every melee hit that turn without asking; the class tab's rule can make it Automatic (every hit) or Off. 2d8 Radiant plus 1d8 a slot level above 1st, at most 5d8, and 1d8 more against Fiends and Undead. Paladin's Smite's free use still comes first
+
+*Why:* The owner prefers the 2014 paladin: smiting every attack with the slots to spend
+
+### Study DC
+10 + the monster's CR
+
+*Why:* The rules leave the DC to the DM
+
+### Weapon sets (2024: a weapon is equipped or unequipped as part of each attack of the Attack action, or with the free object interaction)
+A character attacks only with what it has equipped: the weapons in hand and its second weapon set (the inventory's set II). An attack with a weapon of the second set takes that set in hand first, and Swap weapons on the hotbar does the same, both free and as often as it likes; a Shield goes with its set. A weapon that's only in the pack can't be drawn in a fight. New heroes, and older saves once as they load, get a second Light weapon in a free off hand beside a Light one and the best weapon of the other kind (a bow beside a sword) in an empty second set
+
+*Why:* Owner, 2026-10-09: "we shouldn't be allowed to use weapons that aren't equipped", with Baldur's Gate 3's two weapon sets and their free switch as the model; replaces the weapon-juggling deviation of 2026-10-08
+
+### Material components and focuses
+A component without a cost, and a focus, is assumed carried (every pregen has a focus or pouch), and a hand is always free to use it and to make Somatic gestures, whatever the caster holds; so Bladesinger's Weapon Focus has nothing to unlock. A costly component the spell uses up is tracked: the spell's material (Diamonds, Diamond Dust, Incense, Holy Water...) must be carried and is used up, with items of one kind counting together toward the cost (three 100 gp Diamonds for Revivify's 300 gp diamond). A costly component the spell keeps isn't needed at all: Identify's pearl, Chromatic Orb's diamond, Programmed Illusion's jade dust, Gate's diamond, Songal's Elemental Suffusion's pearl, and the costly foci (Summon Undead's gilded skull, Clairvoyance's jeweled horn, Warding Bond's rings)
+
+*Why:* Owner decisions 2026-10-08 (costly components only, so a 300 gp diamond is a real errand but nobody is refused a spell over what's in their hands: tracking hands made weapon-and-shield casters put their weapons away, PR #3 review; Bladesong has no free-hand rule either) and 2026-10-09 (only the components a spell uses up). Counting worth together saves a gem of every value
+
+### Monster Hit Points
+Average from the stat block on Balanced (or a fight's own tuned number). Story gives enemies 25% fewer, Tactician and Honour 20% more, never outside what their Hit Dice could roll; Honour puts a boss's lighter version back to its stat block (combat/difficulty.gd)
+
+*Why:* The 2024 default, with difficulty modes (F1) inside the range a DM rolling Hit Points could get
+
+### Difficulty bonuses (F1)
+Story: +2 to the party's attack rolls and saving throws. Tactician and Honour: +2 to enemies' attack rolls and the DCs of their spells and actions. Each shows in its Breakdown under the mode's name
+
+*Why:* Owner decision 2026-10-07: modes like Baldur's Gate 3's, +2s included; Balanced keeps the 2024 numbers
+
+### Death on Story difficulty
+A party member who would die (three failed Death Saving Throws, or massive damage) is left Unconscious and Stable at 0 Hit Points instead
+
+*Why:* Story mode (F1): nobody in the party dies for good; the other modes use the rules
+
+### Knocking Out a Creature
+Chosen ahead by the attacker's Knock Out rule (class tab, Off by default) rather than at the blow, only with weapon attacks and Unarmed Strikes (not melee spell attacks), and only by the party's creatures: foes never knock anyone out
+
+*Why:* A blow's damage can't stop for a question, and a standing rule is how Baldur's Gate 3 does it; the story has no use for captured heroes
+
+### After a won fight
+Dying party members are stabilized at 0 Hit Points (their friends tend them)
+
+*Why:* Rolling death saves every 6 seconds out of combat with nobody hostile adds nothing; the rules let anyone stabilize them with a DC 10 Medicine check
+
+### Forcing a lock
+A Strength (Athletics) check against the lock's DC + 2
+
+*Why:* The rules leave forcing to the DM; slightly harder than picking keeps Thieves' Tools worth carrying
+
+### Disarming a trap
+Failing by 5 or more springs it
+
+*Why:* A common table ruling; the 2024 rules leave failure to the DM
+
+### Finding and springing traps
+Only an explicit check finds a trap (a Search, Find Traps, a Wand of Secrets); passive Perception never does. A found trap still springs when someone steps on it, and paths don't go round it; it can be set off on purpose from within 5 ft (whoever stands in it takes it), and disarming is always the player's choice
+
+*Why:* The owner's call (2026-10-08): the 2024 rules let passive Perception notice traps; here finding one is a choice the player makes
+
+### Traps in a fight
+A location's traps are armed in its fights: any creature, friend or foe, that walks or is shoved onto one springs it, found or not (a flyer passes over); a pit drops its victim the pit's depth and leaves it Prone where it fell, without the climb out; a chandelier that is a trap is a thing in the fight instead (break its chain)
+
+*Why:* The owner's call (2026-10-08) that traps fire in fights too; a pit fight with its bottom modelled would need depths on the grid
+
+### Merchants' prices (U11)
+A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.75. One Persuasion check (DC 15 unless the shop says) wins ×0.9 and ×1.1 more with that merchant for good; a failure is final with that merchant (the owner's rule for failed social checks). Every price, buying or selling, at a shop, the trader, a temple or an inn, is rounded up to a whole gold piece after those factors (owner, 2026-10-08), so nothing with a price goes for less than 1 gp; free things stay free
+
+*Why:* The 2024 rules leave prices and haggling to the DM; plan §5.6 asks for prices that follow attitude and a Persuasion haggle
+
+### Raise Dead (the ordeal)
+A raised hero has -4 on D20 Tests for 10 days, then none (story/services.gd); Resurrection's ordeal is the same
+
+*Why:* Owner's call (2026-10-07): the 2024 spell's penalty shrinks by 1 with each Long Rest instead
+
+### Dark One's Own Luck on a roll that can't wait
+Asked on every failed save or check that can pause (a spell's or a monster's save, a repeated save, a Death Saving Throw, a Concentration save) and on a failed check outside a fight; a roll that can't wait (an instant check in a fight, a trap's or a pit's save outside one) uses it only when its rule is Automatic
+
+*Why:* The game can't stop for every roll; on Ask it is never spent without asking (owner, 2026-10-12)
+
+### Sculpt Spells: "other creatures that you can see"
+The Evoker can shield itself as one of the 1 + spell level creatures, and is picked first by default (TargetPicker; SpellSaves)
+
+*Why:* Owner's call (Ashwin, 2026-10-12): the wizard shouldn't be the one creature its own Fireball can't spare
+
+### Chromatic Orb's leap
+On the caster's own turn a prompt asks where the orb leaps (any creature within 30 ft of the one it hit but the caster, the foe nearest the caster already picked), and declining lets the leap go. The AI, the prompt's Auto rule and a casting on someone else's turn (War Caster's Opportunity Attack) send it to the foe nearest the caster
+
+*Why:* The 2024 orb leaps to "a different target of your choice"; a prompt can't open in the middle of another creature's turn, and letting a leap go spares an ally when only allies are near
+
+### Suggestion in a fight
+Cast in a fight, Suggestion and Mass Suggestion offer four suggestions, as Command offers its five words: "Stand aside. This isn't your fight." (it stops fighting and makes no Opportunity Attacks, as Calm Emotions' indifference), "Go home." (it walks away from its caster and leaves the fight once clear of its foes; a party member only walks away), "Put that down and sit." (it drops what it holds and sits, Prone, and stays sitting) and "Come with me." (it walks to its caster and does nothing else). Each lasts while the Charm does: until anyone on the caster's side hurts it, Concentration ends, or it has gone home. Only a creature with a language that isn't Deafened can take one
+
+*Why:* The spell's 25 free words can't be typed into a fight; these four are achievable and harm neither the target nor its allies, as the spell requires (Ashwin, 2026-10-12: game-ready suggestions like Command's)
+
+### Reincarnate
+Brings the hero back within 10 days with all their Hit Points, in a new body of the same species; the rare oils are 1,000 gp from the party's purse
+
+*Why:* Rolling a new species would rebuild the hero's traits and choices mid-campaign; there's no oils item to carry
+
+### Wards and rests
+Spells that ward a place or a rest are cast while exploring and remember where (story/wards.gd). Leomund's Tiny Hut (8 hours, where cast) and Guards and Wards (a day, its whole building) let a Long Rest start with enemies still in the building and keep it from being interrupted; Hallow (for good), Forbiddance and Mordenkainen's Private Sanctum (a day each, where cast) keep it from being interrupted too, and with Nondetection (8 hours) keep Strahd's visits that can wait away (story/strahd_presence.gd; the urgent ones still come). Under Alarm, an interruption still leaves a Long Rest. Magic Circle cast within the hour before a fight in the same place stands around its caster as the fight starts: Celestials, Elementals, Fey, Fiends and Undead can't step in and attack anyone inside at Disadvantage (not the charm, fright and possession rules, nor keeping a creature in). Heroes' Feast's 1,000 gp bowl comes from the party's purse
+
+*Why:* The spells' areas, triggers and creature-type choices have nothing in the game to work on outside a fight; these are what they mean for a party resting and travelling in Barovia (Ashwin's answer to the spell audit, 2026-10-12)
+
+### Spells that help a check
+A cantrip that only did tricks gives whoever knows it Advantage on one skill's checks outside fights, as they work a little magic into the attempt (story/check_aids.gd): Druidcraft on Nature (and it reads tomorrow's weather), Elementalism on Survival, Mending on Investigation, Message on Stealth, Minor Illusion on Deception, Prestidigitation on Performance, Thaumaturgy on Intimidation. While they run, Detect Thoughts and Zone of Truth give their caster Advantage on Insight, Disguise Self on Deception (Seeming: the whole party's), Silent Image on Stealth, Major Image on Stealth and Deception, Comprehend Languages on History and Investigation, Tongues on Persuasion, Beast Sense on Perception, Locate Object on Perception and Investigation (searching), Locate Creature on Survival; Zone of Amicability makes a d20 of 9 or lower on a check to influence count as a 10 (story/field_casting.gd CHECK_AIDS)
+
+*Why:* These spells' effects need a table to describe them; in a game made of checks, helping the right check is what they're for (Ashwin's answer to the spell audit, 2026-10-12)
+
+### Scouting and divining
+Read from the place the party stands in (story/oracles.gd): Augury tells weal (something still hidden here) or woe (a fight that starts on its own still waits here); Divination names what waits, or else shows one hidden find; Commune answers how closely Strahd watches (his attention), whether a fight waits and whether anything is hidden; Contact Other Plane is an Intelligence save (DC 15) or 6d6 Psychic damage (never below 1 Hit Point outside a fight), else names what waits and shows up to five finds; Commune with Nature (outdoors only) shows every hidden find; Clairvoyance and Arcane Eye show every trap and name what waits; Legend Lore and Scrying (unless the legend makes its Wisdom save) fill in a legend's bestiary entry. Unseen Servant springs the nearest trap within 30 ft harmlessly; Stone Shape and Passwall open the nearest locked or secret door within 30 ft; Tenser's Floating Disk adds 500 lb to its caster's carrying capacity for an hour; Leomund's Secret Chest opens the party stash anywhere for 60 days; Tasha's Bubbling Cauldron brews one potion per point of its caster's spellcasting modifier, the last brew going when they brew again; Find the Path keeps the roads free of random encounters for a day
+
+*Why:* These spells answer questions or reach places the game has no way to ask or show; these are their answers in Barovia's terms (Ashwin's answer to the spell audit, 2026-10-12)
+
+### Spells that take minutes to cast
+Outside a fight, a helpful spell that takes minutes or hours to cast (Prayer of Healing, Regenerate, Foresight) is cast from the character sheet like any other, its casting time passing on the clock; in a fight it still takes too long
+
+*Why:* Before, these could be cast nowhere in the campaign: the fight refused their casting time and the sheet asked the fight (Ashwin's 'fix the remaining bugs for spells', 2026-10-12)
+
+### Spells taken out of the game
+55 spells that did nothing in the game and couldn't be given a use are out of every class's list, every picker and every scroll and loot table (`removed` and `playable` false in their data; the files stay): Create or Destroy Water, Illusory Script, Purify Food and Drink, Animal Messenger, Arcane Lock, Deryan's Helpful Homunculi, Dueling Ground, Locate Animals or Plants, Magic Mouth, Nystul's Magic Aura, Rope Trick, Create Food and Water, Meld into Stone, Sending, Water Walk (nowhere in the game is reachable only across deep water), Control Water, Fabricate, Hallucinatory Terrain, Awaken, Creation, Dream, Geas, Modify Memory, Planar Binding, Rary's Telepathic Bond, Teleportation Circle, Tree Stride, Arcane Gate, Contingency, Drawmij's Instant Summons, Magic Jar, Move Earth, Planar Ally, Programmed Illusion, Transport via Plants, Wind Walk, Word of Recall, and every 7th to 9th level spell with no use (Mirage Arcane to Wish). Subclass and feat lists that granted one lose it. A saved hero who knew one gets another spell of its level from the same choice when the save loads (Character.swap_removed_spells)
+
+*Why:* Ashwin (2026-10-12): spells that do nothing should get a use, or leave the game
+
+### Subclass and feat spells that left with them
+A subclass or feat that grants one of those spells loses it, with nothing in its place: Aberrant Sorcery (Sending, Rary's Telepathic Bond), Arcana Domain (Nystul's Magic Aura, Teleportation Circle), Circle of the Land (Tree Stride), Circle of the Sea (Control Water), Fiend Patron (Geas), Gloom Stalker (Rope Trick), Great Old One Patron (Modify Memory), Oath of the Ancients (Tree Stride), Shadow Sorcery (Creation), Trickery Domain (Modify Memory) and Vestige Patron (Modify Memory); the feats Enchantment Adept (Modify Memory) and Illusion Adept (Hallucinatory Terrain).
+
+*Why:* The spells they cast are out of the game (above), and nothing in the game could give them a use
+
+### Magic items that cast those spells
+An item loses the power that cast one of those spells, and keeps the rest: Calimemnon Crystal (Create or Destroy Water), Candle of Invocation and Cubic Gate (Gate), Demonomicon of Iggwilv (Planar Binding), Hand of Vecna (Teleport), the Anstruth and Ollamh Harps (Control Weather), Luck Blade (its wishes), Ring of Elemental Command, Water (Create or Destroy Water, Control Water), Staff of the Magi (Arcane Lock) and Staff of the Woodlands (Awaken, Locate Animals or Plants). A Necklace of Prayer Beads' Summons and Wind Walking beads are Favor beads, in an old save's necklace too. The Helm of Teleportation, the Ring of Three Wishes and Sending Stones, whose only power was one of those spells, are out of the game (`removed`, files kept): Agafia gives her grandmother's Bag of Tricks (Tan) instead of Sending Stones (The Oat Thief), and Vadoma no longer stocks them.
+
+*Why:* The spells they cast are out of the game (above), and nothing in the game could give them a use
+
+### Temple services and inn rooms (F14)
+St. Andral's sells Cure Wounds, Lesser Restoration, Remove Curse and Raise Dead at the PHB's spellcasting-service prices, read by Father Lucian from the church's scrolls. A booked room at an inn gives the next Long Rest there temporary Hit Points equal to each hero's level (twice that, and one more level of Exhaustion gone, in the best room)
+
+*Why:* Lucian's stat block casts none of those spells (owner, 2026-10-07: the church keeps scrolls); the 2024 rules give lodging no effect, and a room needs a reason to buy it when resting at the inn is free
+
+### Long Rest interruption
+In a "risky" place, a 1 in 6 chance (never on Story difficulty); an interrupted rest gives a Short Rest's benefits
+
+*Why:* Travel has random encounters (Phase 4), but a rest doesn't start one
+
+### Long Rest at 0 Hit Points: "To start a Long Rest, you must have at least 1 Hit Point"
+A hero at 0 Hit Points (stable, outside a fight) wakes from the party's Long Rest with everything back like the others
+
+*Why:* Owner's call (2026-10-09, QA's D-2): the party rests together
+
+### Long Rests in dungeons and buildings
+Refused while enemies remain anywhere in the building or dungeon: its indoor maps (and a dungeon's open-air ones, Castle Ravenloft's roofs) joined by their exits, every floor. Enemies remain while a fight there would still start on its own (entering an area, opening a door or chest, examining something) or one was begun and not won; a fight only a conversation can start doesn't count. Short Rests, towns, inns, camps, the open road and the items' safe rests (Daern's Instant Fortress, the Rod of Security) are unaffected (story/rest_rules.gd)
+
+*Why:* Owner's rule (2026-10-09): what waits on another floor would find a sleeping party; the 2024 rules leave where to rest to the DM
+
+### Sneaking up (who notices whom)
+While the party sneaks, each member keeps the Stealth total rolled on starting; a foe notices a member it sees clearly (less than Three-Quarters Cover) when its passive Perception, 5 lower if the member stands in dim light to it, is at least that total. A member out of its sight or behind Three-Quarters Cover goes unnoticed
+
+*Why:* The 2024 rules only let you hide out of sight and leave noticing to the DM; comparing Stealth with passive Perception is the usual table call for sneaking up, and the light and cover parts follow the rules for obscurement and Hide
+
+### Facing before a fight
+A foe waiting in plain view, or a townsperson watching for a theft, sees only within a 120° cone the way it faces (out to 30 ft) and hears the party all round within 10 ft, not through walls; Stealth still applies to both. In fights, nobody has facing
+
+*Why:* Owner pick 2026-10-07, after Baldur's Gate 3's sight cones: sneaking up behind someone should work. The 2024 rules have no facing, so fights keep them
+
+### How far foes notice
+A foe waiting in plain view notices the party only within 30 ft
+
+*Why:* The rules set no distance; without one, foes would notice the party across a field or the length of a hall, and at 60 ft a camp beside a path saw everyone who walked past (the maps are compact)
+
+### Surprise and noise
+A party that isn't sneaking surprises no foe (it's heard coming), and a fight a foe starts by noticing the party surprises no one
+
+*Why:* The rules leave who is caught unawares to the DM
+
+### Hiding before a fight
+A sneaking member nobody noticed, with a Stealth total of 15 or more and Three-Quarters Cover from every foe, starts the fight with the Invisible condition, as if they had taken the Hide action; it ends when the fight does
+
+*Why:* The rules don't say whether hiding before a fight carries into it; this asks what the Hide action asks
+
+### Picking a pocket
+Dexterity (Sleight of Hand) against the target's passive Perception, once per person; a picked pocket holds coins by the target's station plus any items their data names
+
+*Why:* The 2024 rules leave the DC and what a pocket holds to the DM
+
+### Who sees a crime
+The same notice rule as foes in plain view (30 ft in their sight cone without Three-Quarters Cover, or 10 ft by ear; passive Perception against Stealth while sneaking); a crime nobody sees has no consequence
+
+*Why:* The rules leave witnesses to the DM; one rule for noticing keeps sneaking predictable
+
+### Trespass
+Seen in a private room, the party is told to leave and gets three more steps; seen after that, or after coming back, it's a crime
+
+*Why:* A DM's warning before the watch is called
+
+### Exploration movement
+On the grid, one square at a time, followers stepping into the square ahead. Turn-based exploring (F7) moves one member at a time, up to their Speed in a round of six seconds, with no actions counted
+
+*Why:* ADR 0009: one geometry for exploring and fighting; the 2024 rules have no rounds outside combat, so the mode only borrows their movement
+
+### Flying
+A flyer rises and sinks 5 ft at a time where it stands (1 ft of movement per foot) and keeps its height over the floor as it moves, following the floor up a ledge or down a drop for nothing extra. 5 ft up it passes over creatures, low walls, crates and furniture; chasms and deep water it crosses at any height; walls stop it (they reach the ceiling, or are trees and towers). Indoors the ceiling is 20 ft unless the map says otherwise; outdoors flyers go up to 60 ft. Monsters the AI plays keep to the ground
+
+*Why:* The maps don't draw ceilings or the tops of walls; heights count in 5 ft steps like the grid
+
+### Ready
+A readied attack or spell waits for one of three triggers, picked with a right-click: an enemy the creature can see comes within its reach or range, or one already within it attacks or casts a spell. The Reaction comes once that attack or spell is done
+
+*Why:* The 2024 trigger is any perceivable circumstance; a grid fight can't take free-form triggers, and these are the ones that matter in one
+
+### D20 Test choices made in the middle of a roll (Indomitable, Stroke of Luck, Mage Slayer's Guarded Mind, Heroic Inspiration on a save, Tactical Mind, a Bardic Inspiration die, Countercharm, Bend Luck, Dark One's Own Luck, Fanatical Focus, Steel Yourself, Symbiote's Vigor, Mist Step, Knowledge from a Past Life, Shared Resilience, Noble Scion, Alustriel's Mooncloak, the save responses of feats and spells)
+Asked (or settled by the creature's rule) wherever the roll can pause: spells' saves (Sleep, Command, Polymorph, Banishment and Resilient Sphere included), monsters' save actions, auras and the riders on their hits, Topple, lair actions, the areas a creature starts or ends its turn in, repeated saves, Death Saving Throws, Concentration saves (see below) and attack rolls. Only asked when it could change the result. Elsewhere (saves inside other spells' own code such as Eyebite and the high-level spells' rays, features' and items' saves, areas a creature walks into, ability checks) the roll still can't wait, so each is used on a failure unless its rule is Off, or only on Automatic for the Reactions that were Automatic-only before
+
+*Why:* Those rolls happen deep inside code that can't stop yet; failing the save is almost always worse
+
+### Concentration save after damage
+A failure that a choice could still turn (Heroic Inspiration, Indomitable, a Bardic Inspiration die...) is asked about once the attack, spell or action that dealt the damage has finished, with the other reactions to it (at the latest as the turn ends); Concentration holds until then. With nothing to ask, it's settled at once as before
+
+*Why:* The damage is dealt deep inside the attack's or spell's resolution, which can't stop in the middle
+
+### Coming down from the air
+A creature off the floor that nothing holds up any more (knocked Prone, held to Speed 0, its flight ending, let go of while carried) comes down at the end of the move, action or turn that grounded it; one that comes down in another creature's space lands in the nearest open square, and a flyer can't sink into a creature below it
+
+*Why:* Effects that ground a flyer resolve inside one action; the rules don't say what happens when a falling creature lands on another
+
+### Areas and height
+An area laid on the ground reaches as high as its size (a sphere's radius, a cube's side, a cylinder's or wall's height); one from the caster reaches from the caster's own height (an emanation its size, a cone half its distance, a line its width). Points are chosen on the ground
+
+*Why:* The grid has no vertical aiming; this keeps a Fireball on the ground from catching a creature 30 ft up
+
+### Falling into deep water
+Halved with a Reaction and a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check (2024), then the creature swims to the nearest open square
+
+*Why:* Swimming in a fight isn't built
+
+### Heroic Inspiration gained while you already have it: "you can give it to a player character in your group who lacks it"
+When a story moment awards it to someone who already has it (story/in_character.gd, F15), it goes to the first party member in marching order who lacks it
+
+*Why:* A conversation can't stop for a pick; giving it away is never worse than losing it
+
+### Lucky's Advantage
+Armed from the hotbar for the next D20 Test; Lucky against an attack is a prompt
+
+*Why:* The rule lets you decide after seeing the situation, before the roll
+
+### Portent
+Assigned from the hotbar to a creature's next D20 Test
+
+*Why:* Same as the rule, chosen ahead of the roll
+
+### Cast-time choices
+The first option is the default; the hotbar's right-click menu picks another
+
+*Why:* Keeps one click for the common case
+
+### Commander's Strike, Crown of Madness, Maneuvering Attack
+The player picks Commander's Strike's ally (within 60 ft, able to see or hear you) and then the creature it attacks, and the ally uses whichever of its attacks does best there; Crown of Madness's caster names the creature to attack (or no one) when casting and with each keep-control Magic action, and that choice holds until the next; Maneuvering Attack's ally is one of the attacker's allies, picked right after the hit. A crowned party member is still played by the AI on its turns, even when no victim is in its reach
+
+*Why:* The weapon and the moment of the "mental" choice are the closest one-click readings; handing a crowned party member's free turn back to the player needs the turn's controller decided once at its start
+
+### Charger, Lunging Attack
+"Moved this turn" stands in for "moved 5 (10) ft in a straight line toward the target"
+
+*Why:* The grid path isn't tracked as straight lines
+
+### Disarming Attack, Heat Metal: which object
+The object dropped is picked for you: the weapon in the target's main hand, else what its other hand holds (a monster: the weapon it holds)
+
+*Why:* Saves a choice step in the middle of a hit
+
+### A monster's weapons
+A monster holds one weapon at a time, the first melee weapon of its stat block (else its first weapon); a Disarming Attack, Heat Metal, Command's "Drop" or falling Unconscious drops that one, and the others stay usable, as if slung or sheathed. Its thrown weapons and ammunition aren't counted. A weapon attack's item is the item its id names, else the gear it matches (a sword cane, which no item matches, can't be carried off by anyone else). The AI takes its weapon back only when it lies within reach; it doesn't walk to it
+
+*Why:* Stat blocks don't say what's in hand or how many javelins a monster carries
+
+### Things on the ground
+A thrown weapon comes down in its target's space, hit or miss (for a big target, the square nearest the thrower); a creature picks up what lies within 5 ft of it, a pile of one thing (two daggers) with one interaction; only a character carries things off (a monster takes back its own weapon); a dead creature keeps what it held; a donned Shield is never dropped. What a creature lets go of lands on the floor of its square, however high it is. A creature going over the edge into a map's open drop keeps hold of what it carries (it goes down with it); a thing that comes down over the drop is out of reach for the rest of the fight, and the party fetches it from below with the rest when the fight ends (a foe's weapon joins the loot)
+
+*Why:* The rules leave where a thrown weapon lands, how far a creature can reach for an object and what can be fetched back up to the DM; a party member who falls comes back after the fight the same way
+
+### Recovering ammunition
+When a fight ends each party member gets back half the mundane ammunition it shot (rounded down) on its own; magic ammunition isn't found again
+
+*Why:* The minute's search is the minute a won fight already takes; which magic shots hit and lost their magic isn't tracked
+
+### Levitate, Fly
+Levitate lifts its target 20 ft (less under a low ceiling) and holds it there; it can't pull itself along walls or a ceiling, and a caster can't raise or lower another creature it levitates. A creature levitating itself rises or sinks up to 20 ft a turn for no movement. Fly gives a 60 ft Fly Speed and hovering. When either ends, the creature comes down: gently from Levitate, falling from Fly
+
+*Why:* Moving by pulling along surfaces needs wall and ceiling data the maps don't have
+
+### Blink, Etherealness, Plane Shift
+Blinking back lands on the same square; a monster that escapes this way leaves the fight
+
+*Why:* Saves a placement step; the escape is what matters in a fight
+
+### Loathsome Limbs
+Severed arms and heads fight on as their own creatures sharing the body's Hit Points; severed legs only slow the body
+
+*Why:* Legs can't attack
+
+### Shape-Shift
+The Werewolf shifts once into hybrid form (Bite and Longbow available); the Night Hag doesn't shift in a fight
+
+*Why:* The forms only change size and which attacks it can use
+
+### Animate Dead, Find Familiar, Find Steed
+Cast before the fight (precast), or while exploring for the familiar and the steed, and for Animate Dead and Create Undead, whose dead follow their caster for a day and join each fight whole (FieldCasting.bring_risen); the undead, the familiar and the steed act on their caster's turn order, with no Bonus Action command needed. A familiar or steed still with its caster comes back at full Hit Points in each fight, until one drops to 0 Hit Points (or the steed's caster dies)
+
+*Why:* Commanding every turn would be a click per turn for the same result; a companion's wounds between fights aren't tracked
+
+### Wild Shape known forms
+The number of known forms is capped by the Beast stat blocks the game has that fit the Druid's CR and Fly Speed limits. With the 2025 Monster Manual Beasts the magic items brought in (14 fit Druid 2-3, 18 fit Druid 4-7, 31 fit Druid 8 and up) the cap no longer bites
+
+*Why:* The choice can't dead-end while the bestiary is small
+
+### Eldritch Spear and Repelling Blast
+Each covers every Warlock cantrip you know that fits (Eldritch Spear: a damaging one with a range of 10 ft or more; Repelling Blast: one with an attack roll), so neither is taken twice. Agonizing Blast and Lessons of the First Ones are taken again as the book says, each copy for a different cantrip or Origin feat
+
+*Why:* Covering every fitting cantrip gives what taking them again would, without a pick per cantrip
+
+### Iron Mind (Gloom Stalker)
+The player picks Wisdom, Intelligence or Charisma saves; the rule says Wisdom unless already proficient
+
+*Why:* The option text says so; enforcing it needs a "lacks proficiency" check on options
+
+### Polymorph and Wild Shape forms
+The creature becomes the Beast's stat block with its own Hit Points kept (Wild Shape also keeps Int, Wis, Cha and Proficiency Bonus); its gear, class features and spells wait until it changes back
+
+*Why:* A full merge of character and stat block is a large system; these are the parts a fight uses
+
+### Mounted combat
+Any willing ally a size larger can be mounted (half your Speed); a ridden ally is a controlled mount that moves on its rider's turn and can't attack; a mount moved against its will makes its rider save (DC 10 Dex) or fall Prone; an uncontrolled (independent) mount isn't offered
+
+*Why:* Every mount in the game so far is a friendly summon
+
+### Banishment
+The banished creature leaves the grid; a native of another plane banished for 10 rounds doesn't return
+
+*Why:* Same as the rule, counted in rounds
+
+### Conjure Animals
+The caster's free move of the pack is a separate free action once per turn; Advantage on Strength saves within 5 ft of the pack is applied
+
+*Why:* The pack moving "when you move" needs a combined move
+
+### Conjure Minor Elementals
+The extra damage type is picked for you each attack: whichever the target doesn't resist
+
+*Why:* Saves a prompt per attack
+
+### Call Lightning
+Its storm bonus (+1d10) comes in a thunderstorm or a blizzard over a fight in the open
+
+*Why:* The 2024 text says "in a storm"; a blizzard is a snowstorm, so it counts too
+
+### Weather and travel
+A storm or snow makes a leg of a journey take a quarter longer and a blizzard twice as long; fog, a storm at night and Strahd's attention add to the chance of meeting something on the road
+
+*Why:* The 2024 rules leave weather's effect on travel to the DM (snow lying as Difficult Terrain halves pace); these are the table's rulings, in data/weather/barovia.json
+
+### Spells at people outside a fight
+A party member can cast a non-damaging spell with a save (Sleep, Charm Person, Hold Person, Web, Faerie Fire ...) at someone on the map from the right-click menu. It resolves on a small open board with the target 15 ft away, so an area spell catches only the chosen person, and one round passes there (Sleep's second save). What it leaves lasts while the party stays in the place and runs down with game time (a rest, a search, a wait), not with real time; leaving the place ends it. Anyone who sees the casting reports it as a crime (a town's watch comes); a spell at a foe in plain view opens the fight instead, the caster casting it on their turn
+
+*Why:* Exploring has no rounds unless turn-based; the board uses the spell engine as it is
+
+### Weather and sight
+Fog, a storm or a blizzard in the open makes the whole place Lightly Obscured for Perception, in fights too: Disadvantage on a Search (in a fight, to find a hidden creature). A storm or blizzard also puts out a burning creature's flames at the start of its turn
+
+*Why:* Treats the weather as everywhere at once, and the downpour as dousing the flames (the 2024 Burning rules: doused)
+
+### Searching for hidden finds (docs/story/found_magic_items.md)
+One Search action covers both ways of looking: the leader's Wisdom (Perception) finds what can be seen, and when a hidden compartment is within 15 ft, an Intelligence (Investigation) roll in the same minute finds what has to be worked out (the 2024 rules make that a separate Study action)
+
+*Why:* One button for exploring; the map says which check each hidden thing needs
+
+### Retrying a search
+A hidden find that holds an item gets one look from each character: one who searches within 15 ft and misses its DC can't find it later. Another party member can still try. Traps, secret doors and clues without an item can be searched for again
+
+*Why:* The rules let you try again unless failure has a cost; without a limit, searching the same spot until the dice agree turns every DC into a wait
+
+### Help and Guidance before a check on a thing in the world (docs/story/world_checks.md)
+Another party member proficient in the skill Helps whoever tries (Advantage), and someone who knows Guidance and isn't concentrating on another spell casts it on them (+1d4), without asking. A check marked `alone` takes no Help
+
+*Why:* Outside a fight the Help action and a cantrip cost nothing that matters, so they're always worth taking; Guidance isn't cast when it would end another spell, the one case where it costs something
+
+### Who tries a check on a thing in the world, and how often
+The party's best hand at it who hasn't tried yet rolls (best chance, then best bonus, then the leader). Each character gets one try; a check marked `once` gets one for the whole party
+
+*Why:* The player still chooses whether to try; picking the roller saves a menu per check, and one try each keeps a DC from becoming a wait, as with searching
+
+### Detect Magic and hidden things
+The spell names a hidden find holding a magic item within 30 ft as "something hidden from sight", without saying where it is
+
+*Why:* The spell senses magic through most barriers but only shows auras on things you can see
+
+### Detect Evil and Good and Detect Poison and Disease outside a fight
+Each senses once, when it's cast, within 30 ft of the party's leader: walls don't stop it. Detect Evil and Good names each Aberration, Celestial, Elemental, Fey, Fiend and Undead in sight and counts those out of sight by kind. Detect Poison and Disease names the poisons in chests and packs (a Potion of Poison in the party's packs is found out), says when one is hidden without saying where, names venomous creatures, and finds a poison trap as Find Traps does. The creatures counted are the people here and the foes of fights that start by stepping somewhere or opening something; foes a flag or a conversation brings aren't there yet. There are no magical contagions or Hallow spells in the game to sense
+
+*Why:* The 2024 spells keep sensing for up to 10 minutes and are stopped by 1 ft of stone; exploring has no rounds to repeat them, and the maps don't mark how thick a wall is (Detect Magic does the same here)
+
+### Rod of Alertness's Protective Aura
+The light follows the hero who planted it, as an item light does, and lasts 10 minutes (100 rounds). Allies within 60 ft when it's planted get the +1 to AC and saves for 10 minutes. A foe in the light can't hide from the planter's side, and one hidden there is found when the rod is planted or when it moves while hidden. An Invisible foe that isn't hiding is still unseen there: the party already knows where it stands
+
+*Why:* The rod stays where it's driven into the ground and its bonus is for whoever stands in the light; the board has no planted-item objects, and "can tell where any Invisible creature is" is what the map already shows for a foe that isn't hiding
+
+### Nolzur's Marvelous Pigments
+Each of the case's 1d4 pots paints one object worth up to 25 GP into the painter's hands, picked from a list (a ladder, rope, grappling hook, crowbar, lantern, tent, shovel, ram, shield, longsword, healer's kit, climber's kit)
+
+*Why:* The 2024 item paints any objects or terrain up to 10,000 cubic feet; the game has no way to put a painted door or bridge into a map, so a pot makes a carried object instead of doing nothing
+
+### Golden Idol of Good Fortunes' coin
+One Magic action turns one carried gemstone (an onyx, a pearl or a diamond) into its full worth in gold
+
+*Why:* The game has no trade bars; gems are carried items a shop buys at half, so the idol pays what they're worth
+
+### Catnap from the Wand of Slumber outside a fight
+The wand's user and the next two living party members (in party order) sleep ten minutes and wake with a Short Rest's benefits
+
+*Why:* The spell lets the caster pick up to three willing creatures; the item card has no picker for three, and the user nearly always wants the rest themselves
+
+### Dimensional Shackles and teleporting
+A bound creature that tries to teleport, Blink, or cast Etherealness or Plane Shift anyway spends the action or spell and stays put
+
+*Why:* The book only says the shackles prevent it; a monster's turn picks its actions without knowing, so the attempt costs it the turn
+
+### Pipes of the Sewers
+The rats are always near enough to answer, and the swarms called arrive beside the piper within the Magic action, so each makes its contest at once. A rat or giant rat leaves the attuned piper alone until the piper attacks or damages any rat in the fight. "Can't be swayed for 24 hours" lasts the fight; called swarms vanish when it ends
+
+*Why:* The book has swarms run in from up to half a mile by the shortest route, the DM decide whether enough rats are near, and "threaten" left to the table; a fight is over long before a swarm half a mile off arrives
+
+### Wall of Fire
+The burning side is picked after the squares are drawn: along a bent wall each square takes the side of the stretch of wall nearest it ("left" or "right" of the way it was drawn), and squares in line past an end are on neither side. A ring 20 ft across always burns on its inside. Cast without drawn squares (a monster's casting) it is a straight wall through its point along the cast direction, burning on that direction's right-hand side
+
+*Why:* A grid wall has no faces to click: its side is read stretch by stretch; a ring's outside isn't offered
+
+### Walls with a length (Wall of Fire, Wind Wall, Wall of Stone, Wall of Ice, Wall of Force, Wall of Thorns, Blade Barrier, Prismatic Wall)
+Drawn square by square on the grid, each square touching the last (a diagonal step counts 5 ft and can't pass the corner of a wall or other solid square) and none solid; Wall of Stone's, Ice's and Force's ten 10-ft panels are a line of up to 20 squares, their height ignored; Blade Barrier and Prismatic Wall go in one straight line. Every square must be within range, except that Wind Wall, Wall of Stone and Wall of Force only start there ("from a point you choose"); Prismatic Wall needs all of it in range, not just its centre. A Tsunami runs across the line from its caster to its point. A creature can still step, and an attack or a shot pass, diagonally between two squares of a wall drawn diagonally
+
+*Why:* On the grid a wall is the squares it stands on; one range rule for the straight walls; the diagonal corner rule only knows the map's own walls
+
+### Dissonant Whispers, Confusion, Compulsion
+The fleeing or compelled creature takes the farthest square along its path, provoking Opportunity Attacks as it goes
+
+*Why:* "Safest path" is the DM's call
+
+### Heat Metal
+What's heated is picked for you: a held metal weapon first, else worn metal armor
+
+*Why:* Saves a choice of object
+
+### Wild Magic Surge
+A condensed 8-result table of the surge's combat effects
+
+*Why:* The full table is mostly out-of-combat whimsy
+
+### Cosmic Omen, Restore Balance
+Never asked: used when they would change the roll's result (the class tab's Automatic, the default) or never (Off)
+
+*Why:* Both answer a roll that is about to be made; asking before every roll near the druid or sorcerer would stop the fight constantly
+
+### Pact of the Chain familiars
+The eight special forms use 2025 Monster Manual numbers as we know them, not yet checked against the book; a familiar only attacks when its warlock gives up an attack (or with Investment of the Chain Master's command)
+
+*Why:* The forms are built in code from the warlock's casting; checking needs the owner's book
+
+### Cosmic Omen
+The omen (Weal or Woe) is drawn when a fight starts rather than at the last Long Rest
+
+*Why:* Rests don't keep a dawn roll yet
+
+### Gaze of Two Minds
+The link lets you cast from the ally's space; perceiving through its senses isn't modelled
+
+*Why:* Sight sharing has no use on a grid where the player sees everything
+
+### Ravenloft: The Horrors Within numbers
+Checked against the book on D&D Beyond (2026-10-06): the four species, the four backgrounds, Sharp Eye, Survivor, Aberrant Anatomy, Echoing Soul, Gathered Whispers and Living Shadow. Still as entered from the 2025 Unearthed Arcana playtest and reviews: the six subclasses (the Hollow Warden's Wrath of the Wild least of all certain), Mist Walker, Second Skin, Symbiotic Being, Touch of Death and Watchers
+
+*Why:* Reading the rest of the book's pages was stopped partway
+
+### Reanimator (Artificer)
+Not in the game
+
+*Why:* The game has no Artificer class (Eberron: Forge of the Artificer)
+
+### Spirits from Beyond row choices
+Mystical Connection's second roll and Controlled Channeling's row are picked automatically: help for an ally (Wayfarer, Fortune Teller, Beloved...), harm for a foe (Brute, Arsonist, Coward...). Renegade: an ally teleports to the square farthest from its foes; a foe declines
+
+*Why:* A mid-action choice between two random results needs a prompt the HUD doesn't have
+
+### Path to the Grave, Wails from the Grave, Vampiric Bite, Feral Pounce, Grave Touched, Spiritual Manifestation, Spirits of Ill Omen
+Used automatically when they apply, unless the creature's rule for it is "never": the curse ends on the first hit by the cleric or an ally it sees (Radiant unless the target resists Radiant); the wail goes to the foe nearest the first target; the bite Drains when the dhampir is hurt by at least the damage, else Strengthens; the pounce knocks Prone (or pushes 5 ft if already Prone); a spell turns Necrotic in Form of Dread when the target resists its type and not Necrotic; Spirit Guardians gives Half Cover and Summon Undead skips Concentration whenever they can
+
+*Why:* Same reason as the other mid-roll choices
+
+### Ravenloft Dark Gift drawbacks on a natural 1
+Checked in fights only; an out-of-combat check rolling a 1 doesn't wake the gift. a Symbiotic Being host only Dodges in a fight and the charm has no effect outside fights; Second Skin's catalyst is never met
+
+*Why:* No DM to steer a charmed hero or choose a catalyst; exploration checks don't run the combat hooks
+
+### Mist Walker's 10 miles
+Counted from road travel at 3 miles an hour; walking inside a map doesn't count
+
+*Why:* Maps don't measure distance travelled
+
+### Pull of Death on a spell
+Added after the spell's roll, so a critical spell attack doesn't double it
+
+*Why:* The spell's damage parts are built before the hook sees them
+
+### Eerie Token, Whispers of the Dead's ghost, Aberrant Anatomy's held breath, Mist Walker's travel between Domains, Spirit Query (Augury)
+Shown on the sheet; no game system uses them yet
+
+*Why:* Scouting, swimming and the Domains of Dread aren't in the game
+
+### Alignment in attunement and magic items (Talismans, the Candle of Invocation, Book of Exalted Deeds)
+Not checked: anyone may attune; a talisman's "good creature" is a Celestial; the candle blesses the party
+
+*Why:* The game doesn't track alignment
+
+### Drawing a wand, rod or staff to use it
+Free: one carried is drawn as it's used, whatever is in hand (weapons aren't: Weapon sets); passive benefits still need it held
+
+*Why:* Tracking hands for every activation adds clicks for no choice
+
+### Mid-roll item choices (Scarab of Protection, Staff of Charming, Wand of Binding's escape, Rod of Absorption, Staff of the Magi, Ioun Stones of Absorption, Dwarven Plate)
+Used automatically when they'd help, unless the creature's rule for it is "never". The Ring of Evasion, a Luck Blade's reroll, the Lucky Foot, the Ring of Dedicated Focus and the Scholar's Anchoring Bangle are asked where the roll can pause, like the other D20 Test choices
+
+*Why:* These answer a spell or an attack before or while it lands, not a roll's result
+
+### Identifying magic items
+Ordinary finds are named when picked up; disguised ones (Potion of Poison, Dust of Sneezing and Choking, Armor of Vulnerability, Bag of Devouring) pass for what they imitate until someone casts Identify on them from the item card (as a Ritual), studies them through a Short Rest (Rest screen), or attunes to them. Every magic item offers Identify, so the offer gives nothing away
+
+*Why:* Naming every ordinary find saves a step on each of hundreds of items without changing what it does
+
+### Mystery Key
+One try per lock
+
+*Why:* Retrying a 5 percent chance as often as you like would open every lock
+
+### Chime of Opening
+Used from the lock's right-click menu: the party walks up to the lock first, as for Knock
+
+*Why:* The menu acts on things the party can reach
+
+### Objects in a fight: the Immovable Rod, a Robe of Useful Items' door, window or pit
+Told; no effect on the grid (an Adamantine Weapon and a Sword of Sharpness now work against the battlefield's objects)
+
+*Why:* The rod and the robe's patches aren't things on the battlefield yet
+
+### Breaking objects in a fight
+Each 5-ft square of furniture, wall or statue is its own section; each kind's substance, size and sturdiness is our pick (data/objects/kinds.json: a crate is wood, Medium and fragile, a barrel or table resilient, a cart Large); a door is a Medium section (wood AC 15, iron AC 19, 18 Hit Points either way). A broken object leaves open floor, an open doorway or Difficult Terrain rubble by kind. An attack on an object deals the weapon's own dice and bonus: Sneak Attack, maneuvers, Weapon Mastery and a magic weapon's extra dice need a creature. The cantrips the square menu aims at an object are those whose targets include objects (Fire Bolt, Eldritch Blast, Sorcerous Burst, Starry Wisp). The story's own props (ones you search, read or pull, that start a conversation or hold an item), containers and art no kind names aren't breakable
+
+*Why:* The 2024 tables leave each object's numbers to the DM; story pieces and loot shouldn't be smashed by accident
+
+### Area spells and objects
+Every spell area that deals Acid, Bludgeoning, Cold, Fire, Force, Lightning, Piercing, Slashing or Thunder damage deals it to the objects in it, in full (objects fail every save, as the 2024 glossary says); Necrotic and Radiant areas leave them be. A door is caught when the area reaches a square beside it
+
+*Why:* The 2024 text has an area harm objects only where a spell says so (Shatter, Fire Storm, Meteor Swarm); the owner wants battlefields as breakable as Baldur's Gate 3's
+
+### Burning objects
+A burning object takes 1d4 Fire as each round begins (it has no turns of its own) until it breaks; burning things and burning oil shed Bright Light for 10 ft and Dim Light for 10 ft more; nothing in a fight puts a burning object out
+
+*Why:* The Burning condition counts on the burning thing's turn and doesn't say how bright a fire is
+
+### Objects and conditions
+Objects ignore conditions
+
+*Why:* The rules glossary doesn't say
+
+### Chandeliers
+Breaking the chain (iron: AC 19, 5 Hit Points; only ranged attacks and spells reach it) drops the chandelier: each creature under it makes a DC 12 Dexterity save (or its trap's), taking 2d6 Bludgeoning damage (or the trap's) and falling Prone on a failure, half the damage on a success; its squares are left as Difficult Terrain wreckage, and a lit one sets oil under it alight. The ones in the game hang in Death House's main hall (its old trap) and over the dining table on Castle Ravenloft's main floor
+
+*Why:* The rules leave a falling chandelier to the DM
+
+### Oil
+The 5 extra Fire a soaked creature or object takes comes once, then the oil has burned away; oil on an object dries after 10 rounds; a puddle burns until the end of the turn 2 rounds after it was lit, counted from the initiative count it was lit on. Fire reaches oil when a fire spell's area covers it, when Fire damage hits a creature standing in it, when a burning creature steps in, or when a lit chandelier falls on it; a fire cantrip aimed at the puddle lights it without an attack roll. Oil and Tinderboxes in an adventuring pack count, and using a pack's flask opens the pack (its contents become loose items)
+
+*Why:* The flask's text doesn't say what "lit" takes or whether the extra damage repeats; packs aren't unpacked anywhere else
+
+### Web (the spell) on fire
+A cube of web that fire reaches (a fire spell's area, or Fire damage to a creature standing in it) stops holding anyone at once and burns until the same point of the next round, 2d4 Fire to a creature starting its turn in it
+
+*Why:* "Burns away in 1 round" doesn't say when its hold ends
+
+### Broken things after a location fight
+A door stays as the fight left it for good (broken or opened: open; shut: shut, a lock someone opened counting as unlocked); a dropped chandelier stays down (its trap or flag); other furniture broken, pushed over or shoved stays that way until the party leaves the location, then it's whole and back in its place. A door the story watches (opening it sets a flag, starts a fight or has the narrator speak) can't be opened or broken in a fight
+
+*Why:* Remembering every smashed crate would change what a save holds; opening or breaking a watched door in a fight would skip its story
+
+### Doors in a fight
+A location's door is a door in its fights: the free object interaction opens or shuts one within 5 ft (after it, the Utilize action, or a Thief's Fast Hands); a locked one stays shut (it can still be broken); nobody can shut a door on a creature standing in the doorway
+
+*Why:* The 2024 rules count opening a door as the turn's object interaction; a door shut on someone is left to the DM
+
+### Shoving objects
+One attack of the Attack action and a Strength (Athletics) check against the thing's DC (data/objects/kinds.json: 5 for a chair, 8 for a crate, 10 for a barrel or a table, 12 for a bed, pew, coffin or barrel of lamp oil, 15 for a boulder or a cart) push it 5 ft straight away from the shover (the nearest of the eight directions; not round a corner, into a wall, another object or ground more than 5 ft higher). Into a creature on the floor it stops, and that creature makes a Strength or Dexterity save (its better) against the shover's Shove DC or takes 1d4 (a Tiny or Small thing), 1d6 (Medium) or 2d6 (Large) Bludgeoning damage and falls Prone. Down 10 ft or more it falls: 1d6 Bludgeoning per 10 ft to it, or to the creature it lands on, which makes a DC 12 Dexterity save for half and falls Prone on a failure (the thing breaks on it). Over a map's open drop or into deep water it's gone
+
+*Why:* The rules have no shoving of things; our numbers, so a crate can be used the way Baldur's Gate 3 lets you (the owner's pick)
+
+### Pushing things over
+The Utilize action and a Strength (Athletics) check against its DC (12 for shelves, wardrobes and tall clocks, 15 for a statue, 10 for a brazier) push a tall thing within 5 ft over, away from the pusher (one standing against a wall is pulled down the other way, the puller stepping clear): it falls across 2 squares (a brazier 1), short of a wall. Each other creature on the floor there makes a DC 12 Dexterity save (13 against a statue) or takes 1d10 Bludgeoning damage (a statue 2d10; a brazier 1d10 Fire) and falls Prone; a success takes nothing. Objects there take the damage; the squares are left as rubble, and a brazier's coals burn on them like lit oil
+
+*Why:* Our ruling (the rules have nothing on it), for the owner's Baldur's Gate 3 battlefields
+
+### Throwing things from the ground
+A thing lying within 5 ft, or a chair or candlestick standing there, can be thrown as one attack of the Attack action; picking it up takes the free object interaction (or a Thief's Fast Hands), and without one it can't be thrown. A thrown weapon is thrown as itself; anything else is an improvised weapon: 1d4 (a weapon's own damage type, else Bludgeoning), 20/60 ft, Strength, the Proficiency Bonus only with proficiency in improvised weapons (Tavern Brawler). A thrown chair or candlestick breaks where it lands; a thing from the ground lands by its target
+
+*Why:* The improvised weapon's numbers are the owner's; picking up and throwing in one attack is our reading of the object interaction
+
+### Fire spreading
+As each round ends, fire spreads to what's within 5 ft of what was burning then: oil on the floor lights, a barrel of lamp oil bursts, and each flammable object catches fire on a d6 roll of 4 or more
+
+*Why:* The rules don't spread fire; our ruling, so a fire grows as in the owner's Baldur's Gate 3 picks
+
+### Barrels of lamp oil
+Fire reaching a barrel of lamp oil (Fire damage, a fire spell's area, burning oil or coals beside it, catching fire) bursts it: each creature within 10 ft, counted with how high it flies, makes a DC 12 Dexterity save, taking 2d6 Fire damage on a failure and half on a success; the objects there take it and catch fire (another barrel bursts in turn), and the floor within 5 ft is left burning like lit oil. Broken any other way, it spills its oil, unlit, on its square. They stand in the Vistani camp at Tser Pool, Castle Ravenloft's larders and Death House's cult refectory
+
+*Why:* Our ruling and numbers: the rules have flasks of oil, not barrels of it
+
+### Things on the floor and flyers
+A thing shoved, pushed over or falling (a chandelier too) hits only creatures on the floor: one flying or floating over the square is above it, and a shoved thing goes under it. Burning oil and coals burn only creatures standing in them
+
+*Why:* Kept simple on purpose: a flyer is taken to be clear of what happens on the floor
+
+### The AI and objects
+Foes never open doors, shove, push over or throw things, or use oil
+
+*Why:* Not built
+
+### Sword of Sharpness's lost limb
+Disadvantage on attack rolls, Strength and Dexterity checks, and half Speed
+
+*Why:* The rule leaves the effect to the DM
+
+### Vorpal Sword "too big to behead"
+Gargantuan creatures
+
+*Why:* The rule leaves it to the DM
+
+### Defender
+The bonus shifts to AC once per turn from the hotbar, before or after attacking
+
+*Why:* "The first time you attack" can't pause an attack for a prompt
+
+### Dancing Sword, Feather Token whip
+They attack from the sword's square but Advantage, Disadvantage and cover are judged from the wielder's
+
+*Why:* The attack code measures from the attacker
+
+### Cube of Force
+Faces: gases (a flag), objects (ranged attacks can't reach you), living matter (melee attacks can't), spells (spells can't), everything (nothing can, as a sphere of force); charges are spent when it's raised, not drained by spells that hit it
+
+*Why:* The cube's interactions with particular spells are a long table
+
+### Scroll of Protection
+Creatures of the type can't attack or target the reader; the Charisma check to break through isn't offered to them
+
+*Why:* Monsters don't choose ability checks yet
+
+### Philter of Love
+In a fight, the drinker is Charmed by the nearest creature it can see; outside a fight it waits for the story
+
+*Why:* "The next creature you see" needs the scene
+
+### Potion of Longevity, Bead of Nourishment, Ioun Stone of Sustenance, Periapt of Health's diseases, water breathing and water walking
+Told, or a flag the story can read
+
+*Why:* The game has no ageing, food, disease or water maps
+
+### Planar travel from items (Amulet of the Planes, Cubic Gate, Well of Many Worlds, Robe of Stars)
+The Mists of Barovia hold everyone in: the magic fizzles (a failed Amulet check scatters creatures across the battlefield instead)
+
+*Why:* Curse of Strahd's Barovia can't be left that way
+
+### Bag of Holding rifts
+Both bags (or bag and hole) are destroyed with their contents; nobody is pulled into the Astral Plane
+
+*Why:* The party can't follow to the Astral Plane
+
+### Berserker Axe
+A berserk wielder's turn starts with it closing on and attacking the nearest creature automatically
+
+*Why:* The rule takes the choice away from the player
+
+### Figurines of Wondrous Power and "once every N days" items
+Counted in dawns
+
+*Why:* The game counts days at dawn
+
+### Bag of Beans, Wand of Wonder, Deck of Many Things
+Condensed tables: outcomes the game can play happen; the rest (a treant walking off, grass sprouting, skin turning blue, a devil's enmity) are told and flagged for the story; experience cards become a milestone level or nothing
+
+*Why:* The game uses milestones and has no wandering treants
+
+### Artifact properties
+Rolled from condensed tables of modifiers (rules/equipment/magic_items.gd)
+
+*Why:* The book's tables are long and many entries need the DM
+
+### Eyes of the Eagle, Gloves of Swimming and Climbing, Potion of Climbing
+The Perception or Athletics bonus applies to every such check, not only sight-based or climbing ones
+
+*Why:* Checks don't say what they're for
+
+### Cloak of the Bat's flight
+Checked at the start of the wearer's turn: Dim Light or darkness there gives a Fly Speed of 40 ft for the turn
+
+*Why:* Light can change mid-move
+
+### Carpet of Flying, Feather Token (roc), Horseshoes
+Journeys on the travel map take less time (half, or a third or a quarter less)
+
+*Why:* Flying over Barovia's woods is what the map can show
+
+### Daern's Instant Fortress, Rod of Security
+A safe Long Rest wherever the party is, even with enemies in the building (still 16 hours after the last Long Rest)
+
+*Why:* The fortress as a building on the map isn't built
+
+### Mystic Arcanum
+The number of arcana is capped by the level 6-9 Warlock spells the game's data has, like Wild Shape's forms, so a Warlock 11 never dead-ends while those spells are being written
+
+*Why:* Spells of levels 5-9 arrive as data in Phase 5
+
+### Aura of Courage, Aura of Devotion (the paladin's own immunity)
+The paladin's own Frightened (Charmed) immunity holds even while Incapacitated; the allies' share follows the aura in a fight
+
+*Why:* The rule turns the aura off while the paladin is Incapacitated; the own-immunity is a plain modifier on the sheet
+
+### Bigby's Hand
+The Interposing Hand gives the caster +2 AC and Dexterity saves (Half Cover) against everyone until its next turn; area spells pass the hand by
+
+*Why:* Cover direction isn't tracked per attacker
+
+### Summon Dragon's Breath Weapon
+Breathes on one creature in the Cone, through the monster save action
+
+*Why:* Monster save actions pick one target
+
+### Animate Objects, Pact of the Chain familiars
+Stat-block numbers from memory of the 2024 books, not yet checked; the animated objects act on their own turns like the other summons
+
+*Why:* Built in code from the casting
+
+### True Polymorph, Shapechange
+Creature forms only (no objects)
+
+*Why:* The shape system swaps the creature for a monster
+
+### Prismatic Wall
+Its layers can't be destroyed one by one; passing through applies every layer
+
+*Why:* Layer-breaking needs targeted counters
+
+### Earthquake
+Fissures open where the caster's foes stand (no choice of place); a creature that falls in climbs out with an action and a DC 15 Strength (Athletics) check; structures don't take damage or collapse
+
+*Why:* The maps have no structures with Hit Points, and a pit's depth isn't modelled
+
+### Wish, Gate, Teleport, Clone and other out-of-combat high-level spells
+Not in fights
+
+*Why:* They do their work outside combat
+
+### Sundering Blow, Battering Roots
+Sundering's +5 goes to the next attack by anyone else; Battering Roots adds a Topple (not Push)
+
+*Why:* The common case
+
+### Monster charges ("moved 20+ feet straight toward it")
+Count trailing voluntary grid steps that each close distance to this target; attacks, forced movement, teleports and new turns break the approach
+
+*Why:* Grid paths approximate an angled straight approach; requiring a single grid direction suppresses valid charges
+
+### Ghost's Possession
+The possessed body fights for the ghost's side with its own attacks; the ghost leaves only when the body drops
+
+*Why:* The ghost-in-a-body stat swap needs a combined stat block
+
+### Water elemental's Whelm; will-o'-wisp's Vanish
+No suffocation inside Whelm (it holds two creatures up to Large); Vanish ends on an attack or Consume Life, not when the wisp's Concentration breaks
+
+*Why:* Suffocation and monster Concentration aren't tracked
+
+### Roc's Swoop
+The dropped creature falls 60 ft (half the roc's Fly Speed)
+
+*Why:* The grid has no altitude
+
+### Djinni's Create Whirlwind, nightmare's Ethereal Stride and Confer Fire Resistance
+Text only
+
+*Why:* Monster-made moving zones and planar travel aren't built
+
+### Arcanaloth's Soul Tome, Teleport and Counterspell
+The tome isn't an object that can be attacked (the prison holds until the save or three failures); Teleport and its Counterspell Reaction are text only
+
+*Why:* Monster Reactions that cast spells and carried objects with Hit Points aren't built
+
+### Banshee's Deathly Wail
+Works in sunlight too
+
+*Why:* Sunlight at the banshee isn't checked for this action
+
+### Boss mechanics (P6-01)
+Legendary Resistance counts per fight (monsters are rebuilt for each fight). A lair attack is a plain d20 + bonus against AC (no Advantage or cover). Children of the Night arrive beside their caller at the start of the round they're due and act right after it. A withdrawing foe at its threshold leaves instead of dropping, even to a killing blow. Strahd's Charm lets the victim save again whenever it takes damage, from anyone
+
+*Why:* Monster state isn't carried between fights; the lair has no body on the grid; the map has no edges to arrive from; the harassment fights must not kill him; the engine doesn't track who harmed whom
+
+### Castle Ravenloft blocks (P6-02)
+Strahd: resistance to nonmagical weapons (and the mist's immunity to them) is left out, Unarmed Strike grapples and still deals its Bludgeoning damage, a creature he Charmed counts as willing for the Bite, Children of the Night calls at most 8 wolves. Rahadin's Deathly Choir hits his enemies within 10 ft at the start of his turn (the book: a Bonus Action, on everyone hearing it). The rug of smothering crushes its victim at the start of the rug's turn (the book: the victim's)
+
+*Why:* The engine can't tell a magic weapon, offers no grapple-instead-of-damage choice and has no bonus-action save; by the castle the party's weapons are mostly magic; 3d6 wolves crowd the grid
+
+### Attunement takes a Short Rest (1 hour) focused on the item; ending it too
+Attuning and ending attunement are instant, from the inventory; still three items at most, and a curse still holds until Remove Curse
+
+*Why:* Owner house rule, 2026-10-07: "we can deviate from the rules here, no need for the 1 hour time"
+
+### Faerûn and Arcana Unleashed spells and feats that are switched on
+"Designate" or "choose" which creatures an area ignores (Cacophonic Shield, Lightning Ring, Laeral's Silver Lance): the caster's allies are spared and everyone else is hit, as with Spirit Guardians. A Reaction spent on a failed save (Arcane Omens' Helpful Premonition, Transmuted Anatomy's Resilient Anatomy) is asked about where the save can pause (the D20 Test choices row) and elsewhere used only on Automatic; one spent on damage from a spell or hazard (Bladesinger's Song of Defense; against a weapon attack it asks) is used only when its setting in the class abilities tab is Automatic: on Ask it doesn't come up, because spell damage resolves without pausing. A background's "same Artisan's Tools as above" gives the tools named in its gear, as the PHB's Artisan does
+
+*Why:* The area UI has no per-creature picker; a save mid-spell can't wait for an answer yet (the spell and ability audit's reaction policy); equipment items don't follow the tool pick
+
+### Faerûn and Arcana Unleashed origin feats
+Arcane Artist's Heroic Inspiration is given from the hotbar for the rest of the turn the Illusion spell was cast; Arcane Overload is armed on the hotbar for that turn's Evocation spell. Rallying Cry and Inspiring Strike pick the nearest allies without Heroic Inspiration (not the Rook itself); Rallying Cry, Family First and Stand as One act on their own unless turned Off in the class tab. Dragon's Terror's 24-hour immunity lasts the rest of the fight. Magic Absorption counts spells (item spells too) and monster actions marked magical. Exploit Opening keeps the better of two rolls for each damage die group. Arcane Safeguard's Temporary Hit Points for Help on an ability check are played at the table
+
+*Why:* Nothing can pause mid-spell or mid-initiative to ask; fights don't carry over; the game has no Help for ability checks
+
+### Faerûn and Arcana Unleashed general feats
+Abjuration Adept's Temporary Hit Points go to the most hurt of the caster and its allies within 30 ft. Divination Adept works only on Automatic (class tab) and then gives Disadvantage to the first save an enemy makes against the holder's own spell. Evocation and Spellfire Adept spend two Hit Dice (largest first) and Necromancy Adept spends two while the caster is hurt, each unless turned Off. Zhentarim Tactics' Expertise is picked with the feat and changed on level-up, not after every Long Rest. Illusion Adept's Disadvantage to see through illusions, Enclave Magic's Advantage to influence Beasts and Street Justice's Sturdy Knot and Tough Talk are played at the table
+
+*Why:* Nothing can pause mid-roll to ask; the rest screen has no per-rest picks; the game has no illusion-discerning, influence or captive-binding checks
+
+### Faerûn and Arcana Unleashed spells (batch 4)
+Circle Magic isn't in the game: Dirge, Doomtide, Songal's Elemental Suffusion and Spellfire Storm cast only their normal form. Grave Ground's four 10-ft squares are one 20-ft square. "Creatures you choose" means the caster's foes (Spellfire Storm and Songal's spare allies; Distorted Distance speeds allies and makes foes save). Dirge's halved Speed on a success lasts to the end of the creature's next turn. Backlash, the Effulgent Spheres' ward, Holy Star's reflection and Alustriel's Mooncloak's Reaction answer spell and hazard damage only on Automatic (an attack asks for Backlash and the spheres). The spheres' damage type is chosen when cast. Conjure Constructs' spirits gather beside the first creature they act on. Illusory Dragon's breath goes where the player points after it closes up to 60 ft; it doesn't block movement, and seeing through it with a Study isn't in the game. A Transfixed creature doesn't stop to save before walking into a harmful area. Negative Energy Flood's Zombie serves for the rest of the fight
+
+*Why:* No Circle Magic or per-creature picker; saves and spell damage can't pause; fights don't carry over
+
+### Faerûn subclasses (batch 5)
+Choices the book leaves to the moment are armed on the hotbar first (Elemental Smite's genie, Modify Magic's Ward or Unravel) or picked by the game: Group Recovery heals the most hurt allies, Rallying Surge has each ally with a foe in reach attack the nearest (no half-Speed move), the Efreeti's second target is the nearest foe, the Marid pushes foes within 10 ft, Blessing of Moonlight heals the most hurt ally and goes on the next Moonbeam, Lunar Vitality spends a die whenever it can, Bloodthirst lands on the nearest free square and Aura of Malevolence hits foes round the arrival, Elemental Rebuke uses the aura's element. Eventide's Splendor's teleport is placed by the bard's player at once. Shared Resilience and Noble Scion's Reaction are asked about where the roll can pause and work only on Automatic elsewhere. Knightly Envoy's language is picked with the feature, not swapped after a Long Rest. Absorb Spells waits for Counterspell against monsters
+
+*Why:* The game rolls without pausing for these picks and has no per-rest picks
+
+### Arcana Unleashed wizard traditions (batch 6)
+Instinctive Charm turns the attack on the nearest other creature in reach. Necromancy Familiar's Find Familiar is always prepared rather than written in the spellbook; Undead Thralls' extra spell level adds nothing because the game's Animate Dead raises one Undead before a fight; Death's Master explodes the necromancer's own Undead on its own (others' only on Automatic) and Harvest Undead drains the weakest; "holding your spellbook" counts as carrying it. The transmuter's stone stays with the transmuter, changes only after a Long Rest, and isn't destroyed by Master Transmuter; Shape Shifter keeps Intelligence, Wisdom, Charisma and Proficiency Bonus like Wild Shape. Alter Memories, Wondrous Alteration's Aquatic Adaptation and Change Appearance, Restore Life and Major Transformation play out outside fights
+
+*Why:* No per-target picker mid-attack; no item hand-offs or stone destruction state; Polymorph's form keeps no class features
+
+### Arcana Unleashed familiar feats (batch 7)
+Find Familiar is cast outside fights from the character sheet (as a Ritual: an hour and ten minutes, no slot; the incense isn't tracked); the familiar is saved on its caster and joins every location fight, or waits in its pocket dimension, until it drops to 0 Hit Points or is dismissed, then needs casting again. Its form is the owl unless a feature offers others (Pact of the Chain, Necromancy). Elemental and Otherworldly Familiar's Resistance is a pick on the character sheet, changed after a Long Rest, not at each casting. Helpful Friend is used on its own before a proficient skill check (Off is a class-tab choice in fights only), and outside fights the familiar is taken to be at hand. Soothing Familiar counts its owner among the allies it helps and works only in fights (Hit Dice on a Short Rest roll as usual). An Otherworldly familiar that ends its turn in an object goes back to the last open square of its latest move
+
+*Why:* Familiars exist only in fights; there's no screen for a pick at each casting
+
+### Epic boons (batch 8)
+Exquisite Radiance is armed before the roll (a free toggle) rather than chosen after it, and its no-Undead clause only matters for Negative Energy Flood, the game's one way the dead rise. Blood for Blood, Erupting Spellpower, Paralyzing Dread, Siphon Life and Perfect Poisoner happen on their own the first time they can (Off in the class tab where they're optional). Fluid Forms uses the bestiary's CR 10 or lower Beasts, Humanoids and Monstrosities, keeps the mind and Proficiency Bonus like Wild Shape but not your other proficiencies, and gear neither drops nor changes. Magic School Mastery is taken once, and its spells and Boon of Revelry's dance use the ability the boon increased (the book's choice of ability is unconfirmed). The Bright Sun dispels magical Darkness when lit and at the start of each of your turns. Communication's benefits play out in conversation
+
+*Why:* Each of these needs a mid-roll prompt, gear rules or a second pick the game doesn't have
+
+### Faerûn magic items (batch 9a-b)
+The Keyholes daggers reshape on their wielder's turn while it can still attack and always use the better of Strength and Dexterity. Namer's Needle's name is spoken (no action) before the hit it turns into a Critical Hit, and a creature whose stat block lists no language can't be named. Tramontane Armor treats all of a map's Difficult Terrain as snow, ice, rubble or undergrowth. Grave Reaper's lantern deals its damage with the wielder's spellcasting modifier and holds five fragments. Dissuader's push and the Staffs of Skulls' and Martialist's choices: the push happens on its own the first time an enemy comes within 5 ft; the others are offered as prompts. The Somniferous Blossom Rod's sleep and Dissuader's aura pick out enemies. Salting water, purifying food, Tongues, mending plants and the Orb of Divination Detection's glow are told, not simulated
+
+*Why:* No per-moment choice of ability or name; maps don't tell terrain kinds apart
+
+### Faerûn wondrous items (batch 9c)
+Items whose magic has nothing to act on in the game tell what they do instead: the Chatelaine's locks, the Canopy, Quill, Lexicon, Missive, Fertilizer, Compass, Broom and Circlet, the Idols' coin (the game already counts gems as coin), the Harper Pins and Nondetection, Magewright's Gloves (no crafting), the Spell Component Ring and the Trophy's Somatic freedom (free hands aren't tracked), and Tirelessness's 4-hour rest (the party rests together). The Dream Weaver's dreamed roll is used in fights; the Lucky Foot, Ring of Dedicated Focus, Scholar's bangle reaction and Trophy's Dispel Magic happen on their own the first time they can (the Lucky Foot is offered after a conversation roll). The Bands work for spells their wearers cast themselves; a chained creature stays put rather than following the Manacle's wearer; the Mechanical Wonder (Mobility) counts as wound whenever it's worn
+
+*Why:* Those systems aren't in the game; mid-roll choices can't pause
+
+### Faerûn artifacts (batch 9d)
+The Calimemnon Crystal's rays mend allies and burn everyone else (the book lets the bearer choose per ray), and hovering is told. The Nightingale's hour of rest between songs is counted as once per Short Rest; its Zone of Truth plays out in conversation and its Counterspell has no spell to answer (no creature casts one the game lets you counter). The Pantograph's Clone and resizing are told
+
+*Why:* No per-ray choice; no clock between fights; no enemy spells to counter
+
+### Workshop Wrecker (batch 9)
+The room is the fight's map (its longer side) and the whirlwind spares its user; smashed objects are told
+
+*Why:* Maps don't mark rooms
+
+### Booming Blade and Green-Flame Blade
+Two 2014-rules cantrips from Tasha's Cauldron of Everything in a 2024 game, on the Sorcerer, Warlock and Wizard lists (no Artificer). Green-Flame Blade's fire leaps to the enemy nearest to dropping (fewest Hit Points) that the caster can see within 5 ft of the target, never an ally; the book lets the caster pick any creature. Booming Blade's thunder goes off for walking, a free move, Jump or a legendary move, not for teleporting
+
+*Why:* The owner asked for them (2026-10-07); no 2024 book reprints them. Picking the creature like Cleave does keeps the attack one click
+
+### Echo Knight (Explorer's Guide to Wildemount, 2014) fitted to the 2024 Fighter
+Feature levels stay 3, 7, 10, 15 and 18 (the 2024 subclass levels). Every attack of the Attack action can come from the echo, including Extra Attack, the Nick attack (part of the Attack action in 2024), Haste's one attack and Unleash Incarnation's; Weapon Mastery works from the echo's square (Push shoves away from the echo, Cleave and reach count from it), and the Bonus Action Light-weapon attack, Grapple and Shove stay with the knight. The echo's Opportunity Attack uses the 2024 trigger (a creature leaving its 5-ft reach) and Disengage stops it. Echo Avatar is a Magic action (2014: an action). Shadow Martyr can also be used again by spending a use of Unleash Incarnation
+
+*Why:* The 2014 text predates Weapon Mastery, Nick, Magic actions and the 2024 habit of refreshing once-per-rest features with another resource (owner veto list, 2026-10-07)
+
+### Echo Knight in the game
+An attack comes from the echo on its own when only the echo's space reaches the target, or always while Strike from the Echo is armed (a hotbar rider that lasts the turn). The echo's own movement never provokes Opportunity Attacks and isn't slowed by Difficult Terrain (it moves "in any direction"). The echo is an image, not an ally: it never counts for Pack Tactics, Sneak Attack, auras or "allies within" picks, and enemies (Strahd above all) treat it as a poor target. A blow struck from the echo isn't answered by Fire Shield-style retaliation against the knight. A spell's attack rolls pause for Shadow Martyr like a weapon's, but a roll a spell makes later without a pause (a Chromatic Orb's leap) takes the echo only on Automatic. Reclaim Potential is used on its own unless turned Off
+
+*Why:* The 2014 text leaves these to the table; a spell's later rolls resolve without pausing
+
+### Teleporting out of a hold: a Giant Spider's Web restrains "until the web is destroyed"; Entangle "until the spell ends"
+Any teleport (Misty Step, Fey Step, Thunder Step, Dimension Door and the like, the AI's too) ends a Restrained or Grappled that comes from a place or a holder: a web or an area's grasp, a net, a spider's webbing, a grapple out of reach. Conditions of the body or mind (Hold Person, a curse) stay
+
+*Why:* Owner's ask (2026-10-12): the hold is on the place the creature left; grapples and the Web spell's "while in the webs" already end that way by the book
+
+### A fight's holds and round-long effects after it ends
+When a fight ends, Restrained and Grappled (a web, a net, a grapple, an area's grasp) and every effect that lasts rounds or until a turn come off the party; curses, exhaustion and effects that last minutes or until a rest stay
+
+*Why:* Owner report (2026-10-12): Restrained stayed on the party panel after the fight; outside a fight there is no turn to break free on and nothing left to hold them
+
+### Spells that last 8 hours (Mage Armor, Aid, Darkvision, Death Ward, Alarm, Leomund's Tiny Hut and the rest)
+They last until their creature's (or, for an exploring spell, the party's) next Long Rest instead of 8 hours on the clock, and are cast again after it; Dispel Magic and a spell's own ends still end them. Spells of 24 hours or longer keep the clock
+
+*Why:* Owner's house rule (2026-10-12): the clock rarely matters between rests, and one recast a day is simpler to keep track of

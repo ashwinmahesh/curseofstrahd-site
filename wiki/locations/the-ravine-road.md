@@ -1,0 +1,37 @@
+# The Ravine Road
+
+> From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/locations/the-ravine-road.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
+
+> [!infobox]
+> ![loc road ravine 1](https://curseofstrahd.app/wiki/img/shots/loc-road-ravine-1.webp)
+> **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md) · level 4
+> **Resting:** Risky
+> **Light:** dim, outdoors
+
+## Overview
+
+The road drops into a stony ravine where a stream has cut through the woods: down a ledge path on the south wall, across a ford, up the north wall. Sheer rock between, pines along both rims. A random fight on a forest road may play out here.
+
+**Resting:** Risky: a rest here can be interrupted.
+
+![loc road ravine overview](https://curseofstrahd.app/wiki/img/shots/loc-road-ravine-overview.webp)
+*The whole place from above.*
+
+## Getting here
+
+### Ways out
+
+| # | Exit | Leads to | Only when |
+|---|---|---|---|
+| 1 | On along the road, west | the travel map |  |
+| 2 | On along the road, east | the travel map |  |
+
+## Map
+
+![road ravine](https://curseofstrahd.app/wiki/img/maps/road-ravine.svg)
+
+**Key:** gold, people; red, containers; purple, hidden finds; teal, skill checks; white, exits; orange, traps. The numbers match the lists on this page.
+
+## What to find
+
+Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
