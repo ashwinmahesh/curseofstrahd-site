@@ -24,7 +24,7 @@ const STILLS: Array[String] = ["title", "party_roster", "dialogue_check", "dialo
 	"combat_fireball", "combat_battlefield", "combat_boss", "stealth_sight", "character_sheet", "inventory",
 	"travel_map", "creator_appearance", "inventory_list", "dialogue_busts"]
 const CLIPS: Array[String] = ["title", "dialogue", "fight", "boss", "creation", "levelup", "dialogue_voiced", "d20_roll",
-	"arrival", "loop_combat", "loop_guardians", "loop_talk"]
+	"arrival", "loop_combat", "loop_guardians", "loop_talk", "eva"]
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
 
@@ -914,6 +914,32 @@ func _clip_dialogue_voiced() -> void:
 			d.call("_advance")
 			quiet = -15
 	print("capture: %s (%d frames)" % [to, i])
+
+
+## Madam Eva's Tarokka reading as its picture changes (a cutscene of three pictures; owner, 2026-10-12): the cards
+## dealt, the candles leaning, her chest. Her tent at night, then site_eva.dialogue, the conversation's own three beats
+## and lines without the cards' meanings. Each picture holds for its frames; only the second line is spoken (the
+## trailer has Strahd over the first, and the third is longer than its picture), so record with --movie to keep it.
+const EVA_HOLD: Array[int] = [150, 230, 150]
+const EVA_SPOKEN: Array[bool] = [false, true, false]
+
+
+func _clip_eva() -> void:
+	await _game("tser_pool_eva_tent", 21, TALKERS, 5)
+	root.call("start_dialogue", "capture/site_eva:start", "madam_eva")
+	var d := root.get("dialogue") as DialogueUI
+	if d == null:
+		push_warning("site_game: the Tarokka pictures didn't start")
+		return
+	var n := 0
+	for k in EVA_HOLD.size():
+		if k > 0:
+			d.call("_advance")
+		if not EVA_SPOKEN[k]:
+			# The line's clip starts deferred (and its player joins the tree deferred the first time): stop it after.
+			(func() -> void: VoiceOver.stop()).call_deferred()
+		n = await _record("eva", EVA_HOLD[k] / 30.0, n)
+	VoiceOver.stop()
 
 
 ## The emerald d20 rolling for a conversation's check, for a looping GIF (owner, 2026-10-09).

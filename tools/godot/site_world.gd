@@ -11,62 +11,82 @@ const PARTY: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "thistle
 const BESIDE: Array[Vector2i] = [Vector2i.ZERO, Vector2i(1, 0), Vector2i(0, 1), Vector2i(1, 1)]
 
 ## Each still: the place, the hour, the weather, where the party stands (else the place's spawn), the camera's
-## distance, quarter turns and tilt toward the horizon, and "face": "castle" to turn toward Castle Ravenloft.
-const STILLS := {
-	"village_night": {"loc": "village_of_barovia", "hour": 22, "weather": "fog", "zoom": 13.0},
-	"vallaki_rain": {"loc": "vallaki", "hour": 18, "weather": "rain", "zoom": 14.0},
-	"road_dusk": {"loc": "into_the_mists_road", "hour": 18, "weather": "fog", "at": [12, 15], "zoom": 12.0},
-	"castle_vista": {"loc": "village_of_barovia", "hour": 18, "weather": "overcast", "zoom": 30.0, "tilt": 1.0,
+## distance, quarter turns and tilt toward the horizon, "face": "castle" to turn toward Castle Ravenloft, and "look"
+## ([x, z] or "middle") to hold the camera over a square instead of the party.
+## The 1.0.7 look (owner, 2026-10-12: "highlight the new aesthetics", "a lot of the different regions"): each region's
+## own hue, weather, ground, trees and landmarks, seen wide like a diorama, and each indoor place's own light.
+const W := {"look": "middle", "zoom": 26.0, "tilt": 0.4}
+const IN := {"look": "middle", "zoom": 22.0, "hour": 20}
+var STILLS := {
+	# Outdoors, one or two a region.
+	"village_day": W.merged({"loc": "village_of_barovia", "hour": 11, "weather": "overcast"}),
+	"village_night": W.merged({"loc": "village_of_barovia", "hour": 21, "weather": "fog", "zoom": 22.0}),
+	"road_dusk": {"loc": "into_the_mists_road", "hour": 17, "weather": "fog", "at": [12, 15], "zoom": 17.0},
+	"castle_vista": {"loc": "village_of_barovia", "hour": 11, "weather": "overcast", "zoom": 30.0, "tilt": 1.0,
 		"face": "castle"},
-	"krezk_snow": {"loc": "krezk", "hour": 12, "weather": "snow", "at": [14, 7], "zoom": 13.0},
+	"tser_pool_camp": W.merged({"loc": "tser_pool", "hour": 17, "weather": "overcast"}),
+	"tser_pool_night": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 19.0},
+	"vallaki_noon": W.merged({"loc": "vallaki", "hour": 11, "weather": "overcast"}),
+	"vallaki_rain": W.merged({"loc": "vallaki", "hour": 19, "weather": "rain", "zoom": 24.0}),
+	"wizard_of_wines": W.merged({"loc": "wizard_of_wines", "hour": 17, "weather": "rain"}),
+	"krezk_snow": W.merged({"loc": "krezk", "hour": 12, "weather": "snow"}),
+	"abbey_snow": W.merged({"loc": "abbey_of_st_markovia", "hour": 18, "weather": "snow"}),
+	"argynvostholt": W.merged({"loc": "argynvostholt", "hour": 11, "weather": "overcast"}),
+	"bonegrinder_heath": W.merged({"loc": "old_bonegrinder_hill", "hour": 11, "weather": "overcast"}),
+	"lake_rain": W.merged({"loc": "lake_zarovich", "hour": 11, "weather": "rain"}),
+	"berez_marsh": W.merged({"loc": "berez", "hour": 11, "weather": "fog", "zoom": 22.0}),
+	"yester_hill": W.merged({"loc": "yester_hill", "hour": 17, "weather": "overcast"}),
+	"castle_gates": W.merged({"loc": "castle_ravenloft_gates", "hour": 12, "weather": "storm"}),
+	# Indoors, each with its own light.
 	"death_house": {"loc": "death_house_ground", "at": [13, 8], "zoom": 12.0},
-	"tser_pool_night": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 14.0},
-	"castle_gates": {"loc": "castle_ravenloft_gates", "hour": 23, "weather": "storm", "at": [19, 29], "zoom": 15.0},
-	"road_castle": {"loc": "into_the_mists_road", "hour": 17, "weather": "overcast", "at": [12, 15], "zoom": 30.0,
-		"tilt": 1.0, "face": "castle"},
-	"gates_t0": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5},
-	"gates_t1": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
-		"turns": 1},
-	"gates_t2": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
-		"turns": 2},
-	"gates_t3": {"loc": "castle_ravenloft_gates", "hour": 19, "weather": "storm", "at": [19, 29], "zoom": 22.0, "tilt": 0.5,
-		"turns": 3},
-	"village_dusk": {"loc": "village_of_barovia", "hour": 19, "zoom": 15.0},
-	"vallaki_noon": {"loc": "vallaki", "hour": 12, "weather": "overcast", "at": [20, 19], "zoom": 16.0},
-	"abbey_snow": {"loc": "abbey_of_st_markovia", "hour": 12, "weather": "snow", "zoom": 15.0},
-	"lake_dusk": {"loc": "lake_zarovich", "hour": 18, "weather": "overcast", "at": [16, 10], "zoom": 14.0},
-	"wizard_of_wines": {"loc": "wizard_of_wines", "hour": 17, "weather": "rain", "zoom": 15.0},
-	# The 1.0.4 look (owner, 2026-10-09): sunbeams at dawn and dusk, puddles that reflect, firelight that moves.
-	"village_dawn": {"loc": "village_of_barovia", "hour": 7, "weather": "overcast", "zoom": 14.0},
-	"vallaki_dusk": {"loc": "vallaki", "hour": 18, "weather": "overcast", "at": [20, 19], "zoom": 14.0},
-	"vallaki_rain_night": {"loc": "vallaki", "hour": 21, "weather": "rain", "zoom": 12.0},
-	"tser_fire": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 10.0},
+	"death_house_hall": IN.merged({"loc": "death_house_ground"}),
+	"st_andrals": IN.merged({"loc": "vallaki_st_andrals"}),
+	"blue_water_inn": IN.merged({"loc": "vallaki_blue_water_inn"}),
+	"argynvostholt_hall": IN.merged({"loc": "argynvostholt_hall"}),
+	"marsh_hut": IN.merged({"loc": "berez_baba_lysagas_hut", "zoom": 18.0}),
+	"guard_tower": IN.merged({"loc": "tsolenka_pass_guard_tower"}),
+	"toy_shop": IN.merged({"loc": "vallaki_blinsky_toys", "zoom": 18.0}),
+	"village_church": IN.merged({"loc": "village_church"}),
 }
 
 ## Each clip: a still's set-up, how many seconds it runs, where the party walks ("walk", a square), and the camera's
 ## move over the clip: "zoom_to", "tilt_to" (toward the horizon), "pitch" and "pitch_to" (degrees flatter than the play
 ## view), and "drift" (squares the camera slides along its right and forward). "strikes": seconds at which lightning
 ## strikes.
-const CLIPS := {
-	"road": {"loc": "into_the_mists_road", "hour": 18, "weather": "fog", "at": [8, 15], "zoom": 11.0, "seconds": 6.0,
-		"walk": [16, 15], "zoom_to": 13.0},
-	"village": {"loc": "village_of_barovia", "hour": 22, "weather": "fog", "zoom": 14.0, "seconds": 6.0,
-		"walk_by": [-5, 3], "zoom_to": 12.0},
-	"vallaki": {"loc": "vallaki", "hour": 18, "weather": "rain", "zoom": 13.0, "seconds": 5.0, "walk_by": [5, -2],
-		"zoom_to": 12.0},
-	"krezk": {"loc": "krezk", "hour": 12, "weather": "snow", "at": [14, 7], "zoom": 10.0, "seconds": 5.0,
-		"walk_by": [-4, 4], "zoom_to": 12.0},
-	"castle": {"loc": "village_of_barovia", "hour": 18, "weather": "overcast", "zoom": 14.0, "seconds": 8.0,
+var CLIPS := {
+	# The trailer's places (1.0.7: every region in its own look, owner 2026-10-12), most seen wide with the camera
+	# drifting over them, and two rooms indoors.
+	"road": {"loc": "into_the_mists_road", "hour": 17, "weather": "fog", "at": [8, 15], "zoom": 15.0, "seconds": 6.0,
+		"walk": [16, 15], "zoom_to": 17.0},
+	"village": W.merged({"loc": "village_of_barovia", "hour": 11, "weather": "overcast", "zoom": 28.0, "seconds": 5.0,
+		"zoom_to": 23.0, "drift": [2.0, 0.0]}),
+	"tser": W.merged({"loc": "tser_pool", "hour": 17, "weather": "overcast", "zoom": 28.0, "seconds": 5.0,
+		"zoom_to": 23.0, "drift": [1.5, 0.0]}),
+	"krezk": W.merged({"loc": "krezk", "hour": 12, "weather": "snow", "zoom": 28.0, "seconds": 5.0, "zoom_to": 23.0,
+		"drift": [-1.5, 0.0]}),
+	"vallaki": W.merged({"loc": "vallaki", "hour": 19, "weather": "rain", "zoom": 26.0, "seconds": 5.0, "zoom_to": 21.0,
+		"drift": [1.5, 0.0], "strikes": [2.2]}),
+	"winery": W.merged({"loc": "wizard_of_wines", "hour": 17, "weather": "rain", "zoom": 28.0, "seconds": 5.0,
+		"zoom_to": 23.0, "drift": [1.5, 0.0]}),
+	"berez": W.merged({"loc": "berez", "hour": 11, "weather": "fog", "zoom": 25.0, "seconds": 5.0, "zoom_to": 20.0,
+		"drift": [-1.5, 0.0]}),
+	"argynvostholt": W.merged({"loc": "argynvostholt", "hour": 11, "weather": "overcast", "zoom": 28.0, "seconds": 5.0,
+		"zoom_to": 23.0, "drift": [1.5, 0.0]}),
+	"bonegrinder": W.merged({"loc": "old_bonegrinder_hill", "hour": 11, "weather": "overcast", "zoom": 28.0,
+		"seconds": 5.0, "zoom_to": 23.0, "drift": [1.5, 0.0]}),
+	"abbey": W.merged({"loc": "abbey_of_st_markovia", "hour": 18, "weather": "snow", "zoom": 28.0, "seconds": 5.0,
+		"zoom_to": 23.0, "drift": [-1.5, 0.0]}),
+	"castle": {"loc": "village_of_barovia", "hour": 15, "weather": "overcast", "zoom": 14.0, "seconds": 8.0,
 		"face": "castle", "zoom_to": 30.0, "tilt_to": 1.0},
-	"tser": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [22, 18], "zoom": 13.0, "seconds": 5.0,
-		"walk_by": [3, -3], "zoom_to": 15.0},
 	"gates": {"loc": "castle_ravenloft_gates", "hour": 23, "weather": "storm", "at": [19, 31], "zoom": 16.0,
 		"seconds": 5.0, "walk_by": [0, -4], "zoom_to": 13.0},
-	# Interiors, walked through by candlelight (owner's ask: the rooms' mood and lighting).
-	"interior_death_house": {"loc": "death_house_ground", "at": [20, 8], "zoom": 10.0, "seconds": 7.0, "walk": [6, 6],
-		"zoom_to": 11.5},
-	"interior_inn": {"loc": "vallaki_blue_water_inn", "hour": 20, "zoom": 10.0, "seconds": 7.0, "walk_by": [6, 4],
-		"zoom_to": 11.5},
+	"gates_day": W.merged({"loc": "castle_ravenloft_gates", "hour": 12, "weather": "storm", "zoom": 28.0,
+		"seconds": 5.0, "zoom_to": 22.0, "strikes": [1.5]}),
+	# Interiors, each in its own light (owner's ask: the rooms' mood and lighting).
+	"interior_death_house": IN.merged({"loc": "death_house_ground", "seconds": 5.0, "zoom_to": 16.0, "pitch_to": 6.0}),
+	"interior_inn": IN.merged({"loc": "vallaki_blue_water_inn", "seconds": 5.0, "zoom_to": 16.0, "pitch_to": 6.0}),
+	"interior_church": IN.merged({"loc": "vallaki_st_andrals", "seconds": 5.0, "zoom_to": 16.0, "pitch_to": 6.0}),
+	"interior_hall": IN.merged({"loc": "argynvostholt_hall", "seconds": 5.0, "zoom_to": 16.0, "pitch_to": 6.0}),
 	# Short loops for GIFs (owner, 2026-10-09): firelight and heat shimmer, a lightning strike in the rain, footsteps
 	# kicking up snow and splashes.
 	"gif_fire": {"loc": "tser_pool", "hour": 21, "weather": "overcast", "at": [24, 16], "zoom": 9.0, "seconds": 4.0},
@@ -111,6 +131,25 @@ func capture_shots(tool: Node, out: String) -> void:
 	var clips := OS.get_environment("SITE_MODE") == "clips"
 	var only := OS.get_environment("SITE_ONLY").split(",", false)
 	var list: Dictionary = CLIPS if clips else STILLS
+	# A survey (SITE_SURVEY=vallaki,krezk SITE_HOURS=11,18 [SITE_ZOOM=15] [SITE_WEATHER=rain]): each place at its own
+	# spawn at each hour, to pick shots from (survey_<place>_<hour>.png).
+	var survey := OS.get_environment("SITE_SURVEY").split(",", false)
+	if not survey.is_empty():
+		list = {}
+		var hours := OS.get_environment("SITE_HOURS").split(",", false)
+		if hours.is_empty():
+			hours = PackedStringArray(["11"])
+		for loc: String in survey:
+			for h: String in hours:
+				var s := {"loc": loc, "hour": int(h), "zoom": float(OS.get_environment("SITE_ZOOM")) if OS.get_environment("SITE_ZOOM") != "" else 15.0}
+				if OS.get_environment("SITE_WEATHER") != "":
+					s["weather"] = OS.get_environment("SITE_WEATHER")
+				if OS.get_environment("SITE_LOOK") != "":
+					s["look"] = OS.get_environment("SITE_LOOK")
+				if OS.get_environment("SITE_TILT") != "":
+					s["tilt"] = float(OS.get_environment("SITE_TILT"))
+				list["survey_%s_%02d" % [loc, int(h)]] = s
+		only = PackedStringArray()
 	for id: String in list:
 		if not only.is_empty() and not id in only:
 			continue
@@ -163,6 +202,16 @@ func _build(shot: Dictionary) -> void:
 	view.rig.snap_to_target()
 	if str(shot.get("face", "")) == "castle":
 		_face_castle(loc_id)
+	# "look": [x, z] holds the camera over that square instead of the party ("look": "middle" for the map's middle),
+	# for a wider view of a town or a camp with the party somewhere in it.
+	if shot.has("look"):
+		var mid := Vector3(view.grid.width / 2.0, 0, view.grid.depth / 2.0)
+		if shot["look"] is Array:
+			var c := shot["look"] as Array
+			mid = view.board.cell_center(Vector2i(int(c[0]), int(c[1])))
+		view.rig.follow = null
+		view.rig.global_position = mid
+		view.rig.snap_to_target()
 
 
 ## Records the clip: the party walks if the shot says so, the camera eases from its start to its end, and every frame

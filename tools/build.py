@@ -26,15 +26,34 @@ SITE = Path(__file__).resolve().parent.parent
 SHOTS = {
 	"hero": "Castle Ravenloft above the valley",
 	"title": "The animated title screen",
+	# The 1.0.7 look (owner, 2026-10-12): every region in its own light, weather, ground and trees, and every indoor
+	# place in its own light, seen wide like a diorama.
+	"village_day": "The Village of Barovia by day: mud, soot and lit windows",
 	"village_night": "The Village of Barovia at night",
-	"vallaki_rain": "Rain over Vallaki at dusk",
 	"road_dusk": "The party on the misty road at dusk",
-	"castle_vista": "Castle Ravenloft above the Village of Barovia at dusk",
-	"vallaki_noon": "Vallaki's square on a festival day",
-	"lake_dusk": "Lake Zarovich at dusk",
+	"castle_vista": "Castle Ravenloft on its crag, past the edge of the village",
+	"tser_pool_camp": "Autumn and firelight at the Vistani camp by Tser Pool",
+	"tser_pool_night": "Firelight at the Vistani camp by night",
+	"vallaki_noon": "Vallaki's wet blue square on a festival day",
+	"vallaki_rain": "Rain and lamplight over Vallaki at dusk",
+	"wizard_of_wines": "Rain on the vineyards of the Wizard of Wines",
 	"krezk_snow": "Snow in the walled village of Krezk",
+	"abbey_snow": "Lamplight at the Abbey of St. Markovia in the snow",
+	"argynvostholt": "The silver-blue ruins of Argynvostholt",
+	"bonegrinder_heath": "A windmill on a bare hilltop of heather",
+	"lake_rain": "Rain on Lake Zarovich",
+	"berez_marsh": "Green fog over the drowned marsh at Berez",
+	"yester_hill": "Sickly light on Yester Hill",
+	"castle_gates": "The gates of Castle Ravenloft in a storm",
 	"death_house": "Candlelight in a haunted house, its near walls cut away",
-	"tser_pool_night": "Firelight and water at the Vistani camp by night",
+	"death_house_hall": "A haunted house at the end of the lane, seen whole",
+	"st_andrals": "Warm candlelight in Vallaki's church",
+	"blue_water_inn": "Lamplight and painted panelling at the Blue Water Inn",
+	"argynvostholt_hall": "Ghostly silver light in a ruined hall",
+	"marsh_hut": "Sick green light in a hut in the marsh",
+	"guard_tower": "Frost and cold blue light in a mountain guard tower",
+	"toy_shop": "A toy shop's painted cheer gone wrong",
+	"village_church": "Cold moonlight in the village church",
 	"combat_fireball": "A Fireball bursts among the foes",
 	"combat_odds": "Hover a foe for the chance to hit, the damage and any Advantage",
 	"combat_area": "An area spell shows who it will catch, and warns about an ally in the blast",
@@ -44,6 +63,7 @@ SHOTS = {
 	"dialogue_d20": "Godrick rolls the d20, with the DC and every bonus",
 	"cutscene": "Storybook: a rider watches from the ridge",
 	"tarokka": "Storybook: Madam Eva lays out the Tarokka cards",
+	"story_candles": "Storybook: the candles lean as the reading ends",
 	"story_mists": "Storybook: the mists close in behind you",
 	"story_village": "Storybook: rain over the Village of Barovia",
 	"story_palisade": "Storybook: the palisade of Vallaki",
@@ -54,7 +74,7 @@ SHOTS = {
 	"inventory": "The inventory's paper doll",
 	"inventory_list": "The inventory in its list view",
 	"creator_appearance": "Make your own hero: picking his hairstyle",
-	"dialogue_busts": "Kip at the inn, a bust on each side",
+	"dialogue_busts": "Kip and Urwin at the inn, a bust on each side",
 	"travel_map": "The travel map of Barovia",
 	"skirmish": "Skirmish and the Character Lab",
 }
@@ -63,6 +83,7 @@ SHOTS = {
 ART = {
 	"cutscene": "art/cutscenes/strahd_watcher_alone.jpg",
 	"tarokka": "art/cutscenes/madam_eva_reading.jpg",
+	"story_candles": "art/cutscenes/eva_candles_lean.jpg",
 	"story_mists": "art/cutscenes/mists_arrival.jpg",
 	"story_village": "art/cutscenes/village_rain.jpg",
 	"story_palisade": "art/cutscenes/vallaki_palisade.jpg",
@@ -70,10 +91,13 @@ ART = {
 }
 
 # The gallery, in order (the first is shown large).
-GALLERY = ["combat_fireball", "village_night", "dialogue_busts", "vallaki_rain", "creator_appearance", "dialogue_check", "castle_vista", "combat_odds",
-	"krezk_snow", "combat_area", "vallaki_noon", "death_house", "tarokka", "tser_pool_night", "stealth_sight", "combat_battlefield",
-	"combat_boss", "lake_dusk", "party_roster", "character_sheet", "inventory_list", "travel_map", "skirmish", "road_dusk",
-	"dialogue_d20", "title", "cutscene", "story_mists", "story_village", "story_palisade", "story_camp"]
+GALLERY = ["tser_pool_camp", "combat_fireball", "village_day", "dialogue_busts", "wizard_of_wines", "st_andrals",
+	"vallaki_rain", "creator_appearance", "krezk_snow", "argynvostholt_hall", "berez_marsh", "dialogue_check",
+	"castle_vista", "combat_odds", "abbey_snow", "marsh_hut", "vallaki_noon", "combat_area", "bonegrinder_heath",
+	"guard_tower", "lake_rain", "death_house", "argynvostholt", "toy_shop", "yester_hill", "combat_battlefield",
+	"village_night", "blue_water_inn", "tser_pool_night", "stealth_sight", "castle_gates", "village_church", "tarokka",
+	"story_candles", "combat_boss", "death_house_hall", "party_roster", "character_sheet", "inventory_list", "travel_map",
+	"skirmish", "road_dusk", "dialogue_d20", "title"]
 
 INK = (12, 6, 7)
 GILT = (226, 196, 117)

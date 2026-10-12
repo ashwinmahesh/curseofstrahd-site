@@ -45,7 +45,7 @@ lists them all.
 ## Links
 
 - [Website](https://curseofstrahd.app/): features, screenshots, trailer, FAQ and download
-- [Gameplay trailer](https://curseofstrahd.app/trailer/) (the video file: https://curseofstrahd.app/media/trailer-v3.mp4)
+- [Gameplay trailer](https://curseofstrahd.app/trailer/) (the video file: https://curseofstrahd.app/media/trailer-v4.mp4)
 - [FAQ](https://curseofstrahd.app/#faq)
 - [Download](https://curseofstrahd.app/#download)
 - [Release notes](https://curseofstrahd.app/releases/)

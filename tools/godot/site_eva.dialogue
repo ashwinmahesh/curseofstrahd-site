@@ -1,0 +1,12 @@
+# The showcase site's trailer only (~/Documents/CurseOfStrahdSite; not part of the game): Madam Eva's Tarokka reading
+# as its picture changes, a cutscene of three pictures. Its three beats and their lines are svalich_road/madam_eva's
+# own (~ reading, ~ ally_seen, ~ treasure_here), with the cards and what they say left out (Showcase Plan: the spread
+# only). tools/capture.py copies it to the lane's narrative/capture/ for site_game's eva clip.
+
+~ start
+cutscene madam_eva_reading
+Narrator: She shuffles once, twice, and the cards whisper together like dry leaves. Then she deals five face down in the shape of a cross, and lays her hand flat beside them.
+cutscene eva_candles_lean
+Narrator: The candles lean, all together, as if someone has opened a door. Nobody has.
+cutscene eva_chest
+Narrator: She unlocks the iron-bound chest behind her with a key she keeps on a cord round her neck, lifts out a bundle of oilcloth, and sets it on the table between the cards.

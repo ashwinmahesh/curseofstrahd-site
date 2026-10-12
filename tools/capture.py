@@ -4,7 +4,8 @@
   python3 tools/capture.py --lane /Volumes/StrahdLanes/CurseOfStrahdGame-site --scene site_world --mode stills
       [--only village_night,castle_vista] [--out build/raw] [--timeout 900]
 
-Copies tools/godot/<scene>.gd/.tscn into the lane's tools/capture/ first (they stay untracked there), then runs the
+Copies tools/godot/<scene>.gd/.tscn into the lane's tools/capture/ first, and tools/godot/*.dialogue into its
+narrative/capture/ (they stay untracked there), then runs the
 game's own capture tool through the lane's tools/godot, so the window never takes focus and stays off screen. Stills
 run at the normal frame cap; clips run with --fixed-fps 30 and --motion, so every frame is a thirtieth of a second
 however long it takes to draw. The run is stopped by its own process id if it prints nothing for --quiet seconds, runs
@@ -44,6 +45,11 @@ def main() -> int:
 		f = src / (args.scene + ext)
 		if f.exists():
 			shutil.copy(f, args.lane / "tools/capture" / f.name)
+	# Conversations the scenes play that aren't the game's own (site_eva: the trailer's Tarokka pictures), untracked
+	# in the lane's narrative/capture/.
+	for f in src.glob("*.dialogue"):
+		(args.lane / "narrative/capture").mkdir(parents=True, exist_ok=True)
+		shutil.copy(f, args.lane / "narrative/capture" / f.name)
 	out = (args.out / args.mode).resolve()
 	out.mkdir(parents=True, exist_ok=True)
 	godot_args = ["tools/godot", "--path", ".", "--resolution", "1x1", "--position", "100000,100000",

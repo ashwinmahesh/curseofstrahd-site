@@ -20,7 +20,7 @@ browsers.)
 | `css/site.css`, `js/site.js` | The look (the game's crimson, black and gold) and the small interactions. |
 | `media/shots/`, `media/thumbs/` | Screenshots at 1920 wide and 640 wide thumbnails (WebP). |
 | `media/companions/` | The six companions' dialogue busts from the game. |
-| `media/trailer.mp4`, `media/trailer-poster.jpg` | The trailer and its poster frame. |
+| `media/trailer-v4.mp4`, `media/trailer-v4-poster.jpg` | The trailer and its poster frame (v3 kept for rollback). |
 | `tools/godot/` | The capture scenes, copied into a game worktree's `tools/capture/` to run. |
 | `tools/capture.py` | Runs a capture scene off screen in a game worktree and stops it if it hangs. |
 | `tools/make_trailer.py` | Cuts the trailer from the clips and the storybook art on the music, and encodes it. |
@@ -43,19 +43,32 @@ python3 tools/capture.py --lane /Volumes/StrahdLanes/CurseOfStrahdGame-site --sc
 python3 tools/capture.py --lane /Volumes/StrahdLanes/CurseOfStrahdGame-site --scene site_world --mode clips
 ```
 
+The game's clips are recorded with Godot's Movie Maker for their sound (the fights, the voiced conversation and the
+Tarokka cutscene's narrator). The lane needs a one-line local change, never committed: in `core/voice_over.gd`'s
+`_ensure_player`, skip the `"Dummy"` driver check when `STRAHD_MOVIE_SOUND` is set.
+
 ```bash
-python3 tools/capture.py --lane /Volumes/StrahdLanes/CurseOfStrahdGame-site --scene site_game --mode clips
+python3 tools/capture.py --lane /Volumes/StrahdLanes/CurseOfStrahdGame-site --scene site_game --mode clips --movie --env STRAHD_MOVIE_SOUND=1
 ```
 
 ```bash
-python3 tools/build.py --raw build/raw/stills
+python3 tools/avi_audio.py build/raw/clips/site_game.avi build/audio/game_movie.wav
 ```
 
 ```bash
-python3 tools/make_trailer.py
+/usr/bin/python3 tools/build.py --raw build/raw/stills
+```
+
+```bash
+/usr/bin/python3 tools/make_trailer.py --status "Available now"
 ```
 
 `--only a,b` on a capture runs only those shots. Raw captures and trailer frames go to `build/`, which git ignores.
+The trailer script needs the Mac's own Python (`/usr/bin/python3`, which still has `audioop` and PIL). To pick new
+shots, a survey shoots any places at any hours: `--env SITE_SURVEY=vallaki,krezk --env SITE_HOURS=11,19`, with
+`SITE_LOOK=middle`, `SITE_ZOOM` and `SITE_TILT` for a wide view. `tools/godot/site_eva.dialogue` is the trailer's
+Tarokka cutscene (Madam Eva's reading's three pictures and lines, without the cards); capture.py copies it into the
+lane.
 
 ## Online
 

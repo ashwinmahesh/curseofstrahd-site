@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Cuts the trailer from the game's clips and storybook art, on the music, and encodes it with the Mac's own encoder.
 
-  python3 tools/make_trailer.py [--cut v2] [--status "Coming soon"] [--clips build/raw/clips] [--only-frames]
+  python3 tools/make_trailer.py [--cut v4] [--status "Available now"] [--clips build/raw/clips] [--only-frames]
 
 The edit (EDIT below) is a list of segments, each lasting a number of seconds at 30 fps: a recorded clip ("clip",
 folder name under --clips, optional start second), a storybook still with a slow push ("still", art path), or the end
@@ -121,7 +121,45 @@ EDIT_V3 = [
 # (start, line, dip the music?) The last line keeps the music at full (owner, 2026-10-08).
 VOICE_V3 = [(1.0, "01", True), (6.3, "02", True), (11.2, "03", True), (18.7, "04", True), (23.7, "05", True),
 	(48.1, "06", True), (56.0, "07", True), (63.6, "08", True), (78.5, "09", False)]
-CUTS = {"v1": (EDIT_V1, []), "v2": (EDIT_V2, VOICE_V2), "v3": (EDIT_V3, VOICE_V3)}
+# v4 (owner, 2026-10-12): the 1.0.7 look, every major region in its own light and weather, and a cutscene whose picture
+# changes as the scene moves on (Madam Eva's Tarokka reading: the cards dealt, the candles leaning, her chest). The
+# regions run under "Every road in this valley is mine"; "Let the old woman read her cards" falls on Eva's first
+# picture, and the game's narrator speaks the second. A caption shared by neighbouring segments stays up across them.
+REGIONS = "Every region in its own light and weather"
+EDIT_V4 = [
+	{"clip": "title", "seconds": 5.0},
+	{"still": "art/cutscenes/mists_arrival.jpg", "seconds": 3.4},
+	{"clip": "road", "seconds": 2.2, "from": 1.0},
+	{"clip": "village", "seconds": 2.2, "from": 0.5},
+	{"clip": "interior_death_house", "seconds": 2.0, "from": 1.0},
+	{"clip": "tser", "seconds": 2.0, "from": 0.5},
+	{"clip": "krezk", "seconds": 2.0, "from": 0.5},
+	{"clip": "vallaki", "seconds": 2.4, "from": 0.8},
+	{"clip": "interior_inn", "seconds": 2.4, "from": 1.0},
+	{"still": "art/cutscenes/strahd_watcher_alone.jpg", "seconds": 2.4, "push": 1.12},
+	{"clip": "fight_smite", "seconds": 2.8, "cut": True, "hud": True, "sound": True,
+		"caption": "Turn-based fights on the 2024 rules"},
+	{"clip": "fight_fireball", "seconds": 3.2, "from": 0.3, "sound": True},
+	{"clip": "fight_odds", "seconds": 2.3, "hud": True, "caption": "See the odds before every roll"},
+	{"clip": "dialogue_voiced", "seconds": 5.7, "from": 1.85, "hud": True, "voices": True,
+		"caption": "Every line voiced"},
+	{"clip": "creation", "seconds": 2.8, "from": 1.5, "caption": "Make a hero of your own"},
+	{"clip": "winery", "seconds": 1.7, "from": 0.5, "caption": REGIONS},
+	{"clip": "berez", "seconds": 1.6, "from": 0.5, "caption": REGIONS},
+	{"clip": "argynvostholt", "seconds": 1.7, "from": 0.5, "caption": REGIONS},
+	# The three pictures are one recording (site_game's eva clip), cut where its narration starts and stops.
+	{"clip": "eva", "seconds": 4.6, "from": 0.4},
+	{"clip": "eva", "seconds": 7.0, "from": 5.0, "cut": True, "voices": True},
+	{"clip": "eva", "seconds": 2.4, "from": 12.0, "cut": True},
+	{"clip": "boss", "seconds": 4.4, "from": 0.5, "sound": True},
+	{"clip": "fight_last", "seconds": 3.0, "from": 0.3, "sound": True},
+	{"clip": "castle", "seconds": 4.8, "from": 2.5},
+	{"clip": "gates", "seconds": 2.0, "from": 0.5},
+	{"card": True, "seconds": 12.0},
+]
+VOICE_V4 = [(1.0, "01", True), (6.3, "02", True), (11.2, "03", True), (18.7, "04", True), (23.7, "05", True),
+	(48.1, "06", True), (62.5, "07", True), (69.4, "08", True), (78.5, "09", False)]
+CUTS = {"v1": (EDIT_V1, []), "v2": (EDIT_V2, VOICE_V2), "v3": (EDIT_V3, VOICE_V3), "v4": (EDIT_V4, VOICE_V4)}
 # The game's sound from the Movie Maker run, and how its frames line up (each clip's first frame, from the run's log).
 GAME_SOUND = "build/audio/game_movie.wav"
 GAME_LOG = "build/raw/clips/site_game.log"
@@ -352,8 +390,9 @@ def game_sound_for(edit: list) -> list:
 	first = {}
 	for line in log.read_text().splitlines():
 		if line.startswith("segment "):
-			_, name, _, frame, _ = line.split()
-			first[name] = int(frame)
+			# A clip recorded in parts prints a line per part: its own frame 0 is the first part's process frame.
+			_, name, part, frame, _ = line.split()
+			first.setdefault(name, int(frame) - int(part))
 	with wave.open(str(src)) as w:
 		rate, channels = w.getframerate(), w.getnchannels()
 		pcm = w.readframes(w.getnframes())
@@ -383,7 +422,7 @@ def main() -> None:
 	ap.add_argument("--clips", type=Path, default=SITE / "build/raw/clips")
 	ap.add_argument("--game", type=Path, default=Path.home() / "Documents/CurseOfStrahdGame")
 	ap.add_argument("--only-frames", action="store_true")
-	ap.add_argument("--cut", choices=sorted(CUTS), default="v3")
+	ap.add_argument("--cut", choices=sorted(CUTS), default="v4")
 	ap.add_argument("--status", default="Coming soon", help="the end card's last line")
 	ap.add_argument("--reuse-frames", action="store_true", help="re-encode (and remix) from build/trailer as it is")
 	args = ap.parse_args()
@@ -408,9 +447,13 @@ def main() -> None:
 		else:
 			frames = card_frames(args.game, n + over, args.status, bool(voice))
 		if "caption" in seg:
+			# The same words on the segment before or after stay up across the join instead of fading.
+			prev = draw[seg_i - 1] if seg_i > 0 else None
+			held_in = prev is not None and prev.get("caption") == seg["caption"]
+			held_out = nxt is not None and nxt.get("caption") == seg["caption"]
 			for i in range(n + over):
 				t = i / FPS
-				a = max(0.0, min(1.0, t / 0.5, (seg["seconds"] - t) / 0.5))
+				a = max(0.0, min(1.0, 1.0 if held_in else t / 0.5, 1.0 if held_out else (seg["seconds"] - t) / 0.5))
 				# Over the fight's interface the words sit under the turn order, clear of the hotbar.
 				frames[i] = caption(frames[i], seg["caption"], a, 215 if seg.get("hud") else H - 190)
 		if seg_i == 0:
