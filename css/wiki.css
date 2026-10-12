@@ -90,3 +90,20 @@ details.callout:not([open]) > summary { margin-bottom: 0; }
 .wiki-spoiler-title { font-family: var(--display); font-size: 1.3rem; font-weight: 700; color: var(--parchment);
 	margin: 0 0 6px; letter-spacing: 0.04em; }
 .wiki-spoiler p:last-child { margin: 0; }
+
+/* > [!infobox]: the page's picture and its facts, beside the text on wide screens and on top on narrow ones. */
+.wiki-infobox { float: right; clear: right; width: min(320px, 42%); margin: 0 0 1.2em 1.6em; padding: 10px;
+	border: 1px solid var(--line); border-radius: var(--radius); background: rgba(42, 12, 18, 0.45); }
+.wiki-infobox .wiki-pic { max-width: none !important; margin: 0; }
+.wiki-infobox-pic + .wiki-infobox-pic { margin-top: 8px; }
+.wiki-infobox dl { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 6px 12px; margin: 10px 4px 2px;
+	font-size: 0.98rem; }
+.wiki-infobox dt { font-family: var(--display); font-size: 0.78rem; letter-spacing: 0.06em; color: var(--gilt-light);
+	padding-top: 3px; }
+.wiki-infobox dd { margin: 0; }
+.wiki-infobox > p:last-child { margin-bottom: 0; }
+.wiki-page h2, .wiki-page .callout { display: flow-root; }
+.wiki-page .wiki-table { clear: right; }
+@media (max-width: 700px) {
+	.wiki-infobox { float: none; width: auto; margin: 0 0 1.2em; }
+}

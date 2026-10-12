@@ -246,6 +246,8 @@ class Blocks:
 		if not m:
 			return "<blockquote>%s</blockquote>" % self.render(body)
 		kind, fold, title = m.group(1).lower(), m.group(2), m.group(3) or m.group(1).capitalize()
+		if kind == "infobox":
+			return self.infobox(body[1:])
 		icon = CALLOUT_ICONS.get(kind, "✦")
 		inner = self.render(body[1:])
 		head = '<span class="callout-icon" aria-hidden="true">%s</span>%s' % (icon, self.inline.render(title))
@@ -253,6 +255,29 @@ class Blocks:
 			return '<details class="callout callout-%s"%s><summary class="callout-title">%s</summary>%s</details>' % (
 				kind, " open" if fold == "+" else "", head, inner)
 		return '<div class="callout callout-%s"><p class="callout-title">%s</p>%s</div>' % (kind, head, inner)
+
+	def infobox(self, lines: list) -> str:
+		"""> [!infobox]: the page's picture, then **Label:** value lines, as a box beside the text."""
+		pics, rows, rest = [], [], []
+		for line in lines:
+			s = line.strip()
+			if not s:
+				continue
+			field = re.match(r"^\*\*(.+?):\*\*\s*(.*)$", s)
+			if re.fullmatch(r"!\[\[[^\]]+\]\]", s) and not rows:
+				pics.append(self.inline.render(s))
+			elif field:
+				rows.append("<dt>%s</dt><dd>%s</dd>" % (self.inline.render(field.group(1)), self.inline.render(field.group(2))))
+			else:
+				rest.append(s)
+		parts = ['<aside class="wiki-infobox">']
+		parts += ['<div class="wiki-infobox-pic">%s</div>' % p for p in pics if p]
+		if rows:
+			parts.append("<dl>%s</dl>" % "".join(rows))
+		if rest:
+			parts.append(self.render(rest))
+		parts.append("</aside>")
+		return "".join(parts)
 
 	def cells(self, row: str) -> list:
 		row = row.strip()
