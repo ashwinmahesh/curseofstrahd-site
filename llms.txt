@@ -10,7 +10,7 @@
 - The whole campaign, from the misty road into Barovia to Castle Ravenloft: 86 places in 19 regions, played in the
   order you choose after the opening chapters, with a Tarokka reading that reshuffles each playthrough and five
   endings.
-- A party of four drawn from six voiced companions (Sir Godrick, Liriel, Thistle, Ratatoille, Wren and Kip), or a hero
+- A party of four drawn from six voiced companions (Sir Godrick, Liriel, Thistle, Ratatouille, Wren and Kip), or a hero
   you make yourself. You control every party member; the AI runs only enemies.
 - The 2024 rules done closely: 12 classes and 69 subclasses to level 11, 443 spells, 147 feats, 125 monsters and over
   540 magic items. Every number on screen can show how it was worked out.
