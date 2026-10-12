@@ -62,7 +62,7 @@ It is very quiet, and very cold, and the books smell of ice instead of dust.
 | 6 | a lectern cupboard | [Map or Scroll Case](https://curseofstrahd.app/wiki/items/equipment.md#map-or-scroll-case), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×5, 15 gp | open it |
 | 8 | a chained book that isn't what its spine says (hidden) | [Tome of Clear Thought](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-clear-thought) | Search: Investigation DC 18 |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

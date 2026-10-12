@@ -66,7 +66,7 @@ Slush, then mud, then bare black rock that steams in the cold. At the top of the
 | 7 | the drivers' box | [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire), 35 gp | open it |
 | 10 | Something in the slush (hidden) | [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

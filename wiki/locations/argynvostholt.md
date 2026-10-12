@@ -70,7 +70,7 @@ A drive between dead trees climbs past the footings of a gatehouse into a courty
 | 15 | something in the straw of a stall (hidden) | [Chain](https://curseofstrahd.app/wiki/items/equipment.md#chain) | Search: Perception DC 13 |
 | 16 | something left on a squire's grave (hidden) | [Holy Symbol (Emblem)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-emblem) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

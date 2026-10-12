@@ -61,7 +61,7 @@ One room with a sleeping corner and a study divided off by a half wall. The hear
 | 4 | a chess piece that isn't a piece (hidden) | [Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl) | Search: Investigation DC 17 |
 | 5 | one book on the shelf that isn't blank (hidden) | [Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding) | Search: Investigation DC 17 |
 
-Containers can also hold random magic items, rolled for a party of level 9 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Quests and lore
 

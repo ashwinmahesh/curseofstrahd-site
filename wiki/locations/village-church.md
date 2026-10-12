@@ -73,7 +73,7 @@ The Morninglord's church, one of the few doors in the village still left unbarre
 | 14 | an old priest in the burial niches (hidden) | [Periapt of Health](https://curseofstrahd.app/wiki/items/magic-items.md#periapt-of-health) | Search: Perception DC 14 |
 | 7 | a loose stone under the front pew (hidden) | [Amulet of the Devout, +1](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-1) | Search: Investigation DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 3 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

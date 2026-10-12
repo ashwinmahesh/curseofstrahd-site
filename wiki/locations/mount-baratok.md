@@ -61,7 +61,7 @@ The goat track comes up from the south through switchbacks of pine. The hut stan
 | 7 | a stone that isn't part of the cairn (hidden) | [Ioun Stone (Intellect)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-intellect) | Search: Perception DC 16 |
 | 8 | a page blown into the snow (hidden) | [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 9 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -67,7 +67,7 @@ The only room in Barovia where people still talk, if quietly. The wine is Purple
 | 7 | Scholar's satchel | [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×3, [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), 4 gp | locked, with nothing to pick |
 | 10 | a slit in the satchel's lining (hidden) | [Eyes of Minute Seeing](https://curseofstrahd.app/wiki/items/magic-items.md#eyes-of-minute-seeing) | Search: Investigation DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 3 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -9,7 +9,9 @@
 - You can't Long Rest inside a dungeon or building while enemies remain in it, on any of its floors. Towns, inns, camps and the open road are fine, and so are magic items that make a safe place to sleep. Leomund's Tiny Hut and Guards and Wards lift the rule: with either, you can Long Rest in a building that still has enemies in it.
 - Each place says whether resting there is safe or risky (it's on the place's page here). A Long Rest in a risky place has a 1 in 6 chance of being interrupted, except on Story difficulty ([Difficulty](https://curseofstrahd.app/wiki/rules/difficulty.md)). Hallow, Forbiddance, Private Sanctum or Nondetection make a rest safe.
 - An inn room booked for the night makes the next Long Rest there better: temporary Hit Points equal to each hero's level, or twice that and one more level of Exhaustion gone in the best room ([Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md)).
-- After a Long Rest, a companion may ask for a word at camp. These camp talks carry the heroes' personal stories ([Companion Approval](https://curseofstrahd.app/wiki/characters/companion-approval.md)); each plays once.
+- **Making camp.** In the wild (forest, road, riverside, wilderness and shrine-yard maps) the Long Rest button says **Make camp**. The party pitches a fire, a stewpot, bedrolls and a tent where it stands, and everyone gathers round: the party, your benched companions and any guests, with Ratatouille at the pot. Towns, inns, dungeons and the tutorial rest as before.
+- At camp, a speech bubble marks anyone with something to say; walk up to them to start the talk. These camp talks carry the heroes' personal stories ([Companion Approval](https://curseofstrahd.app/wiki/characters/companion-approval.md)), and each plays once.
+- The camp panel offers **Sleep** (the Long Rest), **Change prepared spells** and **Break camp**.
 - Mage Armor can be set to cast itself as each Long Rest ends ([How Magic Works](https://curseofstrahd.app/wiki/rules/how-magic-works.md)).
 
 #### Saving

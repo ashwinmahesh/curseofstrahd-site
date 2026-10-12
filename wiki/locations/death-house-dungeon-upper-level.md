@@ -72,7 +72,7 @@ Below the house, cut into the rock: the Durst family crypts, the cult's quarters
 | 17 | a hollow in the statue's base (hidden) | [Dust of Disappearance](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-disappearance) | Search: Perception DC 14 |
 | 18 | something under a straw pallet (hidden) | [Elemental Gem (Red Corundum)](https://curseofstrahd.app/wiki/items/magic-items.md#elemental-gem-red-corundum) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 2 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

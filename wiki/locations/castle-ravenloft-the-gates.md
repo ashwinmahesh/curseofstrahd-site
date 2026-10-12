@@ -63,7 +63,7 @@ A chasm with no bottom you can see, a drawbridge already lowered, a gatehouse wi
 | 11 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
 | 12 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

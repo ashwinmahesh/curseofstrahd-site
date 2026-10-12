@@ -45,10 +45,10 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - With Speak with Animals running, any of the three ravens around the camp and the yard tells you where the druids came from, where Davian hid his stone, where the stolen one went, and where that ring is.
 4. **The lane (`vineyard_ambush`).** When you step onto the lane between the vines, the rows stand up and you're surprised.
    - Below level 6: 2 [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md)s, 4 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s and 6 [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s.
-   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill and 2 more needle blights join them.
+   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill, a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) and 2 more needle blights join them.
    - Level 7: a third vine blight as well.
 
-   It's a Low fight for your level. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. If you've already burned the tree on Yester Hill, there's no ambush at all.
+   It's a Low fight below level 6, a Moderate one at level 6, and between the two at level 7. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. The tree blight (115 HP) stands up in the middle of the lane: it's Huge, the same kind of creature as Wintersplinter on the hill, with 15-foot reach and a Grasping Root (DC 17 Strength save) that pulls a hero in and holds them for its Gnash, so spread out and free whoever it grabs. If you've already burned the tree on Yester Hill, there's no ambush at all.
 
    Finds on the way up the lane and in the yard:
    - **Search DC 12** between the west rows: a [Moon Sickle, +1](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-1) the druids dropped.
@@ -57,11 +57,11 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - **Search DC 13** behind the casks by the winery door: an [Eversmoking Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#eversmoking-bottle).
 5. **The fermenting hall (`winery_occupation`).** Go through the tasting room. The fight starts as soon as you walk into the fermenting hall.
    - Below level 6: 2 druids, 2 vine blights and 4 needle blights.
-   - Level 6: 2 druids, 3 vine, 6 needle and 4 twig blights.
-   - Level 7: 3 druids, 4 vine, 6 needle and 4 twig blights.
+   - Level 6: 2 druids, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 3 vine, 6 needle and 4 twig blights.
+   - Level 7: 3 druids, the shambling mound, 4 vine, 6 needle and 4 twig blights.
    - If the tree on the hill has burned: only three druids at 35 HP each, among heaps of dead brush.
 
-   It's Low for your level, but the druids hurt at range: green wisps out to 90 feet, plus Moonbeam and Thunderwave. Close on them and let the slow blights come to you.
+   It's Low below level 6 and between Low and Moderate at level 6 and 7, and the druids hurt at range: green wisps out to 90 feet, plus Moonbeam and Thunderwave. Close on them and let the slow blights come to you. At level 6 and 7 the shambling mound (110 HP) stands among the vats in the middle of the hall. It's the same creature as the Mash in the press house, so the same warnings apply (see step 7): no lightning, and keep your casters out of its reach.
 
    After the fight, loot the hall and the office:
    - The druids' bedrolls: 2 [Bedroll](https://curseofstrahd.app/wiki/items/equipment.md#bedroll)s, a [Herbalism Kit](https://curseofstrahd.app/wiki/items/equipment.md#herbalism-kit), a [Druidic Focus (Sprig of Mistletoe)](https://curseofstrahd.app/wiki/items/equipment.md#druidic-focus-sprig-of-mistletoe) and 12 gp.
@@ -83,9 +83,11 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
 
    **The dig (optional, `cellar_dig`).** Past the broken wall at the far end, blights are clawing for the stone in the wrong place.
    - Below level 6: a vine blight and 4 needle blights.
-   - Level 6: a druid overseer, a vine blight and 6 needle blights.
-   - Level 7: the druid, 2 vine blights and 8 needle blights.
+   - Level 6: a druid overseer, 2 more druids, 2 vine blights and 6 needle blights at the dig, plus 2 druids and 3 vine blights among the casks in the vaults.
+   - Level 7: the same, with a third vine blight and 8 needle blights at the dig.
    - After the tree burns: the overseer alone, at 35 HP.
+
+   At level 6 and 7 you have to pass the vaults' group to reach the dig (or the hollow cask). They stand among the cask racks looking toward the dig. They hear anyone within 10 feet and see anyone in front of them within 30 feet, unless that hero is sneaking and beats their passive Perception (15 for the druids). If they notice you, the whole fight starts there in the vaults, with the rest of it beyond the broken wall. If you sneak past them, they're behind you when you reach the dig.
 
    Afterwards a druid's pack by the dig holds a [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), a shovel, a lamp and 10 gp. You don't need this fight to clear the house.
 7. **The press house and Kostin (`press_house_mash`).** The press house is the tall barn on the east side of the yard. [Kostin](https://curseofstrahd.app/wiki/people/kostin.md), the young druid holding the winery, speaks to you when you come near. Every choice ends in the same fight against the Mash, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) grown in a vat. What you pick decides whether Kostin fights too, and what waits for you on the hill:
@@ -96,12 +98,14 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
 
    The fight depends on your level and on Kostin:
    - Below level 6: Kostin, the Mash (90 HP) and a vine blight.
-   - Level 6: Kostin, the Mash and 2 vine blights.
-   - Level 7: Kostin, a second druid, the Mash and 2 vine blights.
+   - Level 6: Kostin, 4 more druids, the Mash and 6 vine blights.
+   - Level 7: Kostin, 5 more druids, the Mash and 6 vine blights.
    - If Kostin left: the Mash, 2 vine blights and 3 needle blights instead.
    - If the tree has burned: Kostin and the Mash, or the Mash alone if he left.
 
-   The Mash is the real threat. Lightning *heals* it, it resists fire and cold, and its Engulf (DC 15 Strength save) swallows a Medium or smaller hero, who is then blinded, restrained and shocked every turn. Keep your casters out of its reach, and kill it quickly when it has someone inside.
+   At level 6 and 7 the extra druids and vine blights only come if Kostin fights here, so scaring him off or talking him round makes this a much smaller fight.
+
+   The Mash is the biggest single threat. Lightning *heals* it, it resists fire and cold, and its Engulf (DC 15 Strength save) swallows a Medium or smaller hero, who is then blinded, restrained and shocked every turn. Keep your casters out of its reach, and kill it quickly when it has someone inside.
 
    After the fight:
    - Kostin's satchel, if he fought you here: Herbalism Kit, Potion of Healing and 18 gp.
@@ -152,7 +156,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
     - **Otherwise, level 6:** Wintersplinter (140 HP), Ruxandra and 6 twig blights.
     - **Otherwise, below level 6:** Wintersplinter (110 HP), Ruxandra (50 HP), a druid and 4 twig blights.
 
-    This is a Moderate fight and the hardest on the quest's main line. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.
+    This is a Moderate fight and the hardest on the quest's main line below level 6; at level 6 and 7 the press house fight is bigger. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.
 
     ![yester wintersplinter](https://curseofstrahd.app/wiki/img/cutscenes/yester-wintersplinter.webp)
 11. **After the fight on the crown.**

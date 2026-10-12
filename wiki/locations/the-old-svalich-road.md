@@ -67,7 +67,7 @@ The party's arrival in Barovia: out of the mists onto the Old Svalich Road, thro
 | 13 | a traveller's pack under the carcass (hidden) | [Boots of the Winterlands](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-the-winterlands) | Search: Perception DC 12 |
 | 14 | a traveller's pack in the ferns (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 1 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 1 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

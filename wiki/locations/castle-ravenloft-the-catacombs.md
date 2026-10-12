@@ -72,7 +72,7 @@ Aisles of crypts run away into the dark in straight lines, each behind an iron g
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Crypt of the Mad Dog (cat_mad_dog_sarcophagus); Castle Ravenloft Crypt of the Wizard (cat_conjurer_reliquary); Castle Ravenloft Gargoyle Tomb (cat_champion_slab)
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

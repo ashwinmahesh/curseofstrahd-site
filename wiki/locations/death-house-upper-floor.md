@@ -61,7 +61,7 @@ The second storey: the upper hall with its hearth, the family portrait and two s
 | 10 | a lute case behind the harp (hidden) | [Instrument of the Bards (Doss Lute)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-doss-lute) | Search: Investigation DC 13 |
 | 11 | something under a servant's bed (hidden) | [Gloves of Missile Snaring](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-missile-snaring) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 2 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

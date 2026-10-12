@@ -45,3 +45,4 @@ Lashes with three electrified tendrils at reach and swallows one victim whole to
 - [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): *Lorghoth the Decayer wakes, slowly. You saw it coming.*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md) · *The woodpile stands up. It is taller than Grigore's house, logs for ribs and roots for fingers, and the…*
 - [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md): *The vat bursts its hoops. What rises out of it is the winery's last harvest: skins, stems and rot, heaped…*
+- [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md): *Druids look up from the vats, where they have been feeding something green and pulpy into the wine. Around…*

@@ -43,4 +43,4 @@ A raised track of old logs across the marsh between Vallaki's lake and the drown
 |---|---|---|---|
 | 3 | something caught in the reeds (hidden) | [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 9 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.

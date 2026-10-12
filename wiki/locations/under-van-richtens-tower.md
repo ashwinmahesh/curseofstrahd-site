@@ -60,7 +60,7 @@ A stair under the hearth goes down past the level of the lake. The walls sweat c
 | 4 | Khazan's coffer | [Wand of the War Mage, +3](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-3), 800 gp | open it; only when khazan destroyed |
 | 5 | Something in the silt (hidden) | [Bracers of Defense](https://curseofstrahd.app/wiki/items/magic-items.md#bracers-of-defense) | Search: Investigation DC 16 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Fights
 

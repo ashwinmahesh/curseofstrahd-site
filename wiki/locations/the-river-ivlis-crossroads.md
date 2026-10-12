@@ -70,7 +70,7 @@ A stone bridge carries the road over the Ivlis. East lies the village of Barovia
 | 14 | a hollow behind the milestone (hidden) | [Wand of Web](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-web) | Search: Investigation DC 14 |
 | 15 | a farmer's cache behind the field wall (hidden) | [Gauntlets of Ogre Power](https://curseofstrahd.app/wiki/items/magic-items.md#gauntlets-of-ogre-power) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

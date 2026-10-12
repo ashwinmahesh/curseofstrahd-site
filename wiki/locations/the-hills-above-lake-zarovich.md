@@ -67,7 +67,7 @@ A cold stream, boulders, pines scored with claw marks, a heap of bones politely 
 | 10 | something in the mud by the stream (hidden) | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | Search: Perception DC 13 |
 | 11 | something under the basket (hidden) | [Hunting Trap](https://curseofstrahd.app/wiki/items/equipment.md#hunting-trap) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

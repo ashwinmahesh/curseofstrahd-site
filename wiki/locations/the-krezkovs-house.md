@@ -68,7 +68,7 @@ The burgomaster's house: a long hall with a hearth and a table older than the vi
 | 11 | the larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Jug](https://curseofstrahd.app/wiki/items/equipment.md#jug) | open it; Dmitri Krezkov's, so taking is theft |
 | 12 | a box under the eldest son's bed (hidden) | [Ioun Stone (Awareness)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-awareness) | Search: Investigation DC 15 |
 
-Containers can also hold random magic items, rolled for a party of level 7 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Quests and lore
 

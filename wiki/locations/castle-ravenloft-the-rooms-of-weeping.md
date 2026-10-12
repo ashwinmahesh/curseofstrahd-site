@@ -76,7 +76,7 @@ A long corridor lined with closed doors. Somewhere along it, always just out of 
 | 19 | a space behind the mirror that shows no one (hidden) | [Cloak of Displacement](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-displacement) | Search: Investigation DC 17 |
 | 20 | a grimoire among Ludmilla's books (hidden) | [Arcane Grimoire, +3](https://curseofstrahd.app/wiki/items/magic-items.md#arcane-grimoire-3) | Search: Investigation DC 17 |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

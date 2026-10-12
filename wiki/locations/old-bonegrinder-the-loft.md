@@ -61,7 +61,7 @@ Low rafters, warm air rising from the oven below, and the great wooden gear of t
 | 8 | a broom up in the rafters (hidden) | [Broom of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#broom-of-flying) | Search: Perception DC 15 |
 | 9 | a black cloth among the little bags (hidden) | [Portable Hole](https://curseofstrahd.app/wiki/items/magic-items.md#portable-hole) | Search: Perception DC 15 |
 
-Containers can also hold random magic items, rolled for a party of level 6 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 6 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Traps
 

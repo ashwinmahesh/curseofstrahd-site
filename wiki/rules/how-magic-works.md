@@ -7,7 +7,7 @@ Spells follow the 2024 Player's Handbook. Every spell's full text is on its leve
 #### Spell slots, preparing and resting
 
 - Spell slots come back on a Long Rest (a Warlock's Pact Magic slots on a Short Rest too). Rest with **R**.
-- Prepared spells can be changed after a Long Rest, on the character sheet's Spells tab (**C**). Clerics, Druids and Wizards can swap as many as they like; Paladins and Rangers swap one; a Wizard can also swap one cantrip.
+- Prepared spells can be changed after a Long Rest, on the character sheet's Spells tab (**C**), or from the camp panel when you make camp in the wild ([Resting and Saving](https://curseofstrahd.app/wiki/rules/resting-and-saving.md)). Clerics, Druids and Wizards can swap as many as they like; Paladins and Rangers swap one; a Wizard can also swap one cantrip.
 - Wizards prepare from their spellbook: six level 1 spells to start and two more each level. A spellbook or scroll you find can be copied into it from the inventory: 2 hours and 50 gp per spell level, for a level you can prepare.
 - Spells that last 8 hours (Mage Armor, Aid, Darkvision, Death Ward, Alarm, Leomund's Tiny Hut and the rest) last until the next Long Rest instead of eight hours on the clock.
 - Mage Armor can be set to cast itself as each Long Rest ends, so nobody has to remember it in the morning.

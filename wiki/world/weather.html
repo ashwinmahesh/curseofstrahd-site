@@ -15,7 +15,7 @@
 <meta property="og:image" content="https://curseofstrahd.app/media/og.jpg">
 <meta name="robots" content="max-image-preview:large">
 <link rel="alternate" type="text/markdown" href="/wiki/world/weather.md" title="This page as Markdown">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://curseofstrahd.app/wiki/world/weather.html", "url": "https://curseofstrahd.app/wiki/world/weather.html", "name": "Weather", "description": "Barovia's weather (F12, story/weather.gd): what each kind does, how often each climate has it (weights for each six-hour spell), which regions have...", "inLanguage": "en", "dateModified": "2026-10-11", "isPartOf": {"@type": "WebSite", "name": "Curse of Strahd Wiki", "url": "https://curseofstrahd.app/wiki/"}, "about": {"@type": "VideoGame", "name": "Curse of Strahd (an unofficial fan game)", "url": "https://curseofstrahd.app/"}, "encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": "https://curseofstrahd.app/wiki/world/weather.md"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Wiki", "item": "https://curseofstrahd.app/wiki/"}, {"@type": "ListItem", "position": 2, "name": "Weather", "item": "https://curseofstrahd.app/wiki/world/weather.html"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://curseofstrahd.app/wiki/world/weather.html", "url": "https://curseofstrahd.app/wiki/world/weather.html", "name": "Weather", "description": "Barovia's weather (F12, story/weather.gd): what each kind does, how often each climate has it (weights for each six-hour spell), which regions have...", "inLanguage": "en", "dateModified": "2026-10-12", "isPartOf": {"@type": "WebSite", "name": "Curse of Strahd Wiki", "url": "https://curseofstrahd.app/wiki/"}, "about": {"@type": "VideoGame", "name": "Curse of Strahd (an unofficial fan game)", "url": "https://curseofstrahd.app/"}, "encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": "https://curseofstrahd.app/wiki/world/weather.md"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Wiki", "item": "https://curseofstrahd.app/wiki/"}, {"@type": "ListItem", "position": 2, "name": "Weather", "item": "https://curseofstrahd.app/wiki/world/weather.html"}]}]}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
@@ -60,7 +60,7 @@
     <div class="wiki-layout">
       <article class="wiki-page">
 <h1 id="weather">Weather</h1>
-<p>Barovia's weather (F12, story/weather.gd): what each kind does, how often each climate has it (weights for each six-hour spell), which regions have which climate, and how Strahd's attention brings more storms.</p>
+<p>Barovia's weather (F12, story/weather.gd): what each kind does, how often each climate has it (weights for each six-hour spell), which regions have which climate, and how Strahd's attention brings more storms. The lake country (Vallaki, the lake, Van Richten's tower) rains more, Berez is foggier and the Wizard of Wines wetter (the vault's Region Variety Plan).</p>
 <div class="wiki-table"><table><thead><tr><th>Weather</th><th>Travel speed</th><th>Road danger (day/night)</th><th>Hides things</th></tr></thead><tbody>
 <tr><td>Overcast</td><td>×1.0</td><td>+0.0 / +0.0</td><td></td></tr>
 <tr><td>Fog</td><td>×1.0</td><td>+0.05 / +0.05</td><td>yes</td></tr>
@@ -68,6 +68,17 @@
 <tr><td>Storm</td><td>×1.25</td><td>+0.0 / +0.05</td><td>yes</td></tr>
 <tr><td>Snow</td><td>×1.25</td><td>+0.0 / +0.0</td><td></td></tr>
 <tr><td>Blizzard</td><td>×2.0</td><td>+0.0 / +0.0</td><td>yes</td></tr>
+</tbody></table></div>
+<h2 id="climates">Climates</h2>
+<p>How likely each kind of weather is in each climate (it changes every six hours), and where each climate holds. Everywhere not listed is valley.</p>
+<div class="wiki-table"><table><thead><tr><th>Climate</th><th>Overcast</th><th>Fog</th><th>Rain</th><th>Storm</th><th>Snow</th><th>Blizzard</th><th>Regions</th></tr></thead><tbody>
+<tr><td>Valley</td><td>36%</td><td>27%</td><td>27%</td><td>9%</td><td></td><td></td><td>everywhere else</td></tr>
+<tr><td>Lakeland</td><td>27%</td><td>27%</td><td>36%</td><td>9%</td><td></td><td></td><td>Vallaki, Lake Zarovich, Van Richten's Tower</td></tr>
+<tr><td>Marsh</td><td>27%</td><td>45%</td><td>18%</td><td>9%</td><td></td><td></td><td>Berez</td></tr>
+<tr><td>Vineyard</td><td>27%</td><td>18%</td><td>45%</td><td>9%</td><td></td><td></td><td>The Wizard of Wines</td></tr>
+<tr><td>Highland</td><td>36%</td><td>18%</td><td>9%</td><td>9%</td><td>27%</td><td></td><td>Krezk, The Abbey of St. Markovia</td></tr>
+<tr><td>Mountain</td><td>20%</td><td>20%</td><td></td><td></td><td>40%</td><td>20%</td><td>The Tsolenka Pass, Mount Ghakis, Mount Baratok, The Amber Temple</td></tr>
+<tr><td>Castle</td><td>9%</td><td>18%</td><td>27%</td><td>45%</td><td></td><td></td><td>Castle Ravenloft</td></tr>
 </tbody></table></div>
       </article>
 

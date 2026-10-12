@@ -66,7 +66,7 @@ The family's private floor around the balcony: the master suite and bathroom, a 
 | 9 | a false bottom in the dressing-table drawer (hidden) | [Circlet of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#circlet-of-blasting) | Search: Investigation DC 13 |
 | 10 | a bundle under the nursemaid's mattress (hidden) | [Cloak of Elvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-elvenkind) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 2 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Traps
 

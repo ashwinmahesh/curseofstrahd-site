@@ -60,7 +60,7 @@ A round spring-fed pool at the north end of Krezk that never freezes, ringed by 
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Krezk Pool of the White Sun ()
 
-Containers can also hold random magic items, rolled for a party of level 7 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Fights
 

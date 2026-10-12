@@ -73,7 +73,7 @@ Black water to the far shore and the wolf hills above it. The fishers left a yea
 | 18 | a glass float tangled in the reeds (hidden) | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) | Search: Perception DC 12 |
 | 19 | something under the empty hut's step (hidden) | [Net](https://curseofstrahd.app/wiki/items/equipment.md#net) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

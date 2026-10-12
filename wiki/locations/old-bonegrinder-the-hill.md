@@ -69,7 +69,7 @@ The track climbs out of the trees onto bare rock. The windmill stands at the top
 | 15 | Something glinting in the scree (hidden) | [Bell](https://curseofstrahd.app/wiki/items/equipment.md#bell) | Search: Perception DC 13 |
 | 16 | Something in the ditch (hidden) | [Vicious Dagger](https://curseofstrahd.app/wiki/items/magic-items.md#vicious-weapon) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 6 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 6 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

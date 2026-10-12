@@ -64,7 +64,7 @@ The burgomaster's house, held for a month against the night. The front door has 
 | 5 | Larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4 | locked, with nothing to pick |
 | 7 | a loose panel behind the study desk (hidden) | [Brooch of Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#brooch-of-shielding) | Search: Investigation DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 3 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

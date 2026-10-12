@@ -57,7 +57,7 @@ A low vestibule, its floor worn by kneeling. One narrow doorway leads on into a 
 | 4 | Offering niches | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 30 gp | open it |
 | 5 | the dragon's gift | [+2 Shield](https://curseofstrahd.app/wiki/items/magic-items.md#shield-2) | open it; only when argynvost beacon lit |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Fights
 

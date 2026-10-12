@@ -100,7 +100,7 @@ A palisade of sharpened logs rings the town. The Old Svalich Road comes in at th
 | 52 | a sack under the hovel's step (hidden) | [Heward's Handy Haversack](https://curseofstrahd.app/wiki/items/magic-items.md#hewards-handy-haversack) | Search: Perception DC 14 |
 | 54 | Something under the bench (hidden) | [String](https://curseofstrahd.app/wiki/items/equipment.md#string) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 5 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 5 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

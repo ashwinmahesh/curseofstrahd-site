@@ -69,7 +69,7 @@ The hill rises out of the moor with almost nothing growing on it, as if the gras
 | 13 | something tucked into a bedroll (hidden) | [Sickle](https://curseofstrahd.app/wiki/items/equipment.md#sickle) | Search: Perception DC 13 |
 | 14 | something in the barrow mound (hidden) | [Amulet of the Devout, +2](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-2) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 7 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

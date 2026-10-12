@@ -61,7 +61,7 @@ The cult's heart: a reliquary of strange relics at the foot of the stairs, an ol
 | 4 | a skeleton in a black robe | 25 gp | open it |
 | 7 | a relic in the niches that isn't bone (hidden) | [Pipes of Haunting](https://curseofstrahd.app/wiki/items/magic-items.md#pipes-of-haunting) | Search: Investigation DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 2 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -69,7 +69,7 @@ A narrow gallery with doors on both sides. Somewhere a pot is boiling, somewhere
 | 8 | Escher's dressing table | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), 180 gp | open it |
 | 9 | something in the cauldron's ashes (hidden) | [Wand of Fear](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-fear) | Search: Perception DC 15 |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Locked and secret doors
 

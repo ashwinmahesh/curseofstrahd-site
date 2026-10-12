@@ -86,7 +86,7 @@ Outside: the end of the road, the shut gate and its watchman, and a switchback t
 | 32 | a loose stone low in the wall (hidden) | [+1 Sling](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Perception DC 14 |
 | 33 | a tin behind the wayside shrine (hidden) | [Keoghtom's Ointment](https://curseofstrahd.app/wiki/items/magic-items.md#keoghtoms-ointment) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 7 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

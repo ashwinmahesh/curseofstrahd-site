@@ -54,7 +54,7 @@ A long slope of thin grass above the road, a dry-stone fold with a gate, and at 
 
 ## What to find
 
-Containers can also hold random magic items, rolled for a party of level 3 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Fights
 

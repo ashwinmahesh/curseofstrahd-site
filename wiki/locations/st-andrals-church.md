@@ -74,7 +74,7 @@ A long nave of pews under a sunburst window, an altar on its step, a vestry and 
 | 12 | Vestry chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it; Father Lucian's, so taking is theft |
 | 13 | the saint's niche | [Mace of Disruption (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-disruption) | open it; only when bones returned |
 
-Containers can also hold random magic items, rolled for a party of level 5 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 5 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

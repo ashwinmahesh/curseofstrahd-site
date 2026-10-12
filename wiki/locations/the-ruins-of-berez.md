@@ -72,7 +72,7 @@ The marsh south of the Luna river, where Berez used to be. The track from the ro
 | 20 | something glinting in the reeds (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 | 21 | something under a fallen beam (hidden) | [Immovable Rod](https://curseofstrahd.app/wiki/items/magic-items.md#immovable-rod) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 9 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

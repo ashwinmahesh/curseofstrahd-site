@@ -68,7 +68,7 @@ The road climbs from the south along the cliff, crosses the gorge on a narrow br
 | 13 | a feather as long as a man, caught on the rocks (hidden) | [Feather Token (Bird)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-bird) | Search: Perception DC 12 |
 | 14 | something in the frozen traveller's pack (hidden) | [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 9 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -45,7 +45,7 @@ The Old Svalich Road where it narrows through the Svalich Woods: pines close on 
 | 6 | a split in the fallen trunk (hidden) | [Wand of Magic Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-magic-detection) | Search: Investigation DC 12 |
 | 7 | a woodcutter's stump (hidden) | [Potion of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-cold) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

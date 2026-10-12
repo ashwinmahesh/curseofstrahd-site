@@ -72,7 +72,7 @@ The switchback track arrives at the abbey gate. Inside: the courtyard with its w
 | 18 | a little chime hung inside the great bell (hidden) | [Chime of Opening](https://curseofstrahd.app/wiki/items/magic-items.md#chime-of-opening) | Search: Perception DC 15 |
 | 19 | a stone bench heaped with feathers (hidden) | [Feather Token (Whip)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-whip) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 7 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

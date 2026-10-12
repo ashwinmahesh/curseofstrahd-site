@@ -50,7 +50,7 @@ An open stretch of the Old Svalich Road between ditches and stone field walls: w
 | 5 | a loose board in the broken cart (hidden) | [Dust of Dryness](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-dryness) | Search: Investigation DC 12 |
 | 6 | a gap in the field wall (hidden) | [Gloves of Swimming and Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-swimming-and-climbing) | Search: Perception DC 14 |
 
-Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

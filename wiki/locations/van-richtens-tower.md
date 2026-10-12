@@ -68,7 +68,7 @@ Cold, still water; a half-drowned stone causeway out to the island; a round towe
 | 11 | a satchel wedged behind the lookout rock (hidden) | [Eyes of the Eagle](https://curseofstrahd.app/wiki/items/magic-items.md#eyes-of-the-eagle) | Search: Perception DC 14 |
 | 12 | something dropped beside the path (hidden) | [Caltrops](https://curseofstrahd.app/wiki/items/equipment.md#caltrops) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

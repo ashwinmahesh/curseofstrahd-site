@@ -78,7 +78,7 @@ Stone stairs wind up inside the wall. Every room is tidy in the way of a man who
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Van Richtens Tower (van_richten_strongbox)
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -59,7 +59,7 @@ The only shop in the village, immaculate and overpriced: rope, oil, rations and 
 |---|---|---|---|
 | 5 | Strongbox | 30 gp | lock DC 15 |
 
-Containers can also hold random magic items, rolled for a party of level 3 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Locked and secret doors
 

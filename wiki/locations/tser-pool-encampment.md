@@ -84,7 +84,7 @@ The Old Svalich Road runs past a clearing on the edge of the Svalich Woods. In i
 | 30 | something dropped behind the stage (hidden) | [Bell](https://curseofstrahd.app/wiki/items/equipment.md#bell) | Search: Perception DC 12 |
 | 32 | a false floor in the broken cart (hidden) | [Bag of Holding](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-holding) | Search: Investigation DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

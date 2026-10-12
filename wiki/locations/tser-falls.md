@@ -61,7 +61,7 @@ A footpath climbs north through the pines to the lip of a gorge. The river goes 
 | 9 | a hollow in the fallen trunk (hidden) | [Bag of Tricks (Rust)](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-tricks-rust) | Search: Investigation DC 12 |
 | 10 | an axe left in a woodcutter's stump (hidden) | [+1 Handaxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Perception DC 12 |
 
-Containers can also hold random magic items, rolled for a party of level 4 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

@@ -4,18 +4,18 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Random Treasure - Curse of Strahd Wiki</title>
-<meta name="description" content="Random magic item placement (story/treasure.gd, ADR 0012). The party&#x27;s level in each region (from the region design docs) decides the rarities,...">
+<meta name="description" content="What you find besides the fixed treasure the story puts in place: random magic items and potions in containers, and the spoils of fights. Each place...">
 <meta name="theme-color" content="#120709">
 <link rel="canonical" href="https://curseofstrahd.app/wiki/items/random-treasure.html">
 <meta property="og:type" content="article">
 <meta property="og:site_name" content="Curse of Strahd - An unofficial fan game">
 <meta property="og:title" content="Random Treasure - Curse of Strahd Wiki">
-<meta property="og:description" content="Random magic item placement (story/treasure.gd, ADR 0012). The party&#x27;s level in each region (from the region design docs) decides the rarities,...">
+<meta property="og:description" content="What you find besides the fixed treasure the story puts in place: random magic items and potions in containers, and the spoils of fights. Each place...">
 <meta property="og:url" content="https://curseofstrahd.app/wiki/items/random-treasure.html">
 <meta property="og:image" content="https://curseofstrahd.app/media/og.jpg">
 <meta name="robots" content="max-image-preview:large">
 <link rel="alternate" type="text/markdown" href="/wiki/items/random-treasure.md" title="This page as Markdown">
-<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://curseofstrahd.app/wiki/items/random-treasure.html", "url": "https://curseofstrahd.app/wiki/items/random-treasure.html", "name": "Random Treasure", "description": "Random magic item placement (story/treasure.gd, ADR 0012). The party's level in each region (from the region design docs) decides the rarities,...", "inLanguage": "en", "dateModified": "2026-10-11", "isPartOf": {"@type": "WebSite", "name": "Curse of Strahd Wiki", "url": "https://curseofstrahd.app/wiki/"}, "about": {"@type": "VideoGame", "name": "Curse of Strahd (an unofficial fan game)", "url": "https://curseofstrahd.app/"}, "encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": "https://curseofstrahd.app/wiki/items/random-treasure.md"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Wiki", "item": "https://curseofstrahd.app/wiki/"}, {"@type": "ListItem", "position": 2, "name": "Random Treasure", "item": "https://curseofstrahd.app/wiki/items/random-treasure.html"}]}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "WebPage", "@id": "https://curseofstrahd.app/wiki/items/random-treasure.html", "url": "https://curseofstrahd.app/wiki/items/random-treasure.html", "name": "Random Treasure", "description": "What you find besides the fixed treasure the story puts in place: random magic items and potions in containers, and the spoils of fights. Each place...", "inLanguage": "en", "dateModified": "2026-10-12", "isPartOf": {"@type": "WebSite", "name": "Curse of Strahd Wiki", "url": "https://curseofstrahd.app/wiki/"}, "about": {"@type": "VideoGame", "name": "Curse of Strahd (an unofficial fan game)", "url": "https://curseofstrahd.app/"}, "encoding": {"@type": "MediaObject", "encodingFormat": "text/markdown", "contentUrl": "https://curseofstrahd.app/wiki/items/random-treasure.md"}}, {"@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Wiki", "item": "https://curseofstrahd.app/wiki/"}, {"@type": "ListItem", "position": 2, "name": "Random Treasure", "item": "https://curseofstrahd.app/wiki/items/random-treasure.html"}]}]}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700;900&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
@@ -26,7 +26,7 @@
 <link rel="apple-touch-icon" href="/media/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 </head>
-<body class="wiki-body wiki-type-page">
+<body class="wiki-body wiki-type-guide">
 <a class="skip" href="#main">Skip to the content</a>
 
 <header class="nav is-solid" id="nav">
@@ -60,8 +60,24 @@
     <div class="wiki-layout has-toc">
       <article class="wiki-page">
 <h1 id="random-treasure">Random Treasure</h1>
-<p>Random magic item placement (story/treasure.gd, ADR 0012). The party's level in each region (from the region design docs) decides the rarities, following the 2024 DMG's treasure guidance: tier 1 (levels 1-4) mostly common and uncommon items, tier 2 (levels 5-10) mostly uncommon and rare with the odd very rare one. A location can name its own level with "treasure_level". No common items (owner, 2026-10-08: early commons become uncommon, later ones rarer): the DMG's common share goes to uncommon.</p>
+<p>What you find besides the fixed treasure the story puts in place: random magic items and potions in containers, and the spoils of fights. Each place rolls its share the first time you come, from your playthrough's seed, and keeps it.</p>
+<h2 id="in-a-places-containers">In a place's containers</h2>
+<ul>
+<li><strong>Magic items:</strong> none 10% of the time, one 40%, two 50%; a place with 3 or more containers gets one more 50% of the time.</li>
+<li><strong>Potions:</strong> none 25% of the time, one 50%, two 25%. Each is a healing potion for your tier 60% of the time, else any potion of the place's rarity.</li>
+</ul>
+<h2 id="fights">Fights</h2>
+<p>Story fights you win leave coins by each foe's Challenge Rating and one find (a healing potion, a gem or a spell scroll). Beasts, plants, oozes and mindless creatures carry no coins. Strahd's visits, road fights and arrests leave only their own spoils.</p>
+<h2 id="rarity-by-party-level">Rarity by party level</h2>
+<div class="wiki-table"><table><thead><tr><th>Party level</th><th>Uncommon</th><th>Rare</th><th>Very rare</th><th>Legendary</th></tr></thead><tbody>
+<tr><td>1–2</td><td>100%</td><td></td><td></td><td></td></tr>
+<tr><td>3–4</td><td>95%</td><td>5%</td><td></td><td></td></tr>
+<tr><td>5–7</td><td>75%</td><td>25%</td><td></td><td></td></tr>
+<tr><td>8–10</td><td>55%</td><td>38%</td><td>7%</td><td></td></tr>
+<tr><td>11–20</td><td>25%</td><td>45%</td><td>25%</td><td>5%</td></tr>
+</tbody></table></div>
 <h2 id="party-level-by-region">Party level by region</h2>
+<p>Each region's containers roll for this party level (a place can set its own).</p>
 <div class="wiki-table"><table><thead><tr><th>Region</th><th>Level</th></tr></thead><tbody>
 <tr><td><a href="/wiki/regions/into-the-mists.html">Into the Mists</a></td><td>1</td></tr>
 <tr><td><a href="/wiki/regions/death-house.html">Death House</a></td><td>2</td></tr>
@@ -84,61 +100,10 @@
 <tr><td><a href="/wiki/regions/the-amber-temple.html">The Amber Temple</a></td><td>10</td></tr>
 <tr><td><a href="/wiki/regions/castle-ravenloft.html">Castle Ravenloft</a></td><td>10</td></tr>
 </tbody></table></div>
-<h2 id="rarity-by-level">Rarity By Level</h2>
-<pre><code>[
- {
-  &quot;max_level&quot;: 2,
-  &quot;weights&quot;: {
-   &quot;uncommon&quot;: 100
-  }
- },
- {
-  &quot;max_level&quot;: 4,
-  &quot;weights&quot;: {
-   &quot;uncommon&quot;: 95,
-   &quot;rare&quot;: 5
-  }
- },
- {
-  &quot;max_level&quot;: 7,
-  &quot;weights&quot;: {
-   &quot;uncommon&quot;: 75,
-   &quot;rare&quot;: 25
-  }
- },
- {
-  &quot;max_level&quot;: 10,
-  &quot;weights&quot;: {
-   &quot;uncommon&quot;: 55,
-   &quot;rare&quot;: 38,
-   &quot;very_rare&quot;: 7
-  }
- },
- {
-  &quot;max_level&quot;: 20,
-  &quot;weights&quot;: {
-   &quot;uncommon&quot;: 25,
-   &quot;rare&quot;: 45,
-   &quot;very_rare&quot;: 25,
-   &quot;legendary&quot;: 5
-  }
- }
-]</code></pre>
-<h2 id="items-per-location">Items Per Location</h2>
-<pre><code>{
- &quot;none&quot;: 20,
- &quot;one&quot;: 50,
- &quot;two&quot;: 30,
- &quot;extra_if_containers&quot;: 4,
- &quot;extra_chance&quot;: 30
-}</code></pre>
-<h2 id="group-weights">Group Weights</h2>
-<pre><code>{
- &quot;spell_scroll&quot;: 4,
- &quot;potion&quot;: 3
-}</code></pre>
+<details class="callout callout-abstract"><summary class="callout-title"><span class="callout-icon" aria-hidden="true">✦</span>How the rolls work</summary><p>Random magic item placement (story/treasure.gd, ADR 0012). The party's level in each region (from the region design docs) decides the rarities, following the 2024 DMG's treasure guidance: tier 1 (levels 1-4) mostly common and uncommon items, tier 2 (levels 5-10) mostly uncommon and rare with the odd very rare one. A location can name its own level with "treasure_level". No common items (owner, 2026-10-08: early commons become uncommon, later ones rarer): the DMG's common share goes to uncommon.</p></details>
+<blockquote><p>A roll picks a rarity, then a theme (arcana, armaments, implements, relics) evenly, then an item in it by weight. A theme whose pool at that rarity weighs less than theme_full_weight gets a share in proportion, so a theme with one or two items doesn't hand them out in a quarter of all rolls (owner, 2026-10-12).</p></blockquote>
       </article>
-      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#party-level-by-region">Party level by region</a></li><li class="lv2"><a href="#rarity-by-level">Rarity By Level</a></li><li class="lv2"><a href="#items-per-location">Items Per Location</a></li><li class="lv2"><a href="#group-weights">Group Weights</a></li></ul></nav>
+      <nav class="wiki-toc" aria-label="On this page"><p class="wiki-toc-title">On this page</p><ul><li class="lv2"><a href="#in-a-places-containers">In a place&#x27;s containers</a></li><li class="lv2"><a href="#fights">Fights</a></li><li class="lv2"><a href="#rarity-by-party-level">Rarity by party level</a></li><li class="lv2"><a href="#party-level-by-region">Party level by region</a></li></ul></nav>
     </div>
   </div>
 </main>

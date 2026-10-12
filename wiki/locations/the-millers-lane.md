@@ -58,7 +58,7 @@ The rutted lane between the Old Svalich Road and the windmill on the crag: pines
 | 6 | Something in the ditch (hidden) | [Potion of Gaseous Form](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-gaseous-form) | Search: Perception DC 13 |
 | 7 | an offering behind the wayside shrine (hidden) | [Potion of Resistance (Poison)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-poison) | Search: Perception DC 13 |
 
-Containers can also hold random magic items, rolled for a party of level 6 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 6 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

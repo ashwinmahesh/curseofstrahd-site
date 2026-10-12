@@ -40,5 +40,6 @@ A dead-looking tree that walks: long branches batter, roots grab and crush, and 
 ## Where you meet it
 
 - [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [The Fourth Sister](https://curseofstrahd.app/wiki/quests/the-fourth-sister.md) · *Granny Ash comes across the lane with her dogs at her heels, and in the hag garden behind her the blights…*
+- [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md): *The vines on both sides of the lane shiver, though there's no wind. Then, row by row, they stand up.*
 - [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md): [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md) · *The Seventh Row stands up out of the ground, and the vines in the rows on either side pull their roots up…*
 - [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *The humming breaks into a shout. The effigy's chest splits like a log in frost, and out of it, unfolding,…*

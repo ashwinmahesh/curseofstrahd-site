@@ -68,7 +68,7 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 | 9 | a hollow in the empty plinth (hidden) | [Ring of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-resistance-cold) | Search: Investigation DC 16 |
 | 10 | a hidden drawer in the dragon's desk (hidden) | [Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection) | Search: Investigation DC 16 |
 
-Containers can also hold random magic items, rolled for a party of level 8 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ### Skill checks
 

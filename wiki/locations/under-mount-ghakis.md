@@ -63,7 +63,7 @@ A tunnel into the mountain, warm as a kitchen and getting warmer. The rock sweat
 | 4 | the keepers' strongbox | [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire) ×2, 300 gp | lock DC 16 |
 | 5 | the captain's rack | [Dragon Slayer](https://curseofstrahd.app/wiki/items/magic-items.md#dragon-slayer) | open it |
 
-Containers can also hold random magic items, rolled for a party of level 10 the first time you come here ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
 ## Fights
 
