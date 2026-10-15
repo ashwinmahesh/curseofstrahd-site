@@ -16,7 +16,7 @@ A hollow in the pines above the Village of Barovia where charcoal was burned onc
 
 A clearing in the pines, black underfoot with old charcoal, a stream at the edge, and a little hut of logs and turf with its door patched shut from the inside.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc woodcutters hollow overview](https://curseofstrahd.app/wiki/img/shots/loc-woodcutters-hollow-overview.webp)
 *The whole place from above.*
@@ -43,7 +43,7 @@ A clearing in the pines, black underfoot with old charcoal, a stream at the edge
 ### Close up
 
 ![loc woodcutters hollow spot1](https://curseofstrahd.app/wiki/img/shots/loc-woodcutters-hollow-spot1.webp)
-*Agafia*
+*Agafia, Herbs drying*
 
 ## People
 
@@ -57,16 +57,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 4 | Herbs drying | Nature 12 | Name the drying herbs | heals 1d6 |
+| 3 | Herbs drying | Nature 12 | Name the drying herbs | heals 1d6 |
 
 ## Fights
 
-- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level. Part of [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md).
+- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md). Scales with your level. Part of [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP; surprise: enemies)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)) (700 XP; surprise: enemies)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (750 XP)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) (875 XP; surprise: enemies)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP; surprise: enemies)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (900 XP)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP)
 
 ## Quests and lore
 

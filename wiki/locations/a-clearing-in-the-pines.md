@@ -12,7 +12,7 @@
 
 A woodcutters' clearing beside the road through the Svalich Woods: stumps, a stacked woodpile, a cold fire and a broad old oak nobody cut, under a rocky rise. A random fight on a forest road may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc forest clearing overview](https://curseofstrahd.app/wiki/img/shots/loc-forest-clearing-overview.webp)
 *The whole place from above.*

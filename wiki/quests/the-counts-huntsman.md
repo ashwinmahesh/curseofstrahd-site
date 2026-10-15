@@ -8,7 +8,7 @@
 > **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md) · level 4
 > **Given by:** [Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md)
 > **Starts at:** [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
-> **Rewards:** [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence), 300 gp
+> **Rewards:** [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence), [Oathbow](https://curseofstrahd.app/wiki/items/magic-items.md#oathbow), 300 gp
 
 ## Summary
 
@@ -37,17 +37,17 @@ Although the region is a level-4 area, this fight is built for a level-8 party. 
 
    | Party level | Hounds called | Hounds not called |
    |---|---|---|
-   | 10+ | Huntsman, his mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 4 hounds | Huntsman, mare, 8 hounds |
-   | 9 | Huntsman, mare, 3 hounds | Huntsman, mare, 6 hounds |
-   | 8 | Huntsman, mare, 2 hounds | Huntsman, mare, 4 hounds |
+   | 10+ | Huntsman (300 HP), his mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 5 hounds | Huntsman (545 HP), 7 mares, 8 hounds |
+   | 9 | Huntsman (250 HP), mare, 5 hounds | Huntsman (520 HP), 7 mares, 6 hounds |
+   | 8 | Huntsman (470 HP), mare, 3 hounds | Huntsman (430 HP), mare, 6 hounds |
    | below 8 | Huntsman (130 HP), 1 hound | Huntsman (130 HP), 3 hounds |
 
-   The hounds are [Dire Wolves](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) himself has AC 17 and 165 hit points, attacks twice a turn with a reach-10 spear or black arrows (each hit adds 2d8 necrotic), resists necrotic, shakes off two failed saves a day, and between your turns can loose an arrow or slip away without opportunity attacks. His horn frightens everyone within 60 feet who fails a DC 16 Wisdom save. Spread out so the horn doesn't catch everyone, and kill or ignore the hounds based on how many you called off.
+   The hounds are [Dire Wolves](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) himself has AC 17 and the hit points in the table, attacks twice a turn with a reach-10 spear or black arrows (each hit adds 2d8 necrotic), resists necrotic, shakes off two failed saves a day, and between your turns can loose an arrow or slip away without opportunity attacks. His horn frightens everyone within 60 feet who fails a DC 16 Wisdom save. Spread out so the horn doesn't catch everyone, and kill or ignore the hounds based on how many you called off.
 5. **Search his saddlebag.** When he falls, "The Huntsman's saddlebag" appears in the road. Examine it to finish the quest.
 
 ### Choices and endings
 
-There's one ending: you stand, you win, and the hounds' ghosts walk off in every direction. The saddlebag holds **300 gp** and a [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence). Thistle (+3), Godrick (+2), Liriel (+1), Wren (+1) and Ratatouille (+1) approve. Beating him also adds 1 point to Strahd's attention on you. Afterwards Paraschiva says the woods have gone quiet.
+There's one ending: you stand, you win, and the hounds' ghosts walk off in every direction. The saddlebag holds **300 gp** and a [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence), and his black bow lies across the saddle: an [Oathbow](https://curseofstrahd.app/wiki/items/magic-items.md#oathbow). Thistle (+3), Godrick (+2), Liriel (+1), Wren (+1) and Ratatouille (+1) approve. Beating him also adds 1 point to Strahd's attention on you. Afterwards Paraschiva says the woods have gone quiet.
 
 ### If you're stuck
 
@@ -58,6 +58,7 @@ There's one ending: you stand, you win, and the hounds' ghosts walk off in every
 ## Rewards
 
 - [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence)
+- [Oathbow](https://curseofstrahd.app/wiki/items/magic-items.md#oathbow)
 - 300 gp
 
 **What your companions think**
@@ -72,14 +73,14 @@ There's one ending: you stand, you win, and the hounds' ghosts walk off in every
 
 - *The Huntsman sets the pack on you with one note of the horn, and the hounds come up the road in silence.*, in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 10: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 4 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6500 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 10: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 8 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (7300 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 9: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 3 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6300 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 9: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 6 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6900 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 8: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6100 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 8: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 4 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6500 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (5200 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md), 3 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (5600 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 10: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (300 HP), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 5 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6700 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 10: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (545 HP), 7 × The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 8 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (11500 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 9: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (250 HP), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 5 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6700 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 9: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (520 HP), 7 × The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 6 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (11100 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called and level ≥ 8: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (470 HP), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 3 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6300 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 8: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (430 HP), The Huntsman's Mare ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 6 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (6900 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when hounds called: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (130 HP), Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (5200 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**: [The Count's Huntsman](https://curseofstrahd.app/wiki/bestiary/the-counts-huntsman.md) (130 HP), 3 × Hound of the Hunt ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) (5600 XP)
 
 ## Journal
 
@@ -104,3 +105,6 @@ There's one ending: you stand, you win, and the hounds' ghosts walk off in every
 > [!example]- Cutscenes
 > **The Count's Huntsman**: The Huntsman and his hounds come up the east road at moonrise.
 > ![sq huntsman](https://curseofstrahd.app/wiki/img/cutscenes/sq-huntsman.webp)
+>
+> **The Hunt Runs**: The silent hounds pour down the east road at the crossroads as the Huntsman lifts his horn.
+> ![hunt begins](https://curseofstrahd.app/wiki/img/cutscenes/hunt-begins.webp)

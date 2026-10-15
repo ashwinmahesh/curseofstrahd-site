@@ -13,7 +13,7 @@
 
 The family's private floor around the balcony: the master suite and bathroom, a storage room with a broom that doesn't like being touched, the nursemaid's suite and the nursery where her specter waits for a baby who is never coming back. The stair to the attic is hidden: behind the balcony's carved paneling, guarded by a suit of armor, or behind the nursemaid's mirror.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc death house third overview](https://curseofstrahd.app/wiki/img/shots/loc-death-house-third-overview.webp)
 *The whole place from above.*
@@ -81,13 +81,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md).
+- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Black Armor ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)), 2 × Balcony Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
 
-- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md).
+- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): The Nursemaid ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
 
-- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): [Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md).
+- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md), [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
 
-- *Every blade on the floor has woken up.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md).
+- *Every blade on the floor has woken up.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Ceremonial Blade ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Dress Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)).
 
 ## Quests and lore
 

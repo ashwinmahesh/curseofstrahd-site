@@ -99,9 +99,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
+- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): 2 × Vistani horse-master ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × Vistana with a knife ([Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md)), 2 × Vistana archer ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
 
-- *The camp is waiting for you outside the tent: no music, no fire-talk, only knives and drawn bows.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
+- *The camp is waiting for you outside the tent: no music, no fire-talk, only knives and drawn bows.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): 2 × Vistani horse-master ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × Vistana with a knife ([Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md)), 2 × Vistana archer ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
 
 ## Quests and lore
 

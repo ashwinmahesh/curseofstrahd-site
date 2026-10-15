@@ -21,7 +21,7 @@ Take the Old Svalich Road west from Vallaki to [Krezk](https://curseofstrahd.app
 
 ![loc krezk 1](https://curseofstrahd.app/wiki/img/shots/loc-krezk-1.webp)
 
-If you arrive at night while the gate is shut, wolves come up the road behind you before you reach him: a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) and 2 [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) at level 7, or a werewolf, 2 dire wolves and a wolf below that. Kill the werewolf first: it's the one that hits hardest, and the wolves all fight better while a packmate stands next to you. Winning gives you a reason of your own (below).
+If you arrive at night while the gate is shut, wolves come up the road behind you before you reach him: 4 [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 6 [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) and 5 [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) at level 7, or 4 werewolves, 5 dire wolves and 4 wolves below that. Kill the werewolves first: they hit hardest, and the wolves all fight better while a packmate stands next to you. Winning gives you a reason of your own (below).
 
 ### Step by step
 

@@ -29,7 +29,7 @@ Inside [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)'s wall (see [T
 3. **Go to Berez.** Travel to [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (3 hours from Vallaki, 2 from the Wizard of Wines). The Rag Queen is the scarecrow taller than all the others, in the scarecrow field around Baba Lysaga's great stump. Be warned: unless you've already dealt with Lysaga (see [The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)), walking into the field sets off her ordinary scarecrows first.
 4. **Burn the Rag Queen.** Examine the tall scarecrow and choose *"(Burn it.)"*. If Dragos is free, you can see Vera's face moving in the stitching. Every other scarecrow lifts its head, and the fight is on:
    - level 10: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md) (AC 16, 260 HP), 3 Drowned Brides ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)s), 6 Straw Grooms ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)s) and a [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 10,500 XP;
-   - level 9: the Queen, 2 brides and 4 grooms, 8,900 XP;
+   - level 9: the Queen at 715 HP, 2 brides and 4 grooms, 8,900 XP;
    - below that: the Queen at 200 HP, one bride and 4 grooms.
 
    This is a boss fight built for level 9 or 10, so don't rush it at 7. The Queen is vulnerable to fire, and she restitches 15 HP at the start of every turn unless she took fire damage since her last one, so burn her every round. The scarecrows are weak to fire too. Her claws and glare frighten, and the glare can paralyse (Wisdom save DC 16). She shrugs off two failed saves a day and rakes again between your turns. Winning moves the quest to **Burned**.
@@ -63,8 +63,8 @@ There's one ending, **Vera Freed**. Dragos gives you 500 gp of the brides' dowri
 - *The Rag Queen steps down off her post, twice the height of a man, all rotten silk and lace and faces in the…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md), [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 10: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md), 3 × A Drowned Bride ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 6 × A Straw Groom ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (10500 XP)
-> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md), 2 × A Drowned Bride ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 4 × A Straw Groom ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)) (8900 XP)
-> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md), A Drowned Bride ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 4 × A Straw Groom ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)) (7800 XP)
+> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md) (715 HP), 2 × A Drowned Bride ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 4 × A Straw Groom ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)) (8900 XP)
+> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [The Rag Queen](https://curseofstrahd.app/wiki/bestiary/the-rag-queen.md) (200 HP), A Drowned Bride ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 4 × A Straw Groom ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)) (7800 XP)
 
 ## Journal
 
@@ -97,5 +97,8 @@ There's one ending, **Vera Freed**. Dragos gives you 500 gp of the brides' dowri
 - **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md), [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md)
 
 > [!example]- Cutscenes
+> **A Goat, Then a Man**: In Krezk's goat pen the curse comes off Dragos like a wet coat and a bearded man kneels in the straw.
+> ![dragos unwound](https://curseofstrahd.app/wiki/img/cutscenes/dragos-unwound.webp)
+>
 > **The Rag Queen**: The Rag Queen steps down off her post in Berez's scarecrow field.
 > ![sq rag queen](https://curseofstrahd.app/wiki/img/cutscenes/sq-rag-queen.webp)

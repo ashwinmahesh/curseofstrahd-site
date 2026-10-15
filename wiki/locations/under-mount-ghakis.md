@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc ghakis lair 1](https://curseofstrahd.app/wiki/img/shots/loc-ghakis-lair-1.webp)
 > **Region:** [Mount Ghakis](https://curseofstrahd.app/wiki/regions/mount-ghakis.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md)
 > **Quests:** [The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md)
@@ -16,7 +16,7 @@ The count's caves under the north shoulder of Mount Ghakis: the keepers' post, t
 
 A tunnel into the mountain, warm as a kitchen and getting warmer. The rock sweats. Every so often the whole floor trembles, very slightly, in and out, like a sleeper's chest.
 
-**Resting:** no Every few minutes the floor shivers with her breathing, and the heat never lets up. Nobody sleeps in here.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Every few minutes the floor shivers with her breathing, and the heat never lets up. Nobody sleeps in here.
 
 ![loc ghakis lair overview](https://curseofstrahd.app/wiki/img/shots/loc-ghakis-lair-overview.webp)
 *The whole place from above.*
@@ -54,7 +54,7 @@ A tunnel into the mountain, warm as a kitchen and getting warmer. The rock sweat
 ## People
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Sarkhaza](https://curseofstrahd.app/wiki/people/sarkhaza.md)**, The hoard (#3): when not sarkhaza slain
+> - **[Sarkhaza](https://curseofstrahd.app/wiki/people/sarkhaza.md)**, The hoard (#3): when not sarkhaza slain and wyrm chain drawn; or when not sarkhaza slain and not wyrm chain drawn
 
 ## What to find
 
@@ -67,22 +67,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md).
+- *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): The Vent-Fire ([Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md), 150 HP), 2 × A Burnt Keeper ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 3 × A Keeper ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)).
 
-- *The collar falls off onto the gold. Sarkhaza rises, all of her, and the cavern is too small for her, and she…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md). Scales with your level. Part of [The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md).
+- *The collar falls off onto the gold. Sarkhaza rises, all of her, and the cavern is too small for her, and she…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level. Part of [The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (212 HP) (10000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (375 HP) (10000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (165 HP), 6 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (14200 XP; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (125 HP) (10000 XP; lair; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (155 HP) (10000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (155 HP) (10000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; lair; surprise: enemies)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 6 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (14200 XP; lair)
 
 ## Quests and lore
 

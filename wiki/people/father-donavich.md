@@ -24,6 +24,7 @@ The village priest, starving and sleepless, praying over the son he has locked i
 ## Shop and services
 
 - Buys and sells: [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md) lists the stock and prices.
+- Raise Dead
 
 ## Quests
 

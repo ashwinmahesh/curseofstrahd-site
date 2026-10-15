@@ -7,7 +7,7 @@
 > **Region:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/regions/the-abbey-of-st-markovia.md) · level 7
 > **Given by:** [Mother](https://curseofstrahd.app/wiki/people/mother.md)
 > **Starts at:** [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md)
-> **Rewards:** [Boots of Levitation](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-levitation)
+> **Rewards:** [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots)
 
 ## Summary
 
@@ -25,7 +25,7 @@ She won't talk while the Abbot is still "improving": the quest really opens only
 
 1. **Her boys first.** Ask *"What do you need first?"*. She won't leave the loud ones in the cells behind bars. The cells line the wards' long corridor (use the cell bars):
    - *Animal Handling DC 13* or *Persuasion DC 14* lets them out calmly and they run up the mountain. She's glad.
-   - A failed roll, or *"Draw the pins, and stand ready to fight"*, starts a fight with 2 Belview Brutes ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s) and 6 [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) at level 7, or 1 Brute and 4 Mongrelfolk below that. She grieves, but she still goes.
+   - A failed roll, or *"Draw the pins, and stand ready to fight"*, starts a fight with 11 Belview Brutes ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s) and 16 [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) at level 7, or 1 Brute, 14 Berserkers and 1 Mongrelfolk below that. She grieves, but she still goes.
 
    Either way, go back and ask her again so she knows it's done. If you dealt with the cells before you met her, she knows already.
 2. **Cut the wire.** *Sleight of Hand DC 14* (a stitch at a time) or *Medicine DC 13* (the way a surgeon would). Pass, and the wings open cleanly. Fail, and the wire still comes out, but painfully, with blood on the feathers. Either way she's free.
@@ -37,7 +37,7 @@ She won't talk while the Abbot is still "improving": the quest really opens only
 
 ### Choices and endings
 
-There's one ending. Clovin brings you her eighth gift from before the wings: [Boots of Levitation](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-levitation). Wren +2, Liriel +2, Godrick +2, Ratatouille +2, Thistle and Kip +1. Afterwards she flies down to Krezk on Sundays and lands on [Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md)'s roof, Pavel has had the roof mended twice and says he'd mend it every week, and Krezk's watchman has decided to be very calm about it.
+There's one ending. Clovin brings you her eighth gift from before the wings: [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots). Wren +2, Liriel +2, Godrick +2, Ratatouille +2, Thistle and Kip +1. Afterwards she flies down to Krezk on Sundays and lands on [Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md)'s roof, Pavel has had the roof mended twice and says he'd mend it every week, and Krezk's watchman has decided to be very calm about it.
 
 ### If you're stuck
 
@@ -46,7 +46,7 @@ There's one ending. Clovin brings you her eighth gift from before the wings: [Bo
 
 ## Rewards
 
-- [Boots of Levitation](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-levitation)
+- [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots)
 
 **What your companions think**
 
@@ -66,7 +66,7 @@ There's one ending. Clovin brings you her eighth gift from before the wings: [Bo
 > **Asked**: Mother's ninth gift is a pair of great grey wings, stitched shut with silver wire so she wouldn't fly to heaven early. She doesn't want heaven. She wants Krezk, and her heron's legs won't take the mountain.
 > *Hint:* See to Mother's boys in the abbey's cells, take the wire out of her wings, then help her up to the courtyard wall.
 >
-> **Done** (the end: success): Mother flew down the mountain to Krezk, very badly, laughing the whole way. She gave us her eighth gift, a pair of boots she once floated about the ceiling in for a year.
+> **Done** (the end: success): Mother flew down the mountain to Krezk, very badly, laughing the whole way. She gave us her eighth gift, a pair of winged boots that once kept her up an hour at a time.
 
 > [!abstract]- Every skill check in its conversations
 > - Sleight of Hand DC 14: (Cut the silver wire, a stitch at a time, without cutting her.)
@@ -83,3 +83,6 @@ There's one ending. Clovin brings you her eighth gift from before the wings: [Bo
 > [!example]- Cutscenes
 > **Mother Flies**: Mother jumps from the abbey wall, and her wings catch.
 > ![sq mother flies](https://curseofstrahd.app/wiki/img/cutscenes/sq-mother-flies.webp)
+>
+> **Mother Comes Down in Krezk**: From the abbey wall, a small figure with great grey wings stands on a snowy roof in Krezk far below, and Clovin holds her old boots.
+> ![mother lands](https://curseofstrahd.app/wiki/img/cutscenes/mother-lands.webp)

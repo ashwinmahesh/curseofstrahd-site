@@ -82,11 +82,6 @@ For 8 hours, one willing creature you touch has Darkvision with a range of 150 f
 
 Touch a creature to grant Advantage on Death Saves. Once per turn, a melee attacker within 5 feet that hits it takes 2d4 Necrotic.
 
-## Detect Thoughts
-*Level 2 divination* · action · self · VS M · minutes 1 · Bard, Sorcerer, Wizard
-
-When you cast the spell you activate one of the effects below, and until it ends you can activate either one as a Magic action on later turns. Sense Thoughts: you sense the presence of thoughts within 30 feet of you belonging to creatures that know a language or are telepathic; you don't read them, you only know a thinking creature is there. 1 foot of stone, dirt or wood, 1 inch of metal, or a thin sheet of lead blocks this. Read Thoughts: choose one creature you can see within 30 feet, or one within 30 feet that you found with Sense Thoughts, and learn what is foremost in its mind right now (nothing, if it knows no languages and isn't telepathic). As a Magic action on your next turn you can probe deeper: the target makes a Wisdom saving throw. On a failure you learn its reasoning, its emotions and something that weighs heavily on its mind (such as a worry, love or hatred); on a success the spell ends. Either way the target knows you are probing its mind, and until you turn your attention away, it can take an action on its turn to make an Intelligence (Arcana) check against your spell save DC, ending the spell on a success.
-
 ## Disruptive Tune
 *Level 2 abjuration* · action · 120 ft · VS · minutes 1 · Bard, Sorcerer, Wizard
 

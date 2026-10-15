@@ -16,7 +16,7 @@ A low island of reeds and shingle out on Lake Zarovich that nobody fishes near, 
 
 A low island of reeds and shingle in the black water, a long row from the landing. Smoke, very faint, from somewhere in the middle, and fish drying on lines.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc zarovich reed island overview](https://curseofstrahd.app/wiki/img/shots/loc-zarovich-reed-island-overview.webp)
 *The whole place from above.*
@@ -50,7 +50,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Tough](https://curseofstrahd.app/wiki/bestiary/tough.md), [Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md). Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
+- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md)). Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
 
 ## Quests and lore
 

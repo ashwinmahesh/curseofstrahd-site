@@ -14,7 +14,7 @@
 
 A handsome townhouse kept as if its family stepped out a minute ago: entrance, main hall with the grand staircase, the Den of Wolves, kitchen and pantry, dining room. Quiet on the way in; it turns on the party after a refusal at the altar, bricking the front door and leaving only the dining room window.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc death house ground overview](https://curseofstrahd.app/wiki/img/shots/loc-death-house-ground-overview.webp)
 *The whole place from above.*
@@ -58,7 +58,7 @@ A handsome townhouse kept as if its family stepped out a minute ago: entrance, m
 | 7 | the sideboard | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×2, 30 gp | open it |
 | 8 | a loose stair riser | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 25 gp | open it; only when death house children at rest |
 | 11 | a lantern behind the coats (hidden) | [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern) | Search: Perception DC 12 |
-| 12 | a loose board under the card cabinet (hidden) | [Medallion of Thoughts](https://curseofstrahd.app/wiki/items/magic-items.md#medallion-of-thoughts) | Search: Investigation DC 13 |
+| 12 | a loose board under the card cabinet (hidden) | [Eyes of Minute Seeing](https://curseofstrahd.app/wiki/items/magic-items.md#eyes-of-minute-seeing) | Search: Investigation DC 13 |
 | 13 | something in the soot under the dumbwaiter (hidden) | [Driftglobe](https://curseofstrahd.app/wiki/items/magic-items.md#driftglobe) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
@@ -78,9 +78,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The hall's weapons come down off their hooks.*, in [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md), [Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md).
+- *The hall's weapons come down off their hooks.*, in [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): Hunting Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Hall Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)).
 
-- *The silverware wants a word.*, in [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md).
+- *The silverware wants a word.*, in [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): Carving Knife ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Cake Knife ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)).
 
 ## Quests and lore
 

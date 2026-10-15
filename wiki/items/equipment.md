@@ -943,7 +943,7 @@ Advantage on Strength checks where its leverage helps.
 A cut diamond worth 100 gp: what Revivify, Raise Dead and Chromatic Orb ask for. Diamonds count together toward a spell's cost.
 
 **Where to find it:**
-- Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Diamond Dust
 *gear* · 25 gp · **Cheat code:** `B87577`
@@ -951,7 +951,7 @@ A cut diamond worth 100 gp: what Revivify, Raise Dead and Chromatic Orb ask for.
 A pinch of diamond dust worth 25 gp, for Nondetection, Greater Restoration, Stoneskin or Glyph of Warding, which use it up.
 
 **Where to find it:**
-- Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Gold Dust
 *gear* · 25 gp · **Cheat code:** `07835D`
@@ -984,7 +984,7 @@ Set with Utilize; DC 13 Dex save or 1d4 Piercing damage and Speed 0, then held b
 A block of incense worth 10 gp, burned by Find Familiar, Divination and Legend Lore.
 
 **Where to find it:**
-- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ink
 *gear* · 10 gp · **Cheat code:** `35F1F3`
@@ -1100,7 +1100,7 @@ Thrown at a creature within 15 ft: Dex save or Restrained until it escapes.
 A black onyx worth 50 gp, used up by Death Armor.
 
 **Where to find it:**
-- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Paper
 *gear* · 2 sp · **Cheat code:** `AFD648`
@@ -1129,7 +1129,7 @@ One sheet; holds about 250 handwritten words.
 A pearl worth 100 gp: Identify needs one in hand.
 
 **Where to find it:**
-- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Pole
 *gear* · 5 cp · 7 lb · **Cheat code:** `17D4B3`
@@ -1169,7 +1169,7 @@ Utilize: tie a knot (DC 10 Sleight of Hand); can bind a Grappled, Incapacitated 
 A vial of ruby dust worth 50 gp, used up by Continual Flame.
 
 **Where to find it:**
-- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Salt and Silver
 *gear* · 25 gp · **Cheat code:** `1C00D7`
@@ -1177,7 +1177,7 @@ A vial of ruby dust worth 50 gp, used up by Continual Flame.
 Salt and powdered silver worth 25 gp a pouch, used up by Magic Circle.
 
 **Where to find it:**
-- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Shovel
 *gear* · 2 gp · 5 lb · **Cheat code:** `24E167`
@@ -1551,7 +1551,7 @@ Thrown flask: a Fiend or Undead within 20 ft makes a Dex save or takes 2d8 Radia
 - 3 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × In Vestry chest, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Vestry) (locked, with nothing to pick)
 - …and 9 more places
-- Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+- Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil
 *consumable* · 1 sp · 1 lb · **Cheat code:** `FD1AE7`
@@ -1644,32 +1644,31 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 - 3 × In a heap of offerings, [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md) (The vault of offerings)
 - Hidden: a loose hearthstone, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The servants' hall) (found with Search, Perception DC 14)
 - In the burgomaster's strongbox, [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (The burgomaster's house) (locked, DC 15)
-- 2 × In a shelf of humming jars, [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) (The kitchen) (only when lysaga dead or lysaga bargained or lysaga left broken)
 - In Burgomaster's strongbox, [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) (Study) (locked, DC 12)
 - 2 × In an iron-bound chest under the bones, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The forgotten ossuary)
 - 2 × In a glass cabinet, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (The portrait gallery)
-- In a footlocker, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Rahadin's room) (locked, DC 17)
 - In a satchel on the straw, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The north cells)
-- …and 42 more places
+- 2 × In a stoker's pouch, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The stoker's crawl)
+- Hidden: a loose stone, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The south cells) (found with Search, Perception DC 14)
+- …and 35 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ## Scroll
 
 ### Spell Scroll (Cantrip)
-*common, scroll* · 30 gp · **Cheat code:** `DB4D91`
+*common, scroll* · 10 gp · **Cheat code:** `DB4D91`
 
 Magic scroll holding one cantrip; cast it if it is on your class's spell list (DC 13, +5).
 
 **Where to find it:** no fixed place. It can turn up as random treasure ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)); or give it with its cheat code.
 
 ### Spell Scroll (Level 1)
-*common, scroll* · 50 gp · **Cheat code:** `19D570`
+*common, scroll* · 60 gp · **Cheat code:** `19D570`
 
 Magic scroll holding one level 1 spell; cast it if it is on your class's spell list (DC 13, +5).
 
 **Where to find it:**
 - 2 × In a warden's locker, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells) (locked, DC 14)
-- 2 × In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
 - In the commander's strongbox, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The commander's room) (locked, DC 18)
 - 2 × In a sealed reliquary with a slot in its lid, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The conjurer's crypt) (locked, DC 22; key: Arcane Focus (Wand))
 - In a chest under the straw, [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) (The nest) (locked, DC 15)

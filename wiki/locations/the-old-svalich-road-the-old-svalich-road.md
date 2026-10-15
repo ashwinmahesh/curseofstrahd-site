@@ -12,7 +12,7 @@
 
 An open stretch of the Old Svalich Road between ditches and stone field walls: where the road's random fights and meetings play out.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc road ambush overview](https://curseofstrahd.app/wiki/img/shots/loc-road-ambush-overview.webp)
 *The whole place from above.*
@@ -61,4 +61,4 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
+- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): 5 × Mourner ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Pallbearer ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Mourner in Black ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)).

@@ -16,7 +16,7 @@ The watch tower over the Tsolenka gate: a guardroom where dead soldiers still st
 
 The door from the road opens into a vestibule and the guardroom. The gatehouse with its winch is to the west, the barracks in the middle, the captain's room to the east behind its own door.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc tsolenka pass guard tower overview](https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-overview.webp)
 *The whole place from above.*
@@ -47,6 +47,9 @@ The door from the road opens into a vestibule and the guardroom. The gatehouse w
 ![loc tsolenka pass guard tower spot2](https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-spot2.webp)
 *the gate winch, the watch horn behind the winch*
 
+![loc tsolenka pass guard tower spot3](https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-spot3.webp)
+*a hauberk that never rusted*
+
 ## People
 
 > [!note]- Who turns up at points in the story (2)
@@ -75,10 +78,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Five grey soldiers draw five grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Part of [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md).
+- *Grey soldiers draw grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Part of [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (3500 XP)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (2800 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 7 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
 
 ## Quests and lore
 

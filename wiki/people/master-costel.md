@@ -9,6 +9,7 @@
 > **Starting attitude:** indifferent
 > **Pronouns:** he/him
 > **In a fight:** [Commoner](https://curseofstrahd.app/wiki/bestiary/commoner.md)
+> **Sells:** [see Merchants](https://curseofstrahd.app/wiki/items/merchants.md)
 
 ## About
 
@@ -18,6 +19,10 @@ A plump cloth merchant who has sold more yellow bunting this year than in the re
 
 > [!note]- At points in the story (1)
 > - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Market row, 08:00–17:00: when not weather is storm
+
+## Shop and services
+
+- Buys and sells: [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md) lists the stock and prices.
 
 ## Quests
 

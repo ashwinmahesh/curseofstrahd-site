@@ -44,4 +44,5 @@ A stitched-together brute: two shocking slams, healed by lightning, hampered by 
 ## Where you meet it
 
 - [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): *Vasilka comes down off the bier like a dancer finishing a bow, and the Belviews come after her with cleavers…*
+- [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*
 - [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md): [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md) · *They come over the north wall in a bunch, lanterns swinging: the Abbot's Brutes, hairy and patched, and…*

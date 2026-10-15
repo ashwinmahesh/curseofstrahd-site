@@ -98,5 +98,11 @@ There's one ending, *Dawn* (success): for the length of her prayer, real dawn co
 > **Out of the Mists**: The party steps out of the mist onto the Old Svalich Road, the sunless valley of Barovia below.
 > ![mists arrival](https://curseofstrahd.app/wiki/img/cutscenes/mists-arrival.webp)
 >
+> **Wolves Along the Road**: A line of silent wolves stands along the Old Svalich Road in the fog, watching the party like a picket.
+> ![mists wolves watch](https://curseofstrahd.app/wiki/img/cutscenes/mists-wolves-watch.webp)
+>
 > **Five Cards**: Madam Eva deals the Tarokka in a cross, and every candle leans at once.
 > ![madam eva reading](https://curseofstrahd.app/wiki/img/cutscenes/madam-eva-reading.webp)
+>
+> **Welcome Home, Old Man**: Father Lucian carries the bundle of St. Andral's bones down to the crypt like a sleeping child, and the church settles.
+> ![bones home](https://curseofstrahd.app/wiki/img/cutscenes/bones-home.webp)

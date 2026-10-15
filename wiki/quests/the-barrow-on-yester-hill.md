@@ -26,8 +26,8 @@ Before you answer, you can try **History DC 13** ("What do the druids do with th
 
 1. **Find the cairn.** Climb the barrow slope, the open side of the hill east of the path, to "A cairn of skulls" about halfway up. It's a heap taller than a man, every skull painted with a green eye and facing down the hill. You don't have to go through the wardens' camp, which is on the other side of the path. Before you've talked to Freydis, the cairn is just "somebody's grandparents", and you leave it alone.
 2. **Lift her out.** Pick "(Lift her out.)" and every painted eye turns to look at you. The cairn comes apart, and the dead the druids bound to watch the hill climb out of it and out of the mounds around it, led by [Silverjaw](https://curseofstrahd.app/wiki/people/silverjaw.md).
-   - **Not warned** (no History success): you're surprised. Silverjaw (a [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) with 140 HP), 3 Barrow-Wardens (wights) and 4 of the Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)s).
-   - **Warned:** no surprise, but more wights. Silverjaw, 4 Barrow-Wardens and 3 ghouls.
+   - **Not warned** (no History success): you're surprised. Silverjaw (a [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) with 140 HP), 3 Barrow-Wardens (wights), 5 of the Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)s) and a [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md).
+   - **Warned:** no surprise, but more wights. Silverjaw, 5 Barrow-Wardens and 5 ghouls.
 
    This is a Moderate fight at level 7, and the surprise round makes the unwarned version nastier than its numbers suggest. The wights' Life Drain (DC 13 Constitution save) lowers your maximum HP as well as hurting, and they resist necrotic damage. A ghoul's claw paralyses anyone who isn't an elf or undead and fails a DC 10 Constitution save, so kill the ghouls before they reach your casters. It doesn't matter whether the hill's druids are gone: what they bound stays bound. Winning moves the journal to *Fought*.
 3. **Carry her down.** Take the bones to Freydis at the foot of the hill. Tell her what got up out of the cairn, or tell her it was quiet; only her answer changes. She lays her grandmother in the oldest mound facing the mountains and sings her in. She gives you Silverjaw's [Blood Amulet](https://curseofstrahd.app/wiki/items/magic-items.md#blood-amulet) ("It drinks when you strike") and 150 gp. Liriel Dawnsong +3, Godrick Pendlebrook +2, and Thistle and Kip Smudgewick +1. The quest ends at *Done*.
@@ -56,10 +56,10 @@ There's one ending, and it pays the same either way. Afterwards Freydis stays by
 
 ## Fights
 
-- *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md). Scales with your level.
+- *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not barrow watch known: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (3600 XP; surprise: party)
-> - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (4100 XP)
+> - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not barrow watch known: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 3 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (4250 XP; surprise: party)
+> - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 5 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (5200 XP)
 
 ## Journal
 

@@ -30,7 +30,7 @@ Every festival week the children of Vallaki carry paper lanterns round the squar
    - **Turn back for her: Athletics DC 13.** "Take Bluto's old boat out to where she went down, and dive for her lantern." If you remembered her name in step 1, "Liliana. Your father remembers." leads to the same dive, with more of her story. If the dive works, you bring up her little tin lantern, she takes the light and goes out of her own accord, and Sandu is free (journal *Home*). If it fails, she sees you "rowing away" and the fight starts.
    - **"Let him go. He's cold."** She won't, and it comes to a fight.
    - **"Draw your weapons."** This starts the fight straight away.
-4. **The fight (`lantern_girl`).** This is the same at every level: the Lantern Girl (90 HP, AC 15, she flies) and two *Drowned Lights* ([Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md)s). Her Lure pulls a hero 20 feet toward her unless they pass a DC 14 Wisdom save. Her Drowning Light (recharge 5–6) hits everyone within 20 feet with 4d8 cold damage and restrains them unless they pass a DC 14 Constitution save, which halves the damage. She's immune to cold and resists necrotic, fire, acid and thunder, so use radiant, force or plain steel. The wisps can finish off a hero who's at 0 HP, so get downed friends back up quickly. Winning moves the journal to *Fought*. Then talk to Sandu on the jetty, and he asks to go home (*Home*).
+4. **The fight (`lantern_girl`).** This is the same at every level: the Lantern Girl (90 HP, AC 15, she flies) and eight *Drowned Lights* ([Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md)s). Her Lure pulls a hero 20 feet toward her unless they pass a DC 14 Wisdom save. Her Drowning Light (recharge 5–6) hits everyone within 20 feet with 4d8 cold damage and restrains them unless they pass a DC 14 Constitution save, which halves the damage. She's immune to cold and resists necrotic, fire, acid and thunder, so use radiant, force or plain steel. The wisps can finish off a hero who's at 0 HP, so get downed friends back up quickly. Winning moves the journal to *Fought*. Then talk to Sandu on the jetty, and he asks to go home (*Home*).
 5. **Bring Sandu home.** Go back to Sabin's stall by day (08:00–18:00). Sandu is waiting next to him. Talk to Sabin and the quest ends at *Done*. He gives you **40 gp** and the [Dream Weaver](https://curseofstrahd.app/wiki/items/magic-items.md#dream-weaver) Liliana made the week before she drowned.
 
 ### Choices and endings
@@ -60,7 +60,7 @@ Every festival week the children of Vallaki carry paper lanterns round the squar
 
 ## Fights
 
-- *The girl's light goes hard and white. The water round the jetty lights up from underneath, here and there, as…*, in [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md): [The Lantern Girl](https://curseofstrahd.app/wiki/bestiary/the-lantern-girl.md), [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md).
+- *The girl's light goes hard and white. The water round the jetty lights up from underneath, here and there, as…*, in [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md): [The Lantern Girl](https://curseofstrahd.app/wiki/bestiary/the-lantern-girl.md), 8 × A Drowned Light ([Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md)).
 
 ## Journal
 

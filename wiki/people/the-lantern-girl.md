@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/the-lantern-girl.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![will o wisp](https://curseofstrahd.app/wiki/img/portraits/will-o-wisp.webp)
+> ![lantern girl](https://curseofstrahd.app/wiki/img/portraits/lantern-girl.webp)
 > **Title:** Liliana, Who Went Down Holding It Up
 > **Region:** [Lake Zarovich](https://curseofstrahd.app/wiki/regions/lake-zarovich.md)
 > **Starting attitude:** indifferent

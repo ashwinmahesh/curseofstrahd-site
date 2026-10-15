@@ -29,6 +29,14 @@ The vampire lord of Barovia: crushing blows and a draining bite, charm, wolves a
 - **Senses:** darkvision 120 ft; passive Perception 22
 - **Languages:** Abyssal, Common, Draconic, Elvish, Giant, Infernal
 
+### Changing shape
+
+*It changes shape as an action, but not in sunlight or running water.*
+
+- **Bat.** A Tiny bat (Speed 5 ft., Fly 30 ft.): can bite, but can't speak or cast spells.
+- **Wolf.** A Medium wolf (Speed 40 ft.): fast, but no attacks and no speech.
+- **Mist.** A drifting cloud (Fly 20 ft., hovering): can't act or speak, can enter enemies' spaces, Advantage on Str, Dex and Con saves.
+
 ### Traits
 
 - **Shapechanger.** Unless he is in sunlight or running water, Strahd can spend his action to turn into a Tiny bat (Speed 5 ft., Fly 30 ft.), a Medium wolf (Speed 40 ft.) or a Medium cloud of mist (Fly 20 ft., hovering), or back into his true form. He keeps his Hit Points and other statistics apart from size and speed; what he wears changes with him, what he carries doesn't, and he can't speak as a bat or a wolf. As mist he can't act, speak or handle objects, weighs nothing, can drift into and stay in an enemy's space, slips through any gap air can pass (but not through water), has Advantage on Strength, Dexterity and Constitution saves, and nonmagical damage can't hurt him except sunlight's. He returns to his true form if he dies.
@@ -47,7 +55,7 @@ The vampire lord of Barovia: crushing blows and a draining bite, charm, wolves a
 - **Charm.** Strahd picks a Humanoid he can see within 30 feet. If it can see him, it makes a DC 17 Wisdom saving throw against this magic or has the Charmed condition. A charmed creature treats him as a trusted friend: it isn't under his control, but it takes his words and deeds in the best light and lets him bite it. Whenever Strahd or his allies harm it, it can repeat the save, ending the charm on a success. Otherwise the charm lasts 24 hours, until he is destroyed or on another plane, or until he ends it as a Bonus Action.
 - **Children of the Night (1/Day).** Unless the sun is up, Strahd calls the creatures of the night: 2d4 swarms of bats or swarms of rats, or, outdoors, 3d6 wolves instead. They come in 1d4 rounds, fight on his side and heed his spoken orders, and stay for an hour, until he dies, or until he sends them off as a Bonus Action. The engine calls bats indoors and at most 8 wolves outdoors.
 - **Ray of Frost.** Ranged spell attack: +10 to hit, range 60 ft. Hit: 9 (2d8) Cold damage, and the target's Speed is 10 feet lower until the start of his next turn (the slow is text only for the engine).
-- **Spellcasting.** Strahd casts spells as a 9th-level wizard, using Intelligence (spell save DC 18, +10 to hit with spell attacks). Cantrips (at will): Mage Hand, Prestidigitation, Ray of Frost. 1st level (4 slots): Comprehend Languages, Fog Cloud, Sleep. 2nd level (3 slots): Detect Thoughts, Gust of Wind, Mirror Image. 3rd level (3 slots): Animate Dead, Fireball, Nondetection. 4th level (3 slots): Blight, Greater Invisibility, Polymorph. 5th level (1 slot): Animate Objects, Scrying.
+- **Spellcasting.** Strahd casts spells as a 9th-level wizard, using Intelligence (spell save DC 18, +10 to hit with spell attacks). Cantrips (at will): Mage Hand, Prestidigitation, Ray of Frost. 1st level (4 slots): Comprehend Languages, Fog Cloud, Sleep. 2nd level (3 slots): Gust of Wind, Mirror Image. 3rd level (3 slots): Animate Dead, Fireball, Nondetection. 4th level (3 slots): Blight, Greater Invisibility, Polymorph. 5th level (1 slot): Animate Objects, Scrying.
 
 ### Lair actions
 
@@ -58,16 +66,16 @@ The vampire lord of Barovia: crushing blows and a draining bite, charm, wolves a
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around.*
-- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is standing beside his own coffin with his hands behind his back, like a man waiting for a late carriage.*
-- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy.*
+- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*
+- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is standing beside his own coffin with his hands behind his back, like a man waiting for a late carriage.…*
+- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy. In the coffin beside his,…*
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Strahd stands at the foot of his brother's tomb with one hand on the stone. He finishes what he was saying to…*
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *He is sitting on the edge of the dais between his mother and his father, and the shadows of the vault stand…*
 - [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *He is on the throne, one leg over the arm of it, as if he has been waiting a long time and enjoyed every…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *He is reading by the fire. He finishes the page before he looks up, and marks it with a ribbon, and the…*
 - [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him. Four of…*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*
 - [Castle Ravenloft, the Overlook](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-overlook.md): *A tall figure stands at the parapet with his back to you, looking down at the valley. He lets you come quite…*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *He is standing beside the heart with one hand resting on the glass, as a man rests a hand on a horse he is…*

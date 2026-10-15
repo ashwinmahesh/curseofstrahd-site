@@ -104,6 +104,26 @@ Share one Initiative roll and act one after another
 
 *Why:* 2024 DMG option for groups; keeps turns quick
 
+### XP for foes (XP levelling, owner's ask 2026-10-14)
+Each foe is worth 40% of its stat-block XP, split by a fixed four whoever travels (guests, a short party and a benched hero change nothing). A foe that withdraws, flees or is taken counts; a creature on the neutral side or a summon doesn't
+
+*Why:* The 2024 DMG gives the party the foes' full XP split among its members and any NPC who helped. The game's fights were scaled up for 2024 heroes and field far more foes than the book's, so by-the-book XP puts an average player two to three levels above the fights' tuning by the Wizard of Wines; 0.4 keeps them on it (tools/balance/xp_sim.py). A fixed split means nobody sends an ally home for more XP
+
+### Minor milestones in XP levelling
+A side or companion quest finished and a place found on the travel map are worth half of the DMG's Low XP budget for a character at the party's level; a new location a tenth, a find, a passed check, a trap noticed or disarmed a twentieth, a lore entry a fortieth. A region milestone is the High budget and a main-quest goal Moderate; a region's climax quest is paid by its milestone, not twice
+
+*Why:* The DMG says a minor milestone is a Low encounter and a major one High, but the game has hundreds of small finds; the shares keep an average player within a quarter level of the milestone levels (docs/plans/xp_mode.md §3, §5)
+
+### The floor and the ceiling (XP levelling)
+A region milestone lifts the party to the level milestone mode would give, and its XP can never reach the level two above that: one-time XP over the ceiling waits for the next milestone, and XP from the road, the camp and Strahd's visits over it is lost
+
+*Why:* Every fight and boss is tuned for the milestone level; the 2024 rules have no such limit. Without it a bare-minimum player ends four levels behind and a thorough one is at the cap by the Werewolf Den
+
+### Strahd's visits (XP levelling)
+A visit he withdraws from pays the High budget, not his stat block's 13,000 XP, which is paid when he is destroyed
+
+*Why:* He leaves each fight alive, so his CR 15 would otherwise be earned many times over
+
 ### Spirit Guardians as it's cast
 Creatures already in the Emanation when it's cast make the save then (Radiant or Necrotic damage, half on a success), as if it had entered their space
 
@@ -113,6 +133,11 @@ Creatures already in the Emanation when it's cast make the save then (Radiant or
 The 2014 rule, not the 2024 spell (owner decision 2026-10-08): no Bonus Action and not a spell cast (it doesn't count as the turn's one spell with a slot, can't be countered and breaks no Invisibility), on any number of melee hits a turn while slots last. By default the paladin is asked after each melee hit, Opportunity Attacks included (Critical Hits double its dice); armed on the Spells tab it smites every melee hit that turn without asking; the class tab's rule can make it Automatic (every hit) or Off. 2d8 Radiant plus 1d8 a slot level above 1st, at most 5d8, and 1d8 more against Fiends and Undead. Paladin's Smite's free use still comes first
 
 *Why:* The owner prefers the 2014 paladin: smiting every attack with the slots to spend
+
+### One spell with a spell slot per turn
+A Reaction spell (Shield, Hellish Rebuke, Feather Fall, Backlash, Moment of Prescience, a War Caster spell instead of an Opportunity Attack) can be cast with a slot whatever the creature cast earlier in the turn, its own turn included, and a slot spent on one doesn't stop a slot spell later in that turn. The limit still holds between the turn's Magic action and its Bonus Action
+
+*Why:* The 2024 limit counts every slot spent on a turn; the owner rules that Reactions don't count towards it (Ratatouille wasn't asked about Shield against an Opportunity Attack after casting a level 3 spell earlier in his turn)
 
 ### Study DC
 10 + the monster's CR
@@ -179,6 +204,11 @@ A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.7
 
 *Why:* The 2024 rules leave prices and haggling to the DM; plan §5.6 asks for prices that follow attitude and a Persuasion haggle
 
+### Magic item prices (2024 DMG "Magic Item Prices": a flat price by rarity, consumables half)
+Each magic item has its own price from Sane Magical Prices (Saidoro's guide, Ashwin's pick): its row in the guide, the closest row for an item the guide doesn't list (the +N spellcasting foci as the Rod of the Pact Keeper, Dragon's Breath potions as Fire Breath), else the guide's median for its rarity, consumables apart; a common item that isn't a consumable keeps the book's 100 gp, as the guide prices none. What the guide refuses to price (the wish and chaos items, the Manuals and Tomes, Giant Strength) is sold too (Ashwin, 2026-10-15), priced the same way, a Potion of Giant Strength at a tenth of its Belt (the guide's rule for consumables). Items made on a weapon or armor add its cost, as the guide says. Spell Scrolls by level, 10 gp to 10,240 gp; magic ammunition a piece at a time (the guide prices it each), not by the bundle. The price is the item's worth everywhere (shops, selling, the inventory's value), so nothing bought sells back for more. data/treasure/magic_prices.json, tools/data/magic_prices.py
+
+*Why:* Ashwin (2026-10-14): every magic item the story doesn't need is for sale, priced from the guide
+
 ### Raise Dead (the ordeal)
 A raised hero has -4 on D20 Tests for 10 days, then none (story/services.gd); Resurrection's ordeal is the same
 
@@ -215,7 +245,7 @@ Spells that ward a place or a rest are cast while exploring and remember where (
 *Why:* The spells' areas, triggers and creature-type choices have nothing in the game to work on outside a fight; these are what they mean for a party resting and travelling in Barovia (Ashwin's answer to the spell audit, 2026-10-12)
 
 ### Spells that help a check
-A cantrip that only did tricks gives whoever knows it Advantage on one skill's checks outside fights, as they work a little magic into the attempt (story/check_aids.gd): Druidcraft on Nature (and it reads tomorrow's weather), Elementalism on Survival, Mending on Investigation, Message on Stealth, Minor Illusion on Deception, Prestidigitation on Performance, Thaumaturgy on Intimidation. While they run, Detect Thoughts and Zone of Truth give their caster Advantage on Insight, Disguise Self on Deception (Seeming: the whole party's), Silent Image on Stealth, Major Image on Stealth and Deception, Comprehend Languages on History and Investigation, Tongues on Persuasion, Beast Sense on Perception, Locate Object on Perception and Investigation (searching), Locate Creature on Survival; Zone of Amicability makes a d20 of 9 or lower on a check to influence count as a 10 (story/field_casting.gd CHECK_AIDS)
+A cantrip that only did tricks gives whoever knows it Advantage on one skill's checks outside fights, as they work a little magic into the attempt (story/check_aids.gd): Druidcraft on Nature (and it reads tomorrow's weather), Elementalism on Survival, Mending on Investigation, Message on Stealth, Minor Illusion on Deception, Prestidigitation on Performance, Thaumaturgy on Intimidation. While they run, Zone of Truth gives its caster Advantage on Insight, Disguise Self on Deception (Seeming: the whole party's), Silent Image on Stealth, Major Image on Stealth and Deception, Comprehend Languages on History and Investigation, Tongues on Persuasion, Beast Sense on Perception, Locate Object on Perception and Investigation (searching), Locate Creature on Survival; Zone of Amicability makes a d20 of 9 or lower on a check to influence count as a 10 (story/field_casting.gd CHECK_AIDS)
 
 *Why:* These spells' effects need a table to describe them; in a game made of checks, helping the right check is what they're for (Ashwin's answer to the spell audit, 2026-10-12)
 
@@ -230,39 +260,49 @@ Outside a fight, a helpful spell that takes minutes or hours to cast (Prayer of 
 *Why:* Before, these could be cast nowhere in the campaign: the fight refused their casting time and the sheet asked the fight (Ashwin's 'fix the remaining bugs for spells', 2026-10-12)
 
 ### Spells taken out of the game
-55 spells that did nothing in the game and couldn't be given a use are out of every class's list, every picker and every scroll and loot table (`removed` and `playable` false in their data; the files stay): Create or Destroy Water, Illusory Script, Purify Food and Drink, Animal Messenger, Arcane Lock, Deryan's Helpful Homunculi, Dueling Ground, Locate Animals or Plants, Magic Mouth, Nystul's Magic Aura, Rope Trick, Create Food and Water, Meld into Stone, Sending, Water Walk (nowhere in the game is reachable only across deep water), Control Water, Fabricate, Hallucinatory Terrain, Awaken, Creation, Dream, Geas, Modify Memory, Planar Binding, Rary's Telepathic Bond, Teleportation Circle, Tree Stride, Arcane Gate, Contingency, Drawmij's Instant Summons, Magic Jar, Move Earth, Planar Ally, Programmed Illusion, Transport via Plants, Wind Walk, Word of Recall, and every 7th to 9th level spell with no use (Mirage Arcane to Wish). Subclass and feat lists that granted one lose it. A saved hero who knew one gets another spell of its level from the same choice when the save loads (Character.swap_removed_spells)
+55 spells that did nothing in the game and couldn't be given a use, and Detect Thoughts, are out of every class's list, every picker and every scroll and loot table (`removed` and `playable` false in their data; the files stay): Create or Destroy Water, Illusory Script, Purify Food and Drink, Animal Messenger, Arcane Lock, Deryan's Helpful Homunculi, Dueling Ground, Locate Animals or Plants, Magic Mouth, Nystul's Magic Aura, Rope Trick, Create Food and Water, Meld into Stone, Sending, Water Walk (nowhere in the game is reachable only across deep water), Control Water, Fabricate, Hallucinatory Terrain, Awaken, Creation, Dream, Geas, Modify Memory, Planar Binding, Rary's Telepathic Bond, Teleportation Circle, Tree Stride, Arcane Gate, Contingency, Drawmij's Instant Summons, Magic Jar, Move Earth, Planar Ally, Programmed Illusion, Transport via Plants, Wind Walk, Word of Recall, and every 7th to 9th level spell with no use (Mirage Arcane to Wish); Detect Thoughts left later, though it helped Insight checks (Ashwin, 2026-10-13). Subclass and feat lists that granted one lose it (Detect Thoughts: another spell in its place, below). Strahd, Rictavio, Mordenkainen and the Arcanaloth no longer list Detect Thoughts. A saved hero who knew one gets another spell of its level from the same choice when the save loads (Character.swap_removed_spells)
 
 *Why:* Ashwin (2026-10-12): spells that do nothing should get a use, or leave the game
 
 ### Subclass and feat spells that left with them
-A subclass or feat that grants one of those spells loses it, with nothing in its place: Aberrant Sorcery (Sending, Rary's Telepathic Bond), Arcana Domain (Nystul's Magic Aura, Teleportation Circle), Circle of the Land (Tree Stride), Circle of the Sea (Control Water), Fiend Patron (Geas), Gloom Stalker (Rope Trick), Great Old One Patron (Modify Memory), Oath of the Ancients (Tree Stride), Shadow Sorcery (Creation), Trickery Domain (Modify Memory) and Vestige Patron (Modify Memory); the feats Enchantment Adept (Modify Memory) and Illusion Adept (Hallucinatory Terrain).
+A subclass or feat that grants one of those spells loses it, with nothing in its place: Aberrant Sorcery (Sending, Rary's Telepathic Bond), Arcana Domain (Nystul's Magic Aura, Teleportation Circle), Circle of the Land (Tree Stride), Circle of the Sea (Control Water), Fiend Patron (Geas), Gloom Stalker (Rope Trick), Great Old One Patron (Modify Memory), Oath of the Ancients (Tree Stride), Shadow Sorcery (Creation), Trickery Domain (Modify Memory) and Vestige Patron (Modify Memory); the feats Enchantment Adept (Modify Memory) and Illusion Adept (Hallucinatory Terrain). Detect Thoughts is replaced by a level 2 spell from the 2024 lists instead (Ashwin, 2026-10-13): Mind Spike, the psychic Divination spell nearest it, for Aberrant Sorcery (a Psionic Spell, so Psionic Sorcery casts it), the Great Old One Patron and the Telepathic feat; Augury for the Knowledge Domain, which has Mind Spike already (a Divination spell, so Mind Magic casts it, and on the 2014 Knowledge Domain's own list); the companion Ratatouille's Divination Savant takes Mind Spike. A saved hero who had it from a subclass or feat gets the new spell when the save loads; one who picked it gets another spell of its level (Character.swap_removed_spells).
 
 *Why:* The spells they cast are out of the game (above), and nothing in the game could give them a use
 
 ### Magic items that cast those spells
-An item loses the power that cast one of those spells, and keeps the rest: Calimemnon Crystal (Create or Destroy Water), Candle of Invocation and Cubic Gate (Gate), Demonomicon of Iggwilv (Planar Binding), Hand of Vecna (Teleport), the Anstruth and Ollamh Harps (Control Weather), Luck Blade (its wishes), Ring of Elemental Command, Water (Create or Destroy Water, Control Water), Staff of the Magi (Arcane Lock) and Staff of the Woodlands (Awaken, Locate Animals or Plants). A Necklace of Prayer Beads' Summons and Wind Walking beads are Favor beads, in an old save's necklace too. The Helm of Teleportation, the Ring of Three Wishes and Sending Stones, whose only power was one of those spells, are out of the game (`removed`, files kept): Agafia gives her grandmother's Bag of Tricks (Tan) instead of Sending Stones (The Oat Thief), and Vadoma no longer stocks them.
+An item loses the power that cast one of those spells, and keeps the rest: Calimemnon Crystal (Create or Destroy Water), Candle of Invocation and Cubic Gate (Gate), Demonomicon of Iggwilv (Planar Binding), Hand of Vecna (Teleport), the Anstruth and Ollamh Harps (Control Weather), Luck Blade (its wishes), Ring of Elemental Command, Water (Create or Destroy Water, Control Water), Staff of the Magi (Arcane Lock) and Staff of the Woodlands (Awaken, Locate Animals or Plants). A Necklace of Prayer Beads' Summons and Wind Walking beads are Favor beads, in an old save's necklace too. The Helm of Teleportation, the Ring of Three Wishes and Sending Stones, whose only power was one of those spells, are out of the game (`removed`, files kept): Agafia gives her grandmother's Bag of Tricks (Tan) instead of Sending Stones (The Oat Thief), and Vadoma no longer stocks them. The four items that cast Detect Thoughts are out of the game too (Ashwin, 2026-10-13), the Helm of Telepathy and the Crystal Ball of Mind Reading whole, though each has another power (the helm's Suggestion is cast on the creature its Detect Thoughts reads, and the crystal ball without it is a plain Crystal Ball at a legendary price): the Helm of Telepathy, the Medallion of Thoughts, the Potion of Mind Reading and the Crystal Ball of Mind Reading. A save's copies, carried, stashed or waiting in a chest, become items of the same rarity and price when it loads (SaveSystem.WITHDRAWN: Circlet of Blasting or Headband of Intellect; Eyes of Minute Seeing or Brooch of Shielding; Potion of Superior Healing or of Heroism; Crystal Ball of True Seeing or of Telepathy). The Death House card cabinet hides Eyes of Minute Seeing (Gustav's marked cards) instead of the Medallion, the Ring of Mind Shielding's guard against Detect Thoughts goes with the spell, and the Wand of Wonder's 21-25 casts Mind Spike (DC 15) at the target.
 
 *Why:* The spells they cast are out of the game (above), and nothing in the game could give them a use
 
 ### Temple services and inn rooms (F14)
-St. Andral's sells Cure Wounds, Lesser Restoration, Remove Curse and Raise Dead at the PHB's spellcasting-service prices, read by Father Lucian from the church's scrolls. A booked room at an inn gives the next Long Rest there temporary Hit Points equal to each hero's level (twice that, and one more level of Exhaustion gone, in the best room)
+St. Andral's sells Cure Wounds, Lesser Restoration, Remove Curse and Raise Dead at the PHB's spellcasting-service prices, read by Father Lucian from the church's scrolls; Father Donavich in the village and Kasha Varo at Krezk's shrine read Raise Dead the same way (Ashwin, 2026-10-15: a way back for the dead in every town). A booked room at an inn gives the next Long Rest there temporary Hit Points equal to each hero's level (twice that, and one more level of Exhaustion gone, in the best room)
 
 *Why:* Lucian's stat block casts none of those spells (owner, 2026-10-07: the church keeps scrolls); the 2024 rules give lodging no effect, and a room needs a reason to buy it when resting at the inn is free
 
 ### Long Rest interruption
-In a "risky" place, a 1 in 6 chance (never on Story difficulty); an interrupted rest gives a Short Rest's benefits. At a camp in the wild, the night's visitors then fall on the camp (data/camp/night_visitors.json: by the region's land and the party's level, each group hard but winnable for a tired party on the test autopilot), and the party can try to sleep again; elsewhere the night just isn't restful
+In a "risky" place, a 1 in 6 chance an hour in (never on Story difficulty). At a camp (made wherever the place's own rest is risky: the wild, a town's streets, a house, a dungeon), the night's visitors then fall on the camp (data/camp/night_visitors.json: a town's and indoors' own groups, else by the region's land, and by the party's level, each group won by a tired party on the test autopilot 4 times in 8 at levels 1-2, 3 at 3-5 and 2 from 6). Whatever comes at the party in the night, those visitors or a visit of Strahd's that may come to blows (one with a fight of its own or in its `then`), comes before the rest's benefits: the party fights with what it had when it lay down, with no Short Rest's benefits for the hour slept first (the owner, 2026-10-13). Once the fight is won, or his visit is over without one, the party lies down again by itself and finishes the rest: the hours left, and an hour more per fight, as the 2024 rules have a resumed rest; the 16 hours since the last Long Rest don't stop it, and no other rest starts meanwhile (story/long_rest.gd, kept in the save). Where foes still wait in the place afterwards, where no visitor can be placed, or where the party sleeps on the rest screen, nobody sleeps again and the hour slept gives a Short Rest's benefits
 
-*Why:* The 2024 rules leave what interrupts a rest to the DM; a rest indoors (a dungeon, a building) has no visitors of its own
+*Why:* The 2024 rules leave what interrupts a rest to the DM; they give a Short Rest's benefits for an hour slept before the interruption, which the owner holds back until the fight is over
 
 ### Long Rest at 0 Hit Points: "To start a Long Rest, you must have at least 1 Hit Point"
 A hero at 0 Hit Points (stable, outside a fight) wakes from the party's Long Rest with everything back like the others
 
 *Why:* Owner's call (2026-10-09, QA's D-2): the party rests together
 
+### Where a Short Rest can be taken
+Anywhere outside a fight, a dungeon and a place too haunted to sleep in (`rest`: no) included, unless a fight on that map was begun and not won (the party ran) or foes awake and in plain view of the party are about; the card says why, and Hit Point Dice wait with it (story/rest_rules.gd, LocationStealth.foes_in_sight)
+
+*Why:* Owner's rule (2026-10-12): an hour's breather is possible where a night's sleep isn't; the 2024 rules leave where to rest to the DM
+
 ### Long Rests in dungeons and buildings
 Refused while enemies remain anywhere in the building or dungeon: its indoor maps (and a dungeon's open-air ones, Castle Ravenloft's roofs) joined by their exits, every floor. Enemies remain while a fight there would still start on its own (entering an area, opening a door or chest, examining something) or one was begun and not won; a fight only a conversation can start doesn't count. Short Rests, towns, inns, camps, the open road and the items' safe rests (Daern's Instant Fortress, the Rod of Security) are unaffected (story/rest_rules.gd)
 
 *Why:* Owner's rule (2026-10-09): what waits on another floor would find a sleeping party; the 2024 rules leave where to rest to the DM
+
+### Changing spells without a rest
+Where the 2024 rules have a caster change spells when they finish a Long Rest, the game lets them do it any time outside a fight, no rest needed: a Cleric's, Druid's, Wizard's, Paladin's or Ranger's prepared spells, a Wizard's or High Elf's cantrip, a Circle of the Land Druid's land and a Scion of the Three's allegiance (the spells each grants). The Prepare Spells screen (the sheet's Spells tab, the rest screen, the camp's bar, and the one a finished rest offers) takes any number of changes at once, so a Paladin's or Ranger's one spell and a Wizard's or High Elf's one cantrip per Long Rest no longer limit anything. Always-prepared spells (a domain's, an oath's) stay; spell slots already spent aren't given back; concentration and spells already cast carry on. Bards, Sorcerers and Warlocks (who change spells at a level up) and the choices only a rest changes (Weapon Mastery, Wild Shape forms, a Transmuter's stone) keep their rules. In a fight nothing changes: the button is off and says why (ui/screens/prepare_screen.gd)
+
+*Why:* Owner's call (2026-10-14): resting only to prepare different spells is a chore, and a caster should be able to ready the right spell before a fight
 
 ### Sneaking up (who notices whom)
 While the party sneaks, each member keeps the Stealth total rolled on starting; a foe notices a member it sees clearly (less than Three-Quarters Cover) when its passive Perception, 5 lower if the member stands in dim light to it, is at least that total. A member out of its sight or behind Three-Quarters Cover goes unnoticed
@@ -415,9 +455,9 @@ Severed arms and heads fight on as their own creatures sharing the body's Hit Po
 *Why:* Legs can't attack
 
 ### Shape-Shift
-The Werewolf shifts once into hybrid form (Bite and Longbow available); the Night Hag doesn't shift in a fight
+A foe lycanthrope shifts once into its hybrid (Bite and Longbow available) and stays Medium (the 2024 hybrid is Large); an ally the player runs can also take the animal (a Werewolf's Medium wolf, 40 ft Speed; a Wereraven's Small raven). The Night Hag, the Mimic and Baba Lysaga never change shape on their own in a fight: their forms (a hag's disguise, a swarm of insects) can be taken but nothing makes the AI take them
 
-*Why:* The forms only change size and which attacks it can use
+*Why:* A Large hybrid and shape-changing foes would move every tuned fight; the forms only change size, Speed and which attacks it can use
 
 ### Animate Dead, Find Familiar, Find Steed
 Cast before the fight (precast), or while exploring for the familiar and the steed, and for Animate Dead and Create Undead, whose dead follow their caster for a day and join each fight whole (FieldCasting.bring_risen); the undead, the familiar and the steed act on their caster's turn order, with no Bonus Action command needed. A familiar or steed still with its caster comes back at full Hit Points in each fight, until one drops to 0 Hit Points (or the steed's caster dies)
@@ -434,6 +474,11 @@ Each covers every Warlock cantrip you know that fits (Eldritch Spear: a damaging
 
 *Why:* Covering every fitting cantrip gives what taking them again would, without a pick per cantrip
 
+### Grasp of Hadar (Ashwin's house rule, 2026-10-13)
+Xanathar's Guide's invocation, which the 2024 book doesn't reprint, built as the mirror of the 2024 Repelling Blast: a Warlock of level 2 or more with a damaging Warlock cantrip that makes an attack roll can take it, and every hit with such a cantrip (each beam of Eldritch Blast) pulls a Large or smaller creature up to 10 ft straight toward the warlock, stopping at anything in the way, the warlock included. It's forced movement like the push: no Opportunity Attacks, and the traps and areas it's dragged through still act. A switch on the Warlock tab (not the Reactions tab: it isn't a reaction) turns it Off (On by default), as it does Repelling Blast; a warlock with both moves a creature one way a hit, so beside Repelling Blast it starts Off and turning either on turns the other off. Xanathar's version worked once on each of the warlock's turns, with Eldritch Blast only, on a creature of any size, with no level needed
+
+*Why:* Ashwin asked for the pull "that was in 5E" (2026-10-13); matching the 2024 Repelling Blast keeps the two a pair
+
 ### Iron Mind (Gloom Stalker)
 The player picks Wisdom, Intelligence or Charisma saves; the rule says Wisdom unless already proficient
 
@@ -443,6 +488,16 @@ The player picks Wisdom, Intelligence or Charisma saves; the rule says Wisdom un
 The creature becomes the Beast's stat block with its own Hit Points kept (Wild Shape also keeps Int, Wis, Cha and Proficiency Bonus); its gear, class features and spells wait until it changes back
 
 *Why:* A full merge of character and stat block is a large system; these are the parts a fight uses
+
+### Invisible creatures
+A foe that is Invisible (a spell, a feature, an item or its own stat block; not the Hidden condition Hide gives) can't be attacked, picked by a single-target spell, picked on the hotbar or given an Opportunity Attack by one who can't see it: no See Invisibility (its flag, the Robe of Eyes), Truesight or Blindsight within range, Lantern of Revealing light, Faerie Fire. An area still catches it. It's off the map, the turn order and the area previews while the hero whose turn it is can't see it (through a foe's turn, the hero who had the last one; an inspected hero changes nothing), so what the map shows is what that hero can target. Foes play by the same rule against Invisible heroes, who stay on their player's map drawn half there; the AI looks for an Invisible hero it can't see instead of walking up to it. Devil's Sight doesn't count (it sees through Darkness, not the Invisible)
+
+*Why:* The 2024 rules let you attack a square you guess an unseen creature is in, at Disadvantage; the owner wants Invisibility to mean something (this replaces the earlier reading, test_unseen_targets). A creature that is only Blinded, or past the light, is still struck at Disadvantage
+
+### Polymorph's save and form
+It goes on friend or foe. The caster's ally doesn't save (it's willing); anyone else makes the Wisdom save, and a player picks its Beast once the save fails, from those its Challenge Rating (or level) allows, the weakest first (Skip, or the prompt's Always rule, takes the weakest). An ally gets the strongest unless the hotbar names a form. A foe's caster picks the weakest. A creature at 0 Hit Points is unaffected
+
+*Why:* The 2024 text says only "the target must succeed on a Wisdom saving throw"; letting an ally choose to fail is the usual table reading. It drops the 2014 rule about shapechangers, so the game does too; the 0 Hit Points rule (2014) stays, since a dying hero under a Beast's shape would need rules of its own
 
 ### Mounted combat
 Any willing ally a size larger can be mounted (half your Speed); a ridden ally is a controlled mount that moves on its rider's turn and can't attack; a mount moved against its will makes its rider save (DC 10 Dex) or fall Prone; an uncontrolled (independent) mount isn't offered
@@ -494,10 +549,15 @@ A hidden find that holds an item gets one look from each character: one who sear
 
 *Why:* The rules let you try again unless failure has a cost; without a limit, searching the same spot until the dice agree turns every DC into a wait
 
-### Help and Guidance before a check on a thing in the world (docs/story/world_checks.md)
-Another party member proficient in the skill Helps whoever tries (Advantage), and someone who knows Guidance and isn't concentrating on another spell casts it on them (+1d4), without asking. A check marked `alone` takes no Help
+### Help before a check on a thing in the world (docs/story/world_checks.md)
+Another party member proficient in the skill Helps whoever tries (Advantage), without asking. A check marked `alone` takes no Help
 
-*Why:* Outside a fight the Help action and a cantrip cost nothing that matters, so they're always worth taking; Guidance isn't cast when it would end another spell, the one case where it costs something
+*Why:* Outside a fight the Help action costs nothing that matters, so it's always worth taking
+
+### Guidance before a skill check outside a fight (story/guidance_offer.gd; Ashwin, 2026-10-13)
+Before a conversation's check, a check on something in the world, a search, forcing a lock, picking a pocket, a climb out of a pit, tending the dying or haggling, every party member who can cast Guidance is offered to cast it on whoever's about to try. The caster steps over to touch them (only someone who can reach them: a pit's floor), picks that check's skill, and the d4 goes on that roll: the spell's minute goes on the check, so the caster isn't left concentrating on it, though casting it still ends any other spell they were concentrating on (the prompt names it). Each caster's rule, Ask, Automatic or Off (the prompt's Next time, or the Reactions tab in a fight), decides whether they're asked; Automatic never ends another spell on its own. A Stealth roll as the party starts sneaking, picking a lock or disarming a trap (tools, not a skill) gets no offer
+
+*Why:* Exploring has no rounds to run a minute's Concentration or a touch's reach; a check takes about a minute already. Sneaking rolls for the whole party at once, and Guidance names one creature
 
 ### Who tries a check on a thing in the world, and how often
 The party's best hand at it who hasn't tried yet rolls (best chance, then best bonus, then the leader). Each character gets one try; a check marked `once` gets one for the whole party
@@ -805,7 +865,7 @@ Counted in dawns
 *Why:* The game counts days at dawn
 
 ### Bag of Beans, Wand of Wonder, Deck of Many Things
-Condensed tables: outcomes the game can play happen; the rest (a treant walking off, grass sprouting, skin turning blue, a devil's enmity) are told and flagged for the story; experience cards become a milestone level or nothing
+Condensed tables: outcomes the game can play happen; the rest (a treant walking off, grass sprouting, skin turning blue, a devil's enmity) are told and flagged for the story; experience cards become a milestone level or, in XP levelling, a level's XP
 
 *Why:* The game uses milestones and has no wandering treants
 
@@ -909,10 +969,15 @@ Text only
 
 *Why:* Monster-made moving zones and planar travel aren't built
 
-### Arcanaloth's Soul Tome, Teleport and Counterspell
-The tome isn't an object that can be attacked (the prison holds until the save or three failures); Teleport and its Counterspell Reaction are text only
+### Arcanaloth's Soul Tome and Teleport
+The tome isn't an object that can be attacked (the prison holds until the save or three failures); Teleport is text only (its Counterspell Reaction is cast, as other foes' are)
 
-*Why:* Monster Reactions that cast spells and carried objects with Hit Points aren't built
+*Why:* Carried objects with Hit Points and a Reaction that teleports aren't built
+
+### Counterspell cast by foes
+A foe the AI plays (its Spellcasting, a Reaction that casts it such as the mage's Protective Magic, an enemy wizard's slot) counters a levelled spell a hero or guest casts within 60 ft in its sight; cantrips are let through. The caster's Constitution save is rolled at once, with no pause for Reactions to it. Guests the player runs don't counter foes' spells
+
+*Why:* The rules leave whether to counter to the caster: a Reaction (and the mage's three uses a day) is worth more than a cantrip. Asking the player would mean pausing a cast part way through
 
 ### Banshee's Deathly Wail
 Works in sunlight too
@@ -1020,6 +1085,6 @@ When a fight ends, Restrained and Grappled (a web, a net, a grapple, an area's g
 *Why:* Owner report (2026-10-12): Restrained stayed on the party panel after the fight; outside a fight there is no turn to break free on and nothing left to hold them
 
 ### Spells that last 8 hours (Mage Armor, Aid, Darkvision, Death Ward, Alarm, Leomund's Tiny Hut and the rest)
-They last until their creature's (or, for an exploring spell, the party's) next Long Rest instead of 8 hours on the clock, and are cast again after it; Dispel Magic and a spell's own ends still end them. Spells of 24 hours or longer keep the clock
+They last until their creature's (or, for an exploring spell, the party's) next Long Rest instead of 8 hours on the clock, and are cast again after it; Dispel Magic and a spell's own ends still end them. Concentration on one (Suggestion, Control Weather, or a spell a higher slot makes last 8 hours: Hex or Hunter's Mark with a level 3-4 slot, Dominate Person with 8+) has no clock either and ends at the Long Rest, even for a caster whose Trance keeps it conscious. Spells of 24 hours or longer keep the clock
 
 *Why:* Owner's house rule (2026-10-12): the clock rarely matters between rests, and one recast a day is simpler to keep track of

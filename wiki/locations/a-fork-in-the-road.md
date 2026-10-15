@@ -12,7 +12,7 @@
 
 Old Svalich Road splits round a wooded knoll under a leaning signpost: west back down the valley, a north fork and a south fork into the pines. A random fight on the valley's roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc road fork overview](https://curseofstrahd.app/wiki/img/shots/loc-road-fork-overview.webp)
 *The whole place from above.*

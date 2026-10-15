@@ -16,7 +16,7 @@ The temple's great hall, cut out of the mountain around a colossal robed statue 
 
 Every sound you make comes back to you a moment later, slightly changed.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc amber temple faceless god overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-faceless-god-overview.webp)
 *The whole place from above.*
@@ -91,11 +91,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Things that were people once come scuttling from behind the sarcophagi, each with one great eye where a face…*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 10: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 3 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (7650 XP)
-> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 8: 4 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 3 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (7200 XP)
-> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared: 4 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (3600 XP)
+> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 10: 6 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 4 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9900 XP)
+> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 8: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 3 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (7650 XP)
+> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (5850 XP)
 
-- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md). Part of [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md).
+- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): Patrina Velikovna ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 110 HP), 11 × Frozen student ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 7 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md). Part of [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md).
 
 ## Quests and lore
 

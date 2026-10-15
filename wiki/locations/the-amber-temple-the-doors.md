@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc amber temple entrance 1](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-entrance-1.webp)
 > **Region:** [The Amber Temple](https://curseofstrahd.app/wiki/regions/the-amber-temple.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (The Amber Temple)
 > **Quests:** [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md)
@@ -16,7 +16,7 @@ A shelf of wind-scoured snow high above the Tsolenka Pass, where a temple's door
 
 The air is thin enough to make the head swim. Below, the whole valley lies under its lid of cloud.
 
-**Resting:** no Not out here. The wind takes the warmth out of you faster than sleep could put it back, and the colossus never stops watching.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not out here. The wind takes the warmth out of you faster than sleep could put it back, and the colossus never stops watching.
 
 ![loc amber temple entrance overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-entrance-overview.webp)
 *The whole place from above.*
@@ -87,18 +87,18 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level.
+- *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)) (6800 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 395 HP), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)), 6 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (17600 XP)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 8: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP) (5900 XP)
 
-- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md).
+- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 440 HP), 6 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md).
 
-- *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level.
+- *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 4 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (2800 XP)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (2100 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 5 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10700 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9300 XP)
 
 ## Quests and lore
 

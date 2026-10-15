@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc abbey of st markovia shrine 1](https://curseofstrahd.app/wiki/img/shots/loc-abbey-of-st-markovia-shrine-1.webp)
 > **Region:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/regions/the-abbey-of-st-markovia.md) · level 7
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md)
 > **Quests:** [Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md), [The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Holy Symbol of Ravenkind](https://curseofstrahd.app/wiki/quests/the-holy-symbol-of-ravenkind.md) and 2 more
@@ -14,7 +14,7 @@
 
 The abbey's church: a nave of plain pews, an altar on its step under a great gilded sunburst, the Abbot's bare cell on one side and the sacristy on the other. Where the Abbot works, prays and means to wake his bride.
 
-**Resting:** no Not here. Not under that sunburst, with him lighting candles in the dark at the end of the nave.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not here. Not under that sunburst, with him lighting candles in the dark at the end of the nave.
 
 ![loc abbey of st markovia shrine overview](https://curseofstrahd.app/wiki/img/shots/loc-abbey-of-st-markovia-shrine-overview.webp)
 *The whole place from above.*
@@ -54,14 +54,14 @@ The abbey's church: a nave of plain pews, an altar on its step under a great gil
 > [!note]- Who turns up at points in the story (3)
 > - **[The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md)**, The chancel (#3, #5): when bride defeated and not abbot fate; or when not abbot struck down and ((not bride defeated and (not abbot fate or abbot fate is “wedding”)) or abbot fate is “broken”)
 > - **[Clovin Belview](https://curseofstrahd.app/wiki/people/clovin-belview.md)**, The nave (#4): when abbot struck down and not abbot fate
-> - **[Vasilka](https://curseofstrahd.app/wiki/people/vasilka.md)**, The chancel (#6): when vasilka fate is “abandoned”
+> - **[Vasilka](https://curseofstrahd.app/wiki/people/vasilka.md)**, The chancel (#6, #7, #8): when vasilka fate is “abandoned”; or when vasilka fate is “laid to rest”; or when bride defeated
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 7 | Vestment chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Robe](https://curseofstrahd.app/wiki/items/equipment.md#robe), 22 gp | open it |
-| 9 | a loose stone under the Abbot's cot (hidden) | [Ioun Stone (Protection)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-protection) | Search: Investigation DC 16 |
+| 9 | Vestment chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Robe](https://curseofstrahd.app/wiki/items/equipment.md#robe), [Mace of Smiting (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-smiting), 22 gp | open it |
+| 11 | a loose stone under the Abbot's cot (hidden) | [Ioun Stone (Protection)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-protection) | Search: Investigation DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Abbey of St Markovia Shrine ()
 
@@ -71,21 +71,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 8 | a small pipe organ | Performance 14 | Play the little organ | Heroic Inspiration |
+| 10 | a small pipe organ | Performance 14 | Play the little organ | Heroic Inspiration |
 
 ## Fights
 
 - *Vasilka comes down off the bier like a dancer finishing a bow, and the Belviews come after her with cleavers…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md), [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)), 2 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 4 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (2900 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)), Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 4 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (2450 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)), 3 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (1950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md), 400 HP), 9 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 3 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (320 HP) (7800 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)), Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 7 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (9050 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: Vasilka ([Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md), 80 HP), 6 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (7500 XP)
 
-- *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md). Scales with your level.
+- *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (6000 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)) (5900 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 500 HP), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (10950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 100 HP), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 85 HP) (5900 XP)
 
 ## Quests and lore
 

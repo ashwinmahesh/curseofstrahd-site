@@ -22,6 +22,7 @@ A tiny old widow in three shawls who sweeps the snow from around the Pool of the
 ## Shop and services
 
 - Buys and sells: [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md) lists the stock and prices.
+- Raise Dead
 
 ## Quests
 

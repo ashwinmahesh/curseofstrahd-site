@@ -43,8 +43,8 @@ A flying, burning skull: twin fire rays, Magic Missile and a Fireball, and it re
 
 ## Where you meet it
 
-- [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): *Four skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they…*
+- [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): *Skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they still…*
 - [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*
-- [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md) · *The scholar takes off his spectacles, and his face goes with them: a jackal's head, black-lipped and smiling.…*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Two burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*
+- [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md) · *Vosk's shape slips like a badly hung coat. Under it: a jackal's head, a scholar's robe, and claws that shake.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*
 - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*

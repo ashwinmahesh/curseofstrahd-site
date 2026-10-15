@@ -106,5 +106,8 @@ Optional, Madam Eva: Tamsin's truth is that somebody put the locket where his ha
 > **Out of the Mists**: The party steps out of the mist onto the Old Svalich Road, the sunless valley of Barovia below.
 > ![mists arrival](https://curseofstrahd.app/wiki/img/cutscenes/mists-arrival.webp)
 >
+> **Wolves Along the Road**: A line of silent wolves stands along the Old Svalich Road in the fog, watching the party like a picket.
+> ![mists wolves watch](https://curseofstrahd.app/wiki/img/cutscenes/mists-wolves-watch.webp)
+>
 > **The Second Reflection**: In the Pool of the White Sun, Sergei's reflection lies beside Ireena's.
 > ![krezk reflection](https://curseofstrahd.app/wiki/img/cutscenes/krezk-reflection.webp)

@@ -106,3 +106,6 @@ Arabelle, the young daughter of the Vistani headman Luvash, vanished from the ca
 > [!example]- Cutscenes
 > **Under the Black Water**: A dive into Lake Zarovich after the sack sinking into the dark.
 > ![arabelle dive](https://curseofstrahd.app/wiki/img/cutscenes/arabelle-dive.webp)
+>
+> **Out of the Sack**: On the shingle a small, soaked, furious girl sits up out of the sack as Bluto crashes off into the reeds.
+> ![arabelle shore](https://curseofstrahd.app/wiki/img/cutscenes/arabelle-shore.webp)

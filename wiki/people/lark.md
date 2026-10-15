@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/lark.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![belview sly](https://curseofstrahd.app/wiki/img/portraits/belview-sly.webp)
+> ![waystone lark](https://curseofstrahd.app/wiki/img/portraits/waystone-lark.webp)
 > **Title:** A Belview of the Abbey
 > **Region:** [Krezk](https://curseofstrahd.app/wiki/regions/krezk.md)
 > **Starting attitude:** indifferent

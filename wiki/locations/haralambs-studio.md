@@ -16,7 +16,7 @@ Haralamb the painter's house on Vallaki's east row: a front room of pots and rag
 
 A painter's house that smells of linseed and something under it, like old flowers. Every canvas in it is turned to the wall, except the ones that aren't, and those all have the same face.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc vallaki painters studio overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-painters-studio-overview.webp)
 *The whole place from above.*
@@ -50,7 +50,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md), [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md). Part of [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md).
+- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md), 40 HP). Part of [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md).
 
 ## Quests and lore
 

@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc castle ravenloft catacombs strahd 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-strahd-1.webp)
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)
 > **Quests:** [Where the Devil Waits](https://curseofstrahd.app/wiki/quests/where-the-devil-waits.md)
@@ -16,7 +16,7 @@ The tomb at the bottom of the castle where Strahd von Zarovich keeps his coffin 
 
 A square vault at the foot of a long black stair. In the middle, on a stepped dais, a plain wooden coffin on trestles, and the smell of turned earth.
 
-**Resting:** no Not within reach of that coffin. Nobody here could close their eyes.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not within reach of that coffin. Nobody here could close their eyes.
 
 ![loc castle ravenloft catacombs strahd overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-strahd-overview.webp)
 *The whole place from above.*
@@ -48,7 +48,7 @@ A square vault at the foot of a long black stair. In the middle, on a stepped da
 
 | # | Where | What | How |
 |---|---|---|---|
-| 2 | an iron chest at the foot of the dais | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2, 150 gp | open it |
+| 2 | an iron chest at the foot of the dais | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2, [Nine Lives Stealer (Longsword)](https://curseofstrahd.app/wiki/items/magic-items.md#nine-lives-stealer), 150 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Strahds Tomb (cat_tomb_chest)
 
@@ -56,13 +56,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *He is standing beside his own coffin with his hands behind his back, like a man waiting for a late carriage.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *He is standing beside his own coffin with his hands behind his back, like a man waiting for a late carriage.…*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (410 HP), 5 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (22000 XP; lair)
+> - **[Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (16600 XP; lair)
 
-- *Two pale shapes rise from behind the dais, and the ceiling comes loose and becomes bats.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *Two pale shapes rise from behind the dais, and the ceiling comes loose and becomes bats.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
 
-- *He is out of the coffin before the lid stops rocking, and he is not at all sleepy.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *He is out of the coffin before the lid stops rocking, and he is not at all sleepy. In the coffin beside his,…*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (455 HP), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 7 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)).
 
-- *Vladimir draws, and his knights come down the black stair behind him with their swords already out.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md).
+- *Vladimir draws, and his knights come down the black stair behind him with their swords already out.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (275 HP), 4 × [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (180 HP), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (80 HP).
 
 ## Quests and lore
 

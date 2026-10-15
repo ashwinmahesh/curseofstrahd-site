@@ -16,7 +16,7 @@ The ground floor of the dragon's house: the great hall where Vladimir Horngaard 
 
 A burned entry hall with a broken statue at its heart; through tall doors north, a great hall where armoured figures sit along a long table; a chapel to the west under a window of coloured glass; an armory, a gallery of fallen banners, and the cold servants' hall.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc argynvostholt hall overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-hall-overview.webp)
 *The whole place from above.*
@@ -88,9 +88,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Vladimir rises from the winged chair for the first time, and all down the table dead heads turn to watch. He…*, in [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (290 HP), 3 × Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 190 HP), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 80 HP) (10100 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
-> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (140 HP) (2900 XP)
 
 ## Quests and lore
 

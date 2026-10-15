@@ -12,7 +12,7 @@
 
 A raised track of old logs across the marsh between Vallaki's lake and the drowned village, with reeds higher than a man on both sides.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc berez marsh track overview](https://curseofstrahd.app/wiki/img/shots/loc-berez-marsh-track-overview.webp)
 *The whole place from above.*

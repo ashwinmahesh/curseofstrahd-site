@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/all-people.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-254 people you can meet in Barovia, by region.
+261 people you can meet in Barovia, by region.
 
 ## Into the Mists
 
@@ -194,12 +194,12 @@
 | ![ilya krezkov](https://curseofstrahd.app/wiki/img/portraits/ilya-krezkov.webp) | [Ilya Krezkov](https://curseofstrahd.app/wiki/people/ilya-krezkov.md) | The Burgomaster's Son |
 | ![kasha varo](https://curseofstrahd.app/wiki/img/portraits/kasha-varo.webp) | [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) | Keeper of the Shrine of the White Sun |
 | ![krezk guard](https://curseofstrahd.app/wiki/img/portraits/krezk-guard.webp) | [Krezk Watchman](https://curseofstrahd.app/wiki/people/krezk-watchman.md) | Gate Watch of Krezk |
-| ![belview sly](https://curseofstrahd.app/wiki/img/portraits/belview-sly.webp) | [Lark](https://curseofstrahd.app/wiki/people/lark.md) | A Belview of the Abbey |
+| ![waystone lark](https://curseofstrahd.app/wiki/img/portraits/waystone-lark.webp) | [Lark](https://curseofstrahd.app/wiki/people/lark.md) | A Belview of the Abbey |
 | ![toma sarnov](https://curseofstrahd.app/wiki/img/portraits/toma-sarnov.webp) | [Little Petru](https://curseofstrahd.app/wiki/people/little-petru.md) | Of the Farms below Krezk |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md) | Of Krezk |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [Old Simion](https://curseofstrahd.app/wiki/people/old-simion.md) | Keeper of the Graves |
 | ![sergei von zarovich](https://curseofstrahd.app/wiki/img/portraits/sergei-von-zarovich.webp) | [Sergei von Zarovich](https://curseofstrahd.app/wiki/people/sergei-von-zarovich.md) | A Reflection in the Pool |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Sorin](https://curseofstrahd.app/wiki/people/sorin.md) | The First Krezkov |
+| ![sorin krezkov](https://curseofstrahd.app/wiki/img/portraits/sorin-krezkov.webp) | [Sorin](https://curseofstrahd.app/wiki/people/sorin.md) | The First Krezkov |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Stefan the Woodcutter](https://curseofstrahd.app/wiki/people/stefan-the-woodcutter.md) | Of Krezk |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Stelian](https://curseofstrahd.app/wiki/people/stelian.md) | Goatherd of Krezk |
 | ![goat](https://curseofstrahd.app/wiki/img/portraits/goat.webp) | [The Billy Goat](https://curseofstrahd.app/wiki/people/the-billy-goat.md) | Of the Pens |
@@ -212,13 +212,17 @@
 | | Who | Title |
 |---|---|---|
 | ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview.md) | One of the Belview Family |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-in-the-cloister.md) | In the Cloister |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-at-the-gate.md) | At the Gate |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-carrying-wood-to-the-wards.md) | Carrying Wood to the Wards |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-sweeping-the-courtyard.md) | Sweeping the Courtyard |
+| ![belview caged 1](https://curseofstrahd.app/wiki/img/portraits/belview-caged-1.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-in-the-cells.md) | In the Cells |
+| ![belview caged 2](https://curseofstrahd.app/wiki/img/portraits/belview-caged-2.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-2.md) | In the Cells |
+| ![belview caged 3](https://curseofstrahd.app/wiki/img/portraits/belview-caged-3.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-3.md) | In the Cells |
+| ![belview feathers](https://curseofstrahd.app/wiki/img/portraits/belview-feathers.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-in-the-cloister.md) | In the Cloister |
+| ![belview gate](https://curseofstrahd.app/wiki/img/portraits/belview-gate.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-at-the-gate.md) | At the Gate |
+| ![belview hauler](https://curseofstrahd.app/wiki/img/portraits/belview-hauler.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-carrying-wood-to-the-wards.md) | Carrying Wood to the Wards |
+| ![belview sweeper](https://curseofstrahd.app/wiki/img/portraits/belview-sweeper.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-sweeping-the-courtyard.md) | Sweeping the Courtyard |
+| ![belview well](https://curseofstrahd.app/wiki/img/portraits/belview-well.webp) | [Belview](https://curseofstrahd.app/wiki/people/belview-by-the-well.md) | By the Well |
 | ![clovin belview](https://curseofstrahd.app/wiki/img/portraits/clovin-belview.webp) | [Clovin Belview](https://curseofstrahd.app/wiki/people/clovin-belview.md) | The Abbot's Errand-Runner |
 | ![ezmerelda](https://curseofstrahd.app/wiki/img/portraits/ezmerelda.webp) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | Vistana Monster Hunter |
-| ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp) | [Mother](https://curseofstrahd.app/wiki/people/mother.md) | Matriarch of the Belviews |
+| ![belview mother](https://curseofstrahd.app/wiki/img/portraits/belview-mother.webp) | [Mother](https://curseofstrahd.app/wiki/people/mother.md) | Matriarch of the Belviews |
 | ![abbot](https://curseofstrahd.app/wiki/img/portraits/abbot.webp) | [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) | Master of the Abbey of St. Markovia |
 | ![vasilka](https://curseofstrahd.app/wiki/img/portraits/vasilka.webp) | [Vasilka](https://curseofstrahd.app/wiki/people/vasilka.md) | The Abbot's Bride |
 
@@ -251,16 +255,19 @@
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Old Nistor](https://curseofstrahd.app/wiki/people/old-nistor.md) | The Last Fisherman |
 | ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Ostap](https://curseofstrahd.app/wiki/people/ostap.md) | Castaway of the Reed Isle |
 | ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [The Fowler](https://curseofstrahd.app/wiki/people/the-fowler.md) | A Vampire Spawn of the Castle |
-| ![will o wisp](https://curseofstrahd.app/wiki/img/portraits/will-o-wisp.webp) | [The Lantern Girl](https://curseofstrahd.app/wiki/people/the-lantern-girl.md) | Liliana, Who Went Down Holding It Up |
+| ![lantern girl](https://curseofstrahd.app/wiki/img/portraits/lantern-girl.webp) | [The Lantern Girl](https://curseofstrahd.app/wiki/people/the-lantern-girl.md) | Liliana, Who Went Down Holding It Up |
 
 ## The Werewolf Den
 
 | | Who | Title |
 |---|---|---|
+| ![ilka sarnov](https://curseofstrahd.app/wiki/img/portraits/ilka-sarnov.webp) | [Codruta](https://curseofstrahd.app/wiki/people/codruta.md) | A Child Taken from Krezk |
 | ![emil toranescu](https://curseofstrahd.app/wiki/img/portraits/emil-toranescu.webp) | [Emil Toranescu](https://curseofstrahd.app/wiki/people/emil-toranescu.md) | The Pack's Rightful Leader |
+| ![ilka sarnov](https://curseofstrahd.app/wiki/img/portraits/ilka-sarnov.webp) | [Ioana](https://curseofstrahd.app/wiki/people/ioana.md) | A Child Taken from Krezk |
 | ![kiril stoyanovich](https://curseofstrahd.app/wiki/img/portraits/kiril-stoyanovich.webp) | [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md) | Leader of the Hill Pack |
 | ![mirela](https://curseofstrahd.app/wiki/img/portraits/mirela.webp) | [Mirela](https://curseofstrahd.app/wiki/people/mirela.md) | A Child Taken from Krezk |
 | ![werewolf](https://curseofstrahd.app/wiki/img/portraits/werewolf.webp) | [The Grandsire](https://curseofstrahd.app/wiki/people/the-grandsire.md) | The Pack's Eldest |
+| ![toma sarnov](https://curseofstrahd.app/wiki/img/portraits/toma-sarnov.webp) | [Zamfir](https://curseofstrahd.app/wiki/people/zamfir.md) | A Child Taken from Krezk |
 | ![zuleika toranescu](https://curseofstrahd.app/wiki/img/portraits/zuleika-toranescu.webp) | [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md) | Emil's Mate, Keeper of the Shrine |
 
 ## Van Richten's Tower

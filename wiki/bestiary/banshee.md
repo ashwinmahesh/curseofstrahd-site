@@ -48,3 +48,5 @@ A wailing spirit: a withering touch, a face that terrifies, and a cry that can k
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md) · *The Rag Queen steps down off her post, twice the height of a man, all rotten silk and lace and faces in the…*
 - [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): *The books on every shelf open at once with a sound like birds, and the people written in them come out of the…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *The water in the well climbs the shaft on its own. She comes up out of it in her wedding veil, screaming, and…*
+
+On the road: [Berez Marsh](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)

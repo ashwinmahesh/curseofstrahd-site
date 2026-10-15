@@ -29,6 +29,13 @@ A true vampire: grappling strikes and a draining bite, charm, bat and mist shape
 - **Senses:** darkvision 120 ft; passive Perception 17
 - **Languages:** Common, two other languages
 
+### Changing shape
+
+*It changes shape as a Bonus Action, but not in sunlight or running water.*
+
+- **Bat.** A Tiny bat (Speed 5 ft., Fly 30 ft.): can bite, can't speak.
+- **Mist.** A drifting cloud (Fly 30 ft., hovering): can't act or speak, can enter enemies' spaces, resists all damage.
+
 ### Traits
 
 - **Legendary Resistance (3/Day, or 4/Day in Lair).** When the vampire fails a saving throw, it can choose to succeed instead: three times a day, or four in its lair.

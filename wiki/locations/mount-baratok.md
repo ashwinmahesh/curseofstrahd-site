@@ -16,7 +16,7 @@ A steep, pine-dark mountain above Van Richten's lake, with frost where frost sho
 
 The goat track comes up from the south through switchbacks of pine. The hut stands in a yard to the east; the summit, with its cairn, rises to the north-west; a lookout to the west shows the lake below.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc mount baratok overview](https://curseofstrahd.app/wiki/img/shots/loc-mount-baratok-overview.webp)
 *The whole place from above.*
@@ -79,8 +79,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level. Part of [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
 
 ## Quests and lore
 

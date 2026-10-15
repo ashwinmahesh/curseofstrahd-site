@@ -16,7 +16,7 @@ A bend of the Old Svalich Road on the way to Krezk, where an old waystone with a
 
 The road bends between pines and rock. At the bend stands a waist-high stone with a sunburst cut into it, so old the rays are only dents, and in a niche at its foot a candle stub, burnt down almost to nothing.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc krezk road waystone overview](https://curseofstrahd.app/wiki/img/shots/loc-krezk-road-waystone-overview.webp)
 *The whole place from above.*
@@ -57,7 +57,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Part of [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md).
+- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): 4 × A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Part of [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md).
 
 ## Quests and lore
 

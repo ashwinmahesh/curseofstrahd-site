@@ -16,7 +16,7 @@ The wardens' library: long stacks furred with frost, a reading room of lecterns,
 
 It is very quiet, and very cold, and the books smell of ice instead of dust.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc amber temple library overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-library-overview.webp)
 *The whole place from above.*
@@ -57,7 +57,7 @@ It is very quiet, and very cold, and the books smell of ice instead of dust.
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | a chained case | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), 150 gp | open it |
+| 4 | a chained case | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll), [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll), 150 gp | open it |
 | 5 | the warden's cabinet | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink) ×2, [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×10, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×5 | open it |
 | 6 | a lectern cupboard | [Map or Scroll Case](https://curseofstrahd.app/wiki/items/equipment.md#map-or-scroll-case), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×5, 15 gp | open it |
 | 8 | a chained book that isn't what its spine says (hidden) | [Tome of Clear Thought](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-clear-thought) | Search: Investigation DC 18 |
@@ -76,12 +76,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Four skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they…*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md). Scales with your level.
+- *Skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they still…*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared and level ≥ 10: 4 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (4400 XP)
+> - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared and level ≥ 10: 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 6 × Warden's skull ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (13000 XP)
 > - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared: 3 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (3300 XP)
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md).
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (100 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md).
 
 ## Quests and lore
 

@@ -16,7 +16,7 @@ A failing church of the Morninglord: cracked windows, cold candles, a priest pra
 
 The Morninglord's church, one of the few doors in the village still left unbarred. Below the nave, behind a barred door, lies the undercroft.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc village church overview](https://curseofstrahd.app/wiki/img/shots/loc-village-church-overview.webp)
 *The whole place from above.*
@@ -89,10 +89,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
-> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
+> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2000 XP)
+> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 45 HP), 3 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1875 XP)
 
 ## Quests and lore
 

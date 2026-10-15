@@ -111,7 +111,7 @@ Every creature the party can fight: 148 of them. The journal's Bestiary tab fill
 | ![rictavio](https://curseofstrahd.app/wiki/img/portraits/rictavio.webp) | [Rictavio](https://curseofstrahd.app/wiki/bestiary/rictavio.md) | humanoid | 5 | 1800 | 12 | 77 |
 | ![shambling mound](https://curseofstrahd.app/wiki/img/portraits/shambling-mound.webp) | [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) | plant | 5 | 1800 | 15 | 110 |
 | ![sir godfrey gwilym](https://curseofstrahd.app/wiki/img/portraits/sir-godfrey-gwilym.webp) | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/bestiary/sir-godfrey-gwilym.md) | undead | 5 | 1800 | 17 | 136 |
-| ![will o wisp](https://curseofstrahd.app/wiki/img/portraits/will-o-wisp.webp) | [The Lantern Girl](https://curseofstrahd.app/wiki/bestiary/the-lantern-girl.md) | undead | 5 | 1800 | 15 | 90 |
+| ![lantern girl](https://curseofstrahd.app/wiki/img/portraits/lantern-girl.webp) | [The Lantern Girl](https://curseofstrahd.app/wiki/bestiary/the-lantern-girl.md) | undead | 5 | 1800 | 15 | 90 |
 | ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) | undead | 5 | 1800 | 16 | 90 |
 | ![water elemental](https://curseofstrahd.app/wiki/img/portraits/water-elemental.webp) | [Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md) | elemental | 5 | 1800 | 14 | 114 |
 | ![wraith](https://curseofstrahd.app/wiki/img/portraits/wraith.webp) | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) | undead | 5 | 1800 | 13 | 67 |

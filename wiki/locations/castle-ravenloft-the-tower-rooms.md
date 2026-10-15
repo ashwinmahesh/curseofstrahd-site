@@ -16,7 +16,7 @@ The rooms high in the towers, off a narrow gallery: the count's bats, a stillroo
 
 A narrow gallery with doors on both sides. Somewhere a pot is boiling, somewhere bats are shifting, and behind one locked door somebody is humming.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft spires rooms overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-rooms-overview.webp)
 *The whole place from above.*
@@ -66,7 +66,7 @@ A narrow gallery with doors on both sides. Somewhere a pot is boiling, somewhere
 | 5 | the bat-keeper's trunk | [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), [Vial](https://curseofstrahd.app/wiki/items/equipment.md#vial) ×2, 30 gp | open it |
 | 6 | a glass-fronted cabinet | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) ×2, [Acid](https://curseofstrahd.app/wiki/items/equipment.md#acid), [Vial](https://curseofstrahd.app/wiki/items/equipment.md#vial) ×3 | open it |
 | 7 | the witches' shelf | [Herbalism Kit](https://curseofstrahd.app/wiki/items/equipment.md#herbalism-kit), [Basic Poison](https://curseofstrahd.app/wiki/items/equipment.md#basic-poison), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 25 gp | open it |
-| 8 | Escher's dressing table | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), 180 gp | open it |
+| 8 | Escher's dressing table | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Boots of Levitation](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-levitation), [Philter of Love](https://curseofstrahd.app/wiki/items/magic-items.md#philter-of-love), 180 gp | open it |
 | 9 | something in the cauldron's ashes (hidden) | [Wand of Fear](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-fear) | Search: Perception DC 15 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
@@ -79,11 +79,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Around the cauldron, women in black rags look up all at once with the same wet smile. The brew heaves, and…*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 11: 8 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (1900 XP)
-> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 10: 6 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (1700 XP)
-> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared: 4 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (1500 XP)
+> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 11: 12 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (64 HP), 5 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (272 HP) (6700 XP)
+> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 10: 11 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (74 HP), 8 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (313 HP) (9900 XP)
+> - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared: 10 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (36 HP), 6 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (153 HP) (7600 XP)
 
-- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
 
 ## Quests and lore
 

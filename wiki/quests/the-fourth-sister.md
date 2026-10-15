@@ -40,7 +40,7 @@ This one only opens after [The Children in the Mill](https://curseofstrahd.app/w
    Then decide:
    - "(Hear what Granny's offering.)" She offers a basket of coins for the girl, and her word never to come back to the valley. "(Take the basket and let her go.)" ends the quest in failure (see below).
    - "No.", or "(Stand between them.)", starts the fight.
-4. **Granny Ash (`granny_ash`).** [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) is a Large hag, twice a man's height, with AC 17 and 184 HP (155 if your party is level 6, 130 below that). She attacks with two iron claws at 10-foot reach plus a bite each turn. Her Crushing Hug (recharge 5–6) restrains a Medium or smaller hero (escape DC 15) and crushes them for 2d10+5 every turn. She has Legendary Resistance twice a day and three extra claw rakes a round. With her:
+4. **Granny Ash (`granny_ash`).** [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) is a Large hag, twice a man's height, with AC 17 and 184 HP (360 if your party is level 6, 130 below that). She attacks with two iron claws at 10-foot reach plus a bite each turn. Her Crushing Hug (recharge 5–6) restrains a Medium or smaller hero (escape DC 15) and crushes them for 2d10+5 every turn. She has Legendary Resistance twice a day and two extra claw rakes a round. With her:
    - Below level 6: Granny at 130 HP, one of Granny's Dogs (a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)) and 3 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s.
    - Level 6: three dogs and 4 needle blights.
    - Level 7: three dogs, 4 needle blights and 2 [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md)s.
@@ -88,8 +88,8 @@ You can't have both baskets: it's 300 gp and the Robe of Eyes for fighting, or 3
 > [!example]- By party level (the first line your party fits is the fight you get)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 8: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), The Hag Garden's Elm ([Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md)) (7700 XP)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 7: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (4900 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4700 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4250 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) (360 HP), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4700 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) (130 HP), Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4250 XP)
 
 ## Journal
 
@@ -125,3 +125,6 @@ You can't have both baskets: it's 300 gp and the Robe of Eyes for fighting, or 3
 > [!example]- Cutscenes
 > **Granny Ash**: Granny Ash comes out of the trees for Mouse's birthday.
 > ![sq granny ash](https://curseofstrahd.app/wiki/img/cutscenes/sq-granny-ash.webp)
+>
+> **Her Mother Kisses Her Wrist**: On the step in the grey before dawn, Goodwife Sarnov kisses the jam-coloured mark on her daughter's wrist.
+> ![zamfira wrist](https://curseofstrahd.app/wiki/img/cutscenes/zamfira-wrist.webp)

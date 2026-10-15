@@ -12,7 +12,7 @@
 
 The road drops into a stony ravine where a stream has cut through the woods: down a ledge path on the south wall, across a ford, up the north wall. Sheer rock between, pines along both rims. A random fight on a forest road may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc road ravine overview](https://curseofstrahd.app/wiki/img/shots/loc-road-ravine-overview.webp)
 *The whole place from above.*

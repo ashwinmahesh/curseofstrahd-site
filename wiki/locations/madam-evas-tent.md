@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc tser pool eva tent 1](https://curseofstrahd.app/wiki/img/shots/loc-tser-pool-eva-tent-1.webp)
 > **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md) · level 4
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md)
 > **Quests:** [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Holy Symbol of Ravenkind](https://curseofstrahd.app/wiki/quests/the-holy-symbol-of-ravenkind.md), [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md) and 4 more
@@ -14,7 +14,7 @@
 
 A tent of patched and painted canvas, hung with charms and thick with incense, where an old woman reads the Tarokka at a low table by candlelight.
 
-**Resting:** no Madam Eva does not keep a guest bed, and you would not sleep well in it if she did. The camp outside is safer.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Madam Eva does not keep a guest bed, and you would not sleep well in it if she did. The camp outside is safer.
 
 ![loc tser pool eva tent overview](https://curseofstrahd.app/wiki/img/shots/loc-tser-pool-eva-tent-overview.webp)
 *The whole place from above.*
@@ -50,7 +50,7 @@ A tent of patched and painted canvas, hung with charms and thick with incense, w
 
 | # | Where | What | How |
 |---|---|---|---|
-| 3 | Madam Eva's painted chest | empty | open it |
+| 3 | Madam Eva's painted chest | [Potion of Clairvoyance](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-clairvoyance) | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Tser Pool Eva Tent (eva_card_chest)
 

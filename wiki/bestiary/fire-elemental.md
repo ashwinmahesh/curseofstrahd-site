@@ -43,5 +43,5 @@ A living blaze that sets what it touches on fire.
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Two burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*
 - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*

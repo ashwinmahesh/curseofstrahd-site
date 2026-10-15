@@ -16,7 +16,7 @@ The count's quarry on the south face of Mount Ghakis, cut last spring: raw stone
 
 A raw bite out of the mountain's south face, cut in terraces. The stone is fresh and pale where it was cut and the dust hasn't settled, because the ground keeps moving. A wagon stands in the middle with a crate on it, glowing at the seams.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc ghakis quarry overview](https://curseofstrahd.app/wiki/img/shots/loc-ghakis-quarry-overview.webp)
 *The whole place from above.*
@@ -51,7 +51,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md). Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
+- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) (395 HP). Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
 
 ## Quests and lore
 

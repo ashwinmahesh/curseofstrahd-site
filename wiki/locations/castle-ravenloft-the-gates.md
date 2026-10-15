@@ -15,7 +15,7 @@ The road's end below Castle Ravenloft: a drawbridge over a black chasm, the gate
 
 A chasm with no bottom you can see, a drawbridge already lowered, a gatehouse with its portcullis up. Beyond it a courtyard of cracked stone and weeds, and the keep rising over it with one window lit.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft gates overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-gates-overview.webp)
 *The whole place from above.*
@@ -76,5 +76,5 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 6 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (2700 XP)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 4 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (1800 XP)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (77 HP) (7200 XP)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (84 HP) (6300 XP)

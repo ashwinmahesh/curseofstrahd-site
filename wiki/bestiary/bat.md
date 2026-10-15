@@ -28,3 +28,9 @@ Flits in to nip a target and flutters away; a nuisance more than a threat.
 ### Actions
 
 - **Bite.** Nips a target for 1 Piercing damage.
+
+## Where you meet it
+
+- [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md) · *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*
+- [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md) · *Two more girls come over the rooftops at Catalina's call, barefoot, in nightgowns, their arms full of black…*
+- [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *The water in the well climbs the shaft on its own. She comes up out of it in her wedding veil, screaming, and…*

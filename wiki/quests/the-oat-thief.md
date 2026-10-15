@@ -27,9 +27,9 @@ In [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-me
 
    ![loc woodcutters hollow 1](https://curseofstrahd.app/wiki/img/shots/loc-woodcutters-hollow-1.webp)
 
-3. **Read the ground, then hold the door.** [Survival DC 12] "(Look at the ground round the hut.)" spots the trail of spilled oats from Parriwimple's holed sack, with huge paw prints over it. You catch the hunters unawares (they're surprised) and one wolf is left behind down the path. A failed roll, or "(Stand in front of the door.)", means a straight fight.
-   - Trail spotted: at level 3 or higher, A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)) and 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP); below level 3, the werewolf alone (700 XP).
-   - Trail missed: at level 3 or higher, the werewolf and three wolves (850 XP); below level 3, the werewolf and one wolf (750 XP).
+3. **Read the ground, then hold the door.** [Survival DC 12] "(Look at the ground round the hut.)" spots the trail of spilled oats from Parriwimple's holed sack, with huge paw prints over it. You catch the hunters unawares (they're surprised), and from level 3 one wolf is left behind down the path. A failed roll, or "(Stand in front of the door.)", means a straight fight.
+   - Trail spotted: at level 3 or higher, A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) (875 XP); below level 3, the werewolf and three wolves (850 XP).
+   - Trail missed: at level 3 or higher, the werewolf and four wolves (900 XP); below level 3, the werewolf and two wolves (800 XP).
 
    The werewolf has 71 HP and AC 15, and its bite can curse a humanoid (DC 12 Constitution), so keep your weakest characters off it. Winning moves the quest to **Defended**.
 4. **Talk to Agafia.** She gives you her grandmother's [Bag of Tricks (Tan)](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-tricks-tan): reach in, throw what you find, and a small beast gets up and fights for you till morning. The quest ends at **Done** (Liriel +2, Godrick +2, Thistle +2, Wren +1).
@@ -56,12 +56,12 @@ There's one ending. Agafia and her children stay in the hollow, Parriwimple keep
 
 ## Fights
 
-- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
+- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP; surprise: enemies)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)) (700 XP; surprise: enemies)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP)
-> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (750 XP)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) (875 XP; surprise: enemies)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP; surprise: enemies)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (900 XP)
+> - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP)
 
 ## Journal
 

@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/the-lantern-girl.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![will o wisp](https://curseofstrahd.app/wiki/img/portraits/will-o-wisp.webp)
+> ![lantern girl](https://curseofstrahd.app/wiki/img/portraits/lantern-girl.webp)
 > **Type:** Small undead
 > **Alignment:** neutral
 > **Challenge:** 5 (1800 XP)

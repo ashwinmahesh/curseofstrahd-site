@@ -12,7 +12,7 @@
 
 A ledge road under pines and scree on the mountain roads north of Vallaki, with a drop on one side and a wall of rock on the other.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc mount baratok trail overview](https://curseofstrahd.app/wiki/img/shots/loc-mount-baratok-trail-overview.webp)
 *The whole place from above.*

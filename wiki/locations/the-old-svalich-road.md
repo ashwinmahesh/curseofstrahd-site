@@ -14,7 +14,7 @@
 
 The party's arrival in Barovia: out of the mists onto the Old Svalich Road, through the Svalich Woods where a wolf pack bars the narrows, past the headless guardians of the Gates of Barovia, to the first cottages of the Village of Barovia, where two children are waiting in the road.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc into the mists road overview](https://curseofstrahd.app/wiki/img/shots/loc-into-the-mists-road-overview.webp)
 *The whole place from above.*
@@ -86,22 +86,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
+- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
 
 - *The marshal salutes with his blade, and his two lieutenants walk their bone horses out of the column to his…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Part of [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down and level ≥ 8: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), 3 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (6000 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down and level ≥ 8: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (380 HP), 3 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (6000 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down and level ≥ 6: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), 2 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (5300 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (4600 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down and level ≥ 8: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), 3 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 2 × Banner of the Vanguard ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7700 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down and level ≥ 6: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), 2 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (5600 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (4900 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (110 HP), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (4600 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down and level ≥ 8: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (310 HP), 3 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 2 × Banner of the Vanguard ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7700 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down and level ≥ 6: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (235 HP), 2 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (5600 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (110 HP), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (4900 XP)
 
-- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
+- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (400 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (250 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)
 
 ## Quests and lore
 

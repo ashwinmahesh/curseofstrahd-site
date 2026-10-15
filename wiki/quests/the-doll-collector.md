@@ -45,9 +45,9 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 
    Once he believes it, the quest ends at **Truth Told**. He won't touch her, won't let anyone else touch her, and won't break any more heads for the Baron.
 5. **Or confront him at night.** His room is off the mansion's foyer, and after dark he sits on his cot turning a doll in the candlelight. You can tell him you know about the dolls, warn him off with **Intimidation DC 16** (success: he tells you to get out; failure: he fights), or draw steel.
-   - The fight is the Izek Confrontation: at level 5, Izek (110 HP) and two sergeants of the watch ([Warrior Veterans](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 3,200 XP. That's between a moderate and a hard fight for four level 5 characters, and harder than hard at level 4.
+   - The fight is the Izek Confrontation: at level 5, Izek (360 HP), three sergeants of the watch ([Warrior Veterans](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) and a [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md), 3,925 XP. That's between a moderate and a hard fight for four level 5 characters, and harder than hard at level 4.
    - He swings his battleaxe twice a turn, and can swap a swing for a 60 ft bolt of fire.
-   - Winning ends the quest at **Izek Slain**. His chest holds a [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), though taking it counts as theft.
+   - Winning ends the quest at **Izek Slain**. His chest holds a [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant) and a [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant), though taking them counts as theft.
 
 > [!tip] Speak with Dead: Kolyan
 > If you've heard [Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)'s story of his lost sister, casting Speak with Dead on the burgomaster (at his coffin in the mansion, or his grave in the village churchyard) proves it: Kolyan found Ireena on the lake road the winter the wolves took Izek's arm. The journal moves to the truth being guessed, and you can tell Izek who she is.
@@ -80,17 +80,17 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 
 ## Fights
 
-- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level.
+- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), 2 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (1800 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 3 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), Town guard ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)) (3925 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (60 HP) (1800 XP)
 
 - *Izek steps down off the dais, flexing the arm that isn't his. A few of the watch step down with him.*, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), 2 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
-> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
-> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (1800 XP)
+> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (310 HP), 4 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (4600 XP)
+> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
+> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (70 HP) (1800 XP)
 
 ## Journal
 
@@ -128,6 +128,9 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 - **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md), [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md)
 
 > [!example]- Cutscenes
+> **The Spears Go Down**: The Baron's watch lays down its spears one by one and Vargas stands alone on his dais with his sash crooked.
+> ![baron overthrown](https://curseofstrahd.app/wiki/img/cutscenes/baron-overthrown.webp)
+>
 > **The Struck Bell**: The Struck Bell: a later beat of a long conversation picture (vallaki/izek, ~ truth_ok), Ashwin's ask 2026-10-12.
 > ![izek truth](https://curseofstrahd.app/wiki/img/cutscenes/izek-truth.webp)
 >

@@ -12,7 +12,7 @@
 
 Open moor in a cold fog: heather, black bog pools, and a long barrow ringed with standing stones beside the track. A random fight on the moor and marsh roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc barrow moor overview](https://curseofstrahd.app/wiki/img/shots/loc-barrow-moor-overview.webp)
 *The whole place from above.*

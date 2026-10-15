@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc castle ravenloft larders dungeon 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-1.webp)
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)
 > **Quests:** [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
@@ -16,7 +16,7 @@ Under the larders: a vaulted hall, the jailers' post, two rows of cells and thei
 
 Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace breathes.
 
-**Resting:** no Something in the cells is always awake down here, and it listens for breathing that slows.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Something in the cells is always awake down here, and it listens for breathing that slows.
 
 ![loc castle ravenloft larders dungeon overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-overview.webp)
 *The whole place from above.*
@@ -96,19 +96,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Three suits of armour stand at the jailers' table as if waiting for a fourth hand. They are empty, and they…*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
+- *Suits of armour stand round the jailers' table as if waiting for another hand. They are empty, and they draw.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): 8 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
 
-- *Two burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md), [Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md).
+- *Burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): 3 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md), The Bound Fire ([Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md)).
 
-- *A grey figure at the rack looks up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md), [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md).
+- *Grey figures at the rack look up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): The Questioner ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 151 HP), 5 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (153 HP), 9 × [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md) (4 HP), 2 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (151 HP).
 
-- *His hand closes on the nearest throat, and two more shapes drop from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *His hand closes on the nearest throat, and two more shapes drop from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Brother Anatol ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 315 HP), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (315 HP).
 
-- *He laughs, and two more shapes unfold from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *He laughs, and two more shapes unfold from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Brother Anatol ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 315 HP), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (315 HP).
 
-- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first, and down the row the…*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 104 HP), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (104 HP).
 
-- *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md).
+- *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him. Four of…*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (520 HP), 10 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 10 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (31500 XP; lair)
+> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 10 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 4 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (20700 XP; lair)
 
 ## Quests and lore
 

@@ -27,6 +27,12 @@ Shoots from cover, then shifts to hybrid form to scratch and bite with its pack;
 - **Senses:** darkvision 60 ft; passive Perception 14
 - **Languages:** Common (can't speak in wolf form)
 
+### Changing shape
+
+*It changes shape as a Bonus Action; it comes into a fight looking human and changes in front of you.*
+
+- **Wolf.** A Medium wolf (Speed 40 ft.): the Bite, no bow. Its other statistics stay the same.
+
 ### Traits
 
 - **Pack Tactics.** The werewolf has Advantage on an attack roll against a creature when at least one of the werewolf's allies is within 5 feet of that creature and that ally doesn't have the Incapacitated condition.
@@ -54,4 +60,4 @@ Shoots from cover, then shifts to hybrid form to scratch and bite with its pack;
 - [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): *For one moment Kiril and Emil look at each other across the cave, and agree on something for the first time…*
 - [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md) · *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*
 
-On the road: [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Baratok Slopes](https://curseofstrahd.app/wiki/world/random-encounters.md), [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Baratok Slopes](https://curseofstrahd.app/wiki/world/random-encounters.md), [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md), [Vineyard Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)

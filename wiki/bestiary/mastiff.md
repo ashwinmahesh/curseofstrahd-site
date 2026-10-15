@@ -30,3 +30,7 @@ A loyal guard dog.
 ### Actions
 
 - **Bite.** A bite that drags a Medium or smaller target Prone.
+
+## Where you meet it
+
+- [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md) · *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*

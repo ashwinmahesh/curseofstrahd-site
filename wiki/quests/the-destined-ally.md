@@ -55,7 +55,7 @@ Find your card below and follow its route. In most cases you talk to the ally an
 **Beast: Emil Toranescu.** He's in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md), chained in silver in the west alcove. The den appears on your map because of the card. See [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md).
 1. Get in. Either [Zuleika](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md), waiting at the den in the hills, vouches for you, or you fight the guards at the cave mouth.
 2. Free him with the key (Zuleika has one; Kiril keeps the other on a peg in his lair north of the great cave), or tear the rings out with **Athletics DC 15**, or pick the cuffs with **Sleight of Hand DC 14**. Each roll is one try. He joins as a guest and howls his challenge.
-3. When [Kiril](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md) arrives, choose "We stand with Emil" and win the fight. Below level 7 it's Kiril with two werewolves and a dire wolf; at level 7 he brings three werewolves and two dire wolves; at level 8, four werewolves and two dire wolves. If you've already beaten the den's guards, there's one werewolf fewer at levels 7 and 8.
+3. When [Kiril](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md) arrives, choose "We stand with Emil" and win the fight. Below level 7 it's Kiril with two werewolves and a dire wolf; at level 7 he brings three werewolves and two dire wolves, or one werewolf fewer if you've already beaten the den's guards. From level 8 Kiril has 145 HP and brings five werewolves at 110 HP each and five dire wolves; if you've beaten the guards, he has 175 HP and brings four werewolves at 140 HP, four dire wolves and three wolves.
 4. Afterwards Zuleika takes the pack, and Emil comes with you because the cards said so.
 5. Standing aside, handing Emil back to Kiril, or turning on both of them ("Neither of you leads anything") loses him.
 
@@ -181,6 +181,9 @@ Restored, he gives you a [Ring of Spell Storing](https://curseofstrahd.app/wiki/
 >
 > **The Attic Window Flashes**: As the coup ends, an attic window in the Baron's mansion flashes white.
 > ![attic flash](https://curseofstrahd.app/wiki/img/cutscenes/attic-flash.webp)
+>
+> **Without His Feathers**: Van Richten alone at his workroom table under a lamp, his burn-scarred hands flat on a map of the valley and his showman's feathers hung on a peg.
+> ![van richten workroom](https://curseofstrahd.app/wiki/img/cutscenes/van-richten-workroom.webp)
 >
 > **Two People by a Fire**: Van Richten and Ezmerelda by a fire on the shore after twelve years.
 > ![vr reunion](https://curseofstrahd.app/wiki/img/cutscenes/vr-reunion.webp)

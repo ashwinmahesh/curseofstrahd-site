@@ -16,7 +16,7 @@ The castle's second floor, where the count keeps court: the long King's Hall, th
 
 A long hall of black stone hung with old banners runs the width of the keep. Tall doors open on a throne room to the north; a study, a trophy room and a clerk's office open off it; the grand stairs come up from below.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft court overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-overview.webp)
 *The whole place from above.*
@@ -99,18 +99,24 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *He is on the throne, one leg over the arm of it, as if he has been waiting a long time and enjoyed every…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md).
-
-- *He is reading by the fire. He finishes the page before he looks up, and marks it with a ribbon, and the…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
-
-- *The armour on its stand turns its helm toward the door. Behind it, three more suits step down from the wall…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
-
-- *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
+- *He is on the throne, one leg over the arm of it, as if he has been waiting a long time and enjoyed every…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (635 HP), 3 × Wolf of the dais ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 10 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (31600 XP; lair)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 3 × Wolf of the dais ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (20800 XP; lair)
 
-- *The rug lifts off the floor like a sheet in the wind and comes for you, and from the ledger shelves something…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rug of Smothering](https://curseofstrahd.app/wiki/bestiary/rug-of-smothering.md), [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md).
+- *He is reading by the fire. He finishes the page before he looks up, and marks it with a ribbon, and the…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (635 HP), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 8 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (27500 XP; lair)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 5 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (22100 XP; lair)
+
+- *The armour on its stand turns its helm toward the door. Behind it, more suits step down from the wall pegs…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): The count's armour ([Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 190 HP), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (102 HP).
+
+- *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (690 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (50 HP) (15100 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (265 HP), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (220 HP), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (175 HP) (12800 XP)
+
+- *The rug lifts off the floor like a sheet in the wind and comes for you, and from the ledger shelves something…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): The rug ([Rug of Smothering](https://curseofstrahd.app/wiki/bestiary/rug-of-smothering.md), 57 HP), 3 × [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md) (4 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (235 HP).
 
 ## Quests and lore
 

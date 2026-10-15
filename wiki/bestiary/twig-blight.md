@@ -43,9 +43,8 @@ A knee-high bundle of dead twigs that passes for brush until it scuttles out to 
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md) · *The woodpile stands up. It is taller than Grigore's house, logs for ribs and roots for fingers, and the…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md) · *The logs split in the fire, and things crawl out of the splits: pale, thorned, too many legs, and very angry…*
 - [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md): *The vines on both sides of the lane shiver, though there's no wind. Then, row by row, they stand up.*
+- [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md): *Needle blights are scraping at the earth floor with their claws, and druids with lanterns are telling them…*
 - [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md): *Druids look up from the vats, where they have been feeding something green and pulpy into the wine. Around…*
 - [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): *The men round the fire are big, bearded and painted green to the eyebrows. They see you, grin, and reach for…*
-- [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *The humming breaks into a shout. The effigy's chest splits like a log in frost, and out of it, unfolding,…*
+- [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *Out of the split chest, unfolding, comes a tree that walks, and all round the crown the brush gets up to…*
 - [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): [The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md) · *The ash of the whole crown stands up round the thing in the turned earth, grey and smoking, twice a man's…*
-
-On the road: [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Vineyard Road](https://curseofstrahd.app/wiki/world/random-encounters.md)

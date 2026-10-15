@@ -16,8 +16,9 @@ A red dragon who came through the mists forty years ago after a dead silver drag
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
-> - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md), The hoard: when not sarkhaza slain
+> [!note]- At points in the story (2)
+> - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md), The hoard: when not sarkhaza slain and wyrm chain drawn
+> - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md), The hoard: when not sarkhaza slain and not wyrm chain drawn
 
 ## Quests
 

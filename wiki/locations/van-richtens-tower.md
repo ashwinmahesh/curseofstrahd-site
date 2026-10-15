@@ -16,7 +16,7 @@ A tower of black stone on an island in Lake Baratok, a cold tarn under Mount Bar
 
 Cold, still water; a half-drowned stone causeway out to the island; a round tower with one lit window and no handle on its door. On the shore, a painted wagon and a campfire.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc van richtens tower overview](https://curseofstrahd.app/wiki/img/shots/loc-van-richtens-tower-overview.webp)
 *The whole place from above.*
@@ -85,11 +85,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something is waiting where the causeway meets the shore: two pale figures standing very still, and above them…*, in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
+- *Something is waiting where the causeway meets the shore: pale figures standing very still, and above them the…*, in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 8: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), The castle's huntsman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (4400 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
-> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 7: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (3700 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
-> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (1900 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 8: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), The castle's huntsman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (6250 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 7: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7400 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 6 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7500 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 
 ## Quests and lore
 
@@ -99,5 +99,5 @@ The containers here also get random magic items and potions, rolled for a party 
 - [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md): Mordenkainen says the archmage who built the tower on the tarn never died: he moved downstairs, and he's waking.
 - [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md): A pack of werewolves dens in the hills above Lake Zarovich. Its leader serves the castle, and its old leader hangs in chains for refusing…
 
-> [!quote]- A note nailed to the wagon
+> [!quote]- A note pinned to a board by the wagon
 > Rudolph. The old lock still opens to the name of the wizard who built this place: KHAZAN. I found it under the moss in an hour. Your new ward opens to nothing, and it bites me. It bites only me. You keyed it to me. I am sitting on your doorstep until you come out and explain that to my face. E.

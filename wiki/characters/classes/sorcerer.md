@@ -37,7 +37,7 @@
 ### Aberrant Sorcery
 *Magic seeded by an alien mind: psionic spells, telepathy and flesh that warps toward the strange.*
 
-- **3: Psionic Spells.** Arms of Hadar, Calm Emotions, Detect Thoughts, Dissonant Whispers and Mind Sliver always prepared; more at levels 5, 7 and 9.
+- **3: Psionic Spells.** Arms of Hadar, Calm Emotions, Dissonant Whispers, Mind Sliver and Mind Spike always prepared; more at levels 5, 7 and 9.
 - **3: Telepathic Speech.** Bonus Action: form a telepathic link with a creature within 30 feet for Sorcerer-level minutes.
 - **6: Psionic Sorcery.** Cast your level 1+ Psionic Spells with Sorcery Points equal to their level, with no Verbal or Somatic components.
 - **6: Psychic Defenses.** Resistance to Psychic damage and Advantage on saves against Charmed and Frightened.

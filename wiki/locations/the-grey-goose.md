@@ -16,7 +16,7 @@ A roadhouse on the Old Svalich Road between the Village of Barovia and the cross
 
 A roadhouse by the road, burned down to its walls a long time ago. A painted goose still hangs from the sign-iron, grey with soot. Weeds in the taproom, and the hearth standing on its own like a tombstone.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc svalich roadhouse overview](https://curseofstrahd.app/wiki/img/shots/loc-svalich-roadhouse-overview.webp)
 *The whole place from above.*
@@ -56,10 +56,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Part of [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md).
+- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Part of [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**, when level ≥ 3: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 2 × A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (700 XP)
-> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (500 XP)
+> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**, when level ≥ 3: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 2 × A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (900 XP)
+> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (520 XP)
 
 ## Quests and lore
 

@@ -32,7 +32,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 
    ![loc khazan undercroft overview](https://curseofstrahd.app/wiki/img/shots/loc-khazan-undercroft-overview.webp)
 
-3. **The hall of names.** As you step into the long hall, every book opens and the people written in them come out: the First Visitor ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), two Remembered Knights ([Ghost](https://curseofstrahd.app/wiki/bestiary/ghost.md)), five Visitors ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)) and the Second Visitor ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 6100 XP whatever your level. All of them shrug off weapon damage and most elements and are immune to necrotic and poison, so radiant and force damage do the real work. Drop the banshee early: once a day her Deathly Wail can put anyone at 25 hit points or fewer straight to 0 (DC 13 Constitution).
+3. **The hall of names.** As you step into the long hall, every book opens and the people written in them come out: the First Visitor ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), five Remembered Knights ([Ghost](https://curseofstrahd.app/wiki/bestiary/ghost.md)), five Visitors ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), the Second Visitor ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) and two more wraiths, 13000 XP whatever your level. All of them shrug off weapon damage and most elements and are immune to necrotic and poison, so radiant and force damage do the real work. Drop the banshee early: once a day her Deathly Wail can put anyone at 25 hit points or fewer straight to 0 (DC 13 Constitution).
 
 4. **The drowned crypt** in the north-east corner, where the lake gets in: Investigation DC 16 on something in the silt finds [Bracers of Defense](https://curseofstrahd.app/wiki/items/magic-items.md#bracers-of-defense).
 
@@ -45,7 +45,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
    - Or ask "Who are you?" and then try Arcana DC 16 (one try) to feel the cold pulling up toward the door.
 
 6. **Choose your order.** You can fight him now or unmake the name first.
-   - **Fight now** ("(Draw your weapons.)", or "We're going to break the name over your door."): Khazan at 250 hit points with two Visitors (specters), and his study takes lair actions. He can't die while the name stands: when he drops below 60 hit points he comes apart into dust that goes up through the ceiling toward the door. The quest moves to Named and his chair is empty. He's a CR 14 lich: Paralyzing Touch and Disrupt Life both want a DC 18 Constitution save, his spells are DC 18, and he resists cold, lightning and necrotic.
+   - **Fight now** ("(Draw your weapons.)", or "We're going to break the name over your door."): Khazan at 315 hit points with two Visitors (specters), and his study takes lair actions. He can't die while the name stands: when he drops below 30 hit points he comes apart into dust that goes up through the ceiling toward the door. The quest moves to Named and his chair is empty. He's a CR 14 lich: Paralyzing Touch and Disrupt Life both want a DC 18 Constitution save, his spells are DC 18, and he resists cold, lightning and necrotic.
    - **Unmake the name first**, if you've already worked out the secret, and skip that fight entirely.
 
 7. **The name over the door.** Climb back up and out onto the island, and look at the tower door again. Now you can:
@@ -58,12 +58,12 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
    - **"Khazan."** He thanks you, and the last fight starts with him surprised (Liriel +2, Thistle +1).
    - Say nothing, or draw your weapons, and the fight starts normally.
 
-   This time it's Khazan at 210 hit points with two Visitors and no lair actions, and he doesn't come back. The quest ends at Unmade.
+   This time there are no lair actions, and he doesn't come back. If you said his name, it's Khazan at 210 hit points with two Visitors; if not, it's Khazan at 290 hit points with four Visitors and a Remembered Knight ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)). The quest ends at Unmade.
 
 ### Choices and endings
 
-- **Unmade** (success) is the only ending. Once he's gone, a coffer appears in the study with 800 gp and a [Wand of the War Mage, +3](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-3), and the book of names is blank. With the bracers from the crypt, that's the whole haul.
-- What you choose only changes the fights: unmake the name first and you fight him once instead of twice, and saying his name at the end gives you the surprise round.
+- **Unmade** (success) is the only ending. Once he's gone, a coffer appears in the study with 800 gp, a [Wand of the War Mage, +3](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-3) and a [Robe of the Archmagi](https://curseofstrahd.app/wiki/items/magic-items.md#robe-of-the-archmagi), and the book of names is blank. With the bracers from the crypt, that's the whole haul.
+- What you choose only changes the fights: unmake the name first and you fight him once instead of twice, and saying his name at the end gives you the surprise round and a smaller fight.
 - Once Khazan is gone, Mordenkainen's next piece of news is the voice in the well that starts [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md).
 
 ### If you're stuck
@@ -83,12 +83,12 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 
 ## Fights
 
-- *For one moment more Khazan is himself, and he doesn't lift a hand. Then the lights in his eyes go out, and…*, in [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md). Scales with your level.
+- *For one moment more Khazan is himself, and he doesn't lift a hand. Then the lights in his eyes go out, and…*, in [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken and khazan said: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), 2 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)) (11900 XP; surprise: enemies)
-> - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), 2 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)) (11900 XP)
+> - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken and khazan said: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) (210 HP), 2 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)) (11900 XP; surprise: enemies)
+> - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) (290 HP), 4 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), A Remembered Knight ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (14100 XP)
 
-- *Khazan stands up out of his chair, and every candle in the study leans toward him, and the books in the hall…*, in [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md).
+- *Khazan stands up out of his chair, and every candle in the study leans toward him, and the books in the hall…*, in [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) (315 HP), 2 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)).
 
 ## Journal
 
@@ -124,3 +124,6 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 > [!example]- Cutscenes
 > **The Name Over the Door**: A lich in a high chair under his tower, a book of names on his knees, and every candle leaning toward him.
 > ![sq khazan](https://curseofstrahd.app/wiki/img/cutscenes/sq-khazan.webp)
+>
+> **Written Out in the Good Ink**: Khazan rises from his chair writing glowing names in the air, the book's pages flying and every candle leaning toward him.
+> ![khazan writes](https://curseofstrahd.app/wiki/img/cutscenes/khazan-writes.webp)

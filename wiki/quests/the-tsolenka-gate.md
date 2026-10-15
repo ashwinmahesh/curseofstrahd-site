@@ -33,10 +33,10 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
    The landing is also where [The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md) and [The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md) begin.
 
 2. **The bridge, and the roc.** The only way to the tower is across the stone bridge over the gorge and past the roc's shelf.
-   - **By day** (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) of Mount Ghakis drops on anyone on the bridge: 190 hit points at level 9, 160 at level 8, 130 below (7200 XP). Its talons can seize one of you and hold on (escape DC 19).
+   - **By day** (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) of Mount Ghakis drops on anyone on the bridge: 160 hit points at level 8, 130 below (7200 XP). From level 9 it has 285 hit points and brings its mate, a second roc with 85 (14,400 XP). Its talons can seize one of you and hold on (escape DC 19).
    - **By night** it doesn't hunt, so the simple answer is to cross after dark.
    - **Driving it off** (or saving its chick in The Last Egg) ends the danger for good.
-   - **On the shelf beyond:** Medicine DC 15 on the bones reveals a traveller the roc dropped (search DC 15: [Wings of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#wings-of-flying)). The roc's nest holds 140 gp, a chain shirt, a longsword, a potion of healing and a [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2).
+   - **On the shelf beyond:** Medicine DC 15 on the bones reveals a traveller the roc dropped (search DC 15: [Wings of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#wings-of-flying)). The roc's nest holds 140 gp, a chain shirt, a longsword, a [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), a [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) and an [Ioun Stone (Agility)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-agility).
    - **History DC 15** on the carved faces over the gate tells you who the watch were.
 
 3. **Into the tower.** The low door to the left of the portcullis leads into [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md). Five grey soldiers stand their posts in the guardroom, and [Sergeant Dorin Valcu](https://curseofstrahd.app/wiki/people/sergeant-dorin-valcu.md) steps out: "Halt. Watchword."
@@ -48,7 +48,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
    - **Deception DC 15, "We're the relief. Your watch is over."** Same result. A miss closes the option, and five grey hands go to five grey sword hilts, but nothing else happens.
    - **Persuasion DC 15 or Religion DC 13.** Tell him the crown is gone, or offer to say the words for his lads. Between them you get one attempt. Success releases the watch: they go to their rest one by one (Liriel +2, Godrick +2).
    - **A cleric** can offer the rites of the dead with no roll at all, for the same result.
-   - **"Stand aside, sergeant, or be made to."** This means a fight (Godrick -1, Liriel -1): the sergeant and four Phantom Watchmen at level 8 or higher (3500 XP), and the sergeant and three below that. [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s resist almost every kind of damage (acid, cold, fire, lightning, thunder and weapons) and are immune to necrotic and poison, so radiant, force and psychic damage are what hurt them.
+   - **"Stand aside, sergeant, or be made to."** This means a fight (Godrick -1, Liriel -1): the sergeant, four Phantom Watchmen and ten more phantom warriors at level 8 or higher (10500 XP), and the sergeant, three watchmen and seven more below that. [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s resist almost every kind of damage (acid, cold, fire, lightning, thunder and weapons) and are immune to necrotic and poison, so radiant, force and psychic damage are what hurt them.
 
    Any of these moves the quest to Watch Passed.
 
@@ -86,10 +86,10 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 
 ## Fights
 
-- *Five grey soldiers draw five grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
+- *Grey soldiers draw grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (3500 XP)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (2800 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 7 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
 
 ## Journal
 
@@ -116,6 +116,12 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 > [!example]- Cutscenes
 > **The Roc's Shadow**: A roc banks over the ridge, its shadow covering the road.
 > ![roc shadow](https://curseofstrahd.app/wiki/img/cutscenes/roc-shadow.webp)
+>
+> **Too Small to Bother With**: From the road, the roc's huge golden eye looks down and decides the travellers are too small to bother with, today.
+> ![roc looks down](https://curseofstrahd.app/wiki/img/cutscenes/roc-looks-down.webp)
+>
+> **Halt. Watchword.**: Five grey soldiers at their posts in the guardroom, blurred like breath on glass, and the sergeant stepping out to halt the party.
+> ![watch halt](https://curseofstrahd.app/wiki/img/cutscenes/watch-halt.webp)
 >
 > **The Watch Stands Down**: The ghost soldiers of the Tsolenka watch go out one at a time.
 > ![watch stands down](https://curseofstrahd.app/wiki/img/cutscenes/watch-stands-down.webp)

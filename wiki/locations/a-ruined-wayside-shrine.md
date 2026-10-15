@@ -12,7 +12,7 @@
 
 A roofless chapel of the Morninglord beside the road, its walls fallen to stubs and its saint defaced; monks' graves on the rise beside it and the pines all round. A random fight on the valley's roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc wayside shrine overview](https://curseofstrahd.app/wiki/img/shots/loc-wayside-shrine-overview.webp)
 *The whole place from above.*

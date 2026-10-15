@@ -12,7 +12,7 @@
 
 A burial ground climbs the slope beside the road behind a sagging fence: rows of leaning headstones, raw mounds, an open grave and a crypt on the top terrace. A random fight on the valley's roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc roadside graves overview](https://curseofstrahd.app/wiki/img/shots/loc-roadside-graves-overview.webp)
 *The whole place from above.*

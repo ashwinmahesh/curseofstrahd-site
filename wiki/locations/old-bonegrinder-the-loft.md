@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc old bonegrinder loft 1](https://curseofstrahd.app/wiki/img/shots/loc-old-bonegrinder-loft-1.webp)
 > **Region:** [Old Bonegrinder](https://curseofstrahd.app/wiki/regions/old-bonegrinder.md) · level 6
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)
 > **Quests:** [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md)
@@ -16,7 +16,7 @@ The windmill's upper floor under the turning gear: the hags' straw nest, Bella's
 
 Low rafters, warm air rising from the oven below, and the great wooden gear of the sails overhead, locked still. It smells of straw, sugar and something kept too long.
 
-**Resting:** no Not up here, under the cages, with the chair still rocking.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not up here, under the cages, with the chair still rocking.
 
 ![loc old bonegrinder loft overview](https://curseofstrahd.app/wiki/img/shots/loc-old-bonegrinder-loft-overview.webp)
 *The whole place from above.*
@@ -56,7 +56,7 @@ Low rafters, warm air rising from the oven below, and the great wooden gear of t
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | a chest under the straw | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2, [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), 140 gp | lock DC 15 |
+| 6 | a chest under the straw | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2, [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Staff of Charming (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-charming), [Wand of Wonder](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-wonder), 140 gp | lock DC 15 |
 | 7 | Bella's jewel box | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), 35 gp | open it |
 | 8 | a broom up in the rafters (hidden) | [Broom of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#broom-of-flying) | Search: Perception DC 15 |
 | 9 | a black cloth among the little bags (hidden) | [Portable Hole](https://curseofstrahd.app/wiki/items/magic-items.md#portable-hole) | Search: Perception DC 15 |
@@ -71,19 +71,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Morgantha stands, and keeps standing, taller than the rafters should allow. In the corner Bella lays down her…*, in [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md). Scales with your level. Part of [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md).
+- *Morgantha stands, and keeps standing, taller than the rafters should allow. In the corner Bella lays down her…*, in [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level. Part of [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (5400 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1950 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 5: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), 2 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1900 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1850 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 310 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 195 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 195 HP), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (5550 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (5400 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 340 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 340 HP), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (4600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 220 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 220 HP), 12 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (6150 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)), 7 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (6850 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 5: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 100 HP), 2 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1900 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 85 HP), Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1850 XP)
 
-- *Bella's laugh comes out of a mouth that is suddenly far too wide. The rocking chair goes over.*, in [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level.
+- *Bella's laugh comes out of a mouth that is suddenly far too wide. The rocking chair goes over.*, in [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 250 HP), 6 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 
 ## Quests and lore
 

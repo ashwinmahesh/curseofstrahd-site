@@ -29,6 +29,12 @@ Opens with Phantasmal Killer and level 4 Magic Missiles, claws anyone close, and
 - **Senses:** darkvision 120 ft; passive Perception 15
 - **Languages:** Abyssal, Common, Infernal, Primordial
 
+### Changing shape
+
+*It changes shape as a Bonus Action.*
+
+- **Disguise.** The Humanoid she passes as (a Small or Medium woman): her statistics stay the same.
+
 ### Traits
 
 - **Coven Magic.** While at least two allied hags are within 30 feet of it, the hag can cast Augury, Find Familiar, Identify, Locate Object, Scrying or Unseen Servant, with no Material components, the spell's normal casting time, Intelligence as its spellcasting ability and a spell save DC of 14. After casting a spell this way, it can't cast that same spell with this trait again until it finishes a Long Rest.

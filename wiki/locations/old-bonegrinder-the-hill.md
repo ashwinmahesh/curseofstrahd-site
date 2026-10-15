@@ -16,7 +16,7 @@ A bald crag above the Old Svalich Road, ringed with pines, where a windmill with
 
 The track climbs out of the trees onto bare rock. The windmill stands at the top with its sails locked in a cross; smoke leaks from a pipe in its side, and the whole hill smells of baking.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc old bonegrinder hill overview](https://curseofstrahd.app/wiki/img/shots/loc-old-bonegrinder-hill-overview.webp)
 *The whole place from above.*

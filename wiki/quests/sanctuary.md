@@ -64,7 +64,7 @@ The [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md) stops you 
   - have a Cleric or Paladin stand in the window;
   - speak a warding prayer (**Religion DC 15**);
   - call her back to herself (**Persuasion DC 15**, one try only);
-  - go for him, which starts a short fight against Strahd and a [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). He leaves after two rounds, or sooner once he's hurt.
+  - go for him, which starts a fight against Strahd, with 170 HP here, and a [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). He fights until you bring him down, then leaves.
 
   Each failed prayer or plea lets her take a step toward him. Two steps, or choosing *"Let her go"*, and she goes with him to the castle. That ends this quest as a failure, at **Taken**: there's no sanctuary in Vallaki for her now. Taking her into your party, or to the church once the bones are back, avoids the scene entirely.
 - **Lucian won't take her in.** Not until the bones are back in the crypt. Urwin's room is only offered before then; afterwards, take her to the church.
@@ -135,3 +135,6 @@ The [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md) stops you 
 >
 > **The Attic Window Flashes**: As the coup ends, an attic window in the Baron's mansion flashes white.
 > ![attic flash](https://curseofstrahd.app/wiki/img/cutscenes/attic-flash.webp)
+>
+> **Smile, It's the Law**: Inside the palisade the whole street smiles on order: bunting, painted suns, and every grin held a little too long.
+> ![vallaki smiles](https://curseofstrahd.app/wiki/img/cutscenes/vallaki-smiles.webp)

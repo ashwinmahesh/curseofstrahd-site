@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc amber temple vault 1](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-vault-1.webp)
 > **Region:** [The Amber Temple](https://curseofstrahd.app/wiki/regions/the-amber-temple.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md), [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)
 > **Quests:** [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
@@ -16,7 +16,7 @@ Under the great hall: a long gallery of ten talking sarcophagi, a door of glowin
 
 The amber in the walls glows here, faintly, like honey held up to a candle. It is the only warm colour for a mile.
 
-**Resting:** no Nobody sleeps down here. The voices in the amber know your names now, and they take turns.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Nobody sleeps down here. The voices in the amber know your names now, and they take turns.
 
 ![loc amber temple vault overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-vault-overview.webp)
 *The whole place from above.*
@@ -82,15 +82,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The alcove beside the doors was not empty. Something tall and golden steps out of it, and the hall's light…*, in [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when not vault guardian destroyed and level ≥ 10: The Vault Guardian ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)), Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (7700 XP)
+> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when not vault guardian destroyed and level ≥ 10: The Vault Guardian ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 660 HP), 4 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (13100 XP)
 > - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when not vault guardian destroyed: The Vault Guardian ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
 
 - *Vosk's shape slips like a badly hung coat. Under it: a jackal's head, a scholar's robe, and claws that shake.*, in [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md). Scales with your level. Part of [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when vosk named or vosk weakened: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)) (8400 XP)
-> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 10: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)), 2 × Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (10600 XP)
-> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 8: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)), Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (9500 XP)
-> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)) (8400 XP)
+> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when vosk named or vosk weakened: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 205 HP), 2 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (10600 XP)
+> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 10: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 320 HP), 2 × Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (10600 XP)
+> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 8: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 104 HP), Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (9500 XP)
+> - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 85 HP) (8400 XP)
 
 ## Quests and lore
 

@@ -16,9 +16,12 @@ A bride sewn together from Krezk's dead by the Abbot's patient hands, beautiful 
 
 ## Where to find them
 
-> [!note]- At points in the story (3)
+> [!note]- At points in the story (6)
 > - [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md), The chancel: when vasilka fate is “abandoned”
+> - [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md), The chancel: when vasilka fate is “laid to rest”
+> - [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md), The chancel: when bride defeated
 > - [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md), The surgery: when not wedding dress delivered and not vasilka fate
+> - [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md), The surgery: when vasilka fate is “never woke” and vasilka face covered
 > - [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md), The surgery: when vasilka fate is “never woke”
 
 ## Quests

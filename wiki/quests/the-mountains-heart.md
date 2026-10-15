@@ -37,7 +37,7 @@ Either one starts the quest at Asked and puts [The Ghakis Quarry](https://curseo
    - **"(Go to the crate.)"**
 
 3. **The fight.** Inside the crate is a stone the size of a barrel, red and veined like meat, beating slowly, and the quarry floor stands up.
-   - [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) comes alone (185 hit points here, AC 18, CR 11, 7200 XP), with the quarry's lair actions.
+   - [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) comes alone (395 hit points here, AC 18, CR 11, 7200 XP), with the quarry's lair actions.
    - He slams twice. Every so often the Ground Shrugs: four of you within 30 feet make a Dexterity DC 17 save against 4d10 and being knocked prone.
    - He can burrow through the rock, is immune to poison, and has Legendary Resistance twice a day.
    - He is vulnerable to thunder, so thunder damage is the thing to bring.
@@ -77,7 +77,7 @@ Either one starts the quest at Asked and puts [The Ghakis Quarry](https://curseo
 
 ## Fights
 
-- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md).
+- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) (395 HP).
 
 ## Journal
 

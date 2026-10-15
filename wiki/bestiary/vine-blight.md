@@ -44,6 +44,6 @@ A slow heap of creepers that crushes a victim from 10 ft away and makes the grou
 - [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md): *Needle blights are scraping at the earth floor with their claws, and druids with lanterns are telling them…*
 - [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md): *The vat bursts its hoops. What rises out of it is the winery's last harvest: skins, stems and rot, heaped…*
 - [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md): *Druids look up from the vats, where they have been feeding something green and pulpy into the wine. Around…*
-- [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *The humming breaks into a shout. The effigy's chest splits like a log in frost, and out of it, unfolding,…*
+- [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *Out of the split chest, unfolding, comes a tree that walks, and all round the crown the brush gets up to…*
 
-On the road: [Vineyard Road](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Vineyard Road](https://curseofstrahd.app/wiki/world/random-encounters.md)

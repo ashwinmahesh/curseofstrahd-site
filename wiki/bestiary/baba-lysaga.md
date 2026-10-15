@@ -27,6 +27,12 @@ An ancient witch: three staff blows, a 16th-level wizard's spells, swarms of ins
 - **Skills:** Arcana +13, Religion +13
 - **Languages:** Abyssal, Common, Draconic, Dwarvish, Giant
 
+### Changing shape
+
+*It changes shape as an action.*
+
+- **Swarm of insects.** A swarm of insects (Speed 5 ft., Fly 30 ft.): what she wears changes with her.
+
 ### Traits
 
 - **Hidden from Divination.** Divination magic can't find her, as if she were under Nondetection.

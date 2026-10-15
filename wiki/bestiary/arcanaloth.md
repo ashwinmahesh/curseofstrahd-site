@@ -42,7 +42,7 @@ A jackal-headed yugoloth scholar that hoards secrets and sells them dear.
 - **Multiattack.** Three Fiendish Bursts; one can be a Banishing Claw.
 - **Banishing Claw.** A claw that can drag a creature into the pages of its Soul Tome (DC 17 Cha save each turn to escape; three failures bind it).
 - **Fiendish Burst.** A blast of fiendish power, close up or up to 120 ft.
-- **Spellcasting.** Intelligence, DC 17: Alter Self, Detect Magic and other small magics at will; Dimension Door, Mind Blank and two divinations once a day.
+- **Spellcasting.** Intelligence, DC 17: Alter Self, Detect Magic and other small magics at will; Contact Other Plane, Dimension Door and Mind Blank once a day.
 
 ### Bonus actions
 

@@ -16,7 +16,7 @@ A gully off the path from the crossroads to Tser Falls, where a stream cuts down
 
 A gully off the falls path, where a stream comes down over black rock. Web hangs across it in sheets, grey with dust and old rain, and in the cracks high in the walls something shifts its weight.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc ivlis spider gully overview](https://curseofstrahd.app/wiki/img/shots/loc-ivlis-spider-gully-overview.webp)
 *The whole place from above.*
@@ -59,9 +59,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*, in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level. Part of [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md).
+- *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*, in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Part of [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**, when gully web read: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)) (800 XP)
+> - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**, when gully web read: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (810 XP)
 > - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)) (800 XP; surprise: party)
 
 ## Quests and lore

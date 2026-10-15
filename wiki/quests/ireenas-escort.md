@@ -51,8 +51,8 @@ Ireena won't leave until Kolyan is in the ground, so nothing moves until the bur
    ![ireena looks back](https://curseofstrahd.app/wiki/img/cutscenes/ireena-looks-back.webp)
 
 5. **Follow the Old Svalich Road.** On the travel map the road runs from the village to [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) (1.5 hours), on to [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) (1.5 hours) and then through the Svalich Woods to [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) (4 hours). Every leg can roll a random meeting. On the open road the chance is 15% by day and 40% at night (wolves by day; the dead, wolves and worse at night). In the woods it's 20% by day and 50% at night (wolves and hunters by day; werewolves and the dead at night). That's seven hours of walking, so set out early enough to be inside Vallaki's walls before 19:00. Optional stops on the way:
-   - At the crossroads, a hanged Vistana on the gallows ([The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md)). Ireena remembers her father cutting such men down. If you leave him hanging and walk into the gallows field at night, he and the old hanged dead rise: 5 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
-   - [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md), a detour off the crossroads, where Ireena remembers a fall that wasn't hers. At night, a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), a dire wolf and two wolves wait on the ledge and catch you by surprise.
+   - At the crossroads, a hanged Vistana on the gallows ([The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md)). Ireena remembers her father cutting such men down. If you leave him hanging and walk into the gallows field at night, he and the old hanged dead rise: 5 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md).
+   - [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md), a detour off the crossroads, where Ireena remembers a fall that wasn't hers. At night, a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), a dire wolf, four wolves and a rat wait on the ledge and catch you by surprise.
    - Madam Eva's Tarokka reading at Tser Pool ([The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md)).
    - Strahd may ride past you once on either road. It's never a fight. With Ireena along he speaks to her, and you get an extra answer: "Step between him and Ireena."
 
@@ -123,6 +123,9 @@ Ireena won't leave until Kolyan is in the ground, so nothing moves until the bur
 - **Next in the story:** [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md)
 
 > [!example]- Cutscenes
+> **Smile, It's the Law**: Inside the palisade the whole street smiles on order: bunting, painted suns, and every grin held a little too long.
+> ![vallaki smiles](https://curseofstrahd.app/wiki/img/cutscenes/vallaki-smiles.webp)
+>
 > **A Mourner Who Came Late**: Strahd waits at the lych-gate during the burgomaster's burial.
 > ![burial strahd](https://curseofstrahd.app/wiki/img/cutscenes/burial-strahd.webp)
 >

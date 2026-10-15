@@ -47,7 +47,7 @@ It helps a great deal to have met her brother first. [Kasimir Velikov](https://c
 - **Persuasion DC 15: She went to the castle the first time, Kasimir. She'll go again.** On a success he steps back (Wren +4, Liriel +2, Kip +1). **On a failure, he makes the bargain.**
 - **You heard her. She doesn't want to be bought back.** (only if you've met Patrina). No roll, and he steps back with the same approval.
 
-**The fight.** **(Draw steel.)**, or staying after a failed Persuasion, brings Patrina (a [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) with 110 Hit Points) and four frozen students ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)s), 1,900 XP. The XP is low, but once a day her Deathly Wail hits everyone within 30 feet (Constitution DC 13), and a hero who fails it at 25 Hit Points or fewer drops to 0. Keep your hurt heroes out of that range.
+**The fight.** **(Draw steel.)**, or staying after a failed Persuasion, brings Patrina (a [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) with 110 Hit Points), eleven frozen students ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)s) and seven more banshees, 11,000 XP: just past High for four level 9 heroes, a little under High at level 10. Once a day each banshee's Deathly Wail hits everyone within 30 feet (Constitution DC 13), and a hero who fails it at 25 Hit Points or fewer drops to 0. Keep your hurt heroes out of that range.
 
 ### Choices and endings
 
@@ -71,7 +71,7 @@ It helps a great deal to have met her brother first. [Kasimir Velikov](https://c
 
 ## Fights
 
-- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md).
+- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): Patrina Velikovna ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 110 HP), 11 × Frozen student ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 7 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md).
 
 ## Journal
 

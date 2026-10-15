@@ -54,7 +54,7 @@ A creature is Bloodied while it has half its Hit Points or fewer left. Some feat
 
 ## Bonus Action
 *Combat*
-A swift extra deed that some spells and features let you do on your turn besides your action. You get one Bonus Action a turn, and only when something gives you a use for it.
+A swift extra deed that some spells and features let you do on your turn besides your action. You get one Bonus Action a turn, and only when something gives you a use for it. Drinking a potion, or giving one to a creature within 5 feet, is a Bonus Action.
 
 ## Bright Light
 *Light*

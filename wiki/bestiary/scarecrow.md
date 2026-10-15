@@ -40,5 +40,6 @@ A straw figure brought to malevolent life: frightening claws and a stare that ro
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *The scarecrows in the reeds turn their sacking heads all at once, and climb down off their poles.*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *A bowl of yellow bone comes skimming over the reeds, low and fast, with a tiny furious woman standing in it.…*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md) · *The Rag Queen steps down off her post, twice the height of a man, all rotten silk and lace and faces in the…*
+- [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*
 
 On the road: [Berez Marsh](https://curseofstrahd.app/wiki/world/random-encounters.md)

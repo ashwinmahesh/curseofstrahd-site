@@ -27,6 +27,12 @@ The werewolf pack's brutal leader: tougher than his followers, he shoots, then s
 - **Senses:** darkvision 60 ft; passive Perception 14
 - **Languages:** Common (can't speak in wolf form)
 
+### Changing shape
+
+*It changes shape as a Bonus Action.*
+
+- **Wolf.** A Medium wolf (Speed 40 ft.): the Bite, no bow. Its other statistics stay the same.
+
 ### Traits
 
 - **Pack Tactics.** The werewolf has Advantage on an attack roll against a creature when at least one of the werewolf's allies is within 5 feet of that creature and that ally doesn't have the Incapacitated condition.

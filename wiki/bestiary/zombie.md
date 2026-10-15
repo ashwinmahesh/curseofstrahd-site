@@ -40,9 +40,12 @@ Shambles toward the closest living thing and slams it; hard to put down without 
 ## Where you meet it
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*
+- [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*
+- [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md) · *On the gallows the hanged man lifts his head. Behind him, all across the field, the mounds begin to split.*
+- [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md)
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) · *The black horse in the traces stamps once, and the empty harness beside it swings. Pale shapes slide out of…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *The churchyard earth heaves. Old graves split along their seams, and the village's dead climb out to finish…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *Shapes stand in the square, swaying like washing on a line. They turn toward you all at once.*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md) · *The carriage lamp stops at the end of the lane. Its door opens on nothing, and a tall shape in a coachman's…*
 
-On the road: [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md)

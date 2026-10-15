@@ -40,7 +40,7 @@ The Baron's son Victor is trying to leave Barovia by magic, and it is not going 
 
 ### Choices and endings
 
-- **Persuaded, Broken or Reported** all end the quest safely. Taking Victor into your party settles it too (step 3). Only showing him the flaw pays anything (the scroll). The 150 gp in the box above is Lady Wachter's payment for the festival, not a reward for this quest.
+- **Persuaded, Broken or Reported** all end the quest safely. Taking Victor into your party settles it too (step 3). Only showing him the flaw pays anything (the scroll).
 - **Vanished** (a failure) happens only if Lady Wachter wins [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md) while the circle is still unsettled: you never dealt with Victor, or you helped him finish it, and he isn't travelling with you. He steps into it the day his father falls. During the aftermath an attic window in the mansion flashes white, and Lydia screams his name. If Madam Eva had named him your ally, that's lost too.
 - If Lady Wachter wins and Victor is safe, he and his mother shelter in St. Andral's Church. If Madam Eva named him, he can still join you from there.
 

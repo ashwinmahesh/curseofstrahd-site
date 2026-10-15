@@ -12,7 +12,7 @@
 
 The track squeezes between frost-cracked crags to a saddle in the snow: a ledge above it on the north side, a shelf of boulders on the south, and old cairns for the ones who didn't get over. A random fight on the mountain roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc mountain pass overview](https://curseofstrahd.app/wiki/img/shots/loc-mountain-pass-overview.webp)
 *The whole place from above.*

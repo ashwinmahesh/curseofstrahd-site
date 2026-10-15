@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/belview-carrying-wood-to-the-wards.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp)
+> ![belview hauler](https://curseofstrahd.app/wiki/img/portraits/belview-hauler.webp)
 > **Title:** Carrying Wood to the Wards
 > **Region:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/regions/the-abbey-of-st-markovia.md)
 > **Starting attitude:** indifferent

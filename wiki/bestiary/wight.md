@@ -44,14 +44,17 @@ An undead warrior with sword and bow that drains the life of anyone it holds clo
 ## Where you meet it
 
 - [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. Two suits of armour by the door turn their empty…*
+- [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*
+- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *A grey figure at the rack looks up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*
+- [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*
+- [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md) · *Sarkhaza lunges, and the chain, hauled short on the drum above, snaps her head back by the collar. For a…*
 - [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*
 - [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md) · *The marshal salutes with his blade, and his two lieutenants walk their bone horses out of the column to his…*
 - [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md): [The Bell Under the Lake](https://curseofstrahd.app/wiki/quests/the-bell-under-the-lake.md) · *The water along the shore stands up in the shape of people: the drowned of Pescari, grey and swollen, in…*
+- [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): *The lanterns drop into the mud, still burning. The mourners come on without them.*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) · *The black horse in the traces stamps once, and the empty harness beside it swings. Pale shapes slide out of…*
-- [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): *Something is waiting where the causeway meets the shore: two pale figures standing very still, and above them…*
+- [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): *Something is waiting where the causeway meets the shore: pale figures standing very still, and above them the…*
 - [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [The Barrow on Yester Hill](https://curseofstrahd.app/wiki/quests/the-barrow-on-yester-hill.md) · *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*
 
-On the road: [Amber Temple Road](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Amber Temple Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)

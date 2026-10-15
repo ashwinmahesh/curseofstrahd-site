@@ -26,6 +26,12 @@ A Keeper of the Feather: crossbow and shortsword as a human, wings and a cursing
 - **Skills:** Insight +4, Perception +6
 - **Languages:** Common plus one other language
 
+### Changing shape
+
+*It changes shape as a Bonus Action; it comes into a fight looking human and changes in front of you.*
+
+- **Raven.** A Small raven: the Beak, no bow. Its other statistics stay the same.
+
 ### Traits
 
 - **Mimicry.** Mimics voices and animal sounds; a DC 12 Wisdom (Insight) check spots the imitation.
@@ -40,3 +46,7 @@ A Keeper of the Feather: crossbow and shortsword as a human, wings and a cursing
 ### Bonus actions
 
 - **Shape-Shift.** The wereraven turns into a raven-humanoid hybrid or a Tiny raven, or back into its human form. Apart from its size, its statistics are the same in every form, except that it flies 50 feet as a raven (walking only 10 feet) or as a hybrid (walking 30 feet) and can't fly in human form. What it wears or carries doesn't change with it. It returns to human form when it dies.
+
+## Where you meet it
+
+- [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*

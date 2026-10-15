@@ -16,7 +16,7 @@ The burgomaster's house, boarded and clawed after weeks of nightly attacks. Iree
 
 The burgomaster's house, held for a month against the night. The front door has been mended so many times it is more patch than door.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc burgomaster mansion overview](https://curseofstrahd.app/wiki/img/shots/loc-burgomaster-mansion-overview.webp)
 *The whole place from above.*
@@ -75,16 +75,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md). Scales with your level.
+- *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when not mansion siege survived and level ≥ 3: 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) (900 XP)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when not mansion siege survived: [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) (300 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when not mansion siege survived and level ≥ 3: 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (2250 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when not mansion siege survived: [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 10 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), 3 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) (1300 XP)
 
-- *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md). Scales with your level.
+- *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 3: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 3 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1050 XP)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 2: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (850 XP)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (650 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 3: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 5 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1450 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 2: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Siege-Winter Servant ([Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (925 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 24 HP), 3 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1050 XP)
 
 ## Quests and lore
 

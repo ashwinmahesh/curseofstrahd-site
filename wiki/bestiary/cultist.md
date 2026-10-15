@@ -34,4 +34,4 @@ A zealot who rushes in with a ritual sickle; fragile alone, dangerous in numbers
 ## Where you meet it
 
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Knives come out of sleeves all over the square. Lady Wachter's people were never here to watch the sun.*
-- [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Seven heads turn from the shrine at once. 'You're early,' says Nikolai Wachter, drawing, 'and you weren't…*
+- [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Every head in the cellar turns from the shrine at once. 'You're early,' says Nikolai Wachter, drawing, 'and…*

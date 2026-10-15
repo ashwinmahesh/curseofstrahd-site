@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc argynvostholt beacon 1](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-beacon-1.webp)
 > **Region:** [Argynvostholt](https://curseofstrahd.app/wiki/regions/argynvostholt.md) · level 8
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md), [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
 > **Quests:** [A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Dragon's Beacon](https://curseofstrahd.app/wiki/quests/the-dragons-beacon.md), [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md)
@@ -16,7 +16,7 @@ The tower of Argynvostholt: a long stair winding up inside the walls to the open
 
 A stair spirals up inside thick walls, its steps worn into hollows by boots. At the top, a round platform open to the sky behind a low parapet, and in its middle, on a stone plinth, a great iron cradle full of old ash.
 
-**Resting:** no The wind on the tower top never stops, and neither does the feeling of being watched from the castle.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. The wind on the tower top never stops, and neither does the feeling of being watched from the castle.
 
 ![loc argynvostholt beacon overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-beacon-overview.webp)
 *The whole place from above.*
@@ -74,15 +74,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The ash in the cradle stirs with no wind to stir it. The dark that settled into the dead lamp gathers itself…*, in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 8: 2 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (4000 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 7: [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2400 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared: [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2200 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 8: 5 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (9800 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 7: 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 5 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (6400 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared: [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (50 HP), 6 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (8400 XP)
 
-- *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*, in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
+- *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*, in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), 2 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7200 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (300 HP), 3 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 195 HP), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (10400 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (170 HP), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 110 HP) (4700 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (150 HP) (2900 XP)
 
 ## Quests and lore
 

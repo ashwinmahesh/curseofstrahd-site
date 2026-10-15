@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc mad marys house 1](https://curseofstrahd.app/wiki/img/shots/loc-mad-marys-house-1.webp)
 > **Region:** [The Village of Barovia](https://curseofstrahd.app/wiki/regions/the-village-of-barovia.md) · level 3
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
 > **Quests:** [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md)
@@ -14,7 +14,7 @@
 
 A narrow townhouse with three locks on the door and boards on every window, where Mad Mary weeps for her daughter.
 
-**Resting:** no Mary's weeping rises and falls all night. Nobody in this house has slept in days.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Mary's weeping rises and falls all night. Nobody in this house has slept in days.
 
 ![loc mad marys house overview](https://curseofstrahd.app/wiki/img/shots/loc-mad-marys-house-overview.webp)
 *The whole place from above.*

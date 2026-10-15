@@ -24,9 +24,9 @@ A young man in rags and beautiful boots sits at the edge of the mists on the Old
 
 1. **Hear him out.** "What's your name?" gets his story: Ilarion, from the house with the blue door by the well in the village under the castle, his wife Aurica, and two little ones, Petra, who is six and carries the water already, and Mihail. **Insight DC 11** (one try) lets you see the rags are many years old, with moss in the seams, while the man in them is young. It's only for your own understanding; the quest goes the same way either way.
 2. **Walk him down.** Choose "We'll walk you down to the village." The journal moves to Walking, and a dozen steps later the count's wolves come out of the fog for him. The fight depends on your lowest character's level:
-   - Level 1: five [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (250 XP, between Low and Moderate for a party of four, and a real threat at level 1).
+   - Level 1: five [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP, between Low and Moderate for a party of four, and a real threat at level 1).
    - Level 2: six wolves (300 XP, under Low at that level).
-   - Level 3 or higher: the Grey Leader, a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), with four wolves (400 XP, also under Low).
+   - Level 3 or higher: the Grey Leader, a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), with seven wolves (550 XP, also under Low).
 
    Wolves gang up: each has Advantage on you while a packmate is beside you, and a bite knocks you prone. Fight shoulder to shoulder so each wolf can reach as few of you as possible. The fight gets relatively easier the later you take it, so if you want to come back after [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), just say "Goodbye" instead. He keeps waiting on his stone.
 3. **Talk to him again.** After the fight, speak to Ilarion once more. The journal moves to Home and you walk him down the road, while he talks about Aurica's fever and the price of a cart and keeps stopping to stare at houses that are all wrong. He leaves the road and goes on ahead.
@@ -62,11 +62,11 @@ There is one ending. You get [Winged Boots](https://curseofstrahd.app/wiki/items
 
 ## Fights
 
-- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
+- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (400 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (250 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)
 
 ## Journal
 

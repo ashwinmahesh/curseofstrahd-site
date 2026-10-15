@@ -18,7 +18,7 @@ A powerful wizard lives alone on Mount Baratok with his memory gone. Someone too
 
 ### Getting the quest
 
-[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) is on the travel map from the start. It's 5 hours from [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), 2 hours up from [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) and 4 hours from the Tsolenka Pass, and the mountain roads can throw dire wolves, ogres, giant spiders or (at night) werewolves at you. Climb the goat track to the stone hut in the frost garden on the east side. Inside [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md), [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md) looks up from his dragonchess board and speaks first, asking whether you're real. That starts the quest. The hut is a safe place to rest.
+[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) is on the travel map from the start. It's 5 hours from [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), 2 hours up from [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) and 4 hours from the Tsolenka Pass, and the mountain roads can throw werewolves at you, with dire wolves, ogres or giant spiders alongside them. Climb the goat track to the stone hut in the frost garden on the east side. Inside [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md), [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md) looks up from his dragonchess board and speaks first, asking whether you're real. That starts the quest. The hut is a safe place to rest.
 
 ![loc mount baratok 1](https://curseofstrahd.app/wiki/img/shots/loc-mount-baratok-1.webp)
 
@@ -54,7 +54,7 @@ Worth a look while you're on the mountain:
 - **Ring of glass on the trail:** a wand fused into it (search DC 15: [Wand of Lightning Bolts](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-lightning-bolts)).
 - **Summit:** a stone that isn't part of the cairn (search DC 16: [Ioun Stone (Intellect)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-intellect)), and a cleft in the rock with 15 gp and a potion of healing.
 - **Frost garden:** a page blown into the snow (search DC 13: [Spell Scroll](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll)).
-- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations and a component pouch.
+- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations, a component pouch and a [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll).
 
 ### Choices and endings
 
@@ -112,8 +112,14 @@ Worth a look while you're on the mountain:
 - **More in Mount Baratok:** [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md), [The Mage's Lost Pages](https://curseofstrahd.app/wiki/quests/the-mages-lost-pages.md)
 
 > [!example]- Cutscenes
+> **Under the Last Stone**: At the warded cairn on the summit, the last stone lifted away, an oilcloth bundle holds a grey spellbook and two scrolls.
+> ![cairn open](https://curseofstrahd.app/wiki/img/cutscenes/cairn-open.webp)
+>
 > **Lightning on the Ridge**: One small cloud strikes the same ring of black glass every evening.
 > ![lightning ridge](https://curseofstrahd.app/wiki/img/cutscenes/lightning-ridge.webp)
 >
 > **Mordenkainen Remembers**: Silver smoke pours out of the jar and into the old wizard's eyes.
 > ![mordenkainen jar](https://curseofstrahd.app/wiki/img/cutscenes/mordenkainen-jar.webp)
+>
+> **He Remembers Himself**: The snow stops and Mordenkainen's face comes back one piece at a time, like furniture carried into an empty house.
+> ![mordenkainen returns](https://curseofstrahd.app/wiki/img/cutscenes/mordenkainen-returns.webp)

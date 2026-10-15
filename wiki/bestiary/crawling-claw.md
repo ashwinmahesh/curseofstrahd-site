@@ -39,4 +39,4 @@ A severed hand that scuttles up walls and goes for the throat; harmless alone, n
 ## Where you meet it
 
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The rug lifts off the floor like a sheet in the wind and comes for you, and from the ledger shelves something…*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *A grey figure at the rack looks up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Grey figures at the rack look up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*

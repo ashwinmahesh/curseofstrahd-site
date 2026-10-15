@@ -16,7 +16,7 @@ A shelf of steaming black rock high on Mount Ghakis, where the snow won't lie, a
 
 Slush, then mud, then bare black rock that steams in the cold. At the top of the shelf, an iron gate set into the mountain, and warm air breathing out round it, slowly, in and out.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc ghakis shoulder overview](https://curseofstrahd.app/wiki/img/shots/loc-ghakis-shoulder-overview.webp)
 *The whole place from above.*
@@ -77,7 +77,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*, in [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
+- *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*, in [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): 8 × A Keeper ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), A Chain-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), 3 × A Keeper ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)).
 
 ## Quests and lore
 

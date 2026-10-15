@@ -36,4 +36,6 @@ Flies over obstacles to slash whoever is closest; high AC, low Hit Points.
 
 - [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): *The hall's weapons come down off their hooks.*
 - [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md): *The silverware wants a word.*
+- [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *The armor on the landing steps down off its stand.*
+- [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *The broom against the wall has opinions about visitors.*
 - [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *Every blade on the floor has woken up.*

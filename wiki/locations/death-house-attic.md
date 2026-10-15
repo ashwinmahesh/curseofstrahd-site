@@ -14,7 +14,7 @@
 
 Low beams and dust: two spare bedrooms, a storage room where a trunk holds what's left of the nursemaid and a nook in the corner hides the stair down inside the walls, and the padlocked children's room where Rose and Thorn's ghosts wait beside their dollhouse.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc death house attic overview](https://curseofstrahd.app/wiki/img/shots/loc-death-house-attic-overview.webp)
 *The whole place from above.*

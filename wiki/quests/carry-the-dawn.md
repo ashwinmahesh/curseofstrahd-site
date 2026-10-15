@@ -32,8 +32,8 @@ There's no level or approval gate on starting it. The Abbey of St. Markovia is a
 6. **Ask about the sun (do this).** While the Abbot's fate is still open, his menu has Liriel's option **Ask him whether he still remembers the sun**. He remembers the snow going pink at dawn. Liriel gains +4 and Heroic Inspiration, and this opens her own way to save him at the unveiling.
 7. **Settle the Abbot's fate.** This runs through [The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md): bring him a wedding dress and he wakes Vasilka. At the unveiling, Liriel's **Remind him of the sun he told her about** needs no roll, and he repents and unmakes his bride. That gives Liriel +5 and Godrick +1, and then the repentance's own approval on top: Liriel +5, Godrick +2, and Wren, Kip and Ratatouille +1 each. You also get two [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), and Ilya is healed if he's still ill. Any other ending also moves Liriel's quest on:
    - **The wedding** ("It's your abbey...") costs Liriel -6, and the rest of the party loses approval too.
-   - **Stopping the wedding** starts a fight with Vasilka (a [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)) and armed Belviews. Afterwards you can still bring the kneeling Abbot to repentance, leave him broken, or kill him.
-   - **"Kill him"** is a fight against the Abbot himself, a [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md) with magic resistance.
+   - **Stopping the wedding** starts a fight with Vasilka (a [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md)) and armed Belviews; at level 7 she has 400 Hit Points and a second flesh golem comes with her, and below level 7 two or three flesh golems come with her. Afterwards you can still bring the kneeling Abbot to repentance, leave him broken, or kill him.
+   - **"Kill him"** is a fight against the Abbot himself, a [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md) with magic resistance. A Belview joins him at level 6; at level 7 he has 500 Hit Points, and two Belviews, three Belview Brutes and two flesh golems stand with him.
 8. **Faith kept.** At the next Long Rest after the Abbot's fate is settled, "Liriel wants a word". The quest only has to be at *The Angel* or later, so this comes even if Liriel never heard about the bride. If he repented or was killed before she ever met him, it comes anyway, as long as her quest has reached *The Silence* (her first rest talk). Her lines depend on what happened to him; either answer leads to her decision to carry the dawn herself. The quest moves to *Faith Kept* (+2).
 9. **The dawn.** In [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md), examine **The altar step** in front of the upside-down sunburst. It only appears with Liriel in the party at *Faith Kept*. Choose **(Let her.)** and she sings the morning hymn. On the third verse, real dawn comes through the windows. The quest ends at *The Dawn* (+8).
    ![chapel dawn](https://curseofstrahd.app/wiki/img/cutscenes/chapel-dawn.webp)
@@ -71,11 +71,11 @@ The Abbot's fate is the choice in this quest that changes the rest of the game (
 
 ## Fights
 
-- *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md). Scales with your level.
+- *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (6000 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md)) (5900 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 500 HP), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (10950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 100 HP), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 85 HP) (5900 XP)
 
 ## Journal
 
@@ -118,6 +118,9 @@ The Abbot's fate is the choice in this quest that changes the rest of the game (
 > **The Candles Lean to Her**: The Candles Lean to Her: a later beat of a long conversation picture (abbey_of_st_markovia/abbot, ~ first), Ashwin's ask 2026-10-12.
 > ![abbot ireena candles](https://curseofstrahd.app/wiki/img/cutscenes/abbot-ireena-candles.webp)
 >
+> **Making Him a Wife**: The Abbot opens the chapel's side door on the snowy courtyard and shows you the wards, where his bride lies under a sheet behind the one lit window.
+> ![abbot bride wards](https://curseofstrahd.app/wiki/img/cutscenes/abbot-bride-wards.webp)
+>
 > **The Abbot's Wings**: The Abbot's wings of light fill the chancel.
 > ![abbot wings](https://curseofstrahd.app/wiki/img/cutscenes/abbot-wings.webp)
 >
@@ -129,3 +132,9 @@ The Abbot's fate is the choice in this quest that changes the rest of the game (
 >
 > **Out of the Mists**: The party steps out of the mist onto the Old Svalich Road, the sunless valley of Barovia below.
 > ![mists arrival](https://curseofstrahd.app/wiki/img/cutscenes/mists-arrival.webp)
+>
+> **Wolves Along the Road**: A line of silent wolves stands along the Old Svalich Road in the fog, watching the party like a picket.
+> ![mists wolves watch](https://curseofstrahd.app/wiki/img/cutscenes/mists-wolves-watch.webp)
+>
+> **Welcome Home, Old Man**: Father Lucian carries the bundle of St. Andral's bones down to the crypt like a sleeping child, and the church settles.
+> ![bones home](https://curseofstrahd.app/wiki/img/cutscenes/bones-home.webp)

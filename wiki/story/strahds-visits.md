@@ -22,7 +22,7 @@ From the fourth day on, at a Long Rest through the night, the one on watch wakes
 *When:* strahd watcher seen (once)
 
 ## Test of Strength
-On a night road, once the party is level 7, he steps out of the fog with wolves to see what they can do, and leaves after a few rounds or when hurt.
+On a night road, once the party is level 7, he steps out of the fog with wolves to see what they can do, and fights until he's beaten, then goes.
 
 *When:* strahd watcher seen and level ≥ 7 (once)
 

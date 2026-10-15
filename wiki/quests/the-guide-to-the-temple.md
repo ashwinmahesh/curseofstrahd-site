@@ -33,7 +33,7 @@ Either way the quest starts (Asked), and a new road opens on the map from [The T
    - **Medicine DC 14: (Look at the child on the sledge.)** It isn't lung fever. Her pupils are pinpricks: someone has been giving her sleep-root every day. Floarea quietly admits he makes the girl's tea every night. This option stays if you fail, so you can try again.
    - **Insight DC 15: (Watch the guide while Remus talks.)** He watches the sledge like a drover the night before market. This only changes a line when the fight starts, and a failure is spent.
 3. Choose **You've been putting something in her tea.** (after the Medicine check), or **Turn back. Take her home.** Either way he stops pretending: something in the amber pays him a year of life for every family he brings to its door, and nobody turns back on his mountain.
-4. Fight [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (170 Hit Points here) with two of the people he led up before ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)s) and two of his own shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)s), 9,700 XP. He resists cold and necrotic damage, can turn two failed saves a day into successes, and his Whiteout hits up to three of you at once within 60 feet (Constitution DC 16, or 4d8 cold and blinded). His Amber Bolt hits hard at range, and he has Hold Person and Cone of Cold once a day each. Winning moves the quest to Fought.
+4. Fight [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 Hit Points here) with five of the people he led up before ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)s) and two of his own shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)s), 15,100 XP. He resists cold and necrotic damage, can turn two failed saves a day into successes, and his Whiteout hits up to three of you at once within 60 feet (Constitution DC 16, or 4d8 cold and blinded). His Amber Bolt hits hard at range, and he has Hold Person and Cone of Cold once a day each. Winning moves the quest to Fought.
 5. Talk to Floarea (or Remus) by the sledge. She pours the tea out onto the snow and throws the kettle after it. Without it the girl will wake in a day or two with only a cough. The quest is Done.
 
 ### Choices and endings
@@ -61,7 +61,7 @@ Either way the quest starts (Asked), and a new road opens on the map from [The T
 
 ## Fights
 
-- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md).
+- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 HP), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)).
 
 ## Journal
 

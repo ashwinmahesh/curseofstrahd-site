@@ -44,11 +44,11 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - At the dead tree full of ravens, at the east end of the foot of the lane, **Persuasion DC 14** ("Ask the ravens for their help") shows you their hoard in the trunk: a [Ring of Feather Falling](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-feather-falling) (search DC 15).
    - With Speak with Animals running, any of the three ravens around the camp and the yard tells you where the druids came from, where Davian hid his stone, where the stolen one went, and where that ring is.
 4. **The lane (`vineyard_ambush`).** When you step onto the lane between the vines, the rows stand up and you're surprised.
-   - Below level 6: 2 [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md)s, 4 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s and 6 [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s.
-   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill, a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) and 2 more needle blights join them.
-   - Level 7: a third vine blight as well.
+   - Below level 6: a [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s, 6 [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s and a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) at 50 HP.
+   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill and one more needle blight join them, and the tree blight has 160 HP.
+   - Level 7: the druid, 2 vine blights, 6 needle blights, 6 twig blights and the tree blight at 102 HP.
 
-   It's a Low fight below level 6, a Moderate one at level 6, and between the two at level 7. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. The tree blight (115 HP) stands up in the middle of the lane: it's Huge, the same kind of creature as Wintersplinter on the hill, with 15-foot reach and a Grasping Root (DC 17 Strength save) that pulls a hero in and holds them for its Gnash, so spread out and free whoever it grabs. If you've already burned the tree on Yester Hill, there's no ambush at all.
+   It's between Moderate and High for a level 5 party, just under Moderate at level 6, and between Low and Moderate at level 7. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. The tree blight stands up in the middle of the lane: it's Huge, the same kind of creature as Wintersplinter on the hill, with 15-foot reach and a Grasping Root (DC 17 Strength save) that pulls a hero in and holds them for its Gnash, so spread out and free whoever it grabs. If you've already burned the tree on Yester Hill, there's no ambush at all.
 
    Finds on the way up the lane and in the yard:
    - **Search DC 12** between the west rows: a [Moon Sickle, +1](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-1) the druids dropped.
@@ -56,12 +56,12 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - **Athletics DC 13** at the well ("Climb down inside the well"; 1d6 bludgeoning if you fail): you come back up with the [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) that was tied below the lip. Without the climb, it's a search DC 13.
    - **Search DC 13** behind the casks by the winery door: an [Eversmoking Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#eversmoking-bottle).
 5. **The fermenting hall (`winery_occupation`).** Go through the tasting room. The fight starts as soon as you walk into the fermenting hall.
-   - Below level 6: 2 druids, 2 vine blights and 4 needle blights.
-   - Level 6: 2 druids, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 3 vine, 6 needle and 4 twig blights.
-   - Level 7: 3 druids, the shambling mound, 4 vine, 6 needle and 4 twig blights.
+   - Below level 6: 2 druids, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) at 40 HP, 3 vine blights and 4 needle blights.
+   - Level 6: 2 druids, the shambling mound at 110 HP, 3 vine, 6 needle and 4 twig blights.
+   - Level 7: 3 druids, the shambling mound at 169 HP, 4 vine, 6 needle and 5 twig blights.
    - If the tree on the hill has burned: only three druids at 35 HP each, among heaps of dead brush.
 
-   It's Low below level 6 and between Low and Moderate at level 6 and 7, and the druids hurt at range: green wisps out to 90 feet, plus Moonbeam and Thunderwave. Close on them and let the slow blights come to you. At level 6 and 7 the shambling mound (110 HP) stands among the vats in the middle of the hall. It's the same creature as the Mash in the press house, so the same warnings apply (see step 7): no lightning, and keep your casters out of its reach.
+   It's a little over Moderate for a level 5 party and between Low and Moderate at level 6 and 7, and the druids hurt at range: green wisps out to 90 feet, plus Moonbeam and Thunderwave. Close on them and let the slow blights come to you. The shambling mound stands among the vats in the middle of the hall. It's the same creature as the Mash in the press house, so the same warnings apply (see step 7): no lightning, and keep your casters out of its reach.
 
    After the fight, loot the hall and the office:
    - The druids' bedrolls: 2 [Bedroll](https://curseofstrahd.app/wiki/items/equipment.md#bedroll)s, a [Herbalism Kit](https://curseofstrahd.app/wiki/items/equipment.md#herbalism-kit), a [Druidic Focus (Sprig of Mistletoe)](https://curseofstrahd.app/wiki/items/equipment.md#druidic-focus-sprig-of-mistletoe) and 12 gp.
@@ -82,12 +82,12 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    You can't rest down here.
 
    **The dig (optional, `cellar_dig`).** Past the broken wall at the far end, blights are clawing for the stone in the wrong place.
-   - Below level 6: a vine blight and 4 needle blights.
-   - Level 6: a druid overseer, 2 more druids, 2 vine blights and 6 needle blights at the dig, plus 2 druids and 3 vine blights among the casks in the vaults.
-   - Level 7: the same, with a third vine blight and 8 needle blights at the dig.
+   - Below level 6: a druid overseer, one more druid, 2 vine blights and 5 needle blights at the dig, plus 2 druids and 3 vine blights among the casks in the vaults.
+   - Level 6: the overseer, 2 more druids, 2 vine blights and 7 needle blights at the dig, and the same group in the vaults.
+   - Level 7: the overseer, 2 more druids, 3 vine blights, 9 needle blights and 2 twig blights at the dig, and the same group in the vaults.
    - After the tree burns: the overseer alone, at 35 HP.
 
-   At level 6 and 7 the vaults' group is hidden among the casks, so you can walk through the vaults (and open the hollow cask) without a fight. The druids at the dig stand in plain view past the broken wall; when you reach the dig door, or they spot you first, the fight starts and the two druids and three vine blights rise from the casks behind you. Expect to fight on two sides: keep a hero or two facing back toward the vaults.
+   The vaults' group is hidden among the casks, so you can walk through the vaults (and open the hollow cask) without a fight. The druids at the dig stand in plain view past the broken wall; when you reach the dig door, or they spot you first, the fight starts and the two druids and three vine blights rise from the casks behind you. Expect to fight on two sides: keep a hero or two facing back toward the vaults.
 
    Afterwards a druid's pack by the dig holds a [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), a shovel, a lamp and 10 gp. You don't need this fight to clear the house.
 7. **The press house and Kostin (`press_house_mash`).** The press house is the tall barn on the east side of the yard. [Kostin](https://curseofstrahd.app/wiki/people/kostin.md), the young druid holding the winery, speaks to you when you come near. Every choice ends in the same fight against the Mash, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) grown in a vat. What you pick decides whether Kostin fights too, and what waits for you on the hill:
@@ -97,13 +97,13 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - "What's on Yester Hill?" (once) tells you about the effigy and the stone it needs for a heart.
 
    The fight depends on your level and on Kostin:
-   - Below level 6: Kostin, the Mash (90 HP) and a vine blight.
-   - Level 6: Kostin, 4 more druids, the Mash and 6 vine blights.
-   - Level 7: Kostin, 5 more druids, the Mash and 6 vine blights.
-   - If Kostin left: the Mash, 2 vine blights and 3 needle blights instead.
-   - If the tree has burned: Kostin and the Mash, or the Mash alone if he left.
+   - Below level 6: Kostin, one more druid, the Mash (160 HP) and 3 vine blights.
+   - Level 6: Kostin, 3 more druids, the Mash (160 HP) and 6 vine blights.
+   - Level 7: Kostin, 5 more druids, the Mash (160 HP) and 6 vine blights.
+   - If Kostin left: the Mash (110 HP), 2 vine blights and 3 needle blights instead.
+   - If the tree has burned: Kostin and the Mash (110 HP), or the Mash alone if he left.
 
-   At level 6 and 7 the extra druids and vine blights only come if Kostin fights here, so scaring him off or talking him round makes this a much smaller fight.
+   The extra druids and vine blights only come if Kostin fights here, so scaring him off or talking him round makes this a smaller fight, and a much smaller one at level 6 and 7.
 
    The Mash is the biggest single threat. Lightning *heals* it, it resists fire and cold, and its Engulf (DC 15 Strength save) swallows a Medium or smaller hero, who is then blinded, restrained and shocked every turn. Keep your casters out of its reach, and kill it quickly when it has someone inside.
 
@@ -130,7 +130,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - **The back gully**, at the west end of the hill foot. At "The mouth of a gully" you get one **Stealth DC 13** roll to find a quiet way up, or DC 16 if Kostin ran to warn them. Success means you reach the crown unseen. Failure means the hill hears you coming.
 
    On the hill's shoulder:
-   - **The wardens' camp**, west of the path, is optional. Walking in starts a fight with painted wild men ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s: 2, 3 or 4 depending on your level) and 4 twig blights. Elvir's message is on a cage post there (see [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md)). So is the wardens' hoard: a [Berserker Axe](https://curseofstrahd.app/wiki/items/magic-items.md#berserker-axe), 2 handaxes, rations, hide armour and 34 gp.
+   - **The wardens' camp**, west of the path, is optional. Walking in starts a fight with painted wild men ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s: 6, 7 or 8 depending on your level) and 8 needle blights, with a twig blight as well below level 7. At level 7 the men have 97 HP each and the blights 23. Elvir's message is on a cage post there (see [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md)). So is the wardens' hoard: a [Berserker Axe](https://curseofstrahd.app/wiki/items/magic-items.md#berserker-axe), 2 handaxes, rations, hide armour and 34 gp.
 
    Searches and checks on the hill:
    - **Search DC 15** under the cage floor: a [Sword of Life Stealing](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-life-stealing).
@@ -143,18 +143,18 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    ![loc yester hill overview](https://curseofstrahd.app/wiki/img/shots/loc-yester-hill-overview.webp)
 10. **The crown (`summit_ritual`).** [Mother Ruxandra](https://curseofstrahd.app/wiki/people/mother-ruxandra.md) stands with her hands on the chest of a forty-foot earthen effigy of the lord of the castle, and her circle hums around a black tree. If you came up the gully unseen, you can pick "Strike now, while they chant." Otherwise she talks, and you choose:
     - "We're taking the stone. Stand aside or don't." starts the fight.
-    - **Intimidation DC 17**: the whole circle runs, Ruxandra too. You still fight, but only against Wintersplinter and twig blights.
+    - **Intimidation DC 17**: the whole circle runs, Ruxandra too. You still fight, but only against Wintersplinter and blights.
     - **Religion DC 15**: the other druids lose their nerve and leave. Ruxandra stays.
     - "A raven-man died on this hill last spring." (only if Stefania told you about Elvir) and "What is that tree?" cost nothing.
 
     A failed Intimidation or Religion roll goes straight to the fight. The effigy splits open and **Wintersplinter**, a Huge [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md), walks out of it. Who fights beside it depends on how you got here (the first match wins):
-    - **They fled:** Wintersplinter (120 HP) and 6 twig blights.
-    - **You struck first:** a half-made Wintersplinter (100 HP), Ruxandra (55 HP), 2 druids and 4 twig blights. *They* are surprised.
-    - **Circle broken:** Wintersplinter (140 HP), Ruxandra (60 HP) and 6 twig blights.
-    - **Kostin warned them:** Wintersplinter (140 HP), Ruxandra, Kostin, 2 druids and 4 twig blights.
-    - **Otherwise, level 7:** Wintersplinter (160 HP), Ruxandra, 2 druids, a warden, 2 vine blights and 4 twig blights.
-    - **Otherwise, level 6:** Wintersplinter (140 HP), Ruxandra and 6 twig blights.
-    - **Otherwise, below level 6:** Wintersplinter (110 HP), Ruxandra (50 HP), a druid and 4 twig blights.
+    - **They fled:** Wintersplinter and 6 twig blights. Below level 6 it has 135 HP; at level 6, 200 HP, with 2 vine blights and 3 needle blights; at level 7, 200 HP, with 3 vine blights and 3 needle blights.
+    - **You struck first:** a half-made Wintersplinter, Ruxandra, druids and 4 twig blights. *They* are surprised. Below level 6: Wintersplinter 180 HP, Ruxandra 45 HP and one druid; at level 6: 285 HP, Ruxandra 58 HP and 2 druids; at level 7: 285 HP, Ruxandra 55 HP, 2 druids and a warden.
+    - **Circle broken:** Wintersplinter, Ruxandra and twig blights. Below level 6: 135 HP, Ruxandra 90 HP and 4 twig blights; at level 6: 215 HP, Ruxandra 60 HP and 6 twig blights; at level 7: 250 HP, Ruxandra 55 HP, a warden (40 HP) and 4 twig blights.
+    - **Kostin warned them:** Wintersplinter, Ruxandra, Kostin and 4 twig blights. Below level 6: 120 HP, Ruxandra 90 HP, Kostin 30 HP; at level 6: 210 HP, Ruxandra 130 HP, plus 2 druids; at level 7: 220 HP, Ruxandra 60 HP, plus 2 druids.
+    - **Otherwise, level 7:** Wintersplinter (300 HP), Ruxandra (55 HP) and 4 twig blights.
+    - **Otherwise, level 6:** Wintersplinter (270 HP), Ruxandra (60 HP) and 6 twig blights.
+    - **Otherwise, below level 6:** Wintersplinter (155 HP), Ruxandra (50 HP) and 4 twig blights.
 
     This is a Moderate fight and the hardest on the quest's main line below level 6; at level 6 and 7 the press house fight is bigger. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.
 
@@ -164,7 +164,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
     - **The black tree.** "Burn it. Use their own fire." (Thistle +2, Liriel and Godrick +1) kills every blight in the region and leaves the stone clean. "Leave it standing." costs Thistle −1. See *Choices and endings* for what each one changes.
     - **The splintered heartwood** holds the second stone. Take it.
     - **The bones among the roots** are Elvir's. "Cut him free. He's going home." takes him home for burial (Liriel +2, Godrick and Kip +1). Speak with Dead (already running, or cast here) and **Medicine DC 12** (one try) tell you how he died.
-    - **Loot:** the druids' offerings (Herbalism Kit, 2 Potions of Healing, a [Druidic Focus (Wooden Staff)](https://curseofstrahd.app/wiki/items/equipment.md#druidic-focus-wooden-staff) and 25 gp); the roots at the trunk (a dagger, a shortsword and 41 gp, plus the Tarokka treasure if it's here); and **Investigation DC 16** at the heartwood for a [Staff of Withering](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-withering).
+    - **Loot:** the druids' offerings (Herbalism Kit, 2 [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior), a [Druidic Focus (Wooden Staff)](https://curseofstrahd.app/wiki/items/equipment.md#druidic-focus-wooden-staff), a [Staff of the Woodlands](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-the-woodlands) and 25 gp); the roots at the trunk (a dagger, a shortsword and 41 gp, plus the Tarokka treasure if it's here); and **Investigation DC 16** at the heartwood for a [Staff of Withering](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-withering).
 12. **Home again.** Talk to Davian. If he's travelling with you, use Stefania's "We have news for the family." instead. Report in any order:
     - "Yester Hill is finished." gets his thanks and his words about Ruxandra. If Adrian came with you, he leaves the party here.
     - "The stone from Yester Hill." puts the second stone in the ground. Davian counts the stones that are home now, so if this is the first one back he says "One in the ground."
@@ -182,15 +182,15 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
 
 The quest has one ending, *Saved*, and its reward is the milestone level. Everything else changes what the family, the valley and your companions remember:
 
-- **Kostin.** If you talked him round, he helps you at the foot of the hill and becomes one of the possible planters in [The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md). If you scared him off, the hill is warned: the gully goes up to DC 16, and he fights at the summit with two extra druids. If he died in the press house, that's the end of him.
+- **Kostin.** If you talked him round, he helps you at the foot of the hill and becomes one of the possible planters in [The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md). If you scared him off, the hill is warned: the gully goes up to DC 16, and he fights at the summit, with two extra druids from level 6. If he died in the press house, that's the end of him.
 - **The tree.** Burning it kills every blight in the region:
   - the vineyard ambush never comes;
-  - the winery fights shrink to druids alone;
+  - the winery fights shrink to druids alone, and the Mash in the press house;
   - the hedge blights stop ambushing travellers on the vineyard road;
   - the hill stone comes back clean.
 
   Burning it also adds 2 to Strahd's attention, and he names the tree in his grievance letter. A burned tree is what opens [The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md) (level 7, once [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md) has gone further than Andrei's rumour; until it has, Davian's news is the row).
-- **Ruxandra.** If you spared her or she fled, and the tree still stands, she leads her druids (three druids, two vine blights and four twig blights) against you once on the vineyard road. If you spared her and burned the tree, she's the planter in The Druid Who Came Back. Davian has a line for each fate.
+- **Ruxandra.** If you spared her or she fled, and the tree still stands, she leads four druids, three vine blights and six needle blights against you once on the vineyard road. If you spared her and burned the tree, she's the planter in The Druid Who Came Back. Davian has a line for each fate.
 - **The first cart.** Sending it to Vallaki earns Kip Smudgewick +1. The village under the castle earns Godrick Pendlebrook, Liriel Dawnsong and Kip +1. Krezk earns no approval, but Davian tells you to walk beside the casks: if [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)'s gate is still shut to you, the watchman now opens it for the people who brought the Martikovs' cart up the road (see [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md)). After that his "Heard anything interesting?" tells you the cart is in the shrine cellar, and half the town has found a reason to go up and pray. Later, ask Stefania "Any word from the first cart?" to hear how it was received.
 - **Wine flowing.** Davian's wine shop opens, the Martikovs' casks turn up in Castle Ravenloft's larders, [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md) gets new stock, Krezk stops talking about the wine that stopped coming (the watchman's news drops it and Dmitri no longer asks after it), and the epilogue mentions it. The epilogue line is warmer if Davian and Adrian were also reconciled.
 - **The Keepers' oath** (winery reclaimed and two stones back) opens Urwin Martikov's secret "Keepers' stores" at [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md). He sells greater and superior healing potions, Heroism, an Elixir of Health, a [Figurine of Wondrous Power (Silver Raven)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-silver-raven) and cleric scrolls up to Death Ward and Freedom of Movement. The oath also gives you a plain way to calm the ravens' roost in Castle Ravenloft, and an epilogue line.
@@ -231,13 +231,13 @@ The quest has one ending, *Saved*, and its reward is the milestone level. Everyt
 > **Rumored**: No cask has come from the Wizard of Wines in weeks. The vineyard west of Vallaki supplies every tavern in the valley, and the taverns are running dry. Something has happened at the winery.
 > *Hint:* Go to the Wizard of Wines vineyard and find Davian Martikov camped under the trees.
 >
-> **Asked**: Davian Martikov, master of the Wizard of Wines, is camped under the trees with his family while druids from Yester Hill hold his winery. Three green stones keep his vines alive in this sunless valley: one was stolen to Berez, one carried to Yester Hill, and one he hid in the founder's cask at the foot of the cellar stair. He asked us to drive the druids out of the winery and the press house and bring the hidden stone up.
-> *Hint:* Drive the druids out of the winery and press house, fetch the stone from the founder's cask in the cellar, and break the druids' work on Yester Hill.
+> **Asked**: Davian Martikov, master of the Wizard of Wines, is camped under the trees with his family while druids from Yester Hill hold his winery. Three green stones keep his vines alive in this sunless valley: one was stolen to Berez, one carried to Yester Hill, and one he hid in the founder's cask at the foot of the cellar stair. On Yester Hill the druids are building a giant of earth in the likeness of the lord in the castle, with the stolen stone for its heart; when their chant wakes it, it will walk east and tread the vines flat. He asked us to drive the druids out of the winery and the press house and bring the hidden stone up.
+> *Hint:* Drive the druids out of the winery and press house, fetch the stone from the founder's cask in the cellar, and stop the druids' ritual on Yester Hill before their giant wakes.
 >
-> **Reclaimed**: The druids are gone from the winery, and the Martikovs have moved back into their house. Davian means to plant every stone he gets back.
+> **Reclaimed**: The druids are gone from the winery, and the Martikovs have moved back into their house. Davian means to plant every stone he gets back. On Yester Hill the druids are still singing their earth giant awake, with Davian's second stone in its chest.
 > *Hint:* Go to Yester Hill, west of the winery, break the druids' ritual and bring their stone back to Davian.
 >
-> **Hill Broken**: The druids' work on Yester Hill is broken, but their brothers still hold the Martikovs' winery.
+> **Hill Broken**: The druids' giant on Yester Hill is broken, and it will never walk east onto the vines. But their brothers still hold the Martikovs' winery.
 > *Hint:* Drive the druids out of the Wizard of Wines' winery and press house, then talk to Davian.
 >
 > **Saved** (the end: success): The winery is the Martikovs' again and Yester Hill is broken. The family drank to us in the yard, and Davian called us good for something.
@@ -257,6 +257,9 @@ The quest has one ending, *Saved*, and its reward is the milestone level. Everyt
 > [!example]- Cutscenes
 > **Ravens on Every Beam**: The Blue Water Inn's taproom fills with silent, watching ravens.
 > ![keepers ravens](https://curseofstrahd.app/wiki/img/cutscenes/keepers-ravens.webp)
+>
+> **The Vineyard Gone Quiet**: South of Vallaki, the Wizard of Wines' vineyard in grey light, one warm window in the winery and ravens wheeling over it.
+> ![vineyard south](https://curseofstrahd.app/wiki/img/cutscenes/vineyard-south.webp)
 >
 > **The Vines Remember**: Davian presses a gem into the soil and a dead vine puts out a new leaf.
 > ![vines gem](https://curseofstrahd.app/wiki/img/cutscenes/vines-gem.webp)

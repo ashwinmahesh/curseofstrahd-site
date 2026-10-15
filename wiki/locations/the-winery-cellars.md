@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc wizard of wines cellar 1](https://curseofstrahd.app/wiki/img/shots/loc-wizard-of-wines-cellar-1.webp)
 > **Region:** [The Wizard of Wines](https://curseofstrahd.app/wiki/regions/the-wizard-of-wines.md) · level 6
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md)
 
@@ -15,7 +15,7 @@ Vaulted cellars under the winery: racks of casks, a side vault of old vintages, 
 
 Cold, and the right kind of cold: the cellar air holds the smell of oak and a hundred years of wine. Somewhere at the far end, something is digging.
 
-**Resting:** no Not with the digging at the far end. Not with the dark this patient.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not with the digging at the far end. Not with the dark this patient.
 
 ![loc wizard of wines cellar overview](https://curseofstrahd.app/wiki/img/shots/loc-wizard-of-wines-cellar-overview.webp)
 *The whole place from above.*
@@ -64,9 +64,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The blights lie where they fell, dead brush in heaps around their holes. Only the druid with the lantern is…*, in [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md): [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md). Scales with your level.
+- *The blights lie where they fell, dead brush in heaps around their holes. Only the druid with the lantern is…*, in [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md): [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and gulthias tree burned: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (450 XP)
-> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and level ≥ 7: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 8 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (3250 XP)
-> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and level ≥ 6: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 5 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (3050 XP)
-> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared: [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (300 XP)
+> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and gulthias tree burned: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 35 HP) (450 XP)
+> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and level ≥ 7: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 72 HP), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 9 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 2 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 65 HP), Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 60 HP), 2 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (3350 XP)
+> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared and level ≥ 6: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 70 HP), 5 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 7 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (3100 XP)
+> - **[The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md)**, when not cellar dig cleared: Druid overseer ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 60 HP), 5 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (2550 XP)

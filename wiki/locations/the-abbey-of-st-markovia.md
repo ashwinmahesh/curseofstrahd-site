@@ -16,7 +16,7 @@ A walled stone abbey on a shelf of the mountain above Krezk: a church wing, an e
 
 The switchback track arrives at the abbey gate. Inside: the courtyard with its well and a statue of Markovia, the church doors to the north, the wards to the east and the garden door to the west.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc abbey of st markovia overview](https://curseofstrahd.app/wiki/img/shots/loc-abbey-of-st-markovia-overview.webp)
 *The whole place from above.*
@@ -53,7 +53,7 @@ The switchback track arrives at the abbey gate. Inside: the courtyard with its w
 
 ## People
 
-- **[Belview](https://curseofstrahd.app/wiki/people/belview.md)**, One of the Belview Family: The courtyard (#8)
+- **[Belview](https://curseofstrahd.app/wiki/people/belview-by-the-well.md)**, By the Well: The courtyard (#8)
 - **[Belview](https://curseofstrahd.app/wiki/people/belview-sweeping-the-courtyard.md)**, Sweeping the Courtyard: The courtyard, 08:00–18:00 (#10)
 - **[Belview](https://curseofstrahd.app/wiki/people/belview-carrying-wood-to-the-wards.md)**, Carrying Wood to the Wards: The courtyard, 08:00–18:00 (#11)
 - **[Belview](https://curseofstrahd.app/wiki/people/belview-in-the-cloister.md)**, In the Cloister: The cloister walk, 08:00–18:00 (#12)

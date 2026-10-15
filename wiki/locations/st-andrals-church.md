@@ -16,7 +16,7 @@ Vallaki's church of the Morninglord, named for the saint whose bones lie in the 
 
 A long nave of pews under a sunburst window, an altar on its step, a vestry and a narrow stair down to the crypt where St. Andral's sarcophagus waits.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc vallaki st andrals overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-st-andrals-overview.webp)
 *The whole place from above.*
@@ -84,11 +84,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Glass bursts inward along both walls of the nave. Pale shapes come through the windows head first, like…*, in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
+- *Glass bursts inward along both walls of the nave. Pale shapes come through the windows head first, like…*, in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 5: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (3700 XP)
-> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (1900 XP)
-> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (1850 XP)
+> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 5: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (5650 XP)
+> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2100 XP)
+> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (55 HP), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3650 XP)
 
 ## Quests and lore
 

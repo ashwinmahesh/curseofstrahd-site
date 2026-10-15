@@ -12,7 +12,7 @@
 
 The lake path skirts a reedy inlet of Lake Zarovich: a fishing jetty, an upturned boat, nets on their poles, and a pine rise above the shore. A random fight on the lake roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc lake inlet overview](https://curseofstrahd.app/wiki/img/shots/loc-lake-inlet-overview.webp)
 *The whole place from above.*

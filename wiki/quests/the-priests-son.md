@@ -44,7 +44,7 @@ The voice is his son, [Doru](https://curseofstrahd.app/wiki/people/doru.md), who
      - "This ends now. Attack him." starts the fight.
      - "We'll let you out." followed by "Go, then. The way is open." frees him. The quest ends at **Doru Freed**, a failure (Kip -3, Liriel -2, Godrick -2, Ratatouille -2, Thistle -1).
      - "We'll leave you here." moves the quest to **Doru Left**. You can come back down any time.
-4. **The fight.** Doru alone, a [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (1,800 XP): 90 HP at level 3 or higher, 45 HP below. That's above a hard fight for a level 3 party. He climbs walls and ceilings, grabs with his claws (escape DC 13), bites to heal himself, and can dash or disengage as a bonus action. Throw the holy water early, and use the narrow stair so he can't reach more than one of you at a time.
+4. **The fight.** Doru, a [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), at 90 HP with 3 [Swarms of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) and 2 [Giant Rats](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) at level 3 or higher (2,000 XP); at 45 HP with 3 giant rats below that (1,875 XP). That's above a hard fight for a level 3 party. He climbs walls and ceilings, grabs with his claws (escape DC 13), bites to heal himself, and can dash or disengage as a bonus action. Throw the holy water early, and use the narrow stair so he can't reach more than one of you at a time.
 5. **Search the undercroft.** Doru's heap of rags holds a [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), a [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet) and 3 gp. [Medicine DC 13] on the burial niches points out an old priest among the remains (search DC 14) with a [Periapt of Health](https://curseofstrahd.app/wiki/items/magic-items.md#periapt-of-health).
 6. **Tell Donavich.** The quest ends at **Doru Destroyed** when you next speak to him, or when Kolyan is buried, whichever comes first.
    - With his blessing, he thanks you and gives you a shard of the old dawn window: a [Gem of Brightness](https://curseofstrahd.app/wiki/items/magic-items.md#gem-of-brightness).
@@ -76,10 +76,10 @@ The voice is his son, [Doru](https://curseofstrahd.app/wiki/people/doru.md), who
 
 ## Fights
 
-- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
-> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
+> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2000 XP)
+> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 45 HP), 3 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1875 XP)
 
 ## Journal
 
@@ -118,3 +118,6 @@ The voice is his son, [Doru](https://curseofstrahd.app/wiki/people/doru.md), who
 >
 > **The Face on the Ceiling**: Doru clings upside down to the undercroft's vault, smiling down.
 > ![doru ceiling](https://curseofstrahd.app/wiki/img/cutscenes/doru-ceiling.webp)
+>
+> **Dessert**: Doru's memory: villagers with torches laid aside at Strahd's long table, and every candle about to go out.
+> ![doru dessert](https://curseofstrahd.app/wiki/img/cutscenes/doru-dessert.webp)

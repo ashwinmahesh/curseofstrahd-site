@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc amber deep 1](https://curseofstrahd.app/wiki/img/shots/loc-amber-deep-1.webp)
 > **Region:** [The Amber Temple](https://curseofstrahd.app/wiki/regions/the-amber-temple.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)
 > **Quests:** [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md)
@@ -16,7 +16,7 @@ What the Amber Temple's wardens sealed under their own vaults: a stair down thro
 
 Under the vault floor the amber isn't set. It weeps out of the walls like resin from a cut pine, warm, and slow, and it smells of honey and of something that has been asleep for a very long time.
 
-**Resting:** no Every time you shut your eyes, you feel it looking at you through them. Nobody sleeps down here.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Every time you shut your eyes, you feel it looking at you through them. Nobody sleeps down here.
 
 ![loc amber deep overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-deep-overview.webp)
 *The whole place from above.*
@@ -62,14 +62,14 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something blinks inside the nearest block of amber. Then the amber blinks back, everywhere, and the little…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md).
+- *Something blinks inside the nearest block of amber. Then the amber blinks back, everywhere, and the little…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): A Sleeper Woken ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP), 10 × [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md), A Sleeper Woken ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)).
 
 - *The Eye Below sinks back into the amber to its middle as the last note of the lullaby goes, and wakes too…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md). Scales with your level. Part of [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (10000 XP; surprise: enemies)
-> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and not deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md) (10100 XP; lair; surprise: enemies)
-> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when not deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (10000 XP)
-> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md) (10100 XP; lair)
+> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (335 HP) (10000 XP; surprise: enemies)
+> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and not deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (100 HP), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md) (10100 XP; lair; surprise: enemies)
+> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when not deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (135 HP) (10000 XP)
+> - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (335 HP), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md) (10100 XP; lair)
 
 ## Quests and lore
 

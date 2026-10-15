@@ -43,7 +43,7 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 ### If you're stuck
 
 - **He forgets you between visits.** Pin a note to his sleeve ("These are friends") and he greets you as friends from then on (Wren +2, Godrick +1, Kip +1).
-- **Don't attack him.** Exethanter fights with two flameskulls (8,100 XP), and you lose the word, the name and the rite.
+- **Don't attack him.** Exethanter fights with six flameskulls and eight [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)s (26,900 XP), and you lose the word, the name and the rite.
 - **You need Vosk's name but smashed the jar.** His wall of notes has it too: Investigation DC 15, one try.
 
 ## Rewards
@@ -61,7 +61,7 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 
 ## Fights
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md).
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (100 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md).
 
 ## Journal
 

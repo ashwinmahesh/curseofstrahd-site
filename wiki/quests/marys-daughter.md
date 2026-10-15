@@ -42,7 +42,7 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
    Then say "Come home, Gertruda. Stay close to us." She joins you as a guest and the quest moves to **Found** (Godrick +3, Kip +3, Liriel +2, Thistle +2, Wren +1, Ratatouille +1). "Not yet" leaves her waiting.
 5. **Get past Rahadin.** Unless you've already beaten him, [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md) stands at the head of the grand stairs in the Court of the Count while Gertruda is with you.
    - [Persuasion DC 16] "A guest who can't leave is a prisoner..." (not offered if Gertruda warned him) or [Intimidation DC 17] "Look at us, Rahadin. You're one man." makes him step aside (Godrick +2, Thistle +1, Kip +1). A failed roll means a fight.
-   - "Then we go through you." means a fight with [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) alone (5,900 XP, 135 HP, AC 18).
+   - "Then we go through you." means a fight with [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (690 HP, AC 18) and four [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), one of them at 50 HP (15,100 XP).
    - "Gertruda, go back to your room." ends the quest at **Lost**.
 6. **Bring her home.** Walk Gertruda into Mary's house. Mary is on her feet before the door is open, and the quest ends at **Home**. Mary gives you her mother's [Necklace of Prayer Beads](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-prayer-beads).
 
@@ -74,15 +74,15 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 
 ## Fights
 
-- *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
+- *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (240 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (200 HP) (12800 XP)
 > - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
 
-- *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
+- *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (690 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (50 HP) (15100 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (265 HP), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (220 HP), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (175 HP) (12800 XP)
 
 ## Journal
 
@@ -129,5 +129,11 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 > **Gertruda Comes Home**: Gertruda back in her mother's arms in Mad Mary's house.
 > ![gertruda home](https://curseofstrahd.app/wiki/img/cutscenes/gertruda-home.webp)
 >
+> **Her Mother's Beads**: In the cottage with its door open on a bright morning, Mad Mary presses her mother's prayer beads into Gertruda's hands.
+> ![gertruda beads](https://curseofstrahd.app/wiki/img/cutscenes/gertruda-beads.webp)
+>
 > **Rahadin and His Voices**: The chamberlain wrapped in the faint screaming of everyone he has killed.
 > ![rahadin voices](https://curseofstrahd.app/wiki/img/cutscenes/rahadin-voices.webp)
+>
+> **Rahadin Draws**: Rahadin draws two curved swords as the screaming faces of everyone he has killed pour into the steel.
+> ![rahadin draws](https://curseofstrahd.app/wiki/img/cutscenes/rahadin-draws.webp)

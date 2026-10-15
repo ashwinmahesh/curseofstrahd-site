@@ -35,7 +35,7 @@ Two ways in:
 
    There's also a way that needs no roll: ask him "Why don't you ever get down off the board?" He laughs and says he'll never leave the wagon, and something under the paint shivers. If neither check has passed, a new option then appears: **(Pull the blanket off his knees.)** So two failed checks don't leave you stuck.
 3. **Go for the chain (or pull the blanket off).** Either way you pull the blanket off, the chain has grown into his skin, and the wagon stands up off its wheels.
-4. **Fight the Tinker's Wagon.** [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) is a Huge mimic: AC 14, 171 HP (110 HP if anyone in the party is below level 5), immune to acid. Each turn it lashes with two sticky pseudopods (reach 10 ft, grapples, escape DC 15) and bites; on a 5–6 it sprays a 20-ft cone of trinkets (DC 14 Dexterity save, 3d6 and Restrained); it shakes off one failed save a day and lashes again between your turns. With it come "trinkets", [Mimics](https://curseofstrahd.app/wiki/bestiary/mimic.md): one below level 5, two at level 5, three at level 6 and up. Spread out so the cone can't catch everyone, and keep someone free to pull grappled allies loose.
+4. **Fight the Tinker's Wagon.** [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) is a Huge mimic: AC 14, 110 HP below level 5, 220 at level 5 and 450 from level 6, immune to acid. Each turn it lashes with two sticky pseudopods (reach 10 ft, grapples, escape DC 15) and bites; on a 5–6 it sprays a 20-ft cone of trinkets (DC 14 Dexterity save, 3d6 and Restrained); it shakes off one failed save a day and lashes up to twice more between your turns. With it come "trinkets", [Mimics](https://curseofstrahd.app/wiki/bestiary/mimic.md): one below level 6, five at level 6 and up. Spread out so the cone can't catch everyone, and keep someone free to pull grappled allies loose.
 5. **Talk to Iosif again.** After the fight he's in the road at the crossroads at any hour. The chain drops off on its own.
 
 ### Choices and endings
@@ -46,7 +46,7 @@ There's one ending. Iosif tells you to open the wagon's belly, and inside are **
 
 - **No wagon at the crossroads?** Iosif and his wagon are only there between 8 in the morning and 6 in the evening.
 - **No option to go for the chain?** It only appears after a passed Insight or Perception check. If both failed, ask him why he never gets down off the board, then choose "(Pull the blanket off his knees.)".
-- This is a fight built for a level-5 party, harder than the region's level-4 average. Below level 5 it's weaker (110 HP, one trinket), but still a boss.
+- This is a boss fight, harder than the region's level-4 average, and it grows with your level. Below level 5 it's weaker (110 HP, one trinket), but still a boss; from level 6 it's 450 HP with five trinkets.
 
 ## Rewards
 
@@ -64,9 +64,9 @@ There's one ending. Iosif tells you to open the wagon's belly, and inside are **
 
 - *The green wagon stands up off its wheels, and two of the trinkets on its hooks open their own small mouths.*, in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md), [Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 6: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md), 3 × A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (4250 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 5: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md), 2 × A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3800 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md), A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3350 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 6: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (450 HP), 5 × A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (5150 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 5: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (220 HP), A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3350 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (110 HP), A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3350 XP)
 
 ## Journal
 
@@ -92,3 +92,6 @@ There's one ending. Iosif tells you to open the wagon's belly, and inside are **
 > [!example]- Cutscenes
 > **The Tinker's Wagon**: Iosif's wagon stands up off its wheels.
 > ![sq tinkers wagon](https://curseofstrahd.app/wiki/img/cutscenes/sq-tinkers-wagon.webp)
+>
+> **Seven Years at the Front of That Thing**: The wagon is a melting heap of grey flesh and green paint, and Iosif sits in the road holding his freed ankle.
+> ![tinker freed](https://curseofstrahd.app/wiki/img/cutscenes/tinker-freed.webp)

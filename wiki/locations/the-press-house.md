@@ -15,7 +15,7 @@ A tall barn of a building around the great wine press, where the Martikovs crush
 
 The great press stands in the middle of the floor like an altar, its screw as thick as a man. The vat beside it is full to the brim, and the surface of the mash is moving.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc wizard of wines press house overview](https://curseofstrahd.app/wiki/img/shots/loc-wizard-of-wines-press-house-overview.webp)
 *The whole place from above.*
@@ -71,9 +71,9 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when gulthias tree burned and kostin fled: The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)) (1800 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when gulthias tree burned: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)) (2250 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when kostin fled: The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (2150 XP)
-> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 7: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 5 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (5100 XP)
-> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 6: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (4650 XP)
-> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (2350 XP)
+> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 7: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 55 HP), 5 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (5100 XP)
+> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 6: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 60 HP), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (4200 XP)
+> - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (3000 XP)
 
 ## Quests and lore
 

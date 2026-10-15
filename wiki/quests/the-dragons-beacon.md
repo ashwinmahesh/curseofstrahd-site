@@ -26,7 +26,7 @@ Argynvost lit a beacon at the top of his tower every night so the valley would k
 
 ![loc argynvostholt 1](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-1.webp)
 
-Come by day. Once you've met Godfrey, crossing the courtyard between the drive and the front doors after dark sets off the men-at-arms of the last battle: 4 [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s at level 8, 3 at level 7, 2 below that. This happens until you've beaten them once or settled the Order's fate.
+Come by day. Once you've met Godfrey, crossing the courtyard between the drive and the front doors after dark sets off the men-at-arms of the last battle: 12 [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s and 2 [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)s at level 8, 14 phantom warriors below that. This happens until you've beaten them once or settled the Order's fate.
 
 ### Step by step
 
@@ -40,7 +40,7 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
    - *"(Speak the Order's oath.)"* gets you through with no roll.
    - *"Sir Godfrey Gwilym of the Order vouches for us."* gets you through if Godfrey has remembered the oath or is travelling with you.
    - *History DC 15* (answer the challenge the old way) or *Religion DC 14* ("We've come to tend his rest") also work. You get one try between the two: fail either and he won't hear either again, but the oath, Godfrey and force still work.
-   - *"Stand aside, or we go through you."* starts **Bone Watch** (Godrick -2, Liriel -1): the Warden and 3 Phantom Warriors at level 8 (2,800 XP), the Warden and 2 at level 7, the Warden and 1 below that. Phantom warriors halve all weapon damage and most elements and ignore necrotic and poison, so radiant and force spells are what kill them.
+   - *"Stand aside, or we go through you."* starts **Bone Watch** (Godrick -2, Liriel -1): the Warden and 14 Phantom Warriors at level 8 (10,500 XP), the Warden and 11 at level 7, the Warden and 10 below that. Phantom warriors halve all weapon damage and most elements and ignore necrotic and poison, so radiant and force spells are what kill them.
 
    The offering niches by the bier hold 30 gp and 4 candles.
 
@@ -50,11 +50,11 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 
 ![argynvost flame](https://curseofstrahd.app/wiki/img/cutscenes/argynvost-flame.webp)
 
-5. **Climb the tower.** Take the great stair in the entry hall up to [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md), walk to the hall of heroes at the east end, and go through the tower door into [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md). Climb to the top of the stair and step up into the lantern room. The first time you enter, flame or no flame, the dark nesting in the dead lamp attacks (**Lamp Dark**): 2 [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)s and 2 [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)s at level 8 (4,000 XP), a wraith and 3 specters at level 7, a wraith at 50 HP and 2 specters below that. They pass through walls, shrug off half of all weapon damage, and their Life Drain lowers your maximum hit points until you rest. Bring radiant and force spells, and kill the wraiths first. Once they're gone:
+5. **Climb the tower.** Take the great stair in the entry hall up to [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md), walk to the hall of heroes at the east end, and go through the tower door into [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md). Climb to the top of the stair and step up into the lantern room. The first time you enter, flame or no flame, the dark nesting in the dead lamp attacks (**Lamp Dark**): 5 [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)s and 4 [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)s at level 8 (9,800 XP), 3 wraiths and 5 specters at level 7, 4 wraiths (one at 50 HP) and 6 specters below that. They pass through walls, shrug off half of all weapon damage, and their Life Drain lowers your maximum hit points until you rest. Bring radiant and force spells, and kill the wraiths first. Once they're gone:
    - The lamp-keeper's locker beside the cradle holds torches, oil, a tinderbox and 15 gp, plus a Tarokka treasure if Madam Eva's reading put one at the top of this tower.
    - The lamp-keeper's niche next to it hides a [Lantern of Revealing](https://curseofstrahd.app/wiki/items/magic-items.md#lantern-of-revealing) (search DC 14).
 
-   On the way up, the upper floor is worth a look: the Order's chronicle in the dragon's study (its last page tells where the skull went), a hidden drawer in the dragon's desk there ([Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection), Investigation DC 16), a hollow in the empty plinth in the hall of heroes ([Ring of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-resistance-cold), Investigation DC 16), and the commander's strongbox in Vladimir's room (lock DC 18: 120 gp and a level 1 spell scroll).
+   On the way up, the upper floor is worth a look: the Order's chronicle in the dragon's study (its last page tells where the skull went), a hidden drawer in the dragon's desk there ([Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection), Investigation DC 16), a hollow in the empty plinth in the hall of heroes ([Ring of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-resistance-cold), Investigation DC 16), and the commander's strongbox in Vladimir's room (lock DC 18: 120 gp, a level 1 spell scroll, an [Ioun Stone (Leadership)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-leadership) and a [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism)).
 
 ![loc argynvostholt beacon 1](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-beacon-1.webp)
 
@@ -64,7 +64,7 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
    - *"Stand aside, Vladimir. The beacon burns tonight."* starts the fight.
    - *"(Lower the flame.) We'll leave it dark."* He goes back down without a word (Godrick -2, Liriel -1). You can come back and try again.
 
-   The fight is **Beacon Stand**: Vladimir ([Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), 195 HP) with 2 Dead Knights ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 110 HP each) and a phantom man-at-arms at level 8 (7,200 XP); Vladimir at 170 HP with one Dead Knight at level 7; Vladimir at 150 HP alone below that. Vladimir and the revenants regenerate 10 HP at the start of every turn unless they've taken fire or radiant damage since their last turn, so keep fire or radiant on whoever you're trying to kill. When he falls he lies by the stair, already knitting back together, and speaks as you come near (or when you use the cradle again). Choose *"Light the beacon."* to finish it, or *"Not yet."* to leave.
+   The fight is **Beacon Stand**: Vladimir ([Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), 300 HP) with 3 Dead Knights ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 195 HP each), a phantom man-at-arms and 2 [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s at level 8 (10,400 XP); Vladimir at 170 HP with one Dead Knight (110 HP) at level 7; Vladimir at 150 HP alone below that. Vladimir and the revenants regenerate 10 HP at the start of every turn unless they've taken fire or radiant damage since their last turn, so keep fire or radiant on whoever you're trying to kill. When he falls he lies by the stair, already knitting back together, and speaks as you come near (or when you use the cradle again). Choose *"Light the beacon."* to finish it, or *"Not yet."* to leave.
 7. **The beacon burns.** The quest ends at **Lit**, and [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md) ends at Rest. The knights at the long table bow their heads and are still, and Vladimir goes with them. Godrick +4, Liriel +3, Kip, Thistle, Wren and Ratatouille +1. What happens to Sir Godfrey:
    - First, if Godrick is with you, has already shown Godfrey Sir Aldric's sword and isn't a knight yet, Godfrey knights him before the light takes him. If he isn't travelling with you, he comes up the tower stair behind you; either way he takes Sir Aldric's sword from Godrick's hands and dubs him with it. This works whether or not Godfrey has remembered the oath, and Godrick kneels whatever his approval. If Godrick's approval is Close or better, he names the party as his fellowship: Aldric's sword becomes a [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) and the whole party gains Heroic Inspiration. Otherwise he keeps it as a [Weapon, +1](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1). Either way [A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md) ends at Knighted, and Godrick +8. Then the rest of this list plays out as usual.
    - If he travels with you, he feels the light pulling but stays for one more ride.
@@ -114,9 +114,9 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 
 - *The warden's spear comes down, and the walls of the vault answer: grey men-at-arms step out of the stone on…*, in [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2800 XP)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 2 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2100 XP)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (1400 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 11 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (8400 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
 
 ## Journal
 
@@ -150,6 +150,9 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 > **A Dragon in the Frost**: Frost draws Argynvost's head on the chapel's coloured glass.
 > ![argynvost frost](https://curseofstrahd.app/wiki/img/cutscenes/argynvost-frost.webp)
 >
+> **Let Them Go Home**: A memory: Vladimir, a young knight, kneels with his arms round the dying silver dragon's head in the courtyard while the knights stand with bowed heads.
+> ![argynvost last breath](https://curseofstrahd.app/wiki/img/cutscenes/argynvost-last-breath.webp)
+>
 > **The Beacon Is Lit**: The beacon of Argynvostholt burns silver and lays a road of light across the valley to the castle.
 > ![beacon lit vladimir](https://curseofstrahd.app/wiki/img/cutscenes/beacon-lit-vladimir.webp) *(vladimir fate is “made peace”)*
 > ![beacon lit](https://curseofstrahd.app/wiki/img/cutscenes/beacon-lit.webp)
@@ -159,6 +162,9 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 >
 > **The Silver Flame**: A torch held to the dragon's frosted ribs burns silver.
 > ![argynvost flame](https://curseofstrahd.app/wiki/img/cutscenes/argynvost-flame.webp)
+>
+> **A Chair Scrapes Back**: In the long hall behind, the dead knights stir at their table as one chair scrapes back, and a silver glow spills in from the door.
+> ![hall stirs](https://curseofstrahd.app/wiki/img/cutscenes/hall-stirs.webp)
 >
 > **The Order Stands**: The Order Stands: a later beat of a long conversation picture (argynvostholt/vladimir, ~ pact), Ashwin's ask 2026-10-12.
 > ![feast pact](https://curseofstrahd.app/wiki/img/cutscenes/feast-pact.webp)

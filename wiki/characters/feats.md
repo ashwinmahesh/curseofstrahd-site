@@ -134,7 +134,7 @@
 | Spellfire Adept | Once per turn, when your spell deals Radiant damage, roll and spend up to two Hit Dice and add them to one damage roll. Your Radiant damage ignores Resistance. |
 | Street Justice | Your allies have Advantage on attacks against creatures you have Grappled. Add Proficiency Bonus to the DC to escape or break Chain, Manacles, or Rope you use to restrain a creature. Hostility does not give Disadvantage to your Intimidation checks to influence a creature. |
 | Telekinetic | +1 Int, Wis or Cha; an invisible, silent Mage Hand with 30 more feet of range, and a Bonus Action 5-foot shove. |
-| Telepathic | +1 Int, Wis or Cha; speak telepathically to creatures within 60 feet, and cast Detect Thoughts free once per Long Rest. |
+| Telepathic | +1 Int, Wis or Cha; speak telepathically to creatures within 60 feet, and cast Mind Spike free once per Long Rest. |
 | Transmutation Adept | Always prepare these spells when you have slots of levels 1, 2, 3, 4, and 5 respectively: Jump; Spider Climb; Slow; Polymorph; Animate Objects. On your turn, a slotted Transmutation adds 5 feet times slot level to Speed until that turn ends. |
 | War Caster | +1 Int, Wis or Cha; Advantage to keep Concentration, spells as Opportunity Attacks, Somatic components with full hands. |
 | Warlike Familiar | Reference-only: Always prepare Battle Familiar with your Familiar Friend casting ability; cast it free once per Long Rest or using slots. Your familiar can use a Reaction when a creature within 5 feet is hit to add your PB to that creature’s AC against the attack. |

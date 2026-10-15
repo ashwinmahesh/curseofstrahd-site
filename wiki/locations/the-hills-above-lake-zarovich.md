@@ -16,7 +16,7 @@ A pine-dark slope in the hills above Lake Zarovich, climbing to a rock face with
 
 A cold stream, boulders, pines scored with claw marks, a heap of bones politely out of sight of the trail, and a cave mouth breathing out warm air that smells of wet dog and old meat.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc werewolf den overview](https://curseofstrahd.app/wiki/img/shots/loc-werewolf-den-overview.webp)
 *The whole place from above.*

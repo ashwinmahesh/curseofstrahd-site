@@ -16,7 +16,7 @@ The long space under the castle's roofs where hundreds of ravens roost on the be
 
 Under the roof the dark is full of small sounds: feathers settling, claws shifting on wood, a hundred birds deciding what you are.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft spires roost overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-roost-overview.webp)
 *The whole place from above.*
@@ -74,9 +74,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md).
+- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): 6 × [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md), 10 × [Wereraven](https://curseofstrahd.app/wiki/bestiary/wereraven.md) (55 HP).
 
-- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md).
+- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): 6 × [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md) (13 HP), 8 × [Wereraven](https://curseofstrahd.app/wiki/bestiary/wereraven.md) (65 HP).
 
 ## Quests and lore
 

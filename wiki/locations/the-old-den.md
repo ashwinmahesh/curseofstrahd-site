@@ -16,7 +16,7 @@ A clearing up the deer path from the Tser Pool camp, where the stream comes down
 
 A clearing in the pines where the stream comes down over stones. Under a heap of mossy rocks on the far side there's a dark hollow that smells of animal, and the leaves round it have been scraped up into a bed.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc tser woods den overview](https://curseofstrahd.app/wiki/img/shots/loc-tser-woods-den-overview.webp)
 *The whole place from above.*
@@ -56,9 +56,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level. Part of [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md).
+- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Part of [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (725 XP)
+> - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (750 XP)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**: 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (550 XP)
 
 ## Quests and lore

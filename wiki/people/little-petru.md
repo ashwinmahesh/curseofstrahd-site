@@ -16,9 +16,12 @@ The smallest of the five children taken from the farms below Krezk to the werewo
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
+> [!note]- At points in the story (3)
 > - [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), The goat pens: when den children freed and quest.the packs runt isn't given
+> - [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md), The great cave: when (kiril defeated or den broken) and not emil toranescu with the party and not pack aftermath done
+> - [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md), The pen: when not den children freed
 
 ## Quests
 
+- [The Children in the Pen](https://curseofstrahd.app/wiki/quests/the-children-in-the-pen.md)
 - [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md) (gives it)

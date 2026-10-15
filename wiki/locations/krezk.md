@@ -16,7 +16,7 @@ The last village on the road west: a few dozen stone cottages on a mountain shel
 
 Outside: the end of the road, the shut gate and its watchman, and a switchback track climbing toward the abbey. Inside: the burgomaster's house, the well and the square, goat pens, cottages, and the lane north to the shrine of the White Sun.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc krezk overview](https://curseofstrahd.app/wiki/img/shots/loc-krezk-overview.webp)
 *The whole place from above.*
@@ -103,17 +103,17 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Shapes come up the road out of the dark on both sides, low and patient. Behind you the gate stays shut. On…*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open and level ≥ 7: [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (1400 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open: [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (1150 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open and level ≥ 7: 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (4250 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open: 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 5 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (4000 XP)
 
-- *The watch closes in, spears levelled.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md).
+- *The watch closes in, spears levelled.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): Watchman 1 ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)), Watchman 2 ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)).
 
 - *The Grandsire comes over Krezk's wall in the moonlight with the old wolves of the pack at his heels.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 3 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (7500 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 8: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6800 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (270 HP), 3 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (7500 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 8: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (410 HP), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6800 XP)
 > - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 7: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6600 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5900 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (140 HP), An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5900 XP)
 
 ## Quests and lore
 

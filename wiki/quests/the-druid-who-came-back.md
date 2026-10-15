@@ -36,11 +36,11 @@ If the Black Row hasn't started, or you've only heard Andrei's rumour, the first
 
    Talking to the planter moves the journal to *Found*.
 2. **The Ash Effigy (`ash_effigy`).** Wintersplinter's ash gathers round whatever was planted and stands up, twice a man's height. Its embers are [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s.
-   - Spared Ruxandra: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Ruxandra (a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) and 3 embers, or 4 embers at level 8.
-   - Zorica not talked down: the Effigy, Zorica (a druid) and 3 embers, or 4 at level 8.
+   - Spared Ruxandra: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Ruxandra (a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) and 5 embers, or 4 embers at level 8.
+   - Zorica not talked down: the Effigy, Zorica (a druid) and 5 embers, or 4 at level 8.
    - Kostin, or Zorica talked down: the Effigy and 3 embers, or 4 at level 8.
 
-   The Effigy has 150 HP below level 8 and 175 HP from level 8. It's Huge, with AC 15 and two ash fists at 15-foot reach. Choking Ash (recharge 5–6) is a 30-foot cone: DC 16 Constitution save, 5d8 necrotic damage, and blinded until the end of its next turn. It has Legendary Resistance twice a day and two legendary actions a round, a fist or a step.
+   The Effigy's HP depends on who stands with it: 155 below level 8 and 205 from level 8 beside Ruxandra, 355 below level 8 and 480 from level 8 beside Zorica, and 150 below level 8 and 430 from level 8 on its own. It's Huge, with AC 15 and two ash fists at 15-foot reach. Choking Ash (recharge 5–6) is a 30-foot cone: DC 16 Constitution save, 5d8 necrotic damage, and blinded until the end of its next turn. It has Legendary Resistance twice a day and two legendary actions a round, a fist or a step.
 
    **Fire does nothing to it.** It has burned once already. It regains 10 HP at the start of every turn, but cold damage stops that for a turn, and it takes extra damage from cold. Bring every cold spell and frost weapon you have. Winning moves the journal to *Burned*.
 
@@ -77,12 +77,12 @@ The quest has one ending and one reward. The difference is who you met on the cr
 
 - *The ash of the whole crown stands up round the thing in the turned earth, grey and smoking, twice a man's…*, in [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when yester druids fate is “spared” and level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4450 XP)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when yester druids fate is “spared”: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 3 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4425 XP)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when not kostin doubts and not zorica stood down and level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Zorica ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4450 XP)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when not kostin doubts and not zorica stood down: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), Zorica ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 3 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4425 XP)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4000 XP)
-> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md), 3 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (3975 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when yester druids fate is “spared” and level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (205 HP), Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4450 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when yester druids fate is “spared”: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (155 HP), Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 5 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4475 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when not kostin doubts and not zorica stood down and level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (480 HP), Zorica ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4450 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when not kostin doubts and not zorica stood down: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (355 HP), Zorica ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 5 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4475 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**, when level ≥ 8: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (430 HP), 4 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (4000 XP)
+> - **[The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)**: [The Ash Effigy](https://curseofstrahd.app/wiki/bestiary/the-ash-effigy.md) (150 HP), 3 × An Ember ([Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)) (3975 XP)
 
 ## Journal
 
@@ -109,5 +109,8 @@ The quest has one ending and one reward. The difference is who you met on the cr
 - **More in Yester Hill:** [The Barrow on Yester Hill](https://curseofstrahd.app/wiki/quests/the-barrow-on-yester-hill.md)
 
 > [!example]- Cutscenes
+> **Something Planted on the Crown**: A hooded figure kneels on the burned crown by lantern light, pressing earth round a thin black shoot as the ash drifts toward it.
+> ![yester planting](https://curseofstrahd.app/wiki/img/cutscenes/yester-planting.webp)
+>
 > **The Druid Who Came Back**: The ash of Yester Hill's burned crown stands up round a young tree.
 > ![sq ash effigy](https://curseofstrahd.app/wiki/img/cutscenes/sq-ash-effigy.webp)

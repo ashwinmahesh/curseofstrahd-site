@@ -22,3 +22,7 @@ Built for a party of about level 8: random treasure here is rolled for that leve
 ## People
 
 [Khazan](https://curseofstrahd.app/wiki/people/khazan.md), [The Index](https://curseofstrahd.app/wiki/people/the-index.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md)
+
+## Merchants
+
+[Xaver](https://curseofstrahd.app/wiki/items/merchants.md)

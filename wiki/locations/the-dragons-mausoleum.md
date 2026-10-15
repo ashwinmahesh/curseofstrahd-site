@@ -16,7 +16,7 @@ The stone tomb the Order's squires raised for the silver dragon Argynvost: his b
 
 A low vestibule, its floor worn by kneeling. One narrow doorway leads on into a long vault where a skeleton far too big for any tomb lies along a raised stone bier, wings folded, neck ending in nothing.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc argynvostholt mausoleum overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-mausoleum-overview.webp)
 *The whole place from above.*
@@ -63,9 +63,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The warden's spear comes down, and the walls of the vault answer: grey men-at-arms step out of the stone on…*, in [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2800 XP)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 2 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2100 XP)
-> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (1400 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 11 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (8400 XP)
+> - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
 
 ## Quests and lore
 

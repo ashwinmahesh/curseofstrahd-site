@@ -65,7 +65,7 @@
 ### Great Old One Patron
 *A pact with an unknowable entity of the Far Realm: telepathy, psychic magic and a mind shielded from intrusion.*
 
-- **3: Great Old One Spells.** Detect Thoughts, Dissonant Whispers, Phantasmal Force and Tasha's Hideous Laughter always prepared; more at levels 5, 7 and 9.
+- **3: Great Old One Spells.** Dissonant Whispers, Mind Spike, Phantasmal Force and Tasha's Hideous Laughter always prepared; more at levels 5, 7 and 9.
 - **3: Awakened Mind.** Bonus Action: open a telepathic link with a creature within 30 feet for Warlock-level minutes.
 - **3: Psychic Spells.** Your damaging Warlock spells can deal Psychic damage, and your Enchantment and Illusion spells need no Verbal or Somatic components.
 - **6: Clairvoyant Combatant.** When you link minds with Awakened Mind, force a Wisdom save; on a failure you have Advantage against it and it has Disadvantage against you.

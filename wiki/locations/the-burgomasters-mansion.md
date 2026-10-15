@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc vallaki burgomaster mansion 1](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-burgomaster-mansion-1.webp)
 > **Region:** [Vallaki](https://curseofstrahd.app/wiki/regions/vallaki.md) · level 5
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)
 > **Quests:** [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) and 1 more
@@ -16,7 +16,7 @@ Baron Vallakovich's mansion: a hall hung with festival banners, a dining room la
 
 Bunting on every banister, portraits of the Baron in every pose a man can strike. A narrow stair climbs from the hall to the attic, where the air smells of chalk and something burnt.
 
-**Resting:** no The Baron's guest beds have been re-stuffed for the festival, and Lady Lydia will not have them slept in before then. Or after.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. The Baron's guest beds have been re-stuffed for the festival, and Lady Lydia will not have them slept in before then. Or after.
 
 ![loc vallaki burgomaster mansion overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-burgomaster-mansion-overview.webp)
 *The whole place from above.*
@@ -70,7 +70,7 @@ Bunting on every banister, portraits of the Baron in every pose a man can strike
 |---|---|---|---|
 | 10 | the Baron's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 60 gp | lock DC 16; Baron Vargas Vallakovich's, so taking is theft |
 | 11 | Old trunk | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 3 gp | open it; Baron Vargas Vallakovich's, so taking is theft |
-| 12 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant) | open it; Izek Strazni's, so taking is theft |
+| 12 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant) | open it; Izek Strazni's, so taking is theft |
 | 14 | a loose board under the chalk circle (hidden) | [Wand of the War Mage, +1](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-1) | Search: Investigation DC 15 |
 | 15 | something behind the festival ledger (hidden) | [Necklace of Fireballs](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-fireballs) | Search: Investigation DC 15 |
 
@@ -92,11 +92,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level. Part of [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md).
+- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md). Scales with your level. Part of [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), 2 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (1800 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 3 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), Town guard ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)) (3925 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (60 HP) (1800 XP)
 
 ## Quests and lore
 

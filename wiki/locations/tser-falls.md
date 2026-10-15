@@ -16,7 +16,7 @@ Where the River Ivlis throws itself off a cliff in a long white fall. A shelf of
 
 A footpath climbs north through the pines to the lip of a gorge. The river goes over the edge in one long white rope of water, and the roar fills everything.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc tser falls overview](https://curseofstrahd.app/wiki/img/shots/loc-tser-falls-overview.webp)
 *The whole place from above.*
@@ -73,16 +73,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
+- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
 
-- *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md). Scales with your level. Part of [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md).
+- *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md). Scales with your level. Part of [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (2250 XP; surprise: party)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (2250 XP)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 4: 4 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (1800 XP; surprise: party)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 4: 4 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (1800 XP)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured: 3 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (1350 XP; surprise: party)
-> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured: 3 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (1350 XP)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2450 XP; surprise: party)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2350 XP)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 4: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (570 XP; surprise: party)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 4: 2 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (1000 XP)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (470 XP; surprise: party)
+> - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (470 XP)
 
 ## Quests and lore
 

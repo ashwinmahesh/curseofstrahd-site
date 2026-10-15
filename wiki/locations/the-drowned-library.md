@@ -16,7 +16,7 @@ Khazan's library, cut into the rock under Lake Baratok and reached by an old wel
 
 A long low hall under the lake, shelf after shelf of swollen books, the far half standing in still black water. The air is wet paper and cold stone, and in the middle of it all, a great catalogue desk of lacquered oak with a hundred little drawers.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc drowned library overview](https://curseofstrahd.app/wiki/img/shots/loc-drowned-library-overview.webp)
 *The whole place from above.*
@@ -56,7 +56,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md), [Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md). Part of [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md).
+- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md) (390 HP), 2 × A Reading Chair ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)). Part of [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md).
 
 ## Quests and lore
 

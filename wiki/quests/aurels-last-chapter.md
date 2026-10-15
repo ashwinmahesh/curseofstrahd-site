@@ -95,3 +95,6 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Silva
 >
 > **Out of the Mists**: The party steps out of the mist onto the Old Svalich Road, the sunless valley of Barovia below.
 > ![mists arrival](https://curseofstrahd.app/wiki/img/cutscenes/mists-arrival.webp)
+>
+> **Wolves Along the Road**: A line of silent wolves stands along the Old Svalich Road in the fog, watching the party like a picket.
+> ![mists wolves watch](https://curseofstrahd.app/wiki/img/cutscenes/mists-wolves-watch.webp)

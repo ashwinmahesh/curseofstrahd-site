@@ -12,7 +12,7 @@
 
 The Old Svalich Road where it narrows through the Svalich Woods: pines close on both sides, a few clearings, a fallen trunk. Where the woods' random fights and meetings play out.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc road forest overview](https://curseofstrahd.app/wiki/img/shots/loc-road-forest-overview.webp)
 *The whole place from above.*
@@ -56,4 +56,4 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Grigor spits, nocks, and shouts a name. Arrows answer from three sides.*, in [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md): [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
+- *Grigor spits, nocks, and shouts a name. Arrows answer from three sides.*, in [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md): Grigor, hunt leader ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 3 × Barovian hunter ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md).

@@ -16,7 +16,7 @@ The goats' pasture on the slope above the Old Svalich Road, east of the village,
 
 A long slope of thin grass above the road, a dry-stone fold with a gate, and at the top of the slope, close enough to throw a stone into, the white wall of the mists.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc barovia high pasture overview](https://curseofstrahd.app/wiki/img/shots/loc-barovia-high-pasture-overview.webp)
 *The whole place from above.*
@@ -60,7 +60,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Out of the mists at the top of the pasture come wolves, white and wet with fog, low and fast, for the old…*, in [The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level. Part of [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)**, when level ≥ 2: 2 × The Mist's Old Wolf ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × A Mist Wolf ([Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md)) (600 XP)
+> - **[The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)**, when level ≥ 2: The Mist's Old Wolf ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), 4 × A Mist Wolf ([Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md)) (450 XP)
 > - **[The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)**: 6 × A Mist Wolf ([Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md)) (300 XP)
 
 ## Quests and lore

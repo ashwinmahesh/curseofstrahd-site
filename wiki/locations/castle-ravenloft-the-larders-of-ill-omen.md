@@ -16,7 +16,7 @@ Below the main floor: the servants' hall, the kitchen where Cyrus Belview still 
 
 Low vaulted passages smelling of smoke, onions and something under the onions. A kitchen fire is the only warm thing for a hundred feet in any direction.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft larders overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-overview.webp)
 *The whole place from above.*
@@ -75,11 +75,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Dead men in the castle's livery sit up on their pallets. Two suits of armour by the door turn their empty…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
+- *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), 6 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
 
-- *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
+- *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 102 HP), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (102 HP), 3 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (75 HP), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) (38 HP), 5 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (45 HP).
 
-- *Cyrus snatches up a cleaver in one hand and a ladle in the other, weeping.*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md).
+- *Cyrus snatches up a cleaver in one hand and a ladle in the other, weeping, and the Belview cooks come out of…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Cyrus Belview ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 80 HP), 15 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md) (80 HP).
 
 ## Quests and lore
 

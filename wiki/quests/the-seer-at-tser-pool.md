@@ -49,7 +49,7 @@ You may have heard of her already. In [Blood of the Vine](https://curseofstrahd.
 4. **Hear the reading.** She deals five cards in a cross, and every candle leans.
    ![madam eva reading](https://curseofstrahd.app/wiki/img/cutscenes/madam-eva-reading.webp)
    The cards are dealt once per playthrough and never change: one for the [Tome of Strahd](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-strahd), one for the [Holy Symbol of Ravenkind](https://curseofstrahd.app/wiki/items/magic-items.md#holy-symbol-of-ravenkind), one for the [Sunsword](https://curseofstrahd.app/wiki/items/magic-items.md#sunsword), one for your destined ally, and one for the room in Castle Ravenloft where Strahd will wait. Each card shows its name, then she speaks its verse. Every card and verse is listed on [The Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md).
-5. **Take the Diviner's gift, if you drew it.** If any of the three treasure cards is the **Diviner**, Eva unlocks the chest behind her and hands you that treasure on the spot, and its quest is done before it starts. It goes to your party leader, and her painted chest is empty from then on.
+5. **Take the Diviner's gift, if you drew it.** If any of the three treasure cards is the **Diviner**, Eva unlocks the chest behind her and hands you that treasure on the spot, and its quest is done before it starts. It goes to your party leader, and after that her painted chest holds only a [Potion of Clairvoyance](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-clairvoyance).
    ![eva chest](https://curseofstrahd.app/wiki/img/cutscenes/eva-chest.webp)
 6. **Ask your one question.** Pick carefully: there's only one. The general questions (how to leave Barovia, how he is destroyed, why you were brought here, what he wants with Ireena if she's with you) give lore. If she's with you, Eva's answer about Ireena ("keep her away from high places and still water") comes back at the Pool of the White Sun in Krezk. Each companion also has a personal question, worth **+3 approval** with them:
    - Godrick: the Order of the Silver Dragon.
@@ -69,7 +69,7 @@ How you paid matters afterwards:
 
 - **Paid honestly** (gold, truth, persuasion or kin): Madam Eva becomes **friendly**. Come back later and she offers more: hear the whole reading again, "Tell us about yourself", what the Vistani are to the castle, and, if the respec option is on in the pause menu, "Read for one of us alone: a different road", which lets one character be rebuilt from level 1.
 - **Forced** (a successful threat, keeping the stolen gold, or reading after the camp brawl): she reads, but the cards "are not kind", she ends with "Now get out of my tent", and she stays hostile, so the personal reading is never offered. You can still have the reading repeated.
-- **Fighting the camp:** after a failed threat, choosing to go through them makes every Vistani at Tser Pool hostile. When you leave the tent, the camp ambushes you, with your party surprised: two [Bandit Captains](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), two [Bandits](https://curseofstrahd.app/wiki/bestiary/bandit.md) and two [Scouts](https://curseofstrahd.app/wiki/bestiary/scout.md). Win, and the camp is empty for good: Stanimir, Luminita, Big Tobar, Zora and the rest are gone, along with every side quest they give. Madam Eva stays, and on your next visit reads for you anyway, as a forced reading.
+- **Fighting the camp:** after a failed threat, choosing to go through them makes every Vistani at Tser Pool hostile. When you leave the tent, the camp ambushes you, with your party surprised: two [Bandit Captains](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), two [Bandits](https://curseofstrahd.app/wiki/bestiary/bandit.md) and three [Scouts](https://curseofstrahd.app/wiki/bestiary/scout.md). Win, and the camp is empty for good: Stanimir, Luminita, Big Tobar, Zora and the rest are gone, along with every side quest they give. Madam Eva stays, and on your next visit reads for you anyway, as a forced reading.
 
 ### If you're stuck
 
@@ -89,7 +89,7 @@ How you paid matters afterwards:
 
 ## Fights
 
-- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
+- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): 2 × Vistani horse-master ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × Vistana with a knife ([Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md)), 2 × Vistana archer ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
 
 ## Journal
 

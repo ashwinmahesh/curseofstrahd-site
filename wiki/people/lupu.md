@@ -17,7 +17,8 @@ A big grey wolfhound going white at the muzzle, with a collar too good for a dog
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
+> [!note]- At points in the story (2)
+> - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Burgomaster's yard: when not lupu with the party and night and quest.the burgomasters hound isn't done and quest.the burgomasters hound isn't sealed
 > - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Burgomaster's yard: when not lupu with the party
 
 ## Quests

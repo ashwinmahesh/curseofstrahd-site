@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc vallaki coffin maker 1](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-coffin-maker-1.webp)
 > **Region:** [Vallaki](https://curseofstrahd.app/wiki/regions/vallaki.md) · level 5
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 > **Quests:** [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md)
@@ -16,7 +16,7 @@ Henrik van der Voort's workshop: coffins on trestles, shavings on the floor, and
 
 A workshop that smells of pine and varnish. Henrik's rooms open off one side; the storeroom off the other, its door scored where the bolt has been forced and mended more than once.
 
-**Resting:** no Not among the coffins. Not with the storeroom so quiet.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not among the coffins. Not with the storeroom so quiet.
 
 ![loc vallaki coffin maker overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-coffin-maker-overview.webp)
 *The whole place from above.*
@@ -63,11 +63,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Crate lids lift on their own, slowly, the nails squealing out one by one. What climbs out has been waiting in…*, in [The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md). Scales with your level. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
+- *Crate lids lift on their own, slowly, the nails squealing out one by one. What climbs out has been waiting in…*, in [The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md). Scales with your level. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 5: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3600 XP; surprise: enemies)
-> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) (1900 XP; surprise: enemies)
-> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (1800 XP; surprise: enemies)
+> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 5: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (4200 XP; surprise: enemies)
+> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 3 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) (1950 XP; surprise: enemies)
+> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (50 HP), 4 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (2600 XP; surprise: enemies)
 
 ## Quests and lore
 

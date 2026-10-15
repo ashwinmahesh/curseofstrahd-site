@@ -16,7 +16,7 @@ The ruined house of the silver dragon Argynvost on its wooded ridge: a burned ma
 
 A drive between dead trees climbs past the footings of a gatehouse into a courtyard of cracked flagstones. The mansion's black front fills the north side, its beacon tower above the east wing. A stone mausoleum stands apart to the east; the stables and the squires' graves are going back to the forest on the west.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc argynvostholt overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-overview.webp)
 *The whole place from above.*
@@ -82,18 +82,18 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
+- *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 8: 4 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2800 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 7: 3 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2100 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate: 2 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (1400 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 8: 12 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), 2 × [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (12000 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 7: 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (9800 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate: 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (9800 XP)
 
 - *The men-at-arms come out of the courtyard in their grey ranks, still fighting the last battle, and turn…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 9: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 2 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 8 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (11000 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 8: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 2 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (8200 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 7: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 5 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7100 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (4600 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 9: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 3 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 11 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (14900 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 8: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (11800 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 7: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 8 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (9200 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 90 HP), 7 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (8500 XP)
 
 ## Quests and lore
 

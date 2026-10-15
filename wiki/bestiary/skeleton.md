@@ -36,5 +36,5 @@ Old bones that still follow orders: arrows from afar, a blade up close; blunt we
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him. Four of…*
 - [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md) · *The whole column lowers its lances at once, and the gate is full of bones riding at you.*

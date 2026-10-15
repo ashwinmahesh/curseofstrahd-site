@@ -29,7 +29,7 @@ Lavinia's bear Bujor, who has danced on the Tser Pool camp's stage for nine year
    - **Animal Handling DC 13**: on a fail he roars but still lets you work round him, so the quest goes on either way.
    - [Speak with Animals](https://curseofstrahd.app/wiki/spells/level-1-spells.md#speak-with-animals) (cast it there, or have it running): he tells you the trap smells of "the skinning man from my camp", which also marks the trap as Marin's.
 4. **Look at the trap (optional).** Before opening it you can try **Investigation DC 12** to spot the mark on the spring plate: an M with a notch, Old Marin's mark. If you miss it, you can still examine the open trap after the fight and see the mark then.
-5. **Open the trap and fight.** The cub screams and blights come out of the trees. If everyone is level 4 or higher you face 4 [Vine Blights](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blights](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) and 3 [Twig Blights](https://curseofstrahd.app/wiki/bestiary/twig-blight.md); below level 4 it's 2 vine, 5 needle and 4 twig blights. It's a crowd, not a hard fight: twig blights are weak to fire, the needle blights shoot from up to 60 feet, and vine blights grab and crush from 10 feet away, so free anyone they grip.
+5. **Open the trap and fight.** The cub screams and blights come out of the trees. If everyone is level 4 or higher you face 4 [Vine Blights](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blights](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 [Twig Blights](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) and a [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md); below level 4 it's 2 vine, 5 needle and 4 twig blights. It's a crowd, not a hard fight: twig blights are weak to fire, the needle blights shoot from up to 60 feet, and vine blights grab and crush from 10 feet away, so free anyone they grip.
 6. **Decide where Bujor goes.** Talk to him again after the fight: lead him home to Lavinia with the cub, or let them go into the den together.
 7. **Go back to Lavinia** at the camp.
 
@@ -64,9 +64,9 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 
 ## Fights
 
-- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level.
+- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (725 XP)
+> - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (750 XP)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**: 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (550 XP)
 
 ## Journal
@@ -97,3 +97,6 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 > [!example]- Cutscenes
 > **The Dancing Bear**: Bujor standing over a cub caught in a trap at the old den.
 > ![sq bujor cub](https://curseofstrahd.app/wiki/img/cutscenes/sq-bujor-cub.webp)
+>
+> **The Trees Come for the Crying**: As the trap opens and the cub screams, twig, needle and vine blights close in on the clearing from every side.
+> ![bear blights](https://curseofstrahd.app/wiki/img/cutscenes/bear-blights.webp)

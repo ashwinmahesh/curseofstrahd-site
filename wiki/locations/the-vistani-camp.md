@@ -16,7 +16,7 @@ A ring of painted Vistani wagons outside Vallaki's west gate, between the road a
 
 Wagons in a ring around a fire, horses on a line, the lake at the camp's back with a rotten jetty and reeds. The road runs back east to Vallaki's gate.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc vallaki vistani camp overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-vistani-camp-overview.webp)
 *The whole place from above.*

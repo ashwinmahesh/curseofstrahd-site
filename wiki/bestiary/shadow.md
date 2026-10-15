@@ -46,8 +46,10 @@ Hides in darkness, slips through cracks and drains Strength; weak to radiant dam
 ## Where you meet it
 
 - [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md) · *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*
-- [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Five shadows peel off the walls, and none of them is yours.*
+- [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Seven shadows peel off the walls, and none of them is yours.*
 - [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): *The shades will not let you leave so easily.*
-- [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Seven heads turn from the shrine at once. 'You're early,' says Nikolai Wachter, drawing, 'and you weren't…*
+- [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *She wants her baby back.*
+- [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md) · *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*
+- [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Every head in the cellar turns from the shrine at once. 'You're early,' says Nikolai Wachter, drawing, 'and…*
 - [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md) · *Stella's shadow peels off the wall and stands up, and the shadows under the bed and behind the door stand up…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *The water in the well climbs the shaft on its own. She comes up out of it in her wedding veil, screaming, and…*

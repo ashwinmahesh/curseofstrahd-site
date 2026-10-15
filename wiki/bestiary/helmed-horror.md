@@ -43,12 +43,12 @@ An empty, flying suit of plate that fights with a longsword and shrugs off most 
 ## Where you meet it
 
 - [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*
-- [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Three of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*
-- [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The armour on its stand turns its helm toward the door. Behind it, three more suits step down from the wall…*
+- [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*
+- [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The armour on its stand turns its helm toward the door. Behind it, more suits step down from the wall pegs…*
 - [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. Two suits of armour by the door turn their empty…*
+- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Three suits of armour stand at the jailers' table as if waiting for a fourth hand. They are empty, and they…*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Suits of armour stand round the jailers' table as if waiting for another hand. They are empty, and they draw.*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *The fire dies, and every face in the hall turns toward you. Two portraits lean out of their frames; helmed…*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *He is standing beside the heart with one hand resting on the glass, as a man rests a hand on a horse he is…*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *The heart rings like a struck bell. Below, armour comes clanking up the last turn of the stair, and something…*

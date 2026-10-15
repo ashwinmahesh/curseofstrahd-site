@@ -8,7 +8,7 @@
 > **Region:** [The Werewolf Den](https://curseofstrahd.app/wiki/regions/the-werewolf-den.md) · level 8
 > **Given by:** [Mirela](https://curseofstrahd.app/wiki/people/mirela.md)
 > **Starts at:** [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)
-> **Rewards:** [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, a level (milestone)
+> **Rewards:** [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2, a level (milestone)
 
 ## Summary
 
@@ -32,7 +32,7 @@ Five children taken from the farms below Krezk, kept in a pen in the werewolves'
 
    ![children freed](https://curseofstrahd.app/wiki/img/cutscenes/children-freed.webp)
 
-   The fight for them is `pack_challenge`: Kiril with four werewolves and two dire wolves at level 8, fewer at lower levels, and one werewolf fewer if you already cleared the mouth cave (the full list is under Fights below). Without Emil beside you, fight it in the passage where the wolves can't get round you.
+   The fight for them is `pack_challenge`: Kiril with five werewolves and five dire wolves at level 8, fewer at lower levels. If you already cleared the mouth cave there's one werewolf fewer; at level 8 there's also one dire wolf fewer, but three wolves join and the rest have more Hit Points (the full list is under Fights below). Without Emil beside you, fight it in the passage where the wolves can't get round you.
 
 ### Choices and endings
 
@@ -46,7 +46,7 @@ Five children taken from the farms below Krezk, kept in a pen in the werewolves'
 
 ## Rewards
 
-- [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2
+- [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2
 - A level (milestone)
 
 **What your companions think**
@@ -60,19 +60,19 @@ Five children taken from the farms below Krezk, kept in a pen in the werewolves'
 
 ## Fights
 
-- *Kiril throws back his head and laughs, and the laugh turns into a howl halfway through, and his loyal wolves…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
+- *Kiril throws back his head and laughs, and the laugh turns into a howl halfway through, and his loyal wolves…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when den guards cleared and level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3600 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4300 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when den guards cleared and level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md) (175 HP), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (140 HP), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (4850 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md) (145 HP), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (110 HP), 5 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5600 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when den guards cleared and level ≥ 7: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (2900 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 7: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3600 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (2700 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 
-- *For one moment Kiril and Emil look at each other across the cave, and agree on something for the first time…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
+- *For one moment Kiril and Emil look at each other across the cave, and agree on something for the first time…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5000 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 7: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4300 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3400 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 8: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md) (225 HP), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md) (45 HP), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 150 HP), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (180 HP), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (5050 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when level ≥ 7: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md) (45 HP), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 60 HP), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4300 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**: [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Emil Toranescu](https://curseofstrahd.app/wiki/bestiary/emil-toranescu.md) (45 HP), Zuleika ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 60 HP), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3400 XP; loot: 30 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 
 ## Journal
 
@@ -92,7 +92,7 @@ Five children taken from the farms below Krezk, kept in a pen in the werewolves'
 
 ## Related
 
-- **People:** [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md), [Mirela](https://curseofstrahd.app/wiki/people/mirela.md), [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md)
+- **People:** [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md), [Mirela](https://curseofstrahd.app/wiki/people/mirela.md), [Codruta](https://curseofstrahd.app/wiki/people/codruta.md), [Little Petru](https://curseofstrahd.app/wiki/people/little-petru.md), [Zamfir](https://curseofstrahd.app/wiki/people/zamfir.md), [Ioana](https://curseofstrahd.app/wiki/people/ioana.md), [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md)
 - **Places:** [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)
 - **More in The Werewolf Den:** [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md)
 

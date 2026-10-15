@@ -16,7 +16,7 @@ The vaulted cellar under Argynvostholt's servants' hall, where the Order counted
 
 A low vault under the house, colder than the house. Silver lies in drifts against the pillars like snow against fence posts, and somewhere at the far end, in the dark, somebody is counting.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc argynvostholt undercroft overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-undercroft-overview.webp)
 *The whole place from above.*
@@ -57,8 +57,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The silver on the tithe-keeper's armour rises like hackles, and round the walls the escort's empty harness…*, in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md). Scales with your level. Part of [The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**, when tithe keeper remembered: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), 3 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (6500 XP)
-> - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), 3 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (6500 XP)
+> - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**, when tithe keeper remembered: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (140 HP), 3 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (6500 XP)
+> - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (710 HP), 12 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (8300 XP)
 
 ## Quests and lore
 

@@ -12,7 +12,7 @@
 
 The last climb from the Tsolenka Pass to the Amber Temple: a switchback shelf of snow and broken rock with the drop on one side and the mountain on the other. Where the road's fights and meetings play out.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc amber temple road overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-temple-road-overview.webp)
 *The whole place from above.*

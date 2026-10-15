@@ -12,7 +12,7 @@
 
 The track rounds a tarn frozen white in a bowl of the mountain: thin ice in the middle, drifts at its rim, a shepherd's fallen shelter and a crag over the north shore. A random fight on the mountain roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc frozen tarn overview](https://curseofstrahd.app/wiki/img/shots/loc-frozen-tarn-overview.webp)
 *The whole place from above.*

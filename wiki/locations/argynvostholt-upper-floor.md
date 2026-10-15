@@ -16,7 +16,7 @@ The upper floor of the dragon's house: the knights' dormitory, the dragon's stud
 
 A landing at the head of the great stair. North, the dragon's study, its shelves half burned; west, a dormitory of beds nobody sleeps in; east, a long gallery of statues ending at the tower door. Two smaller rooms south: one bare, one covered in writing.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc argynvostholt upper overview](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-upper-overview.webp)
 *The whole place from above.*
@@ -64,7 +64,7 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 | 4 | Footlocker | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Dice Set](https://curseofstrahd.app/wiki/items/equipment.md#dice-set), 24 gp | open it |
 | 5 | the dragon's desk | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×3, 35 gp | open it |
 | 6 | a plain chest | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), 9 gp | open it |
-| 7 | the commander's strongbox | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), 120 gp | lock DC 18 |
+| 7 | the commander's strongbox | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Ioun Stone (Leadership)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-leadership), [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism), 120 gp | lock DC 18 |
 | 9 | a hollow in the empty plinth (hidden) | [Ring of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-resistance-cold) | Search: Investigation DC 16 |
 | 10 | a hidden drawer in the dragon's desk (hidden) | [Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection) | Search: Investigation DC 16 |
 

@@ -42,7 +42,7 @@ Lurches in for a bite and two claws; cutting it apart only spawns crawling limbs
 ## Where you meet it
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. Two suits of armour by the door turn their empty…*
+- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
 - [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): *The lanterns drop into the mud, still burning. The mourners come on without them.*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md) · *On the gallows the hanged man lifts his head. Behind him, all across the field, the mounds begin to split.*
@@ -51,4 +51,4 @@ Lurches in for a bite and two claws; cutting it apart only spawns crawling limbs
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *Shapes stand in the square, swaying like washing on a line. They turn toward you all at once.*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md) · *The carriage lamp stops at the end of the lane. Its door opens on nothing, and a tall shape in a coachman's…*
 
-On the road: [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md)

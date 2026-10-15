@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc vallaki blinsky toys 1](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-blinsky-toys-1.webp)
 > **Region:** [Vallaki](https://curseofstrahd.app/wiki/regions/vallaki.md) · level 5
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 > **Quests:** [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md) and 2 more
@@ -16,7 +16,7 @@ Gadof Blinsky's toyshop: shelves of wooden toys built by a man who understands c
 
 A crowded little shop: puppets, dolls, music boxes and wind-up creatures on every shelf, every one of them looking at the door. A curtained doorway leads back to the workshop.
 
-**Resting:** no Every toy on every shelf is facing you. Nobody sleeps here, not even Blinsky.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Every toy on every shelf is facing you. Nobody sleeps here, not even Blinsky.
 
 ![loc vallaki blinsky toys overview](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-blinsky-toys-overview.webp)
 *The whole place from above.*

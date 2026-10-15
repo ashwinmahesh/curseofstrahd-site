@@ -12,7 +12,7 @@
 
 The road wades a quick brown stream at a gravel ford, the banks thick with reeds; upstream the stones of an old mill, downstream a cart that didn't make it across. A random fight on the valley's roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc stream ford overview](https://curseofstrahd.app/wiki/img/shots/loc-stream-ford-overview.webp)
 *The whole place from above.*

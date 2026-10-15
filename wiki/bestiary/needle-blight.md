@@ -43,5 +43,7 @@ A hunched figure of conifer needles that sprays needles from the trees and rakes
 - [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md): *Needle blights are scraping at the earth floor with their claws, and druids with lanterns are telling them…*
 - [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md): *The vat bursts its hoops. What rises out of it is the winery's last harvest: skins, stems and rot, heaped…*
 - [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md): *Druids look up from the vats, where they have been feeding something green and pulpy into the wine. Around…*
+- [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): *The men round the fire are big, bearded and painted green to the eyebrows. They see you, grin, and reach for…*
+- [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *Out of the split chest, unfolding, comes a tree that walks, and all round the crown the brush gets up to…*
 
 On the road: [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Vineyard Road](https://curseofstrahd.app/wiki/world/random-encounters.md)

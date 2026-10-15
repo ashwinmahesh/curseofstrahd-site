@@ -12,7 +12,7 @@
 
 A causeway of sunken logs and piled stone wanders across the bog by the Luna, black water and sucking mire on both sides, a few firm islands of dead trees. A random fight on the marsh roads may play out here.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc bog causeway overview](https://curseofstrahd.app/wiki/img/shots/loc-bog-causeway-overview.webp)
 *The whole place from above.*

@@ -13,7 +13,7 @@
 
 The abbey's walled kitchen garden, gone to frost: raised beds of black stalks, a tool shed, the nuns' little graveyard in the corner, and a row of scarecrows along the north wall that the Abbot stitched himself.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc abbey of st markovia garden overview](https://curseofstrahd.app/wiki/img/shots/loc-abbey-of-st-markovia-garden-overview.webp)
 *The whole place from above.*
@@ -68,4 +68,4 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md).
+- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): The Stitched Sentry ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 60 HP), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 11 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md).

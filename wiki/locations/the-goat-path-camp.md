@@ -16,7 +16,7 @@ A shelf of rock above the goat path round the Tsolenka watchtower, out of the wi
 
 A shelf of rock above the goat path, out of the worst of the wind. A fire in a ring of stones, a low tent, a sledge drawn up to the warmth, and the mountain going up into the cloud behind.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc amber road camp overview](https://curseofstrahd.app/wiki/img/shots/loc-amber-road-camp-overview.webp)
 *The whole place from above.*
@@ -53,7 +53,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md). Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
+- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 HP), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
 
 ## Quests and lore
 

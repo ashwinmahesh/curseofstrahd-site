@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc berez baba lysagas hut 1](https://curseofstrahd.app/wiki/img/shots/loc-berez-baba-lysagas-hut-1.webp)
 > **Region:** [Berez](https://curseofstrahd.app/wiki/regions/berez.md) · level 9
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)
 > **Quests:** [The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md), [The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)
@@ -16,7 +16,7 @@ One crooked room on top of a giant stump, warmer than it should be: a hearth, a 
 
 The hearth room takes most of the hut; the kitchen and the nursery corner open off it. The floor tilts a little when the hut shifts its weight.
 
-**Resting:** no Not under her roof. The hut is listening for your breathing to slow.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not under her roof. The hut is listening for your breathing to slow.
 
 ![loc berez baba lysagas hut overview](https://curseofstrahd.app/wiki/img/shots/loc-berez-baba-lysagas-hut-overview.webp)
 *The whole place from above.*
@@ -60,7 +60,7 @@ The hearth room takes most of the hut; the kitchen and the nursery corner open o
 | # | Where | What | How |
 |---|---|---|---|
 | 4 | Her pantry | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×3, 12 gp | open it; only when lysaga dead or lysaga bargained or lysaga left broken |
-| 5 | a shelf of humming jars | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) | open it; only when lysaga dead or lysaga bargained or lysaga left broken |
+| 5 | a shelf of humming jars | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2, [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin), [Potion of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-flying), [Potion of Invulnerability](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-invulnerability) | open it; only when lysaga dead or lysaga bargained or lysaga left broken |
 | 8 | something sewn into the cradle's lining (hidden) | [Wand of Polymorph](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-polymorph) | Search: Investigation DC 17 |
 | 9 | the one jar that doesn't hum (hidden) | [Potion of Speed](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-speed) | Search: Investigation DC 16 |
 
@@ -77,11 +77,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level.
+- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
-> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
-> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7300 XP)
+> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (600 HP), 8 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 12 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (10400 XP)
+> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
+> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7300 XP)
 
 ## Quests and lore
 

@@ -16,7 +16,7 @@ The crypts under the castle where the house of von Zarovich keeps its dead in ro
 
 Aisles of crypts run away into the dark in straight lines, each behind an iron gate with a name over it. The air is cold and very still.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft catacombs overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-overview.webp)
 *The whole place from above.*
@@ -97,23 +97,26 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The black horse lifts its head from the manger, and the man beside it turns around.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (565 HP), Beucephalus ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 5 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (22800 XP; lair)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (375 HP), Beucephalus ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (17400 XP; lair)
 
 - *The coffins are empty because their sleepers are already standing, and they have been waiting for you.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (5400 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when day: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3600 XP; surprise: enemies)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when day: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; surprise: enemies)
 
-- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md).
+- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (134 HP).
 
 - *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (105 HP), 10 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (19400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (250 HP), 10 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (19400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (100 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (8400 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (95 HP) (8400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (130 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 
 ## Quests and lore
 

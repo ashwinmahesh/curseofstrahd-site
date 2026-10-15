@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc castle ravenloft court weeping 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-weeping-1.webp)
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)
 > **Quests:** [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md)
@@ -16,7 +16,7 @@ The castle's third floor, where the count lives: his bedroom and bath, the galle
 
 A long corridor lined with closed doors. Somewhere along it, always just out of sight, someone is crying very quietly.
 
-**Resting:** no Someone weeps behind the walls all night, never louder and never closer. Nobody sleeps on this floor.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Someone weeps behind the walls all night, never louder and never closer. Nobody sleeps on this floor.
 
 ![loc castle ravenloft court weeping overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-weeping-overview.webp)
 *The whole place from above.*
@@ -64,15 +64,15 @@ A long corridor lined with closed doors. Somewhere along it, always just out of 
 | # | Where | What | How |
 |---|---|---|---|
 | 8 | a black wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×2 | open it |
-| 9 | a jewel box | 300 gp | lock DC 17 |
+| 9 | a jewel box | [Ring of Shooting Stars](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-shooting-stars), 300 gp | lock DC 17 |
 | 10 | a small cabinet | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2 | open it |
 | 11 | a glass cabinet | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2 | open it |
 | 12 | a wardrobe of gowns | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×3 | open it |
-| 13 | Ludmilla's books | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book) ×2, [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | open it |
-| 14 | a plain trunk | [Traveler's Clothes](https://curseofstrahd.app/wiki/items/equipment.md#travelers-clothes), 3 gp | open it |
-| 15 | a painted chest | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), 45 gp | open it |
+| 13 | Ludmilla's books | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book) ×2, [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Ioun Stone (Reserve)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-reserve) | open it |
+| 14 | a plain trunk | [Traveler's Clothes](https://curseofstrahd.app/wiki/items/equipment.md#travelers-clothes), [Figurine of Wondrous Power (Onyx Dog)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-onyx-dog), 3 gp | open it |
+| 15 | a painted chest | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Mace of Terror (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-terror), 45 gp | open it |
 | 16 | a sword rack | [Scimitar](https://curseofstrahd.app/wiki/items/equipment.md#scimitar) ×2, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) | open it |
-| 17 | a footlocker | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 150 gp | lock DC 17 |
+| 17 | a footlocker | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Scimitar of Speed (Scimitar)](https://curseofstrahd.app/wiki/items/magic-items.md#scimitar-of-speed), [Ring of X-ray Vision](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-x-ray-vision), 150 gp | lock DC 17 |
 | 19 | a space behind the mirror that shows no one (hidden) | [Cloak of Displacement](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-displacement) | Search: Investigation DC 17 |
 | 20 | a grimoire among Ludmilla's books (hidden) | [Arcane Grimoire, +3](https://curseofstrahd.app/wiki/items/magic-items.md#arcane-grimoire-3) | Search: Investigation DC 17 |
 
@@ -90,16 +90,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The painted count turns his head to follow you down the gallery. The armour on either side of him lifts its…*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md).
+- *The painted count turns his head to follow you down the gallery. The armour on either side of him lifts its…*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): The count's portrait ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)), 4 × Gallery armour ([Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md)).
 
-- *Ludmilla closes her book. Volenta claps her hands. Anastrasya turns her face to the wall and does not move.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+- *Ludmilla closes her book. Volenta claps her hands. Anastrasya turns her face to the wall and does not move.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when court anastrasya story: Ludmilla Vilisevic ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), Volenta Popofsky ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (3600 XP)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: Ludmilla Vilisevic ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), Volenta Popofsky ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), Anastrasya Karelova ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5400 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when court anastrasya story: Ludmilla Vilisevic ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), Volenta Popofsky ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (185 HP), 2 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP) (11800 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: Ludmilla Vilisevic ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 175 HP), Volenta Popofsky ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 175 HP), Anastrasya Karelova ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 175 HP), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (215 HP) (10000 XP)
 
-- *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
+- *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (240 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (200 HP) (12800 XP)
 > - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
 
 ## Quests and lore

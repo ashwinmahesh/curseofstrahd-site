@@ -9,6 +9,7 @@
 > **Starting attitude:** friendly
 > **Pronouns:** he/him
 > **In a fight:** [Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)
+> **Sells:** [see Merchants](https://curseofstrahd.app/wiki/items/merchants.md)
 
 ## About
 
@@ -18,6 +19,10 @@ The last of the archmage Khazan's apprentices, who came down to the library unde
 
 > [!note]- At points in the story (1)
 > - [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md), The stacks: when quest.the drowned library
+
+## Shop and services
+
+- Buys and sells: [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md) lists the stock and prices.
 
 ## Quests
 

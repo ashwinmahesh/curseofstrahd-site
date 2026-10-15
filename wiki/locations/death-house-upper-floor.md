@@ -13,7 +13,7 @@
 
 The second storey: the upper hall with its hearth, the family portrait and two suits of wolf-helmed armor, a library with a secret study behind a bookcase (Strahd's letter, the family deeds), the servants' room and a conservatory with a harpsichord that remembers a lullaby.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc death house upper overview](https://curseofstrahd.app/wiki/img/shots/loc-death-house-upper-overview.webp)
 *The whole place from above.*

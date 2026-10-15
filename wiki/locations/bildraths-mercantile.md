@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc bildraths mercantile 1](https://curseofstrahd.app/wiki/img/shots/loc-bildraths-mercantile-1.webp)
 > **Region:** [The Village of Barovia](https://curseofstrahd.app/wiki/regions/the-village-of-barovia.md) · level 3
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
 > **Quests:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
@@ -14,7 +14,7 @@
 
 The only shop in the village, immaculate and overpriced: rope, oil, rations and one dusty potion, at ten times what they cost anywhere else.
 
-**Resting:** no Bildrath charges for floor space by the hour, and he is watching the clock.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Bildrath charges for floor space by the hour, and he is watching the clock.
 
 ![loc bildraths mercantile overview](https://curseofstrahd.app/wiki/img/shots/loc-bildraths-mercantile-overview.webp)
 *The whole place from above.*

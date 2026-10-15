@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc death house dungeon 2 1](https://curseofstrahd.app/wiki/img/shots/loc-death-house-dungeon-2-1.webp)
 > **Region:** [Death House](https://curseofstrahd.app/wiki/regions/death-house.md) · level 2
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md)
 > **Quests:** [Death House](https://curseofstrahd.app/wiki/quests/death-house.md)
@@ -14,7 +14,7 @@
 
 The cult's heart: a reliquary of strange relics at the foot of the stairs, an old prison, a flooded passage to a rusted portcullis and the winch that raises it, and the ritual chamber where the cult's shades chant around the altar and Lorghoth the Decayer sleeps in a mound of refuse.
 
-**Resting:** no The chanting never stops long enough for anyone to sleep.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. The chanting never stops long enough for anyone to sleep.
 
 ![loc death house dungeon 2 overview](https://curseofstrahd.app/wiki/img/shots/loc-death-house-dungeon-2-overview.webp)
 *The whole place from above.*
@@ -72,11 +72,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Lorghoth the Decayer wakes.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md).
+- *Lorghoth the Decayer wakes.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)).
 
-- *Lorghoth the Decayer wakes, slowly. You saw it coming.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md).
+- *Lorghoth the Decayer wakes, slowly. You saw it coming.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)).
 
-- *The shades will not let you leave so easily.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md).
+- *The shades will not let you leave so easily.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): 7 × Hooded Shade ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)).
 
 ## Quests and lore
 

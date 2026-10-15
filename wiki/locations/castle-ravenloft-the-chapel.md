@@ -16,7 +16,7 @@ The castle's chapel: broken pews in the dark, a window that lets in no morning, 
 
 Pews in rows, some split, some fallen. A tall window of coloured glass, black now. A saint whose face has been cut away. An altar so deep in dust it looks soft.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft chapel overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-chapel-overview.webp)
 *The whole place from above.*
@@ -68,7 +68,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*, in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*, in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (455 HP), 8 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 4 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (34600 XP; lair)
+> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 2 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 4 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (23800 XP; lair)
 
 ## Quests and lore
 

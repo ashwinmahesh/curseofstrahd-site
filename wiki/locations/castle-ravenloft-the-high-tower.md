@@ -16,7 +16,7 @@ The high tower of Castle Ravenloft: a stair that winds up the inside of the tall
 
 A stair without a rail climbs the inside of a tower so tall its top is lost in the dark. In the middle there is nothing at all: a well of black air going straight down.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc castle ravenloft spires overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-overview.webp)
 *The whole place from above.*
@@ -81,11 +81,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Two shapes unfold from the underside of the stair above and drop onto the steps, and the well fills with bats.*, in [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
+- *Shapes unfold from the underside of the stair above and drop onto the steps, and the well fills with bats.*, in [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared and level ≥ 11: 4 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7350 XP)
-> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared and level ≥ 10: 3 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (5550 XP)
-> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared: 2 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (3650 XP)
+> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared and level ≥ 11: 9 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (16550 XP)
+> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared and level ≥ 10: 8 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 8 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (14800 XP)
+> - **[Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)**, when not spires stair watch cleared: 6 × Stair Warden ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (11050 XP)
 
 ## Quests and lore
 

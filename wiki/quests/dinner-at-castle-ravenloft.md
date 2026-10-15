@@ -44,19 +44,19 @@ If you walk up the castle road on your own instead (two hours from [The River Iv
    - With Ratatouille in the party, **Taste the food, critically.** Strahd offers him a title and a tower of his own. Have him refuse (Ratatouille +4, and Heroic Inspiration) rather than keep eating in silence (Ratatouille -1).
    - With Kip in the party and [The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md) far enough along, **Ask Strahd to sign something.** Asking for just the signature moves The Fine Print to its signed stage (Kip +6). Letting Strahd buy Kip's contract instead makes Kip Strahd's debtor (Kip -6).
 4. End the meal with **Thank him for his hospitality.** or **Draw on him.** If you aren't ready to do either, choose **(Excuse yourselves from the table for now.)** He tells you to walk about and stretch your legs: the table will keep, and so will he. The meal isn't over and the quest stays at Seated. Talk to him at the organ again whenever you like; he greets you with "You came back. I had the soup kept warm." and you're back at the table.
-5. If you draw on him, Strahd and three [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) fight you in the dining hall (13,150 XP, well past a High fight for four heroes at level 10). You don't need to beat him. He leaves after three rounds, or as soon as he drops below 100 Hit Points. He has 144, and until you break [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), the heart's ward soaks the first 50 damage he takes anywhere in the castle. Clear the bats quickly (11 Hit Points each) and simply outlast three rounds.
+5. If you draw on him, Strahd, three [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), two [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) and three [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) fight you in the dining hall (23,150 XP, well past a High fight for four heroes at level 10). He fights until you bring him to 0 Hit Points, and then he leaves with a parting line instead of dying. He has 490, and until you break [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), the heart's ward soaks the first 50 damage he takes anywhere in the castle. The bats have 11 Hit Points each, the armor 112 and the spawn 90.
 
 While you are on the main floor:
 
 - **The organ.** Performance DC 16, "Play the count's organ" (each hero gets one try), reveals a compartment behind one of the stops holding an [Instrument of the Bards (Anstruth Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-anstruth-harp). You can also find it by searching (Investigation DC 16).
 - **Containers.** The sideboard (2 bottles of old wine, 25 gp), the servery cupboard (4 rations, 6 candles), the guest wardrobe (fine clothes, perfume) and the west turret's weapon rack (halberd, shield, 20 crossbow bolts).
-- **The hearth that burns on nothing**, at the far east end of the hall of faces. Put it out by unpicking its spell (Arcana DC 15, quiet; a failure closes this way), with a flask of [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) (quiet), or by shutting the flue (no roll, but two [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s and three [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)s wake). Then search beside the firebox (DC 13) for the seam. The hidden room behind it has an iron strongbox with 320 gp, plus a Tarokka treasure if your reading put one here.
+- **The hearth that burns on nothing**, at the far east end of the hall of faces. Put it out by unpicking its spell (Arcana DC 15, quiet; a failure closes this way), with a flask of [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) (quiet), or by shutting the flue (no roll, but two [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s, three [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)s and three suits of Strahd's animated armor wake; below level 10, two horrors and weaker armor). Then search beside the firebox (DC 13) for the seam. The hidden room behind it has an iron strongbox with 320 gp and an [Animated Shield](https://curseofstrahd.app/wiki/items/magic-items.md#animated-shield), plus a Tarokka treasure if your reading put one here.
 
 ### Choices and endings
 
 - **Thank him (Dined, success).** He thanks you for a charming evening, tells you the house is yours tonight, and vanishes from the bench. If you passed the Insight check he adds a warning: keep him interested, because nothing else has ever kept anyone safe in this house. Liriel +1, Ratatouille +1, Kip +1, Thistle -1.
   ![dinner empty](https://curseofstrahd.app/wiki/img/cutscenes/dinner-empty.webp)
-- **Draw on him (Affront, failure).** He leaves you his bats and goes. Thistle +2, Kip -2, Ratatouille -2. When he withdraws, the game remembers it: in the parley before your final battle he tells you that leaving a fight with you before was manners, not weakness.
+- **Draw on him (Affront, failure).** He fights until you beat him down, then goes. Thistle +2, Kip -2, Ratatouille -2. When he withdraws, the game remembers it: in the parley before your final battle he tells you that leaving a fight with you before was manners, not weakness.
 - **Excuse yourselves (not an ending).** Nothing is settled and nobody approves or disapproves. The table and the soup wait until you come back to thank him or draw on him.
 
 Whichever you choose, the rest of the castle is open to you. Once you've thanked him or drawn on him, Strahd isn't at the table again. The dinner's outcome otherwise only changes what the Narrator and your companions say about the dining hall.
@@ -74,29 +74,29 @@ The main floor is the hub. Every other part of the castle is one staircase away 
 - **Down to [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)**: the servants' stairs come down by the servants' hall and the kitchen. At the far east end, the jailers' stair has two ways on: the stairs down to [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md), and the long stair down to the crypts. The lift in the winch room also drops to the cells once you set its brake.
 - **Down to [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: the stairs by the chapel come out at the west end of the upper gallery, and the long stair from the larders at the east end. In the middle, the hall of names holds the black stair down to [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md). At the south-west corner, stairs lead down to [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md) (Sergei's tomb, the guardians' hall and the tomb of King Barov and Queen Ravenovia).
 
-**Where the danger is.** These fights start the moment you walk into the room. The numbers are for a party at level 10. Several are lighter below level 10, and the fights in the towers get heavier at level 11.
+**Where the danger is.** These fights start the moment you walk into the room. The numbers are for a party at level 10. Several are lighter below level 10, and most of the fights in the towers get heavier at level 11.
 
 | Where | What waits there |
 |---|---|
-| Gates, front courtyard | 6 [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)s, but only at night and only if you came uninvited |
-| Main floor, east turret post | 2 [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) |
-| Main floor, hall of faces | 2 guardian portraits and 3 helmed horrors, if you smother the hearth |
-| Court, guardroom | Strahd's animated armor and 3 helmed horrors |
+| Gates, front courtyard | 16 [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)s, but only at night and only if you came uninvited |
+| Main floor, east turret post | 4 [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) |
+| Main floor, hall of faces | 2 guardian portraits, 3 helmed horrors and 3 suits of Strahd's animated armor, if you smother the hearth |
+| Court, guardroom | Strahd's animated armor and 4 helmed horrors |
 | Court, trophy room | a tripwired crossbow (spot DC 14, 3d10 piercing) |
-| Rooms of Weeping, portrait gallery | the count's portrait and 2 suits of animated armor |
+| Rooms of Weeping, portrait gallery | the count's portrait and 4 suits of animated armor |
 | Treasury | a glyph on the bottom step (spot DC 16, 5d8 lightning) |
-| High Tower, upper turns | 3 [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and 3 swarms of bats, and a broken step (4d6) |
-| Tower rooms, cauldron room | 6 [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md)es and a [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) |
-| Roofs, north tower peak | 6 gargoyles; slick slates on the keep roof on the way (3d6, prone) |
-| Larders, guardroom | the dead watch: 2 [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s, 2 helmed horrors, 4 [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)s (they come to the kitchen if the cook screams for them) |
-| Dungeon, jailers' guardroom | 3 helmed horrors |
-| Dungeon, furnace room | 2 [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)s and a [Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md) |
-| Dungeon, torture chamber | the Questioner (a wight), 2 black puddings and 6 [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md)s |
+| High Tower, upper turns | 8 [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and 8 swarms of bats, and a broken step (4d6) |
+| Tower rooms, cauldron room | 11 [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md)es and 8 [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md)s |
+| Roofs, north tower peak | 16 gargoyles; slick slates on the keep roof on the way (3d6, prone) |
+| Larders, guardroom | the dead watch: 4 [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s, 4 helmed horrors, 6 ghasts and a [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) (most of them come to the kitchen if the cook screams for them) |
+| Dungeon, jailers' guardroom | 8 helmed horrors |
+| Dungeon, furnace room | 3 [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)s and a [Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md) |
+| Dungeon, torture chamber | the Questioner (a wraith) and 2 more wraiths, 5 black puddings and 9 [Crawling Claw](https://curseofstrahd.app/wiki/bestiary/crawling-claw.md)s |
 | Dungeon, hall of bones and cells | the green lamp over the table of bones (4d10 fire) until the furnace is quenched; a 40-foot pit under the open cell |
-| Catacombs, the champion's tomb | 6 gargoyles |
-| Catacombs, the sleepers' crypt | 3 vampire spawn at night, 2 by day |
+| Catacombs, the champion's tomb | 16 gargoyles |
+| Catacombs, the sleepers' crypt | 10 vampire spawn, night or day |
 | Catacombs, the Mad Dog's and the conjurer's crypts | a scything blade (4d10) and a glyph (4d8 lightning) |
-| Old Tombs, guardians' hall | Strahd's animated armor and 2 helmed horrors |
+| Old Tombs, guardians' hall | 2 suits of Strahd's animated armor and 4 helmed horrors |
 | Strahd's Tomb | 2 vampire spawn and 3 swarms of bats, until they're beaten |
 
 **Strahd himself** only fights you outside his final battle in three places: at this dinner if you draw on him, at the top of the high tower when you break the Heart of Sorrow, and in his coffin if you try to stake him by day. His final battle waits in the one room Madam Eva's last card named (see [Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md) and [Where the Devil Waits](https://curseofstrahd.app/wiki/quests/where-the-devil-waits.md)): the chapel, the overlook, the audience hall, the study, the treasury, the Heart of Sorrow, the hall of bones, the black horse's crypt in the catacombs, Sergei's tomb, the royal tomb or his own tomb. Walking into that room after your reading starts it, once he has named his price.
@@ -119,7 +119,7 @@ The main floor is the hub. Every other part of the castle is one staircase away 
 
 ## Fights
 
-- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (490 HP), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
 
 ## Journal
 

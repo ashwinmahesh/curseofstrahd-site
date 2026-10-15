@@ -36,3 +36,4 @@ A watchman behind a shield and a chain shirt: hard to hit, but one or two solid 
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Izek vaults off the dais with his strange arm already smoking. The Baron's watch closes ranks behind him.*
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): *Izek's arm bursts into flame to the elbow. Most of the watch backs away from the priest; the ones who don't…*
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): *The watch closes in, spears levelled.*
+- [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) · *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*

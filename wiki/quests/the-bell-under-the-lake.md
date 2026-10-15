@@ -29,9 +29,9 @@ Before the count dammed the Luna, a village called Pescari stood where the lake 
    - **If Bluto is alive and still at the landing** (you saved him from the jetty, or left him to live with what he did), they come for him. "Stand in front of him." puts you in their way (Godrick Pendlebrook and Liriel Dawnsong +2). "(Stand aside. Let them have what they came for.)" lets them drag him down into the lake (Thistle and Kip Smudgewick +1, Godrick −2, Liriel −3). They rise again anyway, because they were never coming for just one man.
    - **Otherwise** they come for Nistor, who sits down on his step to wait. Your only choice is to stand in front of him.
 3. **The drowned of Pescari (`drowned_landing`).**
-   - Below level 8: the Bellringer of Pescari (a [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)s and 6 [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)s.
-   - Level 8: the Bellringer as a [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), the Lake's Undertow (a [Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md)), 4 ghasts and 6 ghouls.
-   - Level 9: as level 8, plus a second Undertow and a Drowned Bride (a wight).
+   - Below level 8: the Bellringer of Pescari (a [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)s and 8 [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)s.
+   - Level 8: the Bellringer as a [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), the Lake's Undertow (a [Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md)), 6 ghasts and 8 ghouls.
+   - Level 9: the Bellringer as a wraith, two Undertows, a Drowned Bride (a wight), 4 ghasts and 6 ghouls.
 
    From level 8 this is a Moderate-to-High fight with a lot of bodies. The ghouls' and ghasts' claws paralyse anyone who isn't undead (and, for ghouls, isn't an elf) and fails a DC 10 Constitution save. Keep together so someone can strike the paralysed free. The wraith resists ordinary weapon damage and drains life. The Undertow's Whelm grabs and drowns whoever is in its space. Winning moves the journal to *Risen*.
 4. **Silence the bell.** Go back to the end of the jetty. The shore is quiet, but the bell is still swinging far below. Any one of these silences it:
@@ -75,8 +75,8 @@ Either way, the next morning he catches a pike the length of his arm, the first 
 - *The water along the shore stands up in the shape of people: the drowned of Pescari, grey and swollen, in…*, in [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md): [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), [Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
 > - **[Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)**, when level ≥ 9: The Bellringer of Pescari ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × The Lake's Undertow ([Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md)), A Drowned Bride ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Drowned of Pescari ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 6 × Drowned of Pescari ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (9100 XP)
-> - **[Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)**, when level ≥ 8: The Bellringer of Pescari ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), The Lake's Undertow ([Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md)), 4 × Drowned of Pescari ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 6 × Drowned of Pescari ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (6600 XP)
-> - **[Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)**: The Bellringer of Pescari ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 × Drowned of Pescari ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 6 × Drowned of Pescari ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (2800 XP)
+> - **[Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)**, when level ≥ 8: The Bellringer of Pescari ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), The Lake's Undertow ([Water Elemental](https://curseofstrahd.app/wiki/bestiary/water-elemental.md)), 6 × Drowned of Pescari ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 8 × Drowned of Pescari ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (7900 XP)
+> - **[Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)**: The Bellringer of Pescari ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × Drowned of Pescari ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 8 × Drowned of Pescari ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (4550 XP)
 
 ## Journal
 
@@ -102,3 +102,13 @@ Either way, the next morning he catches a pike the length of his arm, the first 
 - **People:** [Old Nistor](https://curseofstrahd.app/wiki/people/old-nistor.md)
 - **Places:** [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md)
 - **More in Lake Zarovich:** [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md)
+
+> [!example]- Cutscenes
+> **The Drowned Rise**: After moonrise the bell rings under Lake Zarovich and the drowned of Pescari stand up out of the shallows in their Sunday clothes, the tall priest behind them lifting a hand as if ringing it.
+> ![drowned rise](https://curseofstrahd.app/wiki/img/cutscenes/drowned-rise.webp)
+>
+> **They Turn to Bluto**: Bluto drops his lantern and runs for the jetty, and every one of the drowned turns toward him at once.
+> ![drowned bluto](https://curseofstrahd.app/wiki/img/cutscenes/drowned-bluto.webp)
+>
+> **One of Us**: With Bluto gone, the drowned come up the shingle for Old Nistor, who sits down on his step with his net still in his hands.
+> ![drowned nistor](https://curseofstrahd.app/wiki/img/cutscenes/drowned-nistor.webp)

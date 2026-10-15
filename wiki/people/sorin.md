@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/sorin.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![belview](https://curseofstrahd.app/wiki/img/portraits/belview.webp)
+> ![sorin krezkov](https://curseofstrahd.app/wiki/img/portraits/sorin-krezkov.webp)
 > **Title:** The First Krezkov
 > **Region:** [Krezk](https://curseofstrahd.app/wiki/regions/krezk.md)
 > **Starting attitude:** indifferent

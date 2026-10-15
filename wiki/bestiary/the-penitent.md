@@ -13,7 +13,7 @@
 
 ## Stat block
 
-Nine frozen pilgrims fused into one kneeling giant of ice around the woman who led them, with a lamp still burning somewhere inside it. Its fists reach, its embrace freezes you where you stand, and it wants, more than anything, to be warm.
+Nine frozen pilgrims fused into one kneeling giant of ice around the woman who led them, with a lamp still burning somewhere inside it. Its fists reach, what they can't reach it pelts with ice torn from itself, its embrace freezes you where you stand, and it wants, more than anything, to be warm.
 
 | AC | HP | Speed | CR | XP |
 |---|---|---|---|---|
@@ -36,8 +36,9 @@ Nine frozen pilgrims fused into one kneeling giant of ice around the woman who l
 
 ### Actions
 
-- **Multiattack.** The Penitent makes two Frozen Fist attacks.
+- **Multiattack.** The Penitent makes two Frozen Fist attacks, or tears off slabs of ice and hurls them when no one is within its reach.
 - **Frozen Fist.** Hit: 15 (2d8 + 6) Bludgeoning damage plus 4 (1d8) Cold damage.
+- **Hurled Ice.** Range 60/240 ft. Hit: 15 (2d8 + 6) Bludgeoning damage plus 4 (1d8) Cold damage.
 - **Winter's Embrace.** Constitution Saving Throw: DC 16, each creature within 20 feet of the Penitent. Failure: 18 (4d8) Cold damage, and the target has the Restrained condition until the end of the Penitent's next turn. Success: Half damage only.
 
 ## Where you meet it

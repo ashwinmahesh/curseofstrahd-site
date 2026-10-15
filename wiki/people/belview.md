@@ -16,5 +16,4 @@ One of the abbey's Belviews: a Krezk family the Abbot cured of a sickness genera
 
 ## Where to find them
 
-- [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md), The courtyard
 - [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md), The Belviews' kitchen

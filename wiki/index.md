@@ -17,7 +17,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## The world
 
 - [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 113 places, each with a map and screenshots
-- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 254, with where to find them
+- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 261, with where to find them
 - [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 148 creatures and their stat blocks
 - [World Skill Checks](https://curseofstrahd.app/wiki/world/skill-checks.md): everything in the world you can try a check on
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
@@ -27,7 +27,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## Items and money
 
 - [Where to Find Items](https://curseofstrahd.app/wiki/items/where-to-find-items.md): every item with a fixed home, A to Z
-- [Magic Items](https://curseofstrahd.app/wiki/items/magic-items.md): all 538, with where they are and their codes
+- [Magic Items](https://curseofstrahd.app/wiki/items/magic-items.md): all 534, with where they are and their codes
 - [Equipment](https://curseofstrahd.app/wiki/items/equipment.md): weapons, armor and gear
 - [Cheat Codes](https://curseofstrahd.app/wiki/items/cheat-codes.md): every item's code, and how to use one
 - [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md): who sells what, and for how much
@@ -44,9 +44,10 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## Rules and play
 
 - [How Magic Works](https://curseofstrahd.app/wiki/rules/how-magic-works.md), [Sneaking, Stealing and the Watch](https://curseofstrahd.app/wiki/rules/sneaking-stealing-and-the-watch.md) and [Resting and Saving](https://curseofstrahd.app/wiki/rules/resting-and-saving.md)
+- [Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md): dying, Death Saving Throws and every way back
 - [House Rules](https://curseofstrahd.app/wiki/rules/house-rules.md): where the game differs from the 2024 books
 - [Difficulty](https://curseofstrahd.app/wiki/rules/difficulty.md) and [Controls](https://curseofstrahd.app/wiki/rules/controls.md)
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `7b9b32525` on 2026-10-12 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `85a1a2e0e` on 2026-10-15 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

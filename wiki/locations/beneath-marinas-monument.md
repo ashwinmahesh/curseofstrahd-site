@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc berez marinas monument 1](https://curseofstrahd.app/wiki/img/shots/loc-berez-marinas-monument-1.webp)
 > **Region:** [Berez](https://curseofstrahd.app/wiki/regions/berez.md) · level 9
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)
 > **Quests:** [The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)
@@ -16,7 +16,7 @@ A dry stone vault under the statue on the mound, where the girl Strahd loved in 
 
 A stair under the plinth comes down into one square room cut from the rock. The marsh is all around it and not a drop has got in.
 
-**Resting:** no Not here. Not beside her.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not here. Not beside her.
 
 ![loc berez marinas monument overview](https://curseofstrahd.app/wiki/img/shots/loc-berez-marinas-monument-overview.webp)
 *The whole place from above.*

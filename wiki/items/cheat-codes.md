@@ -143,7 +143,6 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Hat of Disguise](https://curseofstrahd.app/wiki/items/magic-items.md#hat-of-disguise) | `C8D440` | wondrous |  |
 | [Headband of Intellect](https://curseofstrahd.app/wiki/items/magic-items.md#headband-of-intellect) | `BB420D` | wondrous |  |
 | [Helm of Comprehending Languages](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-comprehending-languages) | `BF57C0` | wondrous |  |
-| [Helm of Telepathy](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-telepathy) | `77E848` | wondrous |  |
 | [Immovable Rod](https://curseofstrahd.app/wiki/items/magic-items.md#immovable-rod) | `0BE83D` | rod |  |
 | [Instrument of the Bards (Doss Lute)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-doss-lute) | `A41E8E` | wondrous |  |
 | [Instrument of the Bards (Fochlucan Bandore)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-fochlucan-bandore) | `B72BEC` | wondrous |  |
@@ -154,7 +153,6 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Magewright’s Gloves](https://curseofstrahd.app/wiki/items/magic-items.md#magewrights-gloves) | `D06B5F` | wondrous |  |
 | [Mariner's Armor](https://curseofstrahd.app/wiki/items/magic-items.md#mariners-armor) | `7290C1` | armor | pick an armor |
 | [Martialist’s Quarterstaff](https://curseofstrahd.app/wiki/items/magic-items.md#martialists-quarterstaff) | `8D25C2` | staff |  |
-| [Medallion of Thoughts](https://curseofstrahd.app/wiki/items/magic-items.md#medallion-of-thoughts) | `100F87` | wondrous |  |
 | [Mithral Armor](https://curseofstrahd.app/wiki/items/magic-items.md#mithral-armor) | `95278E` | armor | pick an armor |
 | [Moon Sickle, +1](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-1) | `7FB2D2` | weapon |  |
 | [Necklace of Adaptation](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-adaptation) | `12C31F` | wondrous |  |
@@ -331,7 +329,6 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior) | `FDB255` | potion |  |
 | [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism) | `1DA183` | potion |  |
 | [Potion of Invulnerability](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-invulnerability) | `166999` | potion |  |
-| [Potion of Mind Reading](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-mind-reading) | `9FC653` | potion |  |
 | [Prismatic Rune](https://curseofstrahd.app/wiki/items/magic-items.md#prismatic-rune) | `C6728A` | wondrous |  |
 | [Rhythm-Maker's Drum, +2](https://curseofstrahd.app/wiki/items/magic-items.md#rhythm-makers-drum-2) | `278075` | wondrous |  |
 | [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence) | `A63CC3` | ring |  |
@@ -522,7 +519,6 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Belt of Giant Strength (Cloud Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-giant-strength-cloud-giant) | `957BD8` | wondrous |  |
 | [Belt of Giant Strength (Storm Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-giant-strength-storm-giant) | `29CB3A` | wondrous |  |
 | [Cloak of Invisibility](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-invisibility) | `FE4DAD` | wondrous |  |
-| [Crystal Ball of Mind Reading](https://curseofstrahd.app/wiki/items/magic-items.md#crystal-ball-of-mind-reading) | `998A1F` | wondrous |  |
 | [Crystal Ball of Telepathy](https://curseofstrahd.app/wiki/items/magic-items.md#crystal-ball-of-telepathy) | `6B2406` | wondrous |  |
 | [Crystal Ball of True Seeing](https://curseofstrahd.app/wiki/items/magic-items.md#crystal-ball-of-true-seeing) | `6999B7` | wondrous |  |
 | [Cubic Gate](https://curseofstrahd.app/wiki/items/magic-items.md#cubic-gate) | `08BBCA` | wondrous |  |

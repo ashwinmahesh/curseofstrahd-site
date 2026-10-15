@@ -25,7 +25,7 @@ From party level 9, [Tibor](https://curseofstrahd.app/wiki/people/tibor.md), a V
 
 1. **Size up Tibor.** "Who's the buyer?" gets nothing but "someone with a great deal of money and a long view". Insight DC 15 (one try) catches him rubbing two neat marks on his wrist: he isn't selling the egg, he's been told to fetch it, and a companion works out that the castle wants a roc. A miss costs nothing but the option.
 
-2. **Cross the bridge to the roc's shelf.** By day (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) attacks anyone on the bridge (190 hit points at level 9; see [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md)). At night she isn't hunting, so cross after dark if you'd rather not fight the mother of the chick you're about to save.
+2. **Cross the bridge to the roc's shelf.** By day (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) attacks anyone on the bridge (285 hit points at level 9, with her mate at 85 coming down after her; see [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md)). At night she isn't hunting, so cross after dark if you'd rather not fight the mother of the chick you're about to save.
 
 3. **The nest.** On the shelf beyond the bridge, the roc's egg sits in a nest of whole pines. The egg only shows once you've talked to Tibor. It's hatching as you arrive.
 
@@ -36,7 +36,7 @@ From party level 9, [Tibor](https://curseofstrahd.app/wiki/people/tibor.md), a V
 4. **Decide.**
    - **"(Step back and let him take it.)"** The stone birds carry the screaming chick off toward the castle. Tibor pays you the 400 gp, says he's sorry, and that he was told what to say. The quest fails at Sold (Godrick -2, Liriel -2, Thistle -3, Wren -1), and Strahd's attention on you rises: he noticed who carried it.
    - **"No."** It's a fight on the shelf:
-     - The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) at 150 hit points), two Falconer's Hands (vampire spawn) and four Stone Birds ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)), 7200 XP whatever your level.
+     - The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) at 150 hit points), two Falconer's Hands (vampire spawn) and six Stone Birds ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)), 8100 XP whatever your level.
      - The spawn's claws grab (escape DC 13) and their bite heals them, so don't let anyone get pinned alone. The gargoyles fly in and out without drawing opportunity attacks.
      - Winning moves the quest to Defended.
 
@@ -69,7 +69,7 @@ From party level 9, [Tibor](https://curseofstrahd.app/wiki/people/tibor.md), a V
 
 ## Fights
 
-- *The stone birds come down on the shelf with a sound like a quarry falling, and the falconer lands among them,…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md).
+- *The stone birds come down on the shelf with a sound like a quarry falling, and the falconer lands among them,…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), 2 × The Falconer's Hand ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 6 × A Stone Bird ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)).
 
 ## Journal
 

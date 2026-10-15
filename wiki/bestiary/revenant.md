@@ -47,7 +47,9 @@ A dead knight risen for vengeance: heavy fists, a paralyzing glare for its foe, 
 
 ## Where you meet it
 
+- [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*
 - [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): *The men-at-arms come out of the courtyard in their grey ranks, still fighting the last battle, and turn…*
 - [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*
 - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): *Vladimir rises from the winged chair for the first time, and all down the table dead heads turn to watch. He…*
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *Vladimir draws, and his knights come down the black stair behind him with their swords already out.*
+- [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*

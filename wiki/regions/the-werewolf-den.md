@@ -18,4 +18,4 @@ Built for a party of about level 8: random treasure here is rolled for that leve
 
 ## People
 
-[Emil Toranescu](https://curseofstrahd.app/wiki/people/emil-toranescu.md), [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md), [Mirela](https://curseofstrahd.app/wiki/people/mirela.md), [The Grandsire](https://curseofstrahd.app/wiki/people/the-grandsire.md), [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md)
+[Codruta](https://curseofstrahd.app/wiki/people/codruta.md), [Emil Toranescu](https://curseofstrahd.app/wiki/people/emil-toranescu.md), [Ioana](https://curseofstrahd.app/wiki/people/ioana.md), [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md), [Mirela](https://curseofstrahd.app/wiki/people/mirela.md), [The Grandsire](https://curseofstrahd.app/wiki/people/the-grandsire.md), [Zamfir](https://curseofstrahd.app/wiki/people/zamfir.md), [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md)

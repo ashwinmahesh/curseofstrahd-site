@@ -30,7 +30,7 @@ This is a late quest. [Haralamb](https://curseofstrahd.app/wiki/people/haralamb.
 3. **Face the great canvas.** It hangs against the far wall in a gilt frame taller than a door. When you examine it, the painted woman's mouth moves, and the count speaks to you through it. You can ask who's talking, or put a light to the canvas straight away. Either way, every portrait in the room turns its head toward you and the fight begins.
 
    ![sq counts likeness](https://curseofstrahd.app/wiki/img/cutscenes/sq-counts-likeness.webp)
-4. **The fight (`counts_likeness`).** This is the same at every level: [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (230 HP here, AC 13) and six *Copies* ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s, 30 HP each).
+4. **The fight (`counts_likeness`).** This is the same at every level: [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP here, AC 13) and seven *Copies* ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s, 40 HP each).
    - **The Likeness** hits in melee with its swinging frame. The Count's Regard is a DC 16 Wisdom save against 5d10 psychic damage and fear, and it can also use the Regard between your turns. Once each per day it casts Hypnotic Pattern and Hold Person.
    - **Its defences.** It shrugs off two failed saves a day, and it can't be charmed, frightened, paralysed or knocked prone. Damage spells work better against it than spells that try to control it.
    - **The Copies** go down fast, so clear them early to cut down the number of attacks coming at you.
@@ -62,7 +62,7 @@ There's one ending. You get Nolzur's Marvelous Pigments, 150 gp, and approval fr
 
 ## Fights
 
-- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md), [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md).
+- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md), 40 HP).
 
 ## Journal
 
@@ -87,3 +87,6 @@ There's one ending. You get Nolzur's Marvelous Pigments, 150 gp, and approval fr
 > [!example]- Cutscenes
 > **The Count's Portraitist**: A studio full of one woman's portraits, and the great canvas they were copied from.
 > ![sq counts likeness](https://curseofstrahd.app/wiki/img/cutscenes/sq-counts-likeness.webp)
+>
+> **Every Portrait Turns**: In the studio every painted head turns toward the party at once and the great canvas leans out of its frame.
+> ![portraits turn](https://curseofstrahd.app/wiki/img/cutscenes/portraits-turn.webp)

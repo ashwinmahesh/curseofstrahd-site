@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/world/skill-checks.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Skill checks you can try out in the world, by place. Walk up to the thing and pick the check from its menu; the hero you have selected rolls. Most can be tried once: a failed check is final.
+Skill checks you can try out in the world, by place. Walk up to the thing and pick the check from its menu; the hero you have selected rolls. Most can be tried once: a failed check is final. A check that finds a hiding place shows where it is, and the spot glows until you use it: what's hidden there comes out when you do.
 140 checks in all.
 
 ## Into the Mists

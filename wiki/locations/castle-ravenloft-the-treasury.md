@@ -5,7 +5,7 @@
 > [!infobox]
 > ![loc castle ravenloft court treasury 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-treasury-1.webp)
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
-> **Resting:** no
+> **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)
 
@@ -15,7 +15,7 @@ A vault between the floors, reached by a narrow stair behind a portrait in the K
 
 A low vault at the foot of a narrow stair. Coin lies on the floor in drifts, with chests and caskets sunk in it like rocks in snow.
 
-**Resting:** no Not on his gold. Not with the stair the only way out.
+**Resting:** No sleeping here: a Short Rest only, out of sight of foes. Not on his gold. Not with the stair the only way out.
 
 ![loc castle ravenloft court treasury overview](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-treasury-overview.webp)
 *The whole place from above.*
@@ -48,8 +48,8 @@ A low vault at the foot of a narrow stair. Coin lies on the floor in drifts, wit
 | # | Where | What | How |
 |---|---|---|---|
 | 2 | Heaps of coin | 1200 gp | open it |
-| 3 | an iron strongbox | [Manual of Gainful Exercise](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-gainful-exercise), 600 gp | lock DC 18 |
-| 4 | a casket of gems | 400 gp | open it |
+| 3 | an iron strongbox | [Manual of Gainful Exercise](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-gainful-exercise), [Rod of Lordly Might (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-lordly-might), 600 gp | lock DC 18 |
+| 4 | a casket of gems | [Ioun Stone (Absorption)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-absorption), 400 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Treasury (court_treasury_hoard)
 
@@ -69,4 +69,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*, in [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
+- *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*, in [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
+> [!example]- By party level (the first line your party fits is the fight you get)
+> - **[Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (600 HP), The vault's warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), 9 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (30300 XP; lair)
+> - **[Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (400 HP), The vault's warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), 3 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (19500 XP; lair)

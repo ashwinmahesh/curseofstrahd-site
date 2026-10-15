@@ -29,7 +29,7 @@ If you just want this one, ask him four times.
 2. **Talk to [Wenzel](https://curseofstrahd.app/wiki/people/wenzel.md)**, the innkeeper's ghost behind the charred counter. He tells you to move on: there's no room. Ask who the lantern is for (it's a warning, not a welcome), and try **Insight DC 12** to see him keep glancing at a trapdoor nailed shut with too many nails, with something scratching under it. The Insight check is only a clue; if it fails, the rest of the quest still works.
 3. **Read the ledger on the counter.** The guest book's last pages: the snow shut the road, the food ran out, "a tinker and his boy", and underneath, in a child's hand, "Mama made a stew."
 4. **Pull the nails out of the trapdoor** behind the counter. If it's night, Wenzel begs you not to: it's his wife and his sons, and they didn't die when he burned the house over them. The trapdoor opens by itself and they come up.
-5. **Fight the cellar.** The Innkeeper's Wife and one son are [Ghouls](https://curseofstrahd.app/wiki/bestiary/ghoul.md), with four [Giant Rats](https://curseofstrahd.app/wiki/bestiary/giant-rat.md); if your whole party is level 3 or higher, a second son joins them. A ghoul's claw can paralyse you (DC 10 Constitution save; elves and undead are immune), and two bites a turn on a paralysed character are deadly, so keep your front line together and kill the ghouls before the rats.
+5. **Fight the cellar.** The Innkeeper's Wife and one son are [Ghouls](https://curseofstrahd.app/wiki/bestiary/ghoul.md), with four [Giant Rats](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) and two [Rats](https://curseofstrahd.app/wiki/bestiary/rat.md); if your whole party is level 3 or higher, a second son and one more ghoul come up instead of the two rats. A ghoul's claw can paralyse you (DC 10 Constitution save; elves and undead are immune), and two bites a turn on a paralysed character are deadly, so keep your front line together and kill the ghouls before the rats.
 6. **Talk to Wenzel again at night.** He tells the whole story, puts the lantern down on the hearth, and goes out with it.
 
 ### Choices and endings
@@ -54,10 +54,10 @@ There's one ending. Under the hearthstone are **50 gp** and his youngest son's [
 
 ## Fights
 
-- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
+- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**, when level ≥ 3: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 2 × A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (700 XP)
-> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (500 XP)
+> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**, when level ≥ 3: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 2 × A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (900 XP)
+> - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (520 XP)
 
 ## Journal
 

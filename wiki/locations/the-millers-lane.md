@@ -14,7 +14,7 @@
 
 The rutted lane between the Old Svalich Road and the windmill on the crag: pines, ditches, and the cart tracks of someone who comes this way every week. Where the lane's random fights and meetings play out.
 
-**Resting:** Risky: a rest here can be interrupted.
+**Resting:** Risky: a Long Rest here makes camp, and the night can be interrupted.
 
 ![loc old bonegrinder track overview](https://curseofstrahd.app/wiki/img/shots/loc-old-bonegrinder-track-overview.webp)
 *The whole place from above.*
@@ -68,22 +68,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The pretty face slides off Bella like dough off a board.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level.
+- *The pretty face slides off Bella like dough off a board.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP), 5 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (5300 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 
-- *Offalia drops the berries. Her hands are already longer than they were.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level.
+- *Offalia drops the berries. Her hands are already longer than they were.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP), 7 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (6700 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 
 - *Granny Ash comes across the lane with her dogs at her heels, and in the hag garden behind her the blights…*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md). Scales with your level. Part of [The Fourth Sister](https://curseofstrahd.app/wiki/quests/the-fourth-sister.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 8: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), The Hag Garden's Elm ([Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md)) (7700 XP)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 7: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (4900 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4700 XP)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4250 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) (360 HP), 3 × Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 4 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4700 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md) (130 HP), Granny's Dog ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (4250 XP)
 
 ## Quests and lore
 

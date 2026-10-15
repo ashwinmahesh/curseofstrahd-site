@@ -26,14 +26,14 @@ The name matters. If you have played [The Mage's Lost Pages](https://curseofstra
 
 1. Go down to [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md), by the stairs off the chapel passage on the main floor or by the long stair from the larders.
    ![loc castle ravenloft catacombs 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-1.webp)
-2. The crypt is the last one in the east row, south of the sleepers' crypt, behind an ordinary iron gate. Be careful along that row: walking into the sleepers' crypt wakes its [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3 at night, 2 by day, surprised in their coffins), and the champion's tomb at the north end of the row has six gargoyles.
+2. The crypt is the last one in the east row, south of the sleepers' crypt, behind an ordinary iron gate. Be careful along that row: walking into the sleepers' crypt wakes its [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (10 of them, night or day; by day they're surprised in their coffins), and the champion's tomb at the north end of the row has sixteen gargoyles with 134 HP each.
 3. Use **A crypt with no name**. The lid has handprints in the dust, from the inside. The quest moves to Found.
 4. Choose one:
    - **Corvina.** (only if you know her name). She sits up, takes her name back, asks you to tell Mordenkainen she'd do it again, and warns you she can't stop herself.
    - **(Lift the lid.)** She sits up and tells you this door is held.
    - **(Leave it shut.)** to come back later.
    ![sq corvina](https://curseofstrahd.app/wiki/img/cutscenes/sq-corvina.webp)
-5. Either way you fight. The gates along the row swing shut, and you face [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (CR 12) and a Door-Warden, a [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (9,500 XP). Unnamed, she has her full 165 Hit Points. Named, she has 105 at level 10 and 100 at level 9; below level 9, naming her also keeps the Door-Warden away. She regains 10 Hit Points at the start of each turn unless she took radiant damage since her last one, so keep radiant damage on her. She can shrug off two failed saves a day, and her Slam the Door is a 30-foot cone (Constitution DC 17, 5d8 thunder and a push).
+5. Either way you fight. The gates along the row swing shut, and you face [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (CR 12) and her Door-Wardens, [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)s: ten at level 10 (19,400 XP), one below that (9,500 XP). Unnamed, she has 250 Hit Points at level 10, 165 at level 9 and 130 below that. Named, she has 105 at level 10, 100 at level 9 and 95 below that; below level 9, naming her also keeps the Door-Warden away. She regains 10 Hit Points at the start of each turn unless she took radiant damage since her last one, so keep radiant damage on her. She can shrug off two failed saves a day, and her Slam the Door is a 30-foot cone (Constitution DC 17, 5d8 thunder and a push).
 6. When she falls, **use the crypt again**. Under where she lay are 500 gp in old coin and a [Rod of Absorption](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-absorption). The quest is Done.
 
 ### Choices and endings
@@ -63,12 +63,12 @@ The name matters. If you have played [The Mage's Lost Pages](https://curseofstra
 
 - *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (105 HP), 10 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (19400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (250 HP), 10 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (19400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (100 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (8400 XP)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (95 HP) (8400 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (130 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 
 ## Journal
 
@@ -90,3 +90,6 @@ The name matters. If you have played [The Mage's Lost Pages](https://curseofstra
 > [!example]- Cutscenes
 > **The Unnamed Crypt**: Corvina sits up in the crypt with no name.
 > ![sq corvina](https://curseofstrahd.app/wiki/img/cutscenes/sq-corvina.webp)
+>
+> **A Candle on the Box**: Corvina's empty scholar's coat on the edge of the open crypt, a rod and a purse inside, and a candle someone has left.
+> ![corvina coat](https://curseofstrahd.app/wiki/img/cutscenes/corvina-coat.webp)
