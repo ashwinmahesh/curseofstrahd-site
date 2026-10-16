@@ -1650,7 +1650,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 - In a satchel on the straw, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The north cells)
 - 2 × In a stoker's pouch, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The stoker's crawl)
 - Hidden: a loose stone, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The south cells) (found with Search, Perception DC 14)
-- …and 35 more places
+- …and 30 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ## Scroll

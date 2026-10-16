@@ -41,6 +41,7 @@ Shambles toward the closest living thing and slams it; hard to put down without 
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*
+- [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md) · *The whole column lowers its lances at once, and the gate is full of bones riding at you.*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md) · *On the gallows the hanged man lifts his head. Behind him, all across the field, the mounds begin to split.*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md)
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) · *The black horse in the traces stamps once, and the empty harness beside it swings. Pale shapes slide out of…*

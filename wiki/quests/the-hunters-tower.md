@@ -8,7 +8,7 @@
 > **Region:** [Van Richten's Tower](https://curseofstrahd.app/wiki/regions/van-richtens-tower.md) · level 8
 > **Given by:** [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md)
 > **Starts at:** [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
-> **Rewards:** [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×10, [Glamoured Studded Leather (Studded Leather Armor)](https://curseofstrahd.app/wiki/items/magic-items.md#glamoured-studded-leather)
+> **Rewards:** [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×10, [Glamoured Studded Leather (Studded Leather Armor)](https://curseofstrahd.app/wiki/items/magic-items.md#glamoured-studded-leather)
 
 ## Summary
 
@@ -89,7 +89,7 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 ## Rewards
 
 - [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2
-- [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing)
+- [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater)
 - [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×10
 - [Glamoured Studded Leather (Studded Leather Armor)](https://curseofstrahd.app/wiki/items/magic-items.md#glamoured-studded-leather)
 

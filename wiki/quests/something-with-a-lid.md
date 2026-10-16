@@ -61,7 +61,7 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 
 ## Fights
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (100 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md).
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (85 HP).
 
 ## Journal
 

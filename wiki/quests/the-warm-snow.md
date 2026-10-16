@@ -27,7 +27,7 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
 
 ### Step by step
 
-1. **The keepers at the gate.** Climb the goat path to the steaming shelf of black rock. Waiting in plain view by the black cart in front of an iron gate in the mountain are eight Keepers ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), three more Keepers ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) and a Chain-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), about 12,100 XP. They fight as soon as you step into the yard before the gate.
+1. **The keepers at the gate.** Climb the goat path to the steaming shelf of black rock. Waiting in plain view by the black cart in front of an iron gate in the mountain are eight Keepers ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 60 HP each), three more Keepers ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 95 HP each) and a Chain-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), about 12,100 XP. They fight as soon as you step into the yard before the gate.
    - The wights drain life (Constitution DC 13).
    - The revenants regain 10 hit points a turn unless fire or radiant damage hit them, and their glare frightens (Wisdom DC 15).
    - The helmed horror resists weapon damage, is immune to force, necrotic and poison, and has advantage against spells, so gang up on the wights first.
@@ -67,7 +67,7 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
    - **"(Draw your weapons.)"**
 
 7. **The fight.** [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) is CR 13 (10,000 XP), AC 18, immune to fire, and can only crawl (speed 20, no flying). She has two burning rends with reach, Fire Breath (a 60-foot cone, Dexterity DC 17, 11d6 fire), and Legendary Resistance three times a day. How hard she is depends on your tricks:
-   - Chained, with nothing done: 200 hit points, and if the sluice is shut, six [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s fight beside her.
+   - Chained, with nothing done: 200 hit points, and if the sluice is shut, two [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s fight beside her.
    - Fed the salted carcass: 155.
    - Chain hauled in: 170, and she starts the fight surprised, choking on her collar.
    - Salted and hauled: 125, and surprised. With the sluice open it's 165 and six wights, still surprised.
@@ -120,7 +120,7 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; surprise: enemies)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; lair; surprise: enemies)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 6 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (14200 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (11400 XP; lair)
 
 ## Journal
 

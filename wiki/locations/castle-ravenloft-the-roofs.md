@@ -86,8 +86,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Querreth comes down onto the tower roof on red wings, and its chains come with it, full of grey shapes that…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Part of [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (545 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
-> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (590 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
+> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (520 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
+> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (570 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
 
 ## Quests and lore
 

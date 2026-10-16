@@ -87,6 +87,11 @@ It has Advantage on the save if you or your allies are fighting it. While Charme
 
 A visible creature makes a Dexterity save against 6d8 Necrotic, half on success. Success ends the spell. After failure, later Bonus Actions deal 2d8 Necrotic automatically. Every damage instance heals you for half damage dealt. Ends if target leaves range or gains Total Cover. Initial damage gains 1d8 per slot above 5.
 
+## Far Step
+*Level 5 conjuration* · bonus action · self · V · minutes 1 · Sorcerer, Warlock, Wizard
+
+You teleport up to 60 feet to an unoccupied space that you can see. For as long as you concentrate on the spell, you can use a Bonus Action on each of your turns to teleport in the same way again.
+
 ## Flame Strike
 *Level 5 evocation* · action · 60 ft · VS M · instantaneous · Cleric
 

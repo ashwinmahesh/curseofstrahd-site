@@ -61,7 +61,7 @@ There is no deadline. The festival happens on whatever day you ask the herald to
 
 - **Persuasion DC 14**, *"Baron. Refuse him. Here, in front of everyone"*: the Baron says no, and Izek obeys for now ([The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) moves to Spurned). If the check fails, the Baron dithers, Izek says he'll take her himself, and you fight him.
 - *"Tell Izek who Ireena really is"* (only once you've worked it out): he walks off the dais and out of the Baron's service (Wren +2, Liriel +2, Godrick +1).
-- *"He can try to take her. He'll have to go through us"*: the Izek Duel, Izek at 310 HP with four of his sergeants at level 5 (Godrick +2, Thistle +2).
+- *"He can try to take her. He'll have to go through us"*: the Izek Duel, Izek at 280 HP with six of his sergeants at level 5 (Godrick +2, Thistle +2).
 
 Afterwards the Baron holds court in the square by day and receives you in his great hall. There he'll let Lady Wachter out of the stocks and into exile for **Persuasion DC 15**, or for 100 gp towards a "Festival of Mercy" (either way: Liriel +2, Wren +2, Godrick +1, Kip +1).
 

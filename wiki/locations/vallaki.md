@@ -142,7 +142,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Izek steps down off the dais, flexing the arm that isn't his. A few of the watch step down with him.*, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level. Part of [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md).
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (310 HP), 4 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (4600 XP)
+> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (280 HP), 6 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (6000 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (70 HP) (1800 XP)
 

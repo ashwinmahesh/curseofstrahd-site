@@ -44,15 +44,17 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 ### Close up
 
 ![loc castle ravenloft larders dungeon spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-spot1.webp)
-*the jailers' chest, great gears turning by themselves*
+*The Dead Turnkey*
 
 ![loc castle ravenloft larders dungeon spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-spot2.webp)
-*a satchel on the straw*
+*the jailers' chest, great gears turning by themselves*
 
 ![loc castle ravenloft larders dungeon spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-spot3.webp)
-*a chest of instruments*
+*a satchel on the straw*
 
 ## People
+
+- **[The Dead Turnkey](https://curseofstrahd.app/wiki/people/the-dead-turnkey.md)**, Of the Castle Watch: The passage between the cells (#6)
 
 > [!note]- Who turns up at points in the story (3)
 > - **[Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md)**, The north cells (#3): when not larders nadia fate or larders nadia fate is “waits”
@@ -63,13 +65,13 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | the jailers' chest | [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet), 26 gp | open it |
-| 7 | a satchel on the straw | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 12 gp | open it |
-| 8 | a chest of instruments | [Thieves' Tools](https://curseofstrahd.app/wiki/items/equipment.md#thieves-tools), [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, 18 gp | open it |
-| 9 | a stoker's pouch | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 15 gp | open it |
-| 10 | a drawer at the head of the table of bones | 60 gp | open it |
-| 13 | a loose stone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
-| 14 | a ring set into the throne of bones (hidden) | [Ring of Regeneration](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-regeneration) | Search: Perception DC 16 |
+| 7 | the jailers' chest | [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet), 26 gp | open it |
+| 8 | a satchel on the straw | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 12 gp | open it |
+| 9 | a chest of instruments | [Thieves' Tools](https://curseofstrahd.app/wiki/items/equipment.md#thieves-tools), [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, 18 gp | open it |
+| 10 | a stoker's pouch | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 15 gp | open it |
+| 11 | a drawer at the head of the table of bones | 60 gp | open it |
+| 14 | a loose stone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
+| 15 | a ring set into the throne of bones (hidden) | [Ring of Regeneration](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-regeneration) | Search: Perception DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Hall of Bones (larders_bone_table)
 
@@ -79,15 +81,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 11 | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
-| 12 | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
+| 12 | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
+| 13 | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 15 | the lamp over the table | 14 | 15 | DEX 15 | 4d10 fire |
-| 16 | a false floor | 15 | 15 | DEX 14 | 4d6 bludgeoning |
+| 16 | the lamp over the table | 14 | 15 | DEX 15 | 4d10 fire |
+| 17 | a false floor | 15 | 15 | DEX 14 | 4d6 bludgeoning |
 
 ### Locked and secret doors
 
@@ -110,7 +112,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him. Four of…*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (520 HP), 10 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 10 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (31500 XP; lair)
+> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (500 HP), 10 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 10 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (31500 XP; lair)
 > - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 10 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 4 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (20700 XP; lair)
 
 ## Quests and lore

@@ -48,9 +48,11 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 ### Close up
 
 ![loc castle ravenloft spires spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-spot1.webp)
-*the lamplighters' cupboard*
+*Vlaicu the Lamplighter, a faded tapestry*
 
 ## People
+
+- **[Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md)**, Of the Household: The foot of the high tower (#6)
 
 > [!note]- Who turns up at points in the story (1)
 > - **[Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)**, The grand landing (#5): when not pidlwick ii with the party and not pidlwick with blinsky
@@ -59,7 +61,7 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | open it |
+| 7 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | open it |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -67,13 +69,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 7 | a faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
+| 8 | a faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 8 | a broken step | 14 | 15 | DEX 15 | 4d6 bludgeoning |
+| 9 | a broken step | 14 | 15 | DEX 15 | 4d6 bludgeoning |
 
 ### Locked and secret doors
 

@@ -48,15 +48,18 @@ Low vaulted passages smelling of smoke, onions and something under the onions. A
 ### Close up
 
 ![loc castle ravenloft larders spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-spot1.webp)
-*the larder shelves*
+*The Dead Scullion*
 
 ![loc castle ravenloft larders spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-spot2.webp)
-*the watch's lockers*
+*The Dead Torchbearer*
 
 ![loc castle ravenloft larders spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-spot3.webp)
-*the lift winch*
+*the larder shelves*
 
 ## People
+
+- **[The Dead Scullion](https://curseofstrahd.app/wiki/people/the-dead-scullion.md)**, Of the Kitchens: The kitchen (#6)
+- **[The Dead Torchbearer](https://curseofstrahd.app/wiki/people/the-dead-torchbearer.md)**, Of the Kitchens: The guards' run (#7)
 
 > [!note]- Who turns up at points in the story (1)
 > - **[Cyrus Belview](https://curseofstrahd.app/wiki/people/cyrus-belview.md)**, The kitchen (#5): when not larders cyrus slain
@@ -65,9 +68,9 @@ Low vaulted passages smelling of smoke, onions and something under the onions. A
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | the larder shelves | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×6, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Tinderbox](https://curseofstrahd.app/wiki/items/equipment.md#tinderbox) | open it |
-| 7 | a painted box under the bed | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, 7 gp | open it |
-| 8 | the watch's lockers | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword) ×2, [Chain Shirt](https://curseofstrahd.app/wiki/items/equipment.md#chain-shirt), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), 40 gp | open it |
+| 8 | the larder shelves | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×6, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Tinderbox](https://curseofstrahd.app/wiki/items/equipment.md#tinderbox) | open it |
+| 9 | a painted box under the bed | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, 7 gp | open it |
+| 10 | the watch's lockers | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword) ×2, [Chain Shirt](https://curseofstrahd.app/wiki/items/equipment.md#chain-shirt), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), 40 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Wine Cellar ()
 

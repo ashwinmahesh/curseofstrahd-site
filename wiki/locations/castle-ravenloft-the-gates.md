@@ -46,22 +46,27 @@ A chasm with no bottom you can see, a drawbridge already lowered, a gatehouse wi
 ### Close up
 
 ![loc castle ravenloft gates spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-gates-spot1.webp)
-*the carriage's driver box*
+*The Dead Halberdier*
 
 ![loc castle ravenloft gates spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-gates-spot2.webp)
-*a gate guard's locker*
+*The Dead Archer*
 
 ![loc castle ravenloft gates spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-gates-spot3.webp)
-*a carved crest over the doors*
+*the carriage's driver box*
+
+## People
+
+- **[The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md)**, Of the Castle Watch: The front courtyard (#7)
+- **[The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md)**, Of the Castle Watch: The front courtyard (#8)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 7 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
-| 8 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
-| 11 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
-| 12 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
+| 9 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
+| 10 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
+| 13 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
+| 14 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -69,8 +74,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 9 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
-| 10 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
+| 11 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
+| 12 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
 
 ## Fights
 

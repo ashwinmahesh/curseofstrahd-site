@@ -42,15 +42,18 @@ A long corridor lined with closed doors. Somewhere along it, always just out of 
 ### Close up
 
 ![loc castle ravenloft court weeping spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-weeping-spot1.webp)
-*a black wardrobe*
+*Helga Ruvak*
 
 ![loc castle ravenloft court weeping spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-weeping-spot2.webp)
-*a jewel box*
+*Ghenadie the Valet, a black wardrobe*
 
 ![loc castle ravenloft court weeping spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-weeping-spot3.webp)
 *a small cabinet*
 
 ## People
+
+- **[Helga Ruvak](https://curseofstrahd.app/wiki/people/helga-ruvak.md)**, Maid of the Upper Floors: The hall of weeping (#8)
+- **[Ghenadie the Valet](https://curseofstrahd.app/wiki/people/ghenadie-the-valet.md)**, Of the Household: The count's bedroom (#9)
 
 > [!note]- Who turns up at points in the story (5)
 > - **[Volenta Popofsky](https://curseofstrahd.app/wiki/people/volenta-popofsky.md)**, The lounge (#2): when not court brides met and not court brides fought; or when not court brides fought
@@ -63,18 +66,18 @@ A long corridor lined with closed doors. Somewhere along it, always just out of 
 
 | # | Where | What | How |
 |---|---|---|---|
-| 8 | a black wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×2 | open it |
-| 9 | a jewel box | [Ring of Shooting Stars](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-shooting-stars), 300 gp | lock DC 17 |
-| 10 | a small cabinet | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2 | open it |
-| 11 | a glass cabinet | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2 | open it |
-| 12 | a wardrobe of gowns | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×3 | open it |
-| 13 | Ludmilla's books | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book) ×2, [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Ioun Stone (Reserve)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-reserve) | open it |
-| 14 | a plain trunk | [Traveler's Clothes](https://curseofstrahd.app/wiki/items/equipment.md#travelers-clothes), [Figurine of Wondrous Power (Onyx Dog)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-onyx-dog), 3 gp | open it |
-| 15 | a painted chest | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Mace of Terror (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-terror), 45 gp | open it |
-| 16 | a sword rack | [Scimitar](https://curseofstrahd.app/wiki/items/equipment.md#scimitar) ×2, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) | open it |
-| 17 | a footlocker | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Scimitar of Speed (Scimitar)](https://curseofstrahd.app/wiki/items/magic-items.md#scimitar-of-speed), [Ring of X-ray Vision](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-x-ray-vision), 150 gp | lock DC 17 |
-| 19 | a space behind the mirror that shows no one (hidden) | [Cloak of Displacement](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-displacement) | Search: Investigation DC 17 |
-| 20 | a grimoire among Ludmilla's books (hidden) | [Arcane Grimoire, +3](https://curseofstrahd.app/wiki/items/magic-items.md#arcane-grimoire-3) | Search: Investigation DC 17 |
+| 10 | a black wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×2 | open it |
+| 11 | a jewel box | [Ring of Shooting Stars](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-shooting-stars), 300 gp | lock DC 17 |
+| 12 | a small cabinet | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2 | open it |
+| 13 | a glass cabinet | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2 | open it |
+| 14 | a wardrobe of gowns | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes) ×3 | open it |
+| 15 | Ludmilla's books | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book) ×2, [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Ioun Stone (Reserve)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-reserve) | open it |
+| 16 | a plain trunk | [Traveler's Clothes](https://curseofstrahd.app/wiki/items/equipment.md#travelers-clothes), [Figurine of Wondrous Power (Onyx Dog)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-onyx-dog), 3 gp | open it |
+| 17 | a painted chest | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Mace of Terror (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-terror), 45 gp | open it |
+| 18 | a sword rack | [Scimitar](https://curseofstrahd.app/wiki/items/equipment.md#scimitar) ×2, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) | open it |
+| 19 | a footlocker | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Scimitar of Speed (Scimitar)](https://curseofstrahd.app/wiki/items/magic-items.md#scimitar-of-speed), [Ring of X-ray Vision](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-x-ray-vision), 150 gp | lock DC 17 |
+| 21 | a space behind the mirror that shows no one (hidden) | [Cloak of Displacement](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-displacement) | Search: Investigation DC 17 |
+| 22 | a grimoire among Ludmilla's books (hidden) | [Arcane Grimoire, +3](https://curseofstrahd.app/wiki/items/magic-items.md#arcane-grimoire-3) | Search: Investigation DC 17 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -82,7 +85,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 18 | a card table | Stealth 15 | Listen to the brides' gossip unseen | lore: The brides' gossip |
+| 20 | a card table | Stealth 15 | Listen to the brides' gossip unseen | lore: The brides' gossip |
 
 ### Locked and secret doors
 
@@ -99,8 +102,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (240 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (200 HP) (12800 XP)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (265 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (220 HP) (12800 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (325 HP), 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (220 HP) (12800 XP)
 
 ## Quests and lore
 

@@ -8,7 +8,7 @@
 > **Region:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/regions/the-abbey-of-st-markovia.md) · level 7
 > **Given by:** [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md)
 > **Starts at:** [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)
-> **Rewards:** [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, a level (milestone)
+> **Rewards:** [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2, a level (milestone)
 
 ## Summary
 
@@ -78,7 +78,7 @@ Every ending gives the region's milestone (a level). The options at the bier:
 
 ![abbot holds hand](https://curseofstrahd.app/wiki/img/cutscenes/abbot-holds-hand.webp)
 
-- **Slain, in a fight.** *"Kill him."* at the bier, or *"Attack the Abbot."* from his menu at any earlier visit (Liriel -3, Godrick -1), starts **Abbot Wrath**: the Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), AC 17) at 500 HP with 2 Mongrelfolk, 3 Belview Brutes and 2 [Flesh Golems](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) at level 7, at 100 HP with 1 Mongrelfolk at level 6, at 85 HP alone below that. This is the hard fight of the region. He swings a mace twice a turn for heavy radiant damage, resists radiant, and has Advantage on saves against spells, so lean on weapons and spell attacks rather than saving-throw spells. Afterwards Clovin speaks over the empty habit. If Vasilka was awake, tell her to *"Lie down, Vasilka. Rest."* (Liriel +2, Godrick +1) or leave her standing at the altar (Liriel -1; you can still tell her to rest on a later visit). If you fought before the rite, she stays on her table in the wards and never wakes. The Abbot doesn't heal Ilya in this ending, and there's no reward but the milestone.
+- **Slain, in a fight.** *"Kill him."* at the bier, or *"Attack the Abbot."* from his menu at any earlier visit (Liriel -3, Godrick -1), starts **Abbot Wrath**: the Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), AC 17) at 350 HP with 2 Mongrelfolk, 3 Belview Brutes and 2 [Flesh Golems](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) at level 7, at 100 HP with 1 Mongrelfolk at level 6, at 85 HP alone below that. This is the hard fight of the region. He swings a mace twice a turn for heavy radiant damage, resists radiant, and has Advantage on saves against spells, so lean on weapons and spell attacks rather than saving-throw spells. Afterwards Clovin speaks over the empty habit. If Vasilka was awake, tell her to *"Lie down, Vasilka. Rest."* (Liriel +2, Godrick +1) or leave her standing at the altar (Liriel -1; you can still tell her to rest on a later visit). If you fought before the rite, she stays on her table in the wards and never wakes. The Abbot doesn't heal Ilya in this ending, and there's no reward but the milestone.
 - **Fled (the quest fails).** Only if Ireena stayed in the church and he had already seen her. He looks past Vasilka and asks for Ireena instead (*"Why send him a copy?"*).
   - *"At the pool she chose a dead man over him..."* (only after her pool vision) → **Repented**, as above.
   - *"Never. If you want her, you'll have to go through us."* → the **Abbot Wrath** fight.
@@ -98,7 +98,7 @@ Every ending gives the region's milestone (a level). The options at the bier:
 
 ## Rewards
 
-- [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2
+- [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2
 - A level (milestone)
 
 **What your companions think**
@@ -120,7 +120,7 @@ Every ending gives the region's milestone (a level). The options at the bier:
 
 - *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)
-> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 500 HP), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (10950 XP)
+> - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 350 HP), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (10950 XP)
 > - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 100 HP), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
 > - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 85 HP) (5900 XP)
 

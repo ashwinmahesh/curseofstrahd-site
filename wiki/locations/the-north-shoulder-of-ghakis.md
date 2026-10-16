@@ -77,7 +77,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*, in [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): 8 × A Keeper ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), A Chain-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), 3 × A Keeper ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)).
+- *The figures by the cart turn round all together. Under the wet hoods their faces are grey and dry as old…*, in [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md): 8 × A Keeper ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 60 HP), A Chain-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), 3 × A Keeper ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 95 HP).
 
 ## Quests and lore
 

@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/all-people.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-261 people you can meet in Barovia, by region.
+280 people you can meet in Barovia, by region.
 
 ## Into the Mists
 
@@ -307,19 +307,38 @@
 | | Who | Title |
 |---|---|---|
 | ![anastrasya karelova](https://curseofstrahd.app/wiki/img/portraits/anastrasya-karelova.webp) | [Anastrasya Karelova](https://curseofstrahd.app/wiki/people/anastrasya-karelova.md) | Bride of Strahd |
+| ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Anghel Daskal](https://curseofstrahd.app/wiki/people/anghel-daskal.md) | Of the Household |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Aurel Mirescu](https://curseofstrahd.app/wiki/people/aurel-mirescu.md) | A reader |
+| ![noble](https://curseofstrahd.app/wiki/img/portraits/noble.webp) | [Boyar Vintila Crainic](https://curseofstrahd.app/wiki/people/boyar-vintila-crainic.md) | Of the Count's Court |
 | ![brother anatol](https://curseofstrahd.app/wiki/img/portraits/brother-anatol.webp) | [Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md) | A Prisoner at Prayer |
 | ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Captain Merrow](https://curseofstrahd.app/wiki/people/captain-merrow.md) | Kestrel Company |
 | ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Corvina](https://curseofstrahd.app/wiki/people/corvina.md) | The Doorkeeper |
 | ![cyrus belview](https://curseofstrahd.app/wiki/img/portraits/cyrus-belview.webp) | [Cyrus Belview](https://curseofstrahd.app/wiki/people/cyrus-belview.md) | Cook to the Master |
 | ![escher](https://curseofstrahd.app/wiki/img/portraits/escher.webp) | [Escher](https://curseofstrahd.app/wiki/people/escher.md) | A Cast-Off Consort |
 | ![gertruda](https://curseofstrahd.app/wiki/img/portraits/gertruda.webp) | [Gertruda](https://curseofstrahd.app/wiki/people/gertruda.md) | Mad Mary's daughter |
+| ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Ghenadie the Valet](https://curseofstrahd.app/wiki/people/ghenadie-the-valet.md) | Of the Household |
+| ![helga ruvak](https://curseofstrahd.app/wiki/img/portraits/helga-ruvak.webp) | [Helga Ruvak](https://curseofstrahd.app/wiki/people/helga-ruvak.md) | Maid of the Upper Floors |
+| ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Lady Celestine Morrow](https://curseofstrahd.app/wiki/people/lady-celestine-morrow.md) | Of the Count's Court |
 | ![lief lipsiege](https://curseofstrahd.app/wiki/img/portraits/lief-lipsiege.webp) | [Lief Lipsiege](https://curseofstrahd.app/wiki/people/lief-lipsiege.md) | Accountant to the Count |
+| ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Lord Aubrey Thale](https://curseofstrahd.app/wiki/people/lord-aubrey-thale.md) | Of the Count's Court |
 | ![ludmilla vilisevic](https://curseofstrahd.app/wiki/img/portraits/ludmilla-vilisevic.webp) | [Ludmilla Vilisevic](https://curseofstrahd.app/wiki/people/ludmilla-vilisevic.md) | Bride of Strahd |
 | ![nadia boteanu](https://curseofstrahd.app/wiki/img/portraits/nadia-boteanu.webp) | [Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md) | Lamplighter of Vallaki |
+| ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Nicodim the Verger](https://curseofstrahd.app/wiki/people/nicodim-the-verger.md) | Of the Household |
 | ![pidlwick ii](https://curseofstrahd.app/wiki/img/portraits/pidlwick-ii.webp) | [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md) | Clockwork Jester |
 | ![fiendish spirit](https://curseofstrahd.app/wiki/img/portraits/fiendish-spirit.webp) | [Querreth](https://curseofstrahd.app/wiki/people/querreth.md) | Gaoler of the Roofs |
 | ![rahadin](https://curseofstrahd.app/wiki/img/portraits/rahadin.webp) | [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md) | Chamberlain of Castle Ravenloft |
+| ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Sir Lothar Brandt](https://curseofstrahd.app/wiki/people/sir-lothar-brandt.md) | Of the Count's Court |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md) | Of the Castle Watch |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Doorward](https://curseofstrahd.app/wiki/people/the-dead-doorward.md) | Of the Castle Watch |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md) | Of the Castle Watch |
+| ![zombie](https://curseofstrahd.app/wiki/img/portraits/zombie.webp) | [The Dead Scullion](https://curseofstrahd.app/wiki/people/the-dead-scullion.md) | Of the Kitchens |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Sentry](https://curseofstrahd.app/wiki/people/the-dead-sentry.md) | Of the Great Entry |
+| ![zombie](https://curseofstrahd.app/wiki/img/portraits/zombie.webp) | [The Dead Torchbearer](https://curseofstrahd.app/wiki/people/the-dead-torchbearer.md) | Of the Kitchens |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Turnkey](https://curseofstrahd.app/wiki/people/the-dead-turnkey.md) | Of the Castle Watch |
+| ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Watchman](https://curseofstrahd.app/wiki/people/the-dead-watchman.md) | Of the King's Hall |
+| ![broom of animated attack](https://curseofstrahd.app/wiki/img/portraits/broom-of-animated-attack.webp) | [The Hall Broom](https://curseofstrahd.app/wiki/people/the-hall-broom.md) | Of the Guests' Hall |
+| ![castle steward](https://curseofstrahd.app/wiki/img/portraits/castle-steward.webp) | [The Steward](https://curseofstrahd.app/wiki/people/the-steward.md) | Ghost of the Dining Hall |
+| ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md) | Of the Household |
 | ![volenta popofsky](https://curseofstrahd.app/wiki/img/portraits/volenta-popofsky.webp) | [Volenta Popofsky](https://curseofstrahd.app/wiki/people/volenta-popofsky.md) | Bride of Strahd |
 
 ## Mount Ghakis

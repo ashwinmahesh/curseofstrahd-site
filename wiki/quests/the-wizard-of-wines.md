@@ -153,7 +153,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
     - **Circle broken:** Wintersplinter, Ruxandra and twig blights. Below level 6: 135 HP, Ruxandra 90 HP and 4 twig blights; at level 6: 215 HP, Ruxandra 60 HP and 6 twig blights; at level 7: 250 HP, Ruxandra 55 HP, a warden (40 HP) and 4 twig blights.
     - **Kostin warned them:** Wintersplinter, Ruxandra, Kostin and 4 twig blights. Below level 6: 120 HP, Ruxandra 90 HP, Kostin 30 HP; at level 6: 210 HP, Ruxandra 130 HP, plus 2 druids; at level 7: 220 HP, Ruxandra 60 HP, plus 2 druids.
     - **Otherwise, level 7:** Wintersplinter (300 HP), Ruxandra (55 HP) and 4 twig blights.
-    - **Otherwise, level 6:** Wintersplinter (270 HP), Ruxandra (60 HP) and 6 twig blights.
+    - **Otherwise, level 6:** Wintersplinter (200 HP), Ruxandra (60 HP) and 6 twig blights.
     - **Otherwise, below level 6:** Wintersplinter (155 HP), Ruxandra (50 HP) and 4 twig blights.
 
     This is a Moderate fight and the hardest on the quest's main line below level 6; at level 6 and 7 the press house fight is bigger. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.

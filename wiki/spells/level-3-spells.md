@@ -252,6 +252,11 @@ You call forth an Undead spirit, which appears in an unoccupied space you can se
 
 Gain 15 Temporary HP and a Climb Speed equal to Speed. The spell ends when these Temporary HP run out. While active, a Magic action makes a ranged spell attack within 50 feet: 1d6 Force and Poisoned until your next turn starts; while so Poisoned, the target is Incapacitated. Each slot above 3 adds 5 Temporary HP and 1d6 damage.
 
+## Thunder Step
+*Level 3 conjuration* · action · 90 ft · V · instantaneous · Sorcerer, Warlock, Wizard
+
+You vanish and reappear in an unoccupied space you can see within 90 feet. A thunderclap bursts from the space you left: every creature within 10 feet of it makes a Constitution saving throw, taking 3d10 Thunder damage on a failed save or half as much on a success. The boom can be heard from 300 feet away. You carry along whatever you could normally carry, and you can bring one willing creature of your size or smaller that stands within 5 feet of you and carries no more than it can bear; it arrives in an unoccupied space within 5 feet of your destination, or is left behind if there is none, and then it is caught in the boom like anyone else near the space you left. The damage increases by 1d10 for each spell slot level above 3.
+
 ## Tongues
 *Level 3 divination* · action · touch · V M · hours 1 · Bard, Cleric, Sorcerer, Warlock, Wizard
 

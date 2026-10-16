@@ -1253,6 +1253,11 @@ Bonus Action to drink or give to a creature within 5 ft: regain 4d4 + 4 Hit Poin
 - In a footlocker, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Rahadin's room) (locked, DC 17)
 - In the roc's nest, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The roc's shelf)
 - 2 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
+- 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
+- 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
+- 2 × Given by a random encounter on the road
+- Given by a random encounter on the road
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 

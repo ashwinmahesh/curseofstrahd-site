@@ -82,7 +82,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; surprise: enemies)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; lair; surprise: enemies)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 6 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (14200 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (11400 XP; lair)
 
 ## Quests and lore
 

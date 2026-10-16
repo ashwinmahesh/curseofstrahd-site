@@ -31,10 +31,10 @@ Some nights the Baron's boat rows out to the Reed Isle on Lake Zarovich with som
    > [!note] Walking away isn't the end
    > If you choose "(Leave them to their fires.)" or "(Leave them to it.)", the next time you talk to Ostap he skips the introductions and says "Keep your voice down when the moon's up." "Come back with us. We'll get you home." is still on offer: pick it, and he asks for your help with the boat again.
 4. **The boatmen (`reed_isle_boatmen`).** After dark the boat runs up onto the shingle. If Lady Wachter holds Vallaki, the boatmen wear her grey instead of the Baron's colours. You fight:
-   - the Boatmaster (a [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md));
-   - 2 boatmen who are [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)s;
+   - the Boatmaster (a [Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), 90 HP);
+   - 2 boatmen who are [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)s (110 HP each);
    - 4 boatmen who are [Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)s;
-   - something in the reeds: a [Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md).
+   - something in the reeds: a [Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md) (100 HP).
 
    It's Low to Moderate for a level 5 party and easy from level 7. The veterans and the captain do most of the damage, and the captain parries. The snake grapples and crushes whoever it catches, so don't wander into the reeds alone. Winning moves the journal to *Defended*.
 5. **Talk to Ostap.** The castaways have cut the newest of them free, a young woman who laughed at the Baron's sun, and pulled the boatmen's boat up into the reeds. Now they have a boat, and a choice:
@@ -67,7 +67,7 @@ Both endings pay the same. If they **stay**, Ostap is still on the island when y
 
 ## Fights
 
-- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md)).
+- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), 90 HP), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), 110 HP), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md), 100 HP).
 
 ## Journal
 

@@ -55,15 +55,23 @@ Cold stone, high vaults and dust, and somewhere an organ playing. Stairs climb, 
 ### Close up
 
 ![loc castle ravenloft main floor spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-main-floor-spot1.webp)
-*a servery cupboard, the organ, a compartment behind one of the organ's stops*
+*The Steward, The Hall Broom, a sideboard*
 
 ![loc castle ravenloft main floor spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-main-floor-spot2.webp)
-*a sideboard*
+*The Dead Sentry*
 
 ![loc castle ravenloft main floor spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-main-floor-spot3.webp)
-*a guest wardrobe*
+*Nicodim the Verger*
 
 ## People
+
+- **[The Steward](https://curseofstrahd.app/wiki/people/the-steward.md)**, Ghost of the Dining Hall: The dining hall (#13)
+- **[The Dead Sentry](https://curseofstrahd.app/wiki/people/the-dead-sentry.md)**, Of the Great Entry: The great entry (#14)
+- **[The Hall Broom](https://curseofstrahd.app/wiki/people/the-hall-broom.md)**, Of the Guests' Hall: The guests' hall (#15)
+- **[Lord Aubrey Thale](https://curseofstrahd.app/wiki/people/lord-aubrey-thale.md)**, Of the Count's Court: The great entry (#16)
+- **[Lady Celestine Morrow](https://curseofstrahd.app/wiki/people/lady-celestine-morrow.md)**, Of the Count's Court: The hall of faces (#17)
+- **[Nicodim the Verger](https://curseofstrahd.app/wiki/people/nicodim-the-verger.md)**, Of the Household: The chapel passage (#18)
+- **[The Dead Doorward](https://curseofstrahd.app/wiki/people/the-dead-doorward.md)**, Of the Castle Watch: The entry hall (#19)
 
 > [!note]- Who turns up at points in the story (2)
 > - **[Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md)**, The dining hall (#10): when strahd invitation is “accepted” and not castle dinner
@@ -73,12 +81,12 @@ Cold stone, high vaults and dust, and somewhere an organ playing. Stairs climb, 
 
 | # | Where | What | How |
 |---|---|---|---|
-| 13 | a servery cupboard | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it |
-| 14 | a sideboard | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) ×2, 25 gp | open it |
-| 15 | a guest wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | open it |
-| 16 | a weapon rack | [Halberd](https://curseofstrahd.app/wiki/items/equipment.md#halberd), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
-| 17 | an iron strongbox | [Animated Shield (Shield)](https://curseofstrahd.app/wiki/items/magic-items.md#animated-shield), 320 gp | open it |
-| 19 | a compartment behind one of the organ's stops (hidden) | [Instrument of the Bards (Anstruth Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-anstruth-harp) | Search: Investigation DC 16 |
+| 20 | a servery cupboard | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it |
+| 21 | a sideboard | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) ×2, 25 gp | open it |
+| 22 | a guest wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | open it |
+| 23 | a weapon rack | [Halberd](https://curseofstrahd.app/wiki/items/equipment.md#halberd), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
+| 24 | an iron strongbox | [Animated Shield (Shield)](https://curseofstrahd.app/wiki/items/magic-items.md#animated-shield), 320 gp | open it |
+| 26 | a compartment behind one of the organ's stops (hidden) | [Instrument of the Bards (Anstruth Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-anstruth-harp) | Search: Investigation DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Hidden Hearth (crg_hearth_hoard)
 
@@ -88,7 +96,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 18 | the organ | Performance 16 | Play the count's organ | finds Instrument of the Bards (Anstruth Harp) |
+| 25 | the organ | Performance 16 | Play the count's organ | finds Instrument of the Bards (Anstruth Harp) |
 
 ### Locked and secret doors
 
@@ -96,7 +104,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (490 HP), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (605 HP), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
 
 - *Suits of black armour step down from their stands at once, as if someone had called the watch.*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level.
 > [!example]- By party level (the first line your party fits is the fight you get)

@@ -8,7 +8,7 @@
 > **Region:** [Krezk](https://curseofstrahd.app/wiki/regions/krezk.md) · level 7
 > **Given by:** [Anna Krezkova](https://curseofstrahd.app/wiki/people/anna-krezkova.md)
 > **Starts at:** [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md)
-> **Rewards:** [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, [Amulet of Health](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-health), 40 gp, a level (milestone)
+> **Rewards:** [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2, [Amulet of Health](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-health), 40 gp, a level (milestone)
 
 ## Summary
 
@@ -52,7 +52,7 @@ At the bedside, *Medicine DC 13* ("Let us look at him") only tells you what will
 
 ## Rewards
 
-- [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2
+- [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2
 - [Amulet of Health](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-health)
 - 40 gp
 - A level (milestone)
