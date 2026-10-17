@@ -79,7 +79,17 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the front courtyard.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (77 HP) (7200 XP)
 > - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (84 HP) (6300 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the castle night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) | 160 |
+| 4–6 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 810 |
+| 7–11 | 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |

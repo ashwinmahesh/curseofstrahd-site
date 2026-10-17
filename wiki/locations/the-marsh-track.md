@@ -44,3 +44,21 @@ A raised track of old logs across the marsh between Vallaki's lake and the drown
 | 3 | something caught in the reeds (hidden) | [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope) | Search: Perception DC 12 |
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the marsh night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 200 |
+| 4–6 | [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 970 |
+| 7–11 | [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 3 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 3750 |
+
+### On the road
+
+Random encounters met on [Berez Marsh](https://curseofstrahd.app/wiki/world/random-encounters.md#berez-marsh) can be fought here. What comes, and how likely each is, is on [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md).

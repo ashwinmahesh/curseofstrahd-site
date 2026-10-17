@@ -35,3 +35,21 @@ The track rounds a tarn frozen white in a bowl of the mountain: thin ice in the 
 ## What to find
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
+
+### On the road
+
+Random encounters met on [Amber Temple Road](https://curseofstrahd.app/wiki/world/random-encounters.md#amber-temple-road), [Baratok Slopes](https://curseofstrahd.app/wiki/world/random-encounters.md#baratok-slopes) can be fought here. What comes, and how likely each is, is on [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md).

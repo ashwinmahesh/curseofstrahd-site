@@ -108,7 +108,7 @@ The village, roughly: the drowned lane runs up the middle, Marina's statue stand
    - **If she's already dead,** "The witch who killed her is dead. We saw to it." gets you a cold pardon, once.
 
    Back at the stump, the hut lies on its side with its legs snapped. Lysaga sits in the mud beside it and speaks first:
-   - **"It's over, grandmother. Let us end it."** She fights alone, at 60 hit points.
+   - **"It's over, grandmother. Let us end it."** She fights alone, but it's a boss fight: 475 hit points.
    - **"Then you know how Marina's family felt. We'll leave you to it."** The quest ends at Broken. She throws you the green stone if you haven't already got it.
    - **Insight DC 12** tells you she isn't going to fight anybody.
 
@@ -147,27 +147,27 @@ Every ending gives the milestone (a level), and the hut's pantry (3 rations, 12 
 ## Fights
 
 - *The stump heaves. Roots as thick as a man tear out of the mud, and the hut rises on them, swaying, its door…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (160 HP), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (145 HP) (14400 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 8: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (120 HP), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP) (14400 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (100 HP), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (70 HP) (14400 XP)
 
 - *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (510 HP), 8 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 12 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (10400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7300 XP)
 
-- *She comes up out of the mud with her nails out, shrieking, and the reeds shriek with her.*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (60 HP).
+- *She comes up out of the mud with her nails out, shrieking, and the reeds shriek with her.*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (475 HP).
 
 - *A bowl of yellow bone comes skimming over the reeds, low and fast, with a tiny furious woman standing in it.…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (460 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 10 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (9400 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (7600 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 
 - *The hut has been waiting for her. When you come instead, it stands up on its roots and screams through its…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth and level ≥ 9: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (520 HP), 3 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7500 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth and level ≥ 8: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (160 HP) (7200 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (120 HP) (7200 XP)

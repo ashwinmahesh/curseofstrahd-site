@@ -61,4 +61,18 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): 5 × Mourner ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Pallbearer ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Mourner in Black ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)).
+- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): 5 × Mourner ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Pallbearer ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Mourner in Black ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)). Starts from a conversation.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
+
+### On the road
+
+Random encounters met on [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md#krezk-road), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md#svalich-road) can be fought here. What comes, and how likely each is, is on [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md).

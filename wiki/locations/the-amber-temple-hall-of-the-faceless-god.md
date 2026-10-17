@@ -89,13 +89,23 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Things that were people once come scuttling from behind the sarcophagi, each with one great eye where a face…*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Things that were people once come scuttling from behind the sarcophagi, each with one great eye where a face…*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts when you reach the ring of amber.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 10: 6 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 4 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9900 XP)
 > - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared and level ≥ 8: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), 3 × Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (7650 XP)
 > - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (5850 XP)
 
-- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): Patrina Velikovna ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 110 HP), 11 × Frozen student ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 7 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md). Part of [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md).
+- *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): Patrina Velikovna ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 110 HP), 11 × Frozen student ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 7 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md). Starts from a conversation. Part of [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md).
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

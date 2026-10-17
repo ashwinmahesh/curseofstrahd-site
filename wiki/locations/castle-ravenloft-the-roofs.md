@@ -78,14 +78,14 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The carvings on the parapet turn their heads. Stone grinds on stone as wings unfold that were never meant to…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The carvings on the parapet turn their heads. Stone grinds on stone as wings unfold that were never meant to…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the north tower peak.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 11: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 100 HP) (7200 XP)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 10: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 87 HP) (7200 XP)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 77 HP) (7200 XP)
 
-- *Querreth comes down onto the tower roof on red wings, and its chains come with it, full of grey shapes that…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Part of [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Querreth comes down onto the tower roof on red wings, and its chains come with it, full of grey shapes that…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts from a conversation. Part of [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (520 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (570 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
 

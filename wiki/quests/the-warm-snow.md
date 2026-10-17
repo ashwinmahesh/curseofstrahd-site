@@ -108,7 +108,7 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
 ## Fights
 
 - *The collar falls off onto the gold. Sarkhaza rises, all of her, and the cavern is too small for her, and she…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP; lair)
 > - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (212 HP) (10000 XP)

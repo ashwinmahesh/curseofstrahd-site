@@ -63,7 +63,7 @@ There is one ending. You get [Winged Boots](https://curseofstrahd.app/wiki/items
 ## Fights
 
 - *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)

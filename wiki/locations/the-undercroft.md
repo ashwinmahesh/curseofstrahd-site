@@ -55,10 +55,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The silver on the tithe-keeper's armour rises like hackles, and round the walls the escort's empty harness…*, in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md). Scales with your level. Part of [The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The silver on the tithe-keeper's armour rises like hackles, and round the walls the escort's empty harness…*, in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md). Scales with your level. Starts from a conversation. Part of [The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**, when tithe keeper remembered: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (140 HP), 3 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (6500 XP)
 > - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (710 HP), 12 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (8300 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

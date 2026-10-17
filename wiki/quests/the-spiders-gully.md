@@ -57,7 +57,7 @@ Choose where Tsura goes. Either way she gives you the wedding rings, a pair of [
 ## Fights
 
 - *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*, in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**, when gully web read: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (810 XP)
 > - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)) (800 XP; surprise: party)
 

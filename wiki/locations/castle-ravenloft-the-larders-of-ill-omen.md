@@ -78,11 +78,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), 6 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md).
+- *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), 6 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md). Starts when you reach the guardroom.
 
-- *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 102 HP), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (102 HP), 3 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (75 HP), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) (38 HP), 5 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (45 HP).
+- *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Sergeant of the Watch ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 102 HP), 3 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (102 HP), 3 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (75 HP), [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) (38 HP), 5 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (45 HP). Starts from a conversation.
 
-- *Cyrus snatches up a cleaver in one hand and a ladle in the other, weeping, and the Belview cooks come out of…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Cyrus Belview ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 80 HP), 15 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md) (80 HP).
+- *Cyrus snatches up a cleaver in one hand and a ladle in the other, weeping, and the Belview cooks come out of…*, in [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): Cyrus Belview ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 80 HP), 15 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md) (80 HP). Starts from a conversation.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

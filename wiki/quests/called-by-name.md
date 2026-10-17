@@ -60,7 +60,7 @@ There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** an
 ## Fights
 
 - *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2450 XP; surprise: party)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2350 XP)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 4: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (570 XP; surprise: party)

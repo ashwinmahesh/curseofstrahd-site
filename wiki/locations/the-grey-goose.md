@@ -56,10 +56,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Part of [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The nails squeal out of the trapdoor on their own, and what's been living in the cellar for twenty winters…*, in [The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md): [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Starts from a conversation. Part of [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**, when level ≥ 3: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 2 × A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (900 XP)
 > - **[The Grey Goose](https://curseofstrahd.app/wiki/locations/the-grey-goose.md)**: The Innkeeper's Wife ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Son of the House ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (520 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

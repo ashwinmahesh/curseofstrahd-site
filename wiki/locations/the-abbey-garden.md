@@ -68,4 +68,14 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): The Stitched Sentry ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 60 HP), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 11 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md).
+- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): The Stitched Sentry ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 60 HP), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 11 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md). Starts when you reach the scarecrows.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the castle night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) | 160 |
+| 4–6 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 810 |
+| 7–11 | 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |

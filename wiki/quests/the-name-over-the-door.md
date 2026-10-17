@@ -84,7 +84,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 ## Fights
 
 - *For one moment more Khazan is himself, and he doesn't lift a hand. Then the lights in his eyes go out, and…*, in [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md): [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken and khazan said: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) (210 HP), 2 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)) (11900 XP; surprise: enemies)
 > - **[Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md)**, when khazan name broken: [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) (290 HP), 4 × A Visitor ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), A Remembered Knight ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (14100 XP)
 

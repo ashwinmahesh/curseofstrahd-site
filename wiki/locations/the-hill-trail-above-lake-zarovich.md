@@ -61,14 +61,28 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The count's fowlers drop out of the dead pine, and the bats come down after them like a black sheet shaken…*, in [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The count's fowlers drop out of the dead pine, and the bats come down after them like a black sheet shaken…*, in [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7450 XP; surprise: party)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7350 XP; surprise: party)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5600 XP; surprise: party)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7300 XP)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7250 XP)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5500 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the marsh night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 200 |
+| 4–6 | [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 970 |
+| 7–11 | [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 3 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 3750 |
+
+### On the road
+
+Random encounters met on [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md#zarovich-hills), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md#zarovich-shore) can be fought here. What comes, and how likely each is, is on [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md).
 
 ## Quests and lore
 

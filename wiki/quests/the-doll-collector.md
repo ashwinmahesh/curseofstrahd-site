@@ -81,13 +81,13 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 ## Fights
 
 - *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 3 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), Town guard ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)) (3925 XP)
 > - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
 > - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (60 HP) (1800 XP)
 
 - *Izek steps down off the dais, flexing the arm that isn't his. A few of the watch step down with him.*, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (280 HP), 6 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (6000 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (70 HP) (1800 XP)

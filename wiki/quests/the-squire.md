@@ -68,7 +68,7 @@ There are two endings, and both count as a success.
 ## Fights
 
 - *The men-at-arms come out of the courtyard in their grey ranks, still fighting the last battle, and turn…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 9: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 3 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 11 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (14900 XP)
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 8: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (11800 XP)
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 7: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 8 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (9200 XP)

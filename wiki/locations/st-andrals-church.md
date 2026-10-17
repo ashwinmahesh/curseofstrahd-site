@@ -84,11 +84,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Glass bursts inward along both walls of the nave. Pale shapes come through the windows head first, like…*, in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Glass bursts inward along both walls of the nave. Pale shapes come through the windows head first, like…*, in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Starts when the story sets it off. Part of [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 5: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (5650 XP)
 > - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2100 XP)
 > - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (55 HP), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3650 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

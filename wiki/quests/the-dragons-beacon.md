@@ -113,7 +113,7 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 ## Fights
 
 - *The warden's spear comes down, and the walls of the vault answer: grey men-at-arms step out of the stone on…*, in [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 11 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (8400 XP)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)

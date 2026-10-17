@@ -61,11 +61,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The warden's spear comes down, and the walls of the vault answer: grey men-at-arms step out of the stone on…*, in [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The warden's spear comes down, and the walls of the vault answer: grey men-at-arms step out of the stone on…*, in [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 8: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**, when level ≥ 7: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 11 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (8400 XP)
 > - **[The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md)**: Phantom Warden ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

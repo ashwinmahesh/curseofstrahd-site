@@ -81,13 +81,23 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Black Armor ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)), 2 × Balcony Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Black Armor ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)), 2 × Balcony Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts when you reach the balcony.
 
-- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): The Nursemaid ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
+- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): The Nursemaid ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts from a conversation.
 
-- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md), [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
+- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md), [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts when you reach the storage room.
 
-- *Every blade on the floor has woken up.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Ceremonial Blade ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Dress Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)).
+- *Every blade on the floor has woken up.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Ceremonial Blade ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Dress Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)). Starts when you reach the balcony.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

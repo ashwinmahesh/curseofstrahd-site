@@ -97,26 +97,36 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the black horse's crypt.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when not strahd in coffin and carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (355 HP), Beucephalus ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 5 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (22800 XP; lair)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (375 HP), Beucephalus ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (17400 XP; lair)
 
-- *The coffins are empty because their sleepers are already standing, and they have been waiting for you.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The coffins are empty because their sleepers are already standing, and they have been waiting for you.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the sleepers' crypt.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when day: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; surprise: enemies)
 
-- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (134 HP).
+- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (134 HP). Starts when you reach the champion's tomb.
 
-- *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (160 HP), 8 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (18300 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 10: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (360 HP), 10 × A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (19400 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named and level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (100 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when level ≥ 9: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when corvina named: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (95 HP) (8400 XP)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**: [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) (130 HP), A Door-Warden ([Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md)) (9500 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

@@ -86,10 +86,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
+- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Starts from a conversation.
 
-- *The marshal salutes with his blade, and his two lieutenants walk their bone horses out of the column to his…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md). Scales with your level. Part of [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The marshal salutes with his blade, and his two lieutenants walk their bone horses out of the column to his…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md). Scales with your level. Starts from a conversation. Part of [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down and level ≥ 8: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (380 HP), 3 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (6000 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down and level ≥ 6: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), 2 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (5300 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (110 HP), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (4600 XP)
@@ -97,11 +97,21 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down and level ≥ 6: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (200 HP), 2 × Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) (5600 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when not riders stood down: [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md) (110 HP), Lieutenant of the Vanguard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 6 × Rider of the Last Muster ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (4900 XP)
 
-- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

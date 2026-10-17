@@ -81,6 +81,20 @@ The containers here also get random magic items and potions, rolled for a party 
 | 11 | the view from the crag | Perception 14 | Scan the lane from the crag | reveals old_bonegrinder_track:ditch_vial |
 | 12 | Cart ruts | Survival 12 | Follow the cart ruts | lore: Who comes up the hill |
 
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the town night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 2 × [Tough](https://curseofstrahd.app/wiki/bestiary/tough.md), 2 × [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 275 |
+| 4–6 | 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 1250 |
+| 7–11 | 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 4125 |
+
 ## Quests and lore
 
 - [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md): Two children from the village under the castle are caged in the loft of Old Bonegrinder, the windmill where Morgantha and her daughters…

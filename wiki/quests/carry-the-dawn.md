@@ -72,7 +72,7 @@ The Abbot's fate is the choice in this quest that changes the rest of the game (
 ## Fights
 
 - *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*, in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): [Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 7: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 350 HP), 2 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md), 3 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 2 × [Flesh Golem](https://curseofstrahd.app/wiki/bestiary/flesh-golem.md) (10950 XP)
 > - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**, when level ≥ 6: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 100 HP), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5950 XP)
 > - **[The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md)**: The Abbot ([Deva](https://curseofstrahd.app/wiki/bestiary/deva.md), 85 HP) (5900 XP)

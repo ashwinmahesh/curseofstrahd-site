@@ -70,7 +70,7 @@ You don't need him, though. Looking at the shapes in the ice of the gorge wall a
 ## Fights
 
 - *The Penitent stands up out of the gorge wall, nine pilgrims fused in grey ice, and turns all its heads toward…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 11: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (920 HP), 10 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (11700 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 10: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (625 HP), 5 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9450 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 9: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (645 HP), 4 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9000 XP)

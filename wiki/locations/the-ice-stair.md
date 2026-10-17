@@ -50,3 +50,21 @@ The containers here also get random magic items and potions, rolled for a party 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
 | 3 | a traveller frozen where he sat | Medicine 13 | Examine the frozen traveller | finds Potion of Giant Strength (Frost Giant) |
+
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
+
+### On the road
+
+Random encounters met on [Amber Temple Road](https://curseofstrahd.app/wiki/world/random-encounters.md#amber-temple-road) can be fought here. What comes, and how likely each is, is on [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md).

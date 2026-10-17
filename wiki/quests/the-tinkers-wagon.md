@@ -63,7 +63,7 @@ There's one ending. Iosif tells you to open the wagon's belly, and inside are **
 ## Fights
 
 - *The green wagon stands up off its wheels, and two of the trinkets on its hooks open their own small mouths.*, in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md), [Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 6: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (450 HP), 5 × A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (5150 XP)
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when level ≥ 5: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (220 HP), A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3350 XP)
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**: [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) (110 HP), A Trinket ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)) (3350 XP)

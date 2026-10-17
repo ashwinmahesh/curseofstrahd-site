@@ -2,176 +2,222 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/world/random-encounters.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Travelling between places on the map can be interrupted. Each road has a chance by day and by night, and a weighted table of what comes.
+Travelling between places on the map can be interrupted. Each leg of a journey (one road between two places) rolls its road's chance, by day or by night; if something comes, a weighted pick among the entries whose condition holds decides what.
+
+The **By day** and **By night** columns are the chance of meeting that entry on one leg, counting every entry that can happen at that time. A story condition that rules some out, or a one-time meeting you've already had, makes the rest more likely; what raises the odds is at the end of the page.
 
 ## Amber Temple Road
 The ice stair between the Tsolenka Pass and the Amber Temple: whiteouts, a dead expedition, gargoyles off the cliffs, and the frozen dead who climb at night.
 
-Chance per journey: 25% by day, 45% by night.
+**Roads:** The Tsolenka Pass to The Amber Temple; The Tsolenka Pass to The North Shoulder of Ghakis; The Tsolenka Pass to The Ghakis Quarry.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day |  | 0 |
-| 2 | not amber road expedition found |  | 0 |
-| 2 |  | 13 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) | 5850 |
-| 3 | night | 4 × Frozen climber ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 × The cold's own ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) | 6400 |
+**Fought on:** [The Ice Stair](https://curseofstrahd.app/wiki/locations/the-ice-stair.md), [A Narrow Pass](https://curseofstrahd.app/wiki/locations/a-narrow-pass.md), [A Frozen Tarn](https://curseofstrahd.app/wiki/locations/a-frozen-tarn.md).
+
+Something happens on 25% of legs by day and 45% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| *The wind turns, and the mountain disappears. Snow comes sideways, thick as wool, and the person in front of…* (a meeting) | day | 11% | — |  |
+| *Off the path, half buried, a ring of tents has been crushed flat by old snow. Inside, a party of climbers…* (a meeting) Once only. | not amber road expedition found | 7.1% | 13% |  |
+| 13 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) |  | 7.1% | 13% | 5850 |
+| 4 × Frozen climber ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 × The cold's own ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) | night | — | 19% | 6400 |
 
 ## Argynvostholt Road
 The knights' road: a narrow track that leaves the Svalich Woods and climbs through old pines to the ridge of Argynvostholt. The Order's dead walk it at night; so do older things.
 
-Chance per journey: 15% by day, 40% by night.
+**Roads:** Vallaki to Argynvostholt; Tser Pool to Argynvostholt.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 2 | night and not order patrol met |  | 0 |
-| 2 | night and not phantom ride seen |  | 0 |
-| 3 | night and order fate is “ride” and not knights hunt seen |  | 0 |
-| 3 | night and argynvost beacon lit and not beacon light seen |  | 0 |
-| 2 |  | 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | 4700 |
-| 2 | night and not argynvost beacon lit and not vladimir pact | 8 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) | 6600 |
-| 2 | day | 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 4700 |
+**Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
+
+Something happens on 15% of legs by day and 40% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| *Two figures in black plate stand in the middle of the track ahead with drawn swords, quite still, as if they…* (a meeting) Once only. | night and not order patrol met | — | 5.7% |  |
+| *Hooves on the road behind you, a great many of them, coming fast. You get off the track just in time.* (a meeting) Once only. | night and not phantom ride seen | — | 5.7% |  |
+| *Torchlight on the track ahead: a dozen dead knights of the Order on foot, swords out, standing around…* (a meeting) Once only. | night and order fate is “ride” and not knights hunt seen | — | 8.6% |  |
+| *The track crests a rise, and there it is on its ridge to the north: the beacon of Argynvostholt, burning…* (a meeting) Once only. | night and argynvost beacon lit and not beacon light seen | — | 8.6% |  |
+| 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) |  | 7.5% | 5.7% | 4700 |
+| 8 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) | night and not argynvost beacon lit and not vladimir pact | — | 5.7% | 6600 |
+| 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | day | 7.5% | — | 4700 |
 
 ## Baratok Slopes
 The mountain roads north of Vallaki: up Mount Baratok, along the high ridges and over the Tsolenka Pass. Wolves, ogres and spiders by day, werewolves by night, and a roc overhead.
 
-Chance per journey: 20% by day, 40% by night.
+**Roads:** Vallaki to Mount Baratok; Vallaki to The Tsolenka Pass; Mount Baratok to The Tsolenka Pass; Van Richten's Tower to Mount Baratok.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 |  | 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 4000 |
-| 2 | day | 2 × [Ogre](https://curseofstrahd.app/wiki/bestiary/ogre.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 4400 |
-| 2 |  | 2 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 3200 |
-| 2 | night | 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | 4100 |
-| 1 |  |  | 0 |
-| 1 | day |  | 0 |
+**Fought on:** [A Mountain Ledge](https://curseofstrahd.app/wiki/locations/a-mountain-ledge.md), [A Narrow Pass](https://curseofstrahd.app/wiki/locations/a-narrow-pass.md), [A Frozen Tarn](https://curseofstrahd.app/wiki/locations/a-frozen-tarn.md).
+
+Something happens on 20% of legs by day and 40% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) |  | 6.7% | 15% | 4000 |
+| 2 × [Ogre](https://curseofstrahd.app/wiki/bestiary/ogre.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | day | 4.4% | — | 4400 |
+| 2 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) |  | 4.4% | 10% | 3200 |
+| 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | night | — | 10% | 4100 |
+| *The trail crosses a bare ridge as the light goes, and a single cloud, no bigger than a barn, slides up over…* (a meeting) Once only. |  | 2.2% | 5.0% |  |
+| *The light goes, all at once, as if a lid has been put on the valley. Then it comes back. High above the road…* (a meeting) Once only. | day | 2.2% | — |  |
 
 ## Berez Marsh
 The marsh track between Vallaki and the drowned village of Berez: Baba Lysaga's scarecrows walk it, insects rise off it in clouds, and lights wander it at night.
 
-Chance per journey: 20% by day, 45% by night.
+**Roads:** Vallaki to The Ruins of Berez; The Wizard of Wines to The Ruins of Berez.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day | 6 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 6 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 4 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) | 8300 |
-| 3 |  | 8 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 5 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) | 9100 |
-| 3 | night | 7 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 5 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) | 3650 |
-| 1 |  |  | 0 |
-| 1 | day |  | 0 |
+**Fought on:** [The Marsh Track](https://curseofstrahd.app/wiki/locations/the-marsh-track.md), [The Sunken Causeway](https://curseofstrahd.app/wiki/locations/the-sunken-causeway.md), [The Barrow Moor](https://curseofstrahd.app/wiki/locations/the-barrow-moor.md).
+
+Something happens on 20% of legs by day and 45% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 6 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 6 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 4 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) | day | 7.5% | — | 8300 |
+| 8 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 5 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) |  | 7.5% | 19% | 9100 |
+| 7 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 5 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) | night | — | 19% | 3650 |
+| *Somewhere ahead, under the black water, a bell rings. Once, then again, slow, the way a chapel bell rings for…* (a meeting) Once only. |  | 2.5% | 6.4% |  |
+| *A raven drops onto a post at the side of the track and looks at you with one eye, then the other, as if…* (a meeting) Once only. | day | 2.5% | — |  |
 
 ## Bonegrinder Lane
 The miller's lane between the Old Svalich Road and Old Bonegrinder: close pines and deep ruts. Wolves and the dead, Morgantha on her rounds while the coven stands, and afterwards whichever daughter is still loose.
 
-Chance per journey: 20% by day, 45% by night.
+**Roads:** Village of Barovia to Old Bonegrinder; The Ivlis Crossroads to Old Bonegrinder.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day | 9 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 3200 |
-| 3 | day and not morgantha slain and not morgantha cart met and not bonegrinder bargain |  | 0 |
-| 2 | day and bonegrinder fate is “bella” and not bella slain |  | 0 |
-| 2 | offalia at large and not offalia slain |  | 0 |
-| 1 | day and ilinca vouched |  | 0 |
-| 3 | night | 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3100 |
-| 2 | night | 9 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 6 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | 5250 |
-| 1 | night | 9 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 7 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 4950 |
+**Fought on:** [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md).
+
+Something happens on 20% of legs by day and 45% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 9 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | day | 5.5% | — | 3200 |
+| *A handcart comes squeaking round the bend, heaped high under a white cloth, and behind it, pushing, a little…* (a meeting) Once only. | day and not morgantha slain and not morgantha cart met and not bonegrinder bargain | 5.5% | — |  |
+| *The pastry cart comes round the bend again, but the woman pushing it is young and lovely, with a red ribbon…* (a meeting) | day and bonegrinder fate is “bella” and not bella slain | 3.6% | — |  |
+| *A large woman in a floury apron sits in the ditch with her legs stuck out, stripping a bramble of its berries…* (a meeting) | offalia at large and not offalia slain | 3.6% | 11% |  |
+| *Ravens come down the lane in one long black line, low over your heads. One drops something in the road at…* (a meeting) Once only. | day and ilinca vouched | 1.8% | — |  |
+| 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night | — | 17% | 3100 |
+| 9 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 6 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | night | — | 11% | 5250 |
+| 9 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 7 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | night | — | 5.6% | 4950 |
 
 ## Krezk Road
 The Old Svalich Road west of Vallaki, climbing through pine and rock to Krezk at the end of the valley. Wolves, blights and the druids who tend them by day; werewolves and the dead by night.
 
-Chance per journey: 20% by day, 45% by night.
+**Roads:** Vallaki to Krezk.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day | 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 3700 |
-| 2 | day | 4 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) | 2400 |
-| 2 | day and not clovin met on road |  | 0 |
-| 1 |  |  | 0 |
-| 3 | night | 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 2900 |
-| 2 | night | 14 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 6300 |
-| 2 | day and attention ≥ watched |  | 0 |
+**Fought on:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md), [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
+
+Something happens on 20% of legs by day and 45% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | day | 6.0% | — | 3700 |
+| 4 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) | day | 4.0% | — | 2400 |
+| *A handcart lies tipped in the ditch with one wheel off. Beside it, sitting on an empty wine cask, is a…* (a meeting) Once only. | day and not clovin met on road | 4.0% | — |  |
+| *At a bend stands a waist-high stone with a sunburst cut into it, so old the rays are just dents. A candle…* (a meeting) Once only. |  | 2.0% | 7.5% |  |
+| 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night | — | 22% | 2900 |
+| 14 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | night | — | 15% | 6300 |
+| *A Vistani wagon pulls aside to let you by, and the driver tips his hat, and asks where you are bound, and…* (a meeting) Once only. | day and attention ≥ watched | 4.0% | — |  |
 
 ## Svalich Road
 The Old Svalich Road between the Gates, the village, the crossroads and Tser Pool: open ground, ditches and field walls. Wolves by day, the dead and worse by night; now and then a meeting.
 
-Chance per journey: 15% by day, 40% by night.
+**Roads:** The Gates of Barovia to Village of Barovia; Village of Barovia to The Ivlis Crossroads; The Ivlis Crossroads to Tser Pool; Village of Barovia to The Grey Goose; The Grey Goose to The Ivlis Crossroads.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day | 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 950 |
-| 2 | day and not funeral met |  | 0 |
-| 2 | day and not ravens met |  | 0 |
-| 1 | day and not lost bundle found |  | 0 |
-| 1 | not strahd road encounter |  | 0 |
-| 3 | night | 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 960 |
-| 2 | night | 11 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | 2200 |
-| 2 | night | 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 8 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | 1750 |
-| 1 | night and not dead procession met |  | 0 |
-| 1 | night | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 1000 |
-| 2 | night and attention ≥ watched |  | 0 |
-| 2 | night and attention ≥ marked | 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 960 |
+**Fought on:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md).
+
+Something happens on 15% of legs by day and 40% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | day | 5.0% | — | 950 |
+| *Up the road comes a handcart with a plain coffin on it, pushed by a stooped farmer and pulled by a boy of…* (a meeting) Once only. | day and not funeral met | 3.3% | — |  |
+| *A raven drops onto the road a few paces ahead and walks beside you, the way a dog would, for the better part…* (a meeting) Once only. | day and not ravens met | 3.3% | — |  |
+| *In the ditch beside the road lies a peddler's pack with its straps torn through. No peddler. A long smear in…* (a meeting) Once only. | day and not lost bundle found | 1.7% | — |  |
+| *Hoofbeats, unhurried, out of the fog ahead. A black horse with eyes like banked coals comes down the road at…* (a meeting) Once only. | not strahd road encounter | 1.7% | 2.9% |  |
+| 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | night | — | 8.6% | 960 |
+| 11 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | night | — | 5.7% | 2200 |
+| 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 8 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md) | night | — | 5.7% | 1750 |
+| *Lanterns on the road ahead, swaying in a line: a funeral procession, out at the one hour no living Barovian…* (a meeting) Once only. | night and not dead procession met | — | 2.9% |  |
+| [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night | — | 2.9% | 1000 |
+| *A swarm of bats crosses the road ahead of you, turns back, and crosses again, low enough to stir your hair.…* (a meeting) Once only. | night and attention ≥ watched | — | 5.7% |  |
+| 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | night and attention ≥ marked | — | 5.7% | 960 |
 
 ## Svalich Woods
 The Old Svalich Road through the Svalich Woods, between Tser Pool, Tser Falls and Vallaki: close pines and small clearings. Wolves and hunters by day, werewolves and the dead by night.
 
-Chance per journey: 20% by day, 50% by night.
+**Roads:** The Ivlis Crossroads to Tser Falls; Tser Falls to Tser Pool; Tser Pool to Vallaki; The Ivlis Crossroads to The Webbed Gully; The Webbed Gully to Tser Falls; The Ivlis Crossroads to Castle Ravenloft.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | day | 5 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 1150 |
-| 2 | day and not hunters met |  | 0 |
-| 1 | day and not ravens met |  | 0 |
-| 1 | day and not lost bundle found |  | 0 |
-| 1 | not strahd road encounter |  | 0 |
-| 3 | night | 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 1010 |
-| 2 | night | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 1200 |
-| 1 | night | 8 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 5 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 1850 |
-| 1 | night | 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 850 |
-| 2 | day and attention ≥ watched |  | 0 |
-| 2 | night and attention ≥ marked | 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 1010 |
+**Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
+
+Something happens on 20% of legs by day and 50% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 5 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | day | 6.0% | — | 1150 |
+| *A bowstring creaks in the trees to the left, and another to the right. A grizzled man steps onto the road…* (a meeting) Once only. | day and not hunters met | 4.0% | — |  |
+| *A raven drops onto the road a few paces ahead and walks beside you, the way a dog would, for the better part…* (a meeting) Once only. | day and not ravens met | 2.0% | — |  |
+| *In the ditch beside the road lies a peddler's pack with its straps torn through. No peddler. A long smear in…* (a meeting) Once only. | day and not lost bundle found | 2.0% | — |  |
+| *Hoofbeats, unhurried, out of the fog ahead. A black horse with eyes like banked coals comes down the road at…* (a meeting) Once only. | not strahd road encounter | 2.0% | 5.0% |  |
+| 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | night | — | 15% | 1010 |
+| [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night | — | 10% | 1200 |
+| 8 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 5 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | night | — | 5.0% | 1850 |
+| 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night | — | 5.0% | 850 |
+| *For a mile a grey wolf keeps pace with you just inside the treeline, never closer, never farther, never…* (a meeting) Once only. | day and attention ≥ watched | 4.0% | — |  |
+| 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | night and attention ≥ marked | — | 10% | 1010 |
 
 ## Vineyard Road
 The lake road west of Vallaki and the barrow track to Yester Hill: hedgerows, moor and thin woods. Blights grown on Yester Hill by day and night until the tree burns, druid patrols until the hill is broken, wolves after dark, the Keepers' ravens, and the druids come back for revenge if they were let go and the tree still stands.
 
-Chance per journey: 15% by day, 40% by night.
+**Roads:** Vallaki to The Wizard of Wines; The Wizard of Wines to Yester Hill.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | not gulthias tree burned | 2 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 2150 |
-| 2 | not yester hill resolved | 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 2 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) | 3100 |
-| 2 | night | 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 3700 |
-| 1 | day and davian met and not raven word heard |  | 0 |
-| 3 | (yester druids fate is “spared” or yester druids fate is “fled”) and not gulthias tree burned | Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 55 HP), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) | 2850 |
-| 2 | day and attention ≥ watched |  | 0 |
-| 2 | night and attention ≥ marked | 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 3700 |
+**Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md).
+
+Something happens on 15% of legs by day and 40% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 2 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | not gulthias tree burned | 4.1% | 10% | 2150 |
+| 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 2 × [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) | not yester hill resolved | 2.7% | 6.7% | 3100 |
+| 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | night | — | 6.7% | 3700 |
+| *A raven lands on the road ahead, drops something at your feet and waits. It's a vine leaf, fresh and green,…* (a meeting) Once only. | day and davian met and not raven word heard | 1.4% | — |  |
+| Mother Ruxandra ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 55 HP), 4 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 6 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) Once only. | (yester druids fate is “spared” or yester druids fate is “fled”) and not gulthias tree burned | 4.1% | 10% | 2850 |
+| *A black bird sits on a fence post and watches you pass. It is not one of the Keepers' ravens; those look away…* (a meeting) Once only. | day and attention ≥ watched | 2.7% | — |  |
+| 8 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | night and attention ≥ marked | — | 6.7% | 3700 |
 
 ## Zarovich Hills
 The trails through the hills between Vallaki, Lake Zarovich, the werewolves' den and Lake Baratok: pines, boulders and long views. Kiril's wolves by day and night until the pack question is settled; the hungry dead by night.
 
-Chance per journey: 20% by day, 45% by night.
+**Roads:** Lake Zarovich to The Werewolf Den; Vallaki to The Werewolf Den; Lake Zarovich to Van Richten's Tower; The Werewolf Den to Van Richten's Tower; Van Richten's Tower to Krezk.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | night and wolf pack leader isn't “emil” and wolf pack leader isn't “none” | 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 2950 |
-| 2 | day and wolf pack leader isn't “emil” | 5 × Pack leader ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 9 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | 5300 |
-| 2 | night | 9 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) | 5450 |
-| 2 | night and not den way known and not pack resolved |  | 0 |
-| 1 | day and not den way known |  | 0 |
-| 1 | day and not den way known and not pack resolved |  | 0 |
-| 1 | not tower rumor and not van richten reunited |  | 0 |
-| 2 | wolf pack leader is “emil” |  | 0 |
+**Fought on:** [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md), [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md).
+
+Something happens on 20% of legs by day and 45% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | night and wolf pack leader isn't “emil” and wolf pack leader isn't “none” | — | 14% | 2950 |
+| 5 × Pack leader ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 9 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) | day and wolf pack leader isn't “emil” | 5.7% | — | 5300 |
+| 9 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) | night | — | 9.0% | 5450 |
+| *Up in the hills a wolf howls, long and rising. Another answers it from the north, and then a third, and then…* (a meeting) Once only. | night and not den way known and not pack resolved | — | 9.0% |  |
+| *A farm cart lies on its side in the ditch, one wheel still turning slowly in the wind. No horse. No driver.…* (a meeting) Once only. | day and not den way known | 2.9% | — |  |
+| *On a ridge above the trail, a big wolf stands outlined against the sky, watching you. When it sees you…* (a meeting) Once only. | day and not den way known and not pack resolved | 2.9% | — |  |
+| *A dead wolf hangs by one leg from a bent sapling, the snare bitten deep: silvered wire, tied with a neat,…* (a meeting) Once only. | not tower rumor and not van richten reunited | 2.9% | 4.5% |  |
+| *Three grey wolves cross the trail ahead of you at a lope. The last one stops, looks at you for a long moment,…* (a meeting) Once only. | wolf pack leader is “emil” | 5.7% | 9.0% |  |
 
 ## Zarovich Shore
 The lake path between Vallaki's west gate and the fishers' landing: reeds, shingle and black water. Quiet by day; by night the lake gives things back.
 
-Chance per journey: 10% by day, 35% by night.
+**Roads:** Vallaki to Lake Zarovich.
 
-| Weight | When | What | XP |
-|---|---|---|---|
-| 3 | night | 7 × Drowned fisher ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) | 5450 |
-| 1 | night | 8 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 3 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) | 6900 |
-| 2 | day and wolf pack leader isn't “emil” | 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | 4700 |
-| 2 |  |  | 0 |
-| 1 | night and not den way known and not pack resolved |  | 0 |
-| 2 | night and attention ≥ watched |  | 0 |
+**Fought on:** [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md), [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md).
+
+Something happens on 10% of legs by day and 35% by night.
+
+| What | When | By day | By night | XP |
+|---|---|---|---|---|
+| 7 × Drowned fisher ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) | night | — | 12% | 5450 |
+| 8 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 3 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md) Once only. | night | — | 3.9% | 6900 |
+| 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) | day and wolf pack leader isn't “emil” | 5.0% | — | 4700 |
+| *From somewhere out on the water, through the mist, a bell tolls once. Then again. There is no bell on Lake…* (a meeting) Once only. |  | 5.0% | 7.8% |  |
+| *Up in the hills a wolf howls, long and rising. Another answers it from the north, and then a third, and then…* (a meeting) Once only. | night and not den way known and not pack resolved | — | 3.9% |  |
+| *A swarm of bats crosses the road ahead of you, turns back, and crosses again, low enough to stir your hair.…* (a meeting) Once only. | night and attention ≥ watched | — | 7.8% |  |
 
 ## Night visitors at camp
 
@@ -232,3 +278,9 @@ When a night at camp in a risky place is interrupted, one of these comes out of 
 | 1–3 | *Scratching in the walls, then squeaking, then rats pour out of every crack and gap toward the warmth.* 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
 | 4–6 | *The shadows in the corners don't move when the fire does. Then they peel off the walls, and the dead come through the…* 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
 | 7–11 | *The fire gutters and burns blue. Something cold comes through the wall, and the dead it has made come with it.* [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
+
+## What raises the odds
+
+- **Strahd's attention.** The more he has noticed the party, the more of his eyes are on the roads: watched, +0% by day and +5% by night; marked, +5% by day and +10% by night; hunted, +5% by day and +15% by night.
+- **Weather.** Fog, +5% by day and +5% by night; Storm, +0% by day and +5% by night ([Weather](https://curseofstrahd.app/wiki/world/weather.md)).
+- The chance never goes above 95%, and Find the Path keeps every road quiet for a day.

@@ -48,7 +48,7 @@ Both endings count as success. Sealing is safe and pays 60 gp. Opening the wall 
 ## Fights
 
 - *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 3: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 55 HP), 5 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 35 HP) (1450 XP)
 > - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 2: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 70 HP), 2 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 45 HP), A Siege-Winter Servant ([Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (925 XP)
 > - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 24 HP), 3 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1050 XP)

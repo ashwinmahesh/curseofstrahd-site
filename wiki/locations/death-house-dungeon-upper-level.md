@@ -95,24 +95,34 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The crypt was full of something, and now the passage is.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *The crypt was full of something, and now the passage is.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts from a conversation.
 
-- *The bones in the passage stand up, and some of them still have meat on.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 5 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *The bones in the passage stand up, and some of them still have meat on.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 5 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts when you reach the bone-strewn passage.
 
-- *Part of the wall uncoils.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 2 × [Grick](https://curseofstrahd.app/wiki/bestiary/grick.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md).
+- *Part of the wall uncoils.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 2 × [Grick](https://curseofstrahd.app/wiki/bestiary/grick.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md). Starts when you reach the larder.
 
-- *Seven shadows peel off the walls, and none of them is yours.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *Seven shadows peel off the walls, and none of them is yours.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts from a conversation.
 
-- *The door has teeth.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): The Door ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), The Chest ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md).
+- *The door has teeth.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): The Door ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), The Chest ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Starts when you open a heavy oak door.
 
-- *Supper is served.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
+- *Supper is served.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts from a conversation.
 
-- *For one moment they are only parents, and grieving.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
+- *For one moment they are only parents, and grieving.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts from a conversation.
 
-- *The lids along the row slide back, one after another, and what the house kept down here climbs out to take…*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Part of [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The lids along the row slide back, one after another, and what the house kept down here climbs out to take…*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Starts from a conversation. Part of [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md)**, when not death house dursts destroyed and not death house dursts confessed: Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 3 × A Robed One ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1525 XP)
 > - **[Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md)**: The Robed One Who Carried Him ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 5 × A Robed One ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (1460 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

@@ -57,7 +57,7 @@ There's one ending. Agafia and her children stay in the hollow, Parriwimple keep
 ## Fights
 
 - *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) (875 XP; surprise: enemies)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP; surprise: enemies)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (900 XP)

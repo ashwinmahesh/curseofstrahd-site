@@ -89,10 +89,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2000 XP)
 > - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 45 HP), 3 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1875 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

@@ -51,7 +51,17 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) (395 HP). Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
+- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) (395 HP). Starts from a conversation. Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
 
 ## Quests and lore
 

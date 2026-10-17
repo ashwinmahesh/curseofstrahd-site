@@ -87,8 +87,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The bars bang open all down the row. They come out low and fast, in every shape the Abbot ever tried, and…*, in [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md): [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The bars bang open all down the row. They come out low and fast, in every shape the Abbot ever tried, and…*, in [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md): [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md). Scales with your level. Starts when the story sets it off.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md)**, when level ≥ 7: 11 × Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 16 × [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (5750 XP)
 > - **[The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md)**: Belview Brute ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 14 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Mongrelfolk](https://curseofstrahd.app/wiki/bestiary/mongrelfolk.md) (6800 XP)
 

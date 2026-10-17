@@ -67,7 +67,7 @@ You can also skip him: from level 10 a crack weeping amber appears in the vault 
 ## Fights
 
 - *The Eye Below sinks back into the amber to its middle as the last note of the lullaby goes, and wakes too…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (335 HP) (10000 XP; surprise: enemies)
 > - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when deep lullaby sung and not deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (100 HP), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md) (10100 XP; lair; surprise: enemies)
 > - **[Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)**, when not deep lullaby sung and deep mirrors turned: [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) (135 HP) (10000 XP)

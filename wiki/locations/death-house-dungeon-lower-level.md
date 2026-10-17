@@ -72,11 +72,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Lorghoth the Decayer wakes.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)).
+- *Lorghoth the Decayer wakes.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 135 HP). Starts from a conversation.
 
-- *Lorghoth the Decayer wakes, slowly. You saw it coming.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)).
+- *Lorghoth the Decayer wakes, slowly. You saw it coming.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): Lorghoth the Decayer ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 134 HP). Starts from a conversation.
 
-- *The shades will not let you leave so easily.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): 7 × Hooded Shade ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)).
+- *The shades will not let you leave so easily.*, in [Death House, Dungeon (Lower Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-lower-level.md): 7 × Hooded Shade ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Starts from a conversation.
 
 ## Quests and lore
 

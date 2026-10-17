@@ -65,17 +65,27 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Strahd stands at the foot of his brother's tomb with one hand on the stone. He finishes what he was saying to…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Strahd stands at the foot of his brother's tomb with one hand on the stone. He finishes what he was saying to…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach Sergei's tomb.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin and carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (455 HP), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 7 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (26300 XP; lair)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (19100 XP; lair)
 
-- *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md).
+- *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Starts when you reach the guardians' hall.
 
-- *He is sitting on the edge of the dais between his mother and his father, and the shadows of the vault stand…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *He is sitting on the edge of the dais between his mother and his father, and the shadows of the vault stand…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the tomb of King Barov and Queen Ravenovia.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin and carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (345 HP), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 8 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (28000 XP; lair)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (400 HP), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 2 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (17200 XP; lair)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

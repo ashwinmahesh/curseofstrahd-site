@@ -68,7 +68,7 @@ You get one helm and 250 gp either way, not both.
 ## Fights
 
 - *Querreth comes down onto the tower roof on red wings, and its chains come with it, full of grey shapes that…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (520 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (570 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
 

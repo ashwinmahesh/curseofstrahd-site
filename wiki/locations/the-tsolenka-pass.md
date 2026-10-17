@@ -81,20 +81,30 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *A shadow the size of a barn roof slides across the bridge. Then the wind comes, and the scream, and the…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *A shadow the size of a barn roof slides across the bridge. Then the wind comes, and the scream, and the…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md). Scales with your level. Starts when you reach the bridge.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off and level ≥ 9: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 285 HP), The Roc's Mate ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 85 HP) (14400 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off and level ≥ 8: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 160 HP) (7200 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 130 HP) (7200 XP)
 
-- *The Penitent stands up out of the gorge wall, nine pilgrims fused in grey ice, and turns all its heads toward…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The Penitent stands up out of the gorge wall, nine pilgrims fused in grey ice, and turns all its heads toward…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 11: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (920 HP), 10 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (11700 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 10: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (625 HP), 5 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9450 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 9: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (645 HP), 4 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9000 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (170 HP), 3 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (8550 XP)
 
-- *The stone birds come down on the shelf with a sound like a quarry falling, and the falconer lands among them,…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), 2 × The Falconer's Hand ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 6 × A Stone Bird ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)). Part of [The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md).
+- *The stone birds come down on the shelf with a sound like a quarry falling, and the falconer lands among them,…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), 2 × The Falconer's Hand ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 6 × A Stone Bird ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)). Starts from a conversation. Part of [The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md).
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
 
 ## Quests and lore
 

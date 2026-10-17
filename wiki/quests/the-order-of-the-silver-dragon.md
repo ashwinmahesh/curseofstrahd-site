@@ -84,7 +84,7 @@ Come by day if you can. Once you've met Godfrey, the courtyard in front of the d
 ## Fights
 
 - *Vladimir rises from the winged chair for the first time, and all down the table dead heads turn to watch. He…*, in [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (290 HP), 3 × Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 190 HP), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 80 HP) (10100 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (140 HP) (2900 XP)

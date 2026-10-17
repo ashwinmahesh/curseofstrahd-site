@@ -53,7 +53,17 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 HP), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
+- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 HP), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Starts from a conversation. Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
 
 ## Quests and lore
 

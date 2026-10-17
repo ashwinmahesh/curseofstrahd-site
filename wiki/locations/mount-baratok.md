@@ -77,10 +77,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level. Part of [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level. Starts from a conversation. Part of [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the mountain night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | 2 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 1125 |
+| 7–11 | [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 4 × [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 3050 |
 
 ## Quests and lore
 

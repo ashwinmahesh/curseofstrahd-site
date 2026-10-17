@@ -50,7 +50,17 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), 90 HP), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), 110 HP), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md), 100 HP). Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
+- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), 90 HP), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), 110 HP), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md), 100 HP). Starts from a conversation. Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the marsh night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) | 200 |
+| 4–6 | [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 970 |
+| 7–11 | [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 3 × [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 3750 |
 
 ## Quests and lore
 

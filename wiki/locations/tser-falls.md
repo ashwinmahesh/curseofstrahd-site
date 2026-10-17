@@ -73,16 +73,26 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts when you reach the lip of the falls.
 
-- *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md). Scales with your level. Part of [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md). Scales with your level. Starts from a conversation. Part of [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2450 XP; surprise: party)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 5: 5 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (2350 XP)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured and level ≥ 4: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (570 XP; surprise: party)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured and level ≥ 4: 2 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) (1000 XP)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when wisps lured: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (470 XP; surprise: party)
 > - **[Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)**, when not wisps lured: [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (470 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

@@ -67,7 +67,7 @@ You first have to free the five stolen children from the werewolves' den (see [T
 ## Fights
 
 - *The Grandsire comes over Krezk's wall in the moonlight with the old wolves of the pack at his heels.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (310 HP), 3 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (7500 XP)
 > - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 8: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (330 HP), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6800 XP)
 > - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 7: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6600 XP)

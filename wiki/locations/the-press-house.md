@@ -66,14 +66,24 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The vat bursts its hoops. What rises out of it is the winery's last harvest: skins, stems and rot, heaped…*, in [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md): [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The vat bursts its hoops. What rises out of it is the winery's last harvest: skins, stems and rot, heaped…*, in [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md): [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when gulthias tree burned and kostin fled: The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)) (1800 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when gulthias tree burned: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)) (2250 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when kostin fled: The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (2150 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 7: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 55 HP), 5 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md) (5100 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**, when level ≥ 6: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md), 60 HP), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 6 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (4200 XP)
 > - **[The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md)**: Kostin ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)), The Mash ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 160 HP), 3 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), Druid of Yester Hill ([Druid](https://curseofstrahd.app/wiki/bestiary/druid.md)) (3000 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

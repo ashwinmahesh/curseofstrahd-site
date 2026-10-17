@@ -65,7 +65,7 @@ This quest opens at level 9 (every character in the party has to be level 9). It
 ## Fights
 
 - *The silver on the tithe-keeper's armour rises like hackles, and round the walls the escort's empty harness…*, in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**, when tithe keeper remembered: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (140 HP), 3 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (6500 XP)
 > - **[The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md)**: [The Gilded Knight](https://curseofstrahd.app/wiki/bestiary/the-gilded-knight.md) (710 HP), 12 × An Escort's Harness ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)) (8300 XP)
 

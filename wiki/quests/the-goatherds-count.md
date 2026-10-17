@@ -61,7 +61,7 @@ Both endings pay the same: one potion and 25 gp. Only the approval and Erno's co
 ## Fights
 
 - *Out of the mists at the top of the pasture come wolves, white and wet with fog, low and fast, for the old…*, in [The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)**, when level ≥ 2: The Mist's Old Wolf ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), 4 × A Mist Wolf ([Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md)) (450 XP)
 > - **[The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)**: 6 × A Mist Wolf ([Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md)) (300 XP)
 

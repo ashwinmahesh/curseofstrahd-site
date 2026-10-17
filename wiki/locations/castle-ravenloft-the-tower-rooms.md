@@ -77,13 +77,23 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Around the cauldron, women in black rags look up all at once with the same wet smile. The brew heaves, and…*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Around the cauldron, women in black rags look up all at once with the same wet smile. The brew heaves, and…*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md), [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md). Scales with your level. Starts when you reach the cauldron room.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 11: 12 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (64 HP), 5 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (272 HP) (6700 XP)
 > - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared and level ≥ 10: 11 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (74 HP), 8 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (313 HP) (9900 XP)
 > - **[Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)**, when not cauldron coven cleared: 10 × [Barovian Witch](https://curseofstrahd.app/wiki/bestiary/barovian-witch.md) (36 HP), 6 × [Black Pudding](https://curseofstrahd.app/wiki/bestiary/black-pudding.md) (153 HP) (7600 XP)
 
-- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Starts from a conversation.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the indoors night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 100 |
+| 4–6 | 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 3 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md) | 1000 |
+| 7–11 | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md) | 4800 |
 
 ## Quests and lore
 

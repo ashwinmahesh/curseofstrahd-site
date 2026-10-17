@@ -65,7 +65,7 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 ## Fights
 
 - *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (750 XP)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**: 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (550 XP)
 

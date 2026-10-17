@@ -57,7 +57,7 @@ There's one ending, and it pays the same either way. Afterwards Freydis stays by
 ## Fights
 
 - *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not barrow watch known: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 3 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (4250 XP; surprise: party)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 5 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (5200 XP)
 

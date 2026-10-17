@@ -72,7 +72,7 @@ You can hear about [Stella Wachter](https://curseofstrahd.app/wiki/people/stella
 ## Fights
 
 - *Stella's shadow peels off the wall and stands up, and the shadows under the bed and behind the door stand up…*, in [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 6: 2 × The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 12 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (5200 XP)
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 5: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 12 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (3450 XP)
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 4: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 3 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2700 XP)

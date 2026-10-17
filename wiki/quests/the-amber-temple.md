@@ -124,13 +124,13 @@ What each gift gives and costs is on the [Dark Gifts](https://curseofstrahd.app/
 ## Fights
 
 - *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 395 HP), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)), 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (12200 XP)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 8: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP) (5900 XP)
 
 - *Vosk's shape slips like a badly hung coat. Under it: a jackal's head, a scholar's robe, and claws that shake.*, in [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when vosk named or vosk weakened: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 330 HP), 2 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (10600 XP)
 > - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 10: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 320 HP), 2 × Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (10600 XP)
 > - **[The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)**, when level ≥ 8: Vosk, unmasked ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), 104 HP), Bound skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (9500 XP)

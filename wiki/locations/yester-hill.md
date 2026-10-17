@@ -81,16 +81,26 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The men round the fire are big, bearded and painted green to the eyebrows. They see you, grin, and reach for…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The men round the fire are big, bearded and painted green to the eyebrows. They see you, grin, and reach for…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level. Starts when you reach the wardens' camp.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not wardens camp cleared and not yester hill resolved and level ≥ 7: 8 × Warden of the hill ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 97 HP), 8 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (23 HP) (4000 XP)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not wardens camp cleared and not yester hill resolved and level ≥ 6: 7 × Warden of the hill ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md), 68 HP), 8 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (3575 XP)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not wardens camp cleared and not yester hill resolved: 6 × Warden of the hill ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)), 8 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (3125 XP)
 
-- *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level. Part of [The Barrow on Yester Hill](https://curseofstrahd.app/wiki/quests/the-barrow-on-yester-hill.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*, in [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level. Starts from a conversation. Part of [The Barrow on Yester Hill](https://curseofstrahd.app/wiki/quests/the-barrow-on-yester-hill.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**, when not barrow watch known: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 3 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (4250 XP; surprise: party)
 > - **[Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)**: Silverjaw ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), 140 HP), 5 × A Barrow-Warden ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 5 × The Hill's Watch ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (5200 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

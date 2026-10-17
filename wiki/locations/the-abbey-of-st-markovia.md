@@ -82,6 +82,20 @@ The containers here also get random magic items and potions, rolled for a party 
 | 16 | the bell tower | Athletics 15 | Climb into the bell tower | finds Chime of Opening; on a failure: 2d6 bludgeoning damage |
 | 17 | the barred windows of the wards | Stealth 14 | Watch through the bars unseen | reveals abbey_of_st_markovia_wards:foundling_treasure; lore: The Belviews |
 
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the town night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 2 × [Tough](https://curseofstrahd.app/wiki/bestiary/tough.md), 2 × [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 275 |
+| 4–6 | 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 1250 |
+| 7–11 | 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 4125 |
+
 ## Quests and lore
 
 - [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md): Clovin Belview, the abbey's errand-runner, has written jokes for forty years and wants to tell them once to people who could choose not to…

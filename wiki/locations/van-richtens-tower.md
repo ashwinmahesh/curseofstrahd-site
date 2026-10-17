@@ -85,11 +85,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something is waiting where the causeway meets the shore: pale figures standing very still, and above them the…*, in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Something is waiting where the causeway meets the shore: pale figures standing very still, and above them the…*, in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level. Starts when you reach the causeway.
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 8: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), The castle's huntsman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (6250 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 7: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7400 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 6 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7500 XP; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the town night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 2 × [Tough](https://curseofstrahd.app/wiki/bestiary/tough.md), 2 × [Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) | 275 |
+| 4–6 | 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 2 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) | 1250 |
+| 7–11 | 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 4125 |
 
 ## Quests and lore
 

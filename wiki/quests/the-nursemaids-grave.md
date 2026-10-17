@@ -52,7 +52,7 @@ Old Mihail the gravedigger says a girl in a nursemaid's cap stands at the church
 ## Fights
 
 - *The lids along the row slide back, one after another, and what the house kept down here climbs out to take…*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md)**, when not death house dursts destroyed and not death house dursts confessed: Gustav Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), Elisabeth Durst ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 3 × A Robed One ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1525 XP)
 > - **[Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md)**: The Robed One Who Carried Him ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 5 × A Robed One ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (1460 XP)
 

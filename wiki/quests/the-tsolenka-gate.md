@@ -87,7 +87,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 ## Fights
 
 - *Grey soldiers draw grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
 > - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 7 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
 

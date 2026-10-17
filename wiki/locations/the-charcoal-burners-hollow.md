@@ -61,12 +61,22 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md). Scales with your level. Part of [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *You saw them coming up the oats, and where they'd come from. They didn't see you seeing, and one of the…*, in [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md). Scales with your level. Starts from a conversation. Part of [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen and level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Mastiff](https://curseofstrahd.app/wiki/bestiary/mastiff.md) (875 XP; surprise: enemies)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when oat trail seen: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (850 XP; surprise: enemies)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**, when level ≥ 3: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (900 XP)
 > - **[The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)**: A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (800 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

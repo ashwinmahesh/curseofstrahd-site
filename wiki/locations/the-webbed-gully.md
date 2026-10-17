@@ -59,10 +59,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*, in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Part of [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*, in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Starts from a conversation. Part of [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**, when gully web read: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (810 XP)
 > - **[The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md)**: 3 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md), 2 × A Swarm of Spiderlings ([Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md)) (800 XP; surprise: party)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

@@ -56,10 +56,20 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Part of [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md).
-> [!example]- By party level (the first line your party fits is the fight you get)
+- *Out of the trees all round the clearing come things that aren't trees, toward the sound of the cub crying.*, in [The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Starts from a conversation. Part of [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md).
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**, when level ≥ 4: 4 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (750 XP)
 > - **[The Old Den](https://curseofstrahd.app/wiki/locations/the-old-den.md)**: 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 4 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) (550 XP)
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
 
 ## Quests and lore
 

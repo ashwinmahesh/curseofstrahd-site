@@ -78,7 +78,7 @@ You may already have seen the storm strike if the lightning-ridge event came up 
 ## Fights
 
 - *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level.
-> [!example]- By party level (the first line your party fits is the fight you get)
+> [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
 

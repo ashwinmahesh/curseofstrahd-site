@@ -88,6 +88,20 @@ The containers here also get random magic items and potions, rolled for a party 
 |---|---|---|---|---|
 | 18 | Rotten jetty | Acrobatics 13 | Walk out to the end of the rotten jetty | 18 gp; on a failure: 1d4 cold damage |
 
+## Fights
+
+No fights of its own.
+
+### At camp here
+
+A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story difficulty). Then the forest night visitors for your level come out of the dark ([Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md)):
+
+| Party level | What comes | XP |
+|---|---|---|
+| 1–3 | 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) | 200 |
+| 4–6 | [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 460 |
+| 7–11 | 2 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) | 2125 |
+
 ## Quests and lore
 
 - [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md): On cold nights a horn sounds in the Svalich woods, and in the morning whoever the count is displeased with lies under the crossroads…
