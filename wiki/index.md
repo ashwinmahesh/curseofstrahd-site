@@ -23,6 +23,8 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
 - [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md): what the roads can throw at you
 - [Weather](https://curseofstrahd.app/wiki/world/weather.md) and [Strahd's Visits](https://curseofstrahd.app/wiki/story/strahds-visits.md)
+- [Soundtrack](https://curseofstrahd.app/wiki/world/soundtrack.md): the music for each place and fight, and who made it
+- [Voice Cast](https://curseofstrahd.app/wiki/world/voice-cast.md): who speaks, and how they sound
 
 ## Items and money
 
@@ -50,4 +52,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `1abeae811` on 2026-10-17 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `4bd2fe08e` on 2026-10-17 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
