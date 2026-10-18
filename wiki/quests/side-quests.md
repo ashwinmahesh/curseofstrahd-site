@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/quests/side-quests.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-102 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
+103 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
 
 ## Into the Mists (level 1)
 
@@ -142,6 +142,7 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md) | [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md) | Something whispers up the old well on the shore of Lake Baratok, from the archmage Khazan's library under the lake: don't come down. |
+| [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in a hunter's goods for proof that one is dead. |
 | [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Richten and warded against one person in particular. |
 | [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md) | [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md) | Mordenkainen says the archmage who built the tower on the tarn never died: he moved downstairs, and he's waking. |
 

@@ -119,7 +119,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 
 - **People:** [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md), [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md), [Khazan](https://curseofstrahd.app/wiki/people/khazan.md)
 - **Places:** [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md), [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
-- **More in Van Richten's Tower:** [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md), [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md)
+- **More in Van Richten's Tower:** [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md), [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md), [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md)
 
 > [!example]- Cutscenes
 > **The Name Over the Door**: A lich in a high chair under his tower, a book of names on his knees, and every candle leaning toward him.

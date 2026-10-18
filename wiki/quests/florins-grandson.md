@@ -14,7 +14,42 @@ Old Florin prays every day that his grandson, who went up the castle road for wo
 
 ## Walkthrough
 
-*No walkthrough written yet.*
+### Getting the quest
+
+[Old Florin](https://curseofstrahd.app/wiki/people/old-florin.md) prays in the nave of the [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) in the [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) from 7:00 to 18:00, walking a slow round between the pews. Talk to him and he says his grandson went up the road to the castle two winters ago, and he prays the boy doesn't come back. Pick "Tell us about your grandson." Tudorel went to ask the steward for work, because the roof was leaking and a boy of sixteen eats like a horse. Florin knows what walks down from that hill, so he prays the boy stays wherever he fell.
+
+You have two options here:
+
+- [Insight DC 12] "(He's holding something back.)": on a pass, Florin admits he told the boy the castle pays in silver and never runs short of firewood, and he won't forgive himself for it. On a fail he keeps it to himself. Either way you go on, and the result changes nothing later.
+- "We'll look for him." goes on without a roll.
+
+Both start the quest at **Asked**.
+
+### Step by step
+
+1. **Go to Wachterhaus in Vallaki.** Travel to [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) and go into [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md), [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md)'s house on the north side of the square. [Tudorel](https://curseofstrahd.app/wiki/people/tudorel.md) is the young footman pouring tea in her parlour. He wears good grey-and-black wool, and on his collar is the castle's crest, a raven and crown. He knows what you're thinking, and asks you to keep your voices down in the hall.
+
+   ![loc vallaki wachter house 1](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-wachter-house-1.webp)
+
+2. **Tell him who sent you.** Pick "We've come from Old Florin, in the Village of Barovia." He goes still. Every month he gives [Old Kolya](https://curseofstrahd.app/wiki/people/old-kolya.md) the carter a silver piece for his grandfather, wrapped in tea-paper with no name on it. If Florin knew whose coat he wore to earn it, he'd throw the coin in the well. Tudorel begs you not to say where you saw him. "Tell him I died clean in the ditch if you have to, or whatever you think will let him sleep." The quest moves to **Found**.
+3. **Go back to Old Florin.** At the church, pick "We found Tudorel." and choose what to tell him (see below). "Not yet." leaves without choosing, and you can come back.
+
+### Choices and endings
+
+There are three endings. Each ends the quest at **Done**. There's no gold or item, and none of them needs a roll.
+
+- **The whole truth:** "Tell him the whole truth: Tudorel is alive, in the count's livery, and likes it." Florin sits very straight for a long moment. Better a grandson in a count's coat than in a count's cellar, he says. He's angry at the fool, and glad he has the mutton. Then he asks if anyone has a stub of pencil he could borrow. Godrick, Thistle and Liriel approve (+1 each).
+- **The lie:** "Tell him Tudorel died, at peace." Florin takes it like a blow he has braced for for two years, thanks you for telling him plainly, and asks you to light a candle by the door on your way out. Kip and Wren approve (+1 each), and Godrick disapproves (-1).
+- **The half-truth:** "Tell him Tudorel is well and warm, and don't say whose livery." Florin looks at you for a long time. "That is either a very good lie or a very careful truth," and he won't pry into which. Ratatouille and Liriel approve (+1 each).
+
+Afterwards the coin keeps coming. After the truth or the half-truth, Florin sits by the brazier turning a silver coin over: Old Kolya left it on his windowsill, and castle silver's paper always smells of good tea. Tudorel, if you visit again, thanks you for going.
+
+### If you're stuck
+
+- Old Florin is only in the church from 7:00 to 18:00.
+- Tudorel isn't in the parlour while the [Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md) is going on. Go and find him before the festival begins.
+- The quest starts in the Village of Barovia, but Tudorel is in Vallaki, a later region. The journal hint points the way: Lady Wachter's household keeps footmen in grey-and-black livery.
+- There's no fight, and no roll you need to pass.
 
 ## Rewards
 

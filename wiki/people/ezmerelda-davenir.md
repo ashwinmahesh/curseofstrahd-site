@@ -26,5 +26,6 @@ A Vistana who left the wagons to hunt the things that hunt people, trained by Ru
 ## Quests
 
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md)
+- [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md) (gives it)
 - [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md) (gives it)
 - [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md)

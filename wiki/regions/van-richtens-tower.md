@@ -16,6 +16,7 @@ Built for a party of about level 8: random treasure here is rolled for that leve
 ## Quests
 
 - [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md)
+- [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md)
 - [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md)
 - [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)
 

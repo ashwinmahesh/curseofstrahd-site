@@ -10,7 +10,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## Walkthroughs
 
 - [Main Story](https://curseofstrahd.app/wiki/quests/main-story.md): the 13 quests of the story, in order
-- [Side Quests](https://curseofstrahd.app/wiki/quests/side-quests.md): all 102, by region and level
+- [Side Quests](https://curseofstrahd.app/wiki/quests/side-quests.md): all 103, by region and level
 - [The Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md): every card, and where it hides the treasures
 - [Endings](https://curseofstrahd.app/wiki/story/endings.md): how the game can end
 
@@ -52,4 +52,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `544d12b34` on 2026-10-18 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `cdef101f7` on 2026-10-18 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

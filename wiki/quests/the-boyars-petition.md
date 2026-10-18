@@ -15,7 +15,33 @@ Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft t
 
 ## Walkthrough
 
-*No walkthrough written yet.*
+### Getting the quest
+
+In Castle Ravenloft, take the grand stairs up from the great entry of [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) to [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md). [Boyar Vintila Crainic](https://curseofstrahd.app/wiki/people/boyar-vintila-crainic.md) paces the audience hall with a sealed scroll held to his chest, at any hour. "What's in the petition?" gets you a boundary stone his neighbour moved eleven paces in the night. "We could put your petition to the count for you." gets a flat no: he presents it himself, in the proper form. To start the quest, ask "What does a petition need, to be presented in the proper form?" It needs the four lesser seals of the household. The quest starts at **Asked**.
+
+### Step by step
+
+There's no fight and no roll anywhere in this quest. Get the four seals in any order. Each ghost servant offers "The Boyar's petition needs your seal." while the quest is at Asked and you don't yet have theirs. Each asks for one small thing the wedding night stopped. "Not just now." leaves it for later.
+
+1. **The valet's seal.** Go up the "Stairs up to the rooms above" at the east end of the Court to [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md). [Ghenadie the Valet](https://curseofstrahd.app/wiki/people/ghenadie-the-valet.md) is turning down the great bed in the count's bedroom. Nobody has slept in it for three hundred years. Choose "(Sit on the edge of the great bed, and let him tuck you in.)" and he gives you the valet's seal, in tallow.
+2. **The secretary's seal.** Back in the Court, [Anghel Daskal](https://curseofstrahd.app/wiki/people/anghel-daskal.md) is squaring papers in the study at the west end. He hasn't held his pen since the music stopped. Choose "(Take the quill and write the line he dictates.)" and you get the chancery's red wax.
+3. **The verger's seal.** Down on the Main Floor, [Nicodim the Verger](https://curseofstrahd.app/wiki/people/nicodim-the-verger.md) lights candles in the chapel passage in the south-east corner. The blessing needs witnesses at the porch. Choose "(Stand by the font and give the response.)" and you get the chapel's white wax.
+4. **The lamplighter's seal.** Take "The high tower stairway, up" in the Main Floor's north-east corner (or the tower stairs from the Court) to [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md). [Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md) stands at the foot of the tower. His heart gave out on the last of the 209 steps. Choose "(Climb the stair beside him, counting aloud.)". The climb takes 20 minutes, and he gives you the sooty brass stamp from his belt.
+5. **Show the Boyar.** With all four, tell the Boyar "We have the four seals." He checks the tallow, red wax, white wax and lampblack, and sends you to the Steward. The quest moves to **Sealed**.
+6. **Have it received.** In the dining hall on the west side of the Main Floor, tell [The Steward](https://curseofstrahd.app/wiki/people/the-steward.md) "The Boyar's petition is sealed and wants receiving." He enters it on the sideboard, as the ledger is downstairs. The quest moves to **Received**.
+7. **Tell the Boyar.** Back in the audience hall, say "The Steward has received your petition." The quest ends at **Done**.
+
+### Choices and endings
+
+There's one ending. The Boyar asks how his south orchard looks, and you tell him Lake Zarovich rose over the old road and the orchards long ago. He finds that entirely satisfactory: his neighbour's cellar is flooded too, and the stone hasn't moved an inch since. He pays you **120 gp**. Thistle, Wren, Godrick, Kip and Liriel each approve (+1).
+
+Afterwards he's still in the audience hall, taking a turn about it before he goes down to his carriage.
+
+### If you're stuck
+
+- All six of them are always at their posts, day and night, whether or not you're the count's guests. None of them fights. If a fight starts on their floor, they step out of it and come back after.
+- "Which seals do we still lack?" only makes the Boyar recite all four again. To see which you still need, talk to the servants: one who has already given you their seal no longer offers the option.
+- The Steward only takes the petition once the Boyar has seen all four seals. Show the Boyar first.
 
 ## Rewards
 

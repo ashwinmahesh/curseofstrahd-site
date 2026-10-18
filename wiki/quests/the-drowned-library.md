@@ -89,4 +89,4 @@ Either way, once the quest has started, the well-head has a way down: "Down the 
 
 - **People:** [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md), [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md)
 - **Places:** [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md), [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md)
-- **More in Van Richten's Tower:** [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md), [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)
+- **More in Van Richten's Tower:** [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md), [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md), [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)

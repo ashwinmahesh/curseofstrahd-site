@@ -521,6 +521,9 @@ Once a day, it pours out the liquid you name: acid, poison, oil, water, wine and
 +1 to attack and damage rolls with this ammunition; it loses its magic once it hits.
 
 **Where to find it:**
+- +1 Crossbow Bolt: 6 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- +1 Crossbow Bolt: 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- +1 Crossbow Bolt: 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Amulet of the Devout, +1
@@ -1245,10 +1248,13 @@ Bonus Action to drink or give to a creature within 5 ft: regain 4d4 + 4 Hit Poin
 - 2 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
 - 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
-- Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
-- 2 × Given by a random encounter on the road
-- Given by a random encounter on the road
-- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- …and 11 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 
@@ -1285,6 +1291,7 @@ Resistance to Fire damage for 1 hour.
 - 2 × In the keepers' strongbox, [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) (The keepers' post) (locked, DC 16)
 - In the drivers' box, [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) (Before the gate)
 - Hidden: Something in the slush, [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) (Before the gate) (found with Search, Perception DC 14)
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Potion of Resistance (Force)
@@ -1309,6 +1316,8 @@ Resistance to Lightning damage for 1 hour.
 Resistance to Necrotic damage for 1 hour.
 
 **Where to find it:**
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 
@@ -1610,6 +1619,7 @@ You can't be surprised, and you and your allies within 30 ft have Advantage on I
 
 **Where to find it:**
 - +1 Handaxe: Hidden: an axe left in a woodcutter's stump, [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) (The path to the falls) (found with Search, Perception DC 12)
+- +1 Light Crossbow: Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - +1 Mace: Hidden: an old priest in the burial niches, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Undercroft) (found with Search, Perception DC 14)
 - +1 Quarterstaff: Hidden: a loose board behind the shrine, [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Gates of Barovia) (found with Search, Investigation DC 12)
 - +1 Rapier: Given by [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or 2 more
@@ -1665,6 +1675,9 @@ Cast Gust of Wind (save DC 13); each extra use in a day risks tearing it.
 +2 to attack and damage rolls with this ammunition; it loses its magic once it hits.
 
 **Where to find it:**
+- +2 Crossbow Bolt: 6 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- +2 Crossbow Bolt: 8 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- +2 Crossbow Bolt: 8 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Amulet of Health
@@ -2261,7 +2274,7 @@ A small box that unfolds into a rowboat or a keelboat.
 +1 AC; a Bonus Action makes it look like ordinary clothing or another outfit.
 
 **Where to find it:**
-- Glamoured Studded Leather (Studded Leather Armor): Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
+- Glamoured Studded Leather (Studded Leather Armor): Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or visits: ezmerelda or 2 more ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
 - Glamoured Studded Leather (Studded Leather Armor): Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -2409,6 +2422,7 @@ An extra 2d6 Radiant against Fiends and Undead, and one left at 25 Hit Points or
 +1 to attack and damage rolls; a concentrating creature it damages has Disadvantage on the Concentration save.
 
 **Where to find it:**
+- Mage Breaker (Dagger): Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Mage’s Manacle
@@ -2548,6 +2562,18 @@ Bonus Action to drink or give to a creature within 5 ft: regain 8d4 + 8 Hit Poin
 
 **Where to find it:**
 - 2 × In the druids' offerings, [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md) (Inside the ring)
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- …and 2 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Potion of Heroism
@@ -2788,6 +2814,7 @@ A proficient Study check treats rolls under 10 as 10; once a day a Reaction save
 For 5 minutes, Aberrations can't come within 5 ft of you or reach you (DC 15 Cha save breaks through).
 
 **Where to find it:**
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Scroll of Protection (Beast)
@@ -2828,6 +2855,7 @@ For 5 minutes, Feys can't come within 5 ft of you or reach you (DC 15 Cha save b
 For 5 minutes, Fiends can't come within 5 ft of you or reach you (DC 15 Cha save breaks through).
 
 **Where to find it:**
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Scroll of Protection (Plant)
@@ -2836,6 +2864,7 @@ For 5 minutes, Fiends can't come within 5 ft of you or reach you (DC 15 Cha save
 For 5 minutes, Plants can't come within 5 ft of you or reach you (DC 15 Cha save breaks through).
 
 **Where to find it:**
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Scroll of Protection (Undead)
@@ -2845,6 +2874,8 @@ For 5 minutes, Undeads can't come within 5 ft of you or reach you (DC 15 Cha sav
 
 **Where to find it:**
 - Hidden: a scroll under the candle stubs, [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) (The shrine of the White Sun) (found with Search, Investigation DC 14)
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Secret Keeper’s Circlet

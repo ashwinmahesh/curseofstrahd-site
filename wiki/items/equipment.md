@@ -366,7 +366,10 @@ Ammunition for Light, Hand and Heavy Crossbows; sold 20 at a time.
 - 20 × In a glass-fronted hunting cabinet, [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md) (Den of Wolves) (locked, DC 12)
 - 20 × In a footlocker, [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md) (The barracks)
 - 20 × In Ezmerelda's wagon, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) (Ezmerelda's camp) (locked, DC 16)
-- 10 × Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
+- 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or visits: ezmerelda or 2 more ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
 - 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -1474,6 +1477,10 @@ Thrown flask: Dex save or 1d4 Fire damage and the target starts burning.
 - 2 × In a glass-fronted cabinet, [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md) (The stillroom)
 - In a faded footlocker, [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md) (The Cult Leaders' Quarters)
 - In Ezmerelda's wagon, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) (Ezmerelda's camp) (locked, DC 16)
+- 3 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 3 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 3 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
+- 3 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 
 ### Antitoxin
 *consumable* · 50 gp · **Cheat code:** `0BC990`
@@ -1490,6 +1497,7 @@ Bonus Action to drink: Advantage on saves against being Poisoned for 1 hour.
 - Hidden: Shelves of jars, [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md) (The pantry) (found with Search, Perception DC 12)
 - 2 × A Nature check (DC 14) at A kitchen garden, [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md)
 - In a medicine cabinet, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The workroom)
+- 2 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or 1 more ([The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md))
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Basic Poison
@@ -1557,7 +1565,7 @@ Thrown flask: a Fiend or Undead within 20 ft makes a Dex save or takes 2d8 Radia
 - 2 × In a crate of supplies, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The hunter's storeroom)
 - 3 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × In Vestry chest, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Vestry) (locked, with nothing to pick)
-- …and 10 more places
+- …and 14 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil
@@ -1665,7 +1673,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 - In a satchel on the straw, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The north cells)
 - 2 × In a stoker's pouch, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The stoker's crawl)
 - Hidden: a loose stone, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The south cells) (found with Search, Perception DC 14)
-- …and 30 more places
+- …and 43 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ## Scroll
