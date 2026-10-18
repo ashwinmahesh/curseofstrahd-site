@@ -17,7 +17,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## The world
 
 - [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 116 places, each with a map and screenshots
-- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 290, with where to find them
+- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 291, with where to find them
 - [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 148 creatures and their stat blocks
 - [World Skill Checks](https://curseofstrahd.app/wiki/world/skill-checks.md): everything in the world you can try a check on
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
@@ -52,4 +52,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `cdef101f7` on 2026-10-18 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `4dcc13ef7` on 2026-10-18 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

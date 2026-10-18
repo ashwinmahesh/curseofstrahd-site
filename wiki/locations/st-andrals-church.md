@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)
-> **Quests:** [Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md), [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md) and 6 more
+> **Quests:** [Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md), [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) and 8 more
 
 ## Overview
 
@@ -104,10 +104,12 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 - [Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md): On the morning of her vows the Morninglord showed Liriel Dawnsong a valley where the sun had not risen in four hundred years, and told her…
 - [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md): Hedda Ironvow dreamed of a dying sun and a silver raven, and left her chapel before dawn to follow the dream. Since she crossed the mist,…
+- [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md): The Baron's son Victor is trying to leave Barovia by magic, and it is not going well for the servants.
 - [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md): Someone has stolen the bones of St. Andral from the crypt of Vallaki's church, and with them the only thing that kept the dead out of it.
+- [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md): Lady Wachter keeps her daughter Stella locked in a bedroom at Wachterhaus. Stella believes she is a cat. Nobody in Vallaki believes she's…
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.

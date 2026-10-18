@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-> **Quests:** [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) and 1 more
+> **Quests:** [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md), [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md) and 2 more
 
 ## Overview
 
@@ -99,6 +99,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 ## Quests and lore
 
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
+- [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md): The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.

@@ -9,6 +9,7 @@
 - **Haggling:** one Persuasion check by the hero at the counter, DC 15 unless the shop says otherwise. Win and that merchant gives you a further 10% both ways for good; lose and they never haggle with you again.
 - Some merchants close at night or until something happens; some stock only appears after a quest.
 - **Magic items** are sold at the Sane Magical Prices guide's price whatever the merchant's markup (attitude and haggling still count): one of anything lasting, three of a potion, scroll or other consumable, and twenty pieces of magic ammunition, sold a piece at a time. What you buy stays bought. Uncommon and common items are there from the start; rare items from party level 5, very rare items from party level 9, legendary items from party level 10. An item made on a weapon or armor (a Flame Tongue, +1 Armor) lets you pick which, and its price adds the mundane item's.
+- **Selling magic items:** any merchant whose magic stock is open to you also buys magic items, at 50% of their price, whatever else they buy or pay for other goods.
 
 ## Arik
 ![arik](https://curseofstrahd.app/wiki/img/portraits/arik.webp)
@@ -26,7 +27,7 @@
 ![bildrath](https://curseofstrahd.app/wiki/img/portraits/bildrath.webp)
 [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), Proprietor, Bildrath's Mercantile, in [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md)
 
-*markup ×10; pays 10% of value; buys weapon, armor, shield, gear, light, container, clothing, tool, treasure; closed when bildrath banned and not bildrath repaid; haggle DC 18*
+*markup ×10; pays 10% of value; buys weapon, armor, shield, gear, light, container, clothing, tool, treasure; closed when bildrath banned and not bildrath repaid; haggle DC 18; ×1.1 on what you buy priced 50 gp or more after a failed Intimidation haggle at Bildrath's*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -122,7 +123,7 @@
 ![blinsky](https://curseofstrahd.app/wiki/img/portraits/blinsky.webp)
 [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md), Toymaker, in [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md)
 
-*markup ×1.5; pays 40% of value; buys tool, treasure, gear; closed when night*
+*markup ×1.5; pays 40% of value; buys tool, treasure, gear; closed when night; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -215,7 +216,7 @@
 ![davian martikov](https://curseofstrahd.app/wiki/img/portraits/davian-martikov.webp)
 [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), Master of the Wizard of Wines, in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md)
 
-*markup ×1; pays 30% of value; buys consumable; closed when not winery wine flows*
+*markup ×1; pays 30% of value; buys consumable; closed when not winery wine flows; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -258,7 +259,7 @@
 ![dmitri krezkov](https://curseofstrahd.app/wiki/img/portraits/dmitri-krezkov.webp)
 [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md), Burgomaster of Krezk, in [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md)
 
-*markup ×1; pays 50% of value; buys weapon, armor, shield, ammunition; closed when not krezk gate open*
+*markup ×1; pays 50% of value; buys weapon, armor, shield, ammunition; closed when not krezk gate open; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -396,7 +397,7 @@
 ![donavich](https://curseofstrahd.app/wiki/img/portraits/donavich.webp)
 [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), Priest of the Morninglord, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
 
-*markup ×1; pays 40% of value; buys potion, scroll*
+*markup ×1; pays 40% of value; buys potion, scroll; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -450,7 +451,7 @@
 ![father lucian](https://curseofstrahd.app/wiki/img/portraits/father-lucian.webp)
 [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), Lucian Petrovich, priest of St. Andral's, in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 
-*markup ×1; pays 40% of value; buys potion, scroll*
+*markup ×1; pays 40% of value; buys potion, scroll; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -543,7 +544,7 @@
 ![gunther arasek](https://curseofstrahd.app/wiki/img/portraits/gunther-arasek.webp)
 [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md), Trader, Arasek Stockyard, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 
-*markup ×1; pays 50% of value; buys weapon, armor, shield, gear, ammunition, tool, treasure; closed when night*
+*markup ×1; pays 50% of value; buys weapon, armor, shield, gear, ammunition, tool, treasure; closed when night; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -715,7 +716,7 @@
 ![kasha varo](https://curseofstrahd.app/wiki/img/portraits/kasha-varo.webp)
 [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), Keeper of the Shrine of the White Sun, in [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md)
 
-*markup ×1; pays 40% of value; buys potion, scroll*
+*markup ×1; pays 40% of value; buys potion, scroll; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -799,7 +800,7 @@
 ![kasimir velikov](https://curseofstrahd.app/wiki/img/portraits/kasimir-velikov.webp)
 [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), Dusk Elf of the Lakeside Camp, in [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
 
-*markup ×1; pays 40% of value; buys scroll*
+*markup ×1; pays 40% of value; buys scroll; buys magic items at 50% of their price; ×1.25 on what you buy after kasimir's warmth toward the party is gone, after he heard the party destroyed his sister. His camp greeting and hub opening turn curt, and his scrolls cost a quarter more (price_flags in data/npcs/kasimir_velikov.json). Nothing else changes*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -895,7 +896,7 @@
 ![nothic](https://curseofstrahd.app/wiki/img/portraits/nothic.webp)
 [Xaver](https://curseofstrahd.app/wiki/people/xaver.md), Khazan's Last Apprentice, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md)
 
-*markup ×1; pays 0% of value; closed when not index destroyed*
+*markup ×1; pays 0% of value; closed when not index destroyed; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -1055,7 +1056,7 @@
 ![rictavio](https://curseofstrahd.app/wiki/img/portraits/rictavio.webp)
 [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), Showman and Bard, in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 
-*markup ×1; pays 50% of value; buys potion, scroll, treasure; closed when not (rictavio unmasked or van richten met at tower)*
+*markup ×1; pays 50% of value; buys potion, scroll, treasure; closed when not (rictavio unmasked or van richten met at tower); buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -1132,7 +1133,7 @@
 ![stanimir](https://curseofstrahd.app/wiki/img/portraits/stanimir.webp)
 [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), Elder of the Tser Pool Camp, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md)
 
-*markup ×3; pays 40% of value; buys weapon, armor, gear, treasure*
+*markup ×3; pays 40% of value; buys weapon, armor, gear, treasure; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -1219,7 +1220,7 @@
 ![urwin martikov](https://curseofstrahd.app/wiki/img/portraits/urwin-martikov.webp)
 [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), Keeper of the Blue Water Inn, in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 
-*markup ×1.5; pays 40% of value; buys consumable, gear, potion, scroll, treasure; closed when vallaki backed is “wachter”*
+*markup ×1.5; pays 40% of value; buys consumable, gear, potion, scroll, treasure; closed when vallaki backed is “wachter”; buys magic items at 50% of their price while keepers allied*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -1283,7 +1284,7 @@
 ![noble](https://curseofstrahd.app/wiki/img/portraits/noble.webp)
 [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md), Cloth Merchant, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 
-*markup ×1; pays 40% of value; buys clothing, wondrous; closed when night*
+*markup ×1; pays 40% of value; buys clothing, wondrous; closed when night; buys magic items at 50% of their price*
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|

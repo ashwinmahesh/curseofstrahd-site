@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md) and 11 more
+> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) and 13 more
 
 ## Overview
 
@@ -96,10 +96,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md): Silvain Aster's colleague Aurel Mirescu went into the mists after a book written in a vampire's own hand, and wrote home exactly once: He…
 - [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md): Last winter Ignat the lamplighter's daughter Catalina was found smiling and white at the lake gate, and black roses came with a card. This…
+- [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
 - [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md): Daciana gives out yellow festival ribbons in Vallaki's square and writes down everyone who won't wear one. It isn't her who wants to know.
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md): Someone has stolen the bones of St. Andral from the crypt of Vallaki's church, and with them the only thing that kept the dead out of it.
+- [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md): Baron Vallakovich holds a festival every week to prove Vallaki is happy. This one, with its great wicker sun, will decide who rules the…

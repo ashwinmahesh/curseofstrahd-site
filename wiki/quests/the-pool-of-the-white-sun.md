@@ -77,7 +77,7 @@ Both endings are successes. Nothing about Ireena is settled here: the game only 
 
 ## Related
 
-- **People:** [Sergei von Zarovich](https://curseofstrahd.app/wiki/people/sergei-von-zarovich.md)
+- **People:** [Sergei von Zarovich](https://curseofstrahd.app/wiki/people/sergei-von-zarovich.md), [Sunsword](https://curseofstrahd.app/wiki/people/sunsword.md)
 - **Places:** [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md)
 - **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md)
 

@@ -14,7 +14,7 @@
 
 ## About
 
-A grave, soft-spoken dusk elf who lodges with the Vistani outside Vallaki, mourning a sister he means to bring back from the dead. The Tarokka can name him as the party's ally.
+A grave, soft-spoken dusk elf who lodges with the Vistani outside Vallaki, mourning a sister he means to bring back from the dead. The Tarokka can name him as the party's ally, and once he has told of her the party can ask him along to the Amber Temple themselves.
 
 ## Where to find them
 

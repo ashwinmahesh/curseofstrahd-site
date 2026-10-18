@@ -141,7 +141,7 @@ The quest has one ending, **Buried**, but how you got there sticks.
 ## Related
 
 - **People:** [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md), [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Doru](https://curseofstrahd.app/wiki/people/doru.md)
-- **Places:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md)
+- **Places:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md)
 - **Next in the story:** [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md)
 
 > [!example]- Cutscenes

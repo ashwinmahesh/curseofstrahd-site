@@ -36,6 +36,7 @@ The music follows where you are: each place has a mood, and a mood plays its pie
 | Tension |  | *Gloom Horizon* (Kevin MacLeod), *Oppressive Gloom* (Kevin MacLeod), *Lost Frontier* (Kevin MacLeod) |
 | Dawn |  | *Long Road Ahead* (Kevin MacLeod), *Virtutes Instrumenti* (Kevin MacLeod) |
 | Sacred |  | *Night Vigil* (Kevin MacLeod), *Virtutes Instrumenti* (Kevin MacLeod), *Ancient Rite* (Kevin MacLeod), *Gregorian Chant* (Kevin MacLeod) |
+| Vistani Warm |  | *Csárdás* (Vittorio Monti, played by the United States Air Force Band), *Duet Musette* (Kevin MacLeod), *Lachaim* (Kevin MacLeod), *Bushwick Tarantella* (Kevin MacLeod) |
 | Somber |  | *Marche funèbre* (Chopin), *Chopin Nocturne Op48 No1 Luke Faulkner*, *Toccata and Fugue in D minor, BWV 565* (J. S. Bach, played by Norbert Schenk), *Beethoven Moonlight Sonata I Paul Pitman*, *Unraveling* (Scott Buckley) |
 
 ## Credits

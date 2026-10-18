@@ -20,7 +20,7 @@ In the Amber Temple, climb from the doors into [The Amber Temple: Hall of the Fa
 
 ![patrina alone](https://curseofstrahd.app/wiki/img/cutscenes/patrina-alone.webp)
 
-It helps a great deal to have met her brother first. [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) mends nets at [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) outside Vallaki. Pass **Insight DC 13** on what he is grieving for, or simply **sit with him a while** (an hour, no roll; Wren +2, Liriel +1), and he tells you about his sister Patrina, stoned by their own people while he stood at the back. He only travels with you if Madam Eva's cards named him as your ally.
+It helps a great deal to have met her brother first. [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) mends nets at [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) outside Vallaki. Pass **Insight DC 13** on what he is grieving for, or simply **sit with him a while** (an hour, no roll; Wren +2, Liriel +1), and he tells you about his sister Patrina, stoned by their own people while he stood at the back. He travels with you if Madam Eva's cards named him as your ally. Otherwise, once he has told you about her, ask him at his wagon **Come with us to the temple, Kasimir.**: it's offered from level 8, or once you've been to the Tsolenka Pass, and he comes as a guest.
 
 ### Step by step
 
@@ -54,6 +54,8 @@ It helps a great deal to have met her brother first. [Kasimir Velikov](https://c
 - **At rest (success).** She closes the book, and it doesn't crumble. She asks you to tell her brother she is done waiting, and fades like breath from a window. If you destroy Strahd, the epilogue tells you her bones lie quiet under the castle. If Kasimir was there to say it himself, his own slide takes the place of hers: he leaves Barovia lighter than he came (or, if Strahd wins, his peace with her ghost is the only peace he finds).
 - **Restored (failure).** Kasimir's hair goes ash-grey, the wailing stops, and bare footprints lead out of the temple and down toward the castle. She didn't wait for him. Wren -3, Liriel -2, Kip -2. In the epilogue he spends his last year at her side.
 - **Destroyed (success).** Her spirit is gone, and the reading hall is only cold.
+
+If Kasimir stayed at the camp, go back and tell him how it ended: **Kasimir, we have returned from the temple with word of Patrina.** after she found rest, or **Kasimir, sit with us - we must speak of Patrina.** after she was destroyed. What he says, and how he greets you afterwards, follows the ending.
 
 ### If you're stuck
 

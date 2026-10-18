@@ -137,7 +137,7 @@ The last pictures also change with Vladimir's knights: fallen at the foot of the
 
 ## Related
 
-- **People:** [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md), [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md)
+- **People:** [Sunsword](https://curseofstrahd.app/wiki/people/sunsword.md), [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md), [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md)
 - **Places:** [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md), [Madam Eva's Tent](https://curseofstrahd.app/wiki/locations/madam-evas-tent.md)
 - **Next in the story:** [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md)
 

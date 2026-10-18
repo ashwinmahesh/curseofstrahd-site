@@ -113,7 +113,7 @@ The [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md) stops you 
 ## Related
 
 - **People:** [Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md), [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md), [Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md), [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md), [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md), [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md)
-- **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)
+- **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)
 - **Next in the story:** [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md)
 
 > [!example]- Cutscenes

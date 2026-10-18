@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim
 > **Getting here:** [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)
-> **Quests:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md)
+> **Quests:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md) and 3 more
 
 ## Overview
 
@@ -73,8 +73,11 @@ The containers here also get random magic items and potions, rolled for a party 
 ## Quests and lore
 
 - [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md): Clovin Belview, the abbey's errand-runner, has written jokes for forty years and wants to tell them once to people who could choose not to…
+- [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md): Somebody leaves carved toys on the five Krezkov graves at the Pool of the White Sun every night. Nobody in Krezk carves like that.
+- [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md): The Abbot of St. Markovia is stitching a bride for the lord of Barovia from Krezk's dead, and believes a wife will cure him.
+- [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md): Ilya Krezkov, the burgomaster's last child, has been burning with fever for a month.
 
 > [!quote]- The burgomaster's ledger

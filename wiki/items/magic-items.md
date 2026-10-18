@@ -537,7 +537,7 @@ Once a day, it pours out the liquid you name: acid, poison, oil, water, wine and
 ### Arcane Grimoire, +1
 *uncommon, wondrous, needs attunement* · **Cheat code:** `7C1580`
 
-+1 to your Wizard spell attacks and save DC; Arcane Recovery brings back one more slot level.
+A Wizard's Spellcasting Focus: +1 to your Wizard spell attack rolls and save DCs while you hold it, and Arcane Recovery brings back one more slot level.
 
 **Where to find it:**
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
@@ -1716,7 +1716,7 @@ A clasp of six keys; each casts Arcane Lock on a door or container and then vani
 ### Arcane Grimoire, +2
 *rare, wondrous, needs attunement* · **Cheat code:** `47F159`
 
-+2 to your Wizard spell attacks and save DC; Arcane Recovery brings back one more slot level.
+A Wizard's Spellcasting Focus: +2 to your Wizard spell attack rolls and save DCs while you hold it, and Arcane Recovery brings back one more slot level.
 
 **Where to find it:**
 - Given by [Daciana](https://curseofstrahd.app/wiki/people/daciana.md) in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) ([Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md))
@@ -3294,7 +3294,7 @@ A Bonus Action animates it for 1 minute: it guards you as if wielded, leaving yo
 ### Arcane Grimoire, +3
 *very rare, wondrous, needs attunement* · **Cheat code:** `8CEAAD`
 
-+3 to your Wizard spell attacks and save DC; Arcane Recovery brings back one more slot level.
+A Wizard's Spellcasting Focus: +3 to your Wizard spell attack rolls and save DCs while you hold it, and Arcane Recovery brings back one more slot level.
 
 **Where to find it:**
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
@@ -4220,7 +4220,7 @@ Draw from the deck and each card's fate falls on you, for great good or great il
 ### Holy Symbol of Ravenkind
 *legendary, wondrous, needs attunement* · **Cheat code:** `3F1664`
 
-A platinum sunburst with a raven at its heart and a sunstone in the raven's claws: it holds vampires fast and calls up true sunlight.
+A platinum sunburst with a raven at its heart and a sunstone in the raven's claws: it holds vampires fast and calls up true sunlight. A holy symbol for Clerics and Paladins.
 
 **Where to find it:**
 - Wherever Madam Eva's reading puts it: any of 40 places, one per card ([The Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md))

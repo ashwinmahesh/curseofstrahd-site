@@ -119,7 +119,7 @@ Ireena won't leave until Kolyan is in the ground, so nothing moves until the bur
 ## Related
 
 - **People:** [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md), [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md), [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Doru](https://curseofstrahd.app/wiki/people/doru.md)
-- **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md)
+- **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md)
 - **Next in the story:** [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md)
 
 > [!example]- Cutscenes

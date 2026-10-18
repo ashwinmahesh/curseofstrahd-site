@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/all-people.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-290 people you can meet in Barovia, by region.
+291 people you can meet in Barovia, by region.
 
 ## Into the Mists
 
@@ -338,6 +338,7 @@
 | ![fiendish spirit](https://curseofstrahd.app/wiki/img/portraits/fiendish-spirit.webp) | [Querreth](https://curseofstrahd.app/wiki/people/querreth.md) | Gaoler of the Roofs |
 | ![rahadin](https://curseofstrahd.app/wiki/img/portraits/rahadin.webp) | [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md) | Chamberlain of Castle Ravenloft |
 | ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Sir Lothar Brandt](https://curseofstrahd.app/wiki/people/sir-lothar-brandt.md) | Of the Count's Court |
+| ![sunsword](https://curseofstrahd.app/wiki/img/portraits/sunsword.webp) | [Sunsword](https://curseofstrahd.app/wiki/people/sunsword.md) | The Sentient Blade of Prince Sergei |
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md) | Of the Castle Watch |
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Doorward](https://curseofstrahd.app/wiki/people/the-dead-doorward.md) | Of the Castle Watch |
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md) | Of the Castle Watch |

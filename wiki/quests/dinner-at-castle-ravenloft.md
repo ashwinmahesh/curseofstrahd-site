@@ -141,7 +141,7 @@ The main floor is the hub. Every other part of the castle is one staircase away 
 
 ## Related
 
-- **People:** [Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md)
+- **People:** [Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md), [Sunsword](https://curseofstrahd.app/wiki/people/sunsword.md)
 - **Places:** [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
 
 > [!example]- Cutscenes
