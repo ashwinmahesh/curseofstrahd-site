@@ -133,7 +133,7 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 ## Related
 
 - **People:** [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md)
-- **Places:** [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md)
+- **Places:** [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md)
 - **More in Van Richten's Tower:** [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md), [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)
 
 > [!example]- Cutscenes

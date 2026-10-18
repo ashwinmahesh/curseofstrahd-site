@@ -115,10 +115,11 @@ You can't have both baskets: it's 300 gp and the Robe of Eyes for fighting, or 3
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 13: (Watch her while she talks.)
 > - Persuasion DC 15: Mouse. You don't have to go to her. Stay with us.
+> - Investigation DC 12: (Think it through.)
 
 ## Related
 
-- **People:** [Mouse](https://curseofstrahd.app/wiki/people/mouse.md), [Goodwife Sarnov](https://curseofstrahd.app/wiki/people/goodwife-sarnov.md), [Granny Ash](https://curseofstrahd.app/wiki/people/granny-ash.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md)
+- **People:** [Mouse](https://curseofstrahd.app/wiki/people/mouse.md), [Goodwife Sarnov](https://curseofstrahd.app/wiki/people/goodwife-sarnov.md), [Granny Ash](https://curseofstrahd.app/wiki/people/granny-ash.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md)
 - **Places:** [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
 - **More in Old Bonegrinder:** [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md)
 

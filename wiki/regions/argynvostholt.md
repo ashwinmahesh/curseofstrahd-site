@@ -24,7 +24,7 @@ Built for a party of about level 8: random treasure here is rolled for that leve
 
 ## People
 
-[Argynvost](https://curseofstrahd.app/wiki/people/argynvost.md), [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md), [Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md), [Phantom Warden](https://curseofstrahd.app/wiki/people/phantom-warden.md), [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [The Gilded Knight](https://curseofstrahd.app/wiki/people/the-gilded-knight.md), [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)
+[Argynvost](https://curseofstrahd.app/wiki/people/argynvost.md), [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md), [Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md), [Phantom Warden](https://curseofstrahd.app/wiki/people/phantom-warden.md), [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Sir Ottokar the Late](https://curseofstrahd.app/wiki/people/sir-ottokar-the-late.md), [The Gilded Knight](https://curseofstrahd.app/wiki/people/the-gilded-knight.md), [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)
 
 ## Merchants
 

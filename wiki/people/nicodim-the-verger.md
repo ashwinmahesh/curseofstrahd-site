@@ -17,3 +17,7 @@ The verger of the castle's chapel, who died with the household on the night of t
 ## Where to find them
 
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), The chapel passage, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

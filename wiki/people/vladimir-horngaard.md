@@ -27,4 +27,5 @@ The dead commander of a dead order, holding court at the head of a table of reve
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md)
 - [The Dragon's Beacon](https://curseofstrahd.app/wiki/quests/the-dragons-beacon.md)
 - [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md)
+- [The Squire](https://curseofstrahd.app/wiki/quests/the-squire.md)
 - [Where the Devil Waits](https://curseofstrahd.app/wiki/quests/where-the-devil-waits.md)

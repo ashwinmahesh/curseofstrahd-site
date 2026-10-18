@@ -71,7 +71,7 @@ A burned entry hall with a broken statue at its heart; through tall doors north,
 | 14 | Pantry cupboard | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) | open it |
 | 17 | a loose hearthstone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
 | 18 | a sword behind the armour stands (hidden) | [Flame Tongue Longsword](https://curseofstrahd.app/wiki/items/magic-items.md#flame-tongue) | Search: Perception DC 15 |
-| 19 | a reliquary behind the chapel altar (hidden) | [Amulet of the Devout, +2](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-2) | Search: Investigation DC 15 |
+| 19 | a reliquary behind the chapel altar (hidden) | [Bowl of Commanding Water Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#bowl-of-commanding-water-elementals) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Argynvostholt Vladimir ()
 
@@ -81,7 +81,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 15 | the chapel altar | Religion 15 | Pray at the dragon's altar | finds Amulet of the Devout, +2 |
+| 15 | the chapel altar | Religion 15 | Pray at the dragon's altar | finds Bowl of Commanding Water Elementals |
 | 16 | Armour stands | Athletics 14 | Shift the armour stands | finds Flame Tongue Longsword |
 
 ## Fights

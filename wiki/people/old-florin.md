@@ -17,3 +17,7 @@ An old villager who comes to the church every day to pray for his grandson, who 
 ## Where to find them
 
 - [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), Nave, 07:00–18:00, walking a round
+
+## Quests
+
+- [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md) (gives it)

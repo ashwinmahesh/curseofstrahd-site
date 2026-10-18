@@ -86,4 +86,4 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 
 - **People:** [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md)
 - **Places:** [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)
-- **More in The Amber Temple:** [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
+- **More in The Amber Temple:** [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)

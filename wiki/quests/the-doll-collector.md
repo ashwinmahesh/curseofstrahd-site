@@ -8,7 +8,7 @@
 > **Region:** [Vallaki](https://curseofstrahd.app/wiki/regions/vallaki.md) · level 5
 > **Given by:** [Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)
 > **Starts at:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Rewards:** [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle)
+> **Rewards:** [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle), 1 gp
 
 ## Summary
 
@@ -70,6 +70,7 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 ## Rewards
 
 - [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle)
+- 1 gp
 
 **What your companions think**
 
@@ -114,6 +115,7 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 > [!abstract]- Every skill check in its conversations
 > - Persuasion DC 15: Ask her, in front of everyone, whose hand she means to rule with.
 > - Performance DC 12: Try to make him laugh.
+> - Sleight of Hand DC 12: (Catch his tail before the coin goes up the shelf.)
 > - Intimidation DC 14: (Step between them.) Walk on, watchman.
 > - Insight DC 13: What does he want, besides obedience?
 > - Insight DC 12: (Put the pieces together.)
@@ -125,7 +127,7 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 
 - **People:** [Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md), [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md), [Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md), [Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md), [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md), [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md), [Kolyan Indirovich](https://curseofstrahd.app/wiki/people/kolyan-indirovich.md)
 - **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md), [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md), [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-- **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md), [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md)
+- **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md)
 
 > [!example]- Cutscenes
 > **The Spears Go Down**: The Baron's watch lays down its spears one by one and Vargas stands alone on his dais with his sash crooked.

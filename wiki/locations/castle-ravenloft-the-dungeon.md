@@ -8,7 +8,7 @@
 > **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)
-> **Quests:** [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
+> **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
 
 ## Overview
 
@@ -71,7 +71,7 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 | 10 | a stoker's pouch | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 15 gp | open it |
 | 11 | a drawer at the head of the table of bones | 60 gp | open it |
 | 14 | a loose stone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
-| 15 | a ring set into the throne of bones (hidden) | [Ring of Regeneration](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-regeneration) | Search: Perception DC 16 |
+| 15 | a stone set into the throne of bones (hidden) | [Ioun Stone (Strength)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-strength) | Search: Perception DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Hall of Bones (larders_bone_table)
 
@@ -98,7 +98,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Suits of armour stand round the jailers' table as if waiting for another hand. They are empty, and they draw.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): 8 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Starts when you reach the jailers' guardroom.
+- *Suits of armour stand round the jailers' table as if waiting for another hand. They are empty, and they draw.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): 8 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (135 HP). Starts when you reach the jailers' guardroom.
 
 - *Burning skulls rise from the coal heaps, and the fire in the furnace stands up on legs of its own.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): 3 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md), The Bound Fire ([Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md)). Starts when you reach the furnace room.
 
@@ -117,5 +117,6 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Quests and lore
 
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md): Below Castle Ravenloft's kitchen, the cook keeps his Master's guests fresh in the cells.
 - [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md): At the top of Castle Ravenloft's high tower hangs a crystal heart that takes Strahd's wounds before he does.

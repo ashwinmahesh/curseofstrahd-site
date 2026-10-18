@@ -8,7 +8,7 @@
 > **Region:** [Into the Mists](https://curseofstrahd.app/wiki/regions/into-the-mists.md) · level 1
 > **Given by:** [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md)
 > **Starts at:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)
-> **Rewards:** [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots)
+> **Rewards:** [Boots of Striding and Springing](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-striding-and-springing)
 
 ## Summary
 
@@ -50,7 +50,7 @@ There is one ending. You get [Winged Boots](https://curseofstrahd.app/wiki/items
 
 ## Rewards
 
-- [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots)
+- [Boots of Striding and Springing](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-striding-and-springing)
 
 **What your companions think**
 

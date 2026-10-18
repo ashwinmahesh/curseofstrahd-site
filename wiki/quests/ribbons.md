@@ -63,10 +63,10 @@ All three choices end the quest at *Done*. Beating Dobre also adds a mark to Str
 
 **What your companions think**
 
-- **Godrick Pendlebrook:** +2 you gave Vallaki back the names that were sold out from under it; -1 you took the lists to the Baron
-- **Thistle:** +2 you gave Vallaki back the names that were sold out from under it; -1 you took the lists to the Baron; +1 you burned Vallaki's lists in front of the girl who wrote them
-- **Liriel Dawnsong:** +2 you gave Vallaki back the names that were sold out from under it; +1 you burned Vallaki's lists in front of the girl who wrote them
-- **Wren Featherfoot:** +1 you gave Vallaki back the names that were sold out from under it; +2 you burned Vallaki's lists in front of the girl who wrote them
+- **Godrick Pendlebrook:** +2 you gave Vallaki back the names that were sold out from under it; -1 you took the lists to the Baron; +2 you brought Watchman Dobre before the Baron
+- **Thistle:** +2 you gave Vallaki back the names that were sold out from under it; -1 you took the lists to the Baron; +1 you burned Vallaki's lists in front of the girl who wrote them; +1 you brought Watchman Dobre before the Baron
+- **Liriel Dawnsong:** +2 you gave Vallaki back the names that were sold out from under it; +1 you burned Vallaki's lists in front of the girl who wrote them; +2 you brought Watchman Dobre before the Baron
+- **Wren Featherfoot:** +1 you gave Vallaki back the names that were sold out from under it; +2 you burned Vallaki's lists in front of the girl who wrote them; +1 you brought Watchman Dobre before the Baron
 - **Kip Smudgewick:** +1 you took the lists to the Baron
 
 ## Fights
@@ -92,6 +92,9 @@ All three choices end the quest at *Done*. Beating Dobre also adds a mark to Str
 > **Asked**: Daciana writes the names of everyone who won't wear a ribbon and leaves the paper under the lamp on Main Street at dusk. In the morning it's gone and there's a coin in its place, and her brother stays out of the stocks.
 > *Hint:* Watch the lamp on Vallaki's Main Street after dusk and see who takes the list; check the loose stone at the lamp post.
 >
+> **Forged**: Daciana wrote the lamp's list with invented names on it, Horatiu Cornel and Mirela Nobody among them, and Dobre took it. Now we watch where it turns up: the Baron's clerk, Lady Wachter's ladies, the rider at the west gate. Two proofs win a hearing before the Baron.
+> *Hint:* Check the Baron's clerk in the burgomaster's mansion, the stocks in Vallaki's square, and the west gate at dusk, then speak to the Baron.
+>
 > **Sold Three Times**: Watchman Dobre collects the lists and sells each one three times: to the Baron's clerk, which fills the stocks; to the back door of Wachterhaus, whose ladies visit whoever is in the stocks and tell them who put them there; and to a rider on a black horse at the west gate, for the castle. The unhappy are the ones who open their doors.
 > *Hint:* Find Watchman Dobre in Vallaki and deal with him.
 >
@@ -105,9 +108,13 @@ All three choices end the quest at *Done*. Beating Dobre also adds a mark to Str
 > - Insight DC 12: (Is she telling the whole of it?)
 > - Stealth DC 13: (Follow him and see where it goes.)
 > - Intimidation DC 14: Whose business, exactly? Say it, or the Baron hears you sell it twice.
+> - Persuasion DC 12: (Ask the Baron's clerk about Horatiu Cornel.)
+> - Investigation DC 12: (Look at the stocks where Lady Wachter's ladies called.)
+> - Stealth DC 12: (Watch the west gate at dusk.)
+> - Insight DC 11: (She is not telling the whole of it.)
 
 ## Related
 
 - **People:** [Daciana](https://curseofstrahd.app/wiki/people/daciana.md), [Watchman Dobre](https://curseofstrahd.app/wiki/people/watchman-dobre.md), [Goodwife Marta](https://curseofstrahd.app/wiki/people/goodwife-marta.md), [Old Kolya](https://curseofstrahd.app/wiki/people/old-kolya.md), [Ignat the Lamplighter](https://curseofstrahd.app/wiki/people/ignat-the-lamplighter.md), [Anton the Cooper](https://curseofstrahd.app/wiki/people/anton-the-cooper.md), [Old Smaranda](https://curseofstrahd.app/wiki/people/old-smaranda.md), [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md), [Matei](https://curseofstrahd.app/wiki/people/matei.md), [Haralamb](https://curseofstrahd.app/wiki/people/haralamb.md), [Gheorghe](https://curseofstrahd.app/wiki/people/gheorghe.md), [A Big Dog](https://curseofstrahd.app/wiki/people/a-big-dog.md)
 - **Places:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md)
-- **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md), [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md)
+- **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md), [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md)

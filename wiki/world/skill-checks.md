@@ -39,7 +39,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) | A map of the valley | Survival 13 | Study the burgomaster's map | reveals svalich_crossroads:field_wall_cache; lore: The burgomaster's map |
 | [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) | Altar | Religion 14 | Say the dedication over the altar | 1d6 temporary HP |
 | [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) | Pews | Performance 12 | Sing a hymn from the old hymnal | Heroic Inspiration |
-| [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) | Burial niches | Medicine 13 | Examine the remains in the niches | finds Periapt of Health |
+| [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) | Burial niches | Medicine 13 | Examine the remains in the niches | finds +1 Mace |
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | Castle on the cliff | History 14 | Recall what's told of the castle | lore: The castle on the pillar of rock |
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | The road east | Arcana 14 | Study the mists | lore: The mists |
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | Clawed walls | Survival 13 | Read the claw marks | lore: Claw marks on the burgomaster's house |
@@ -68,7 +68,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) | A claw-marked pine | Athletics 13 | Climb the claw-marked pine | finds Goggles of Night; on a failure: 1d6 bludgeoning damage |
 | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | The bonfire | Performance 12 | Dance at the bonfire | Heroic Inspiration |
 | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | Horses | Animal Handling 12 | Calm the skittish horses | finds Elemental Gem (Yellow Diamond) |
-| [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | A tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds Boots of Striding and Springing |
+| [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | A tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds +1 Shortbow |
 | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | A cart with a cracked wheel | Athletics 13 | Lift the cart off its cracked wheel | finds Bag of Holding |
 | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | A cairn by the water | History 13 | Read the cairn's oldest marks | lore: The cairn at Tser Pool |
 | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | A stump stuck with knives | Sleight of Hand 13 | Play the knife game for coin | 12 gp; on a failure: 1d4 slashing damage |
@@ -112,7 +112,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
-| [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) | Old grave mounds | History 14 | Read the barrow stones | finds Amulet of the Devout, +2; lore: The barrows of Yester Hill |
+| [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) | Old grave mounds | History 14 | Read the barrow stones | finds Scale Mail of Necrotic Resistance; lore: The barrows of Yester Hill |
 | [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) | The view east | Perception 13 | Look east from the hilltop | reveals wizard_of_wines:vine_sickle |
 | [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) | A cairn of bones | Medicine 14 | Examine the bones in the cairn | finds Bracers of Archery |
 
@@ -120,12 +120,12 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
-| [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The wall of Krezk | Acrobatics 14 | Walk the top of the wall | finds +1 Sling; on a failure: 1d6 bludgeoning damage |
+| [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The wall of Krezk | Acrobatics 14 | Walk the top of the wall | finds Belt of Dwarvenkind; on a failure: 1d6 bludgeoning damage |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | A cairn by the track | History 13 | Read the names on the cairn | finds Ring of Warmth |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The goat pens | Animal Handling 13 | Settle the goats for the herders | Ration ×4 |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The burgomaster's house | Stealth 13 | Listen at the Krezkovs' shutters unseen | lore: The Krezkovs' grief |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The abbey above | History 15 | Recall what's told of the abbey | lore: The abbey above Krezk |
-| [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | A wayside shrine | Religion 13 | Pray at the wayside shrine | finds Keoghtom's Ointment |
+| [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | A wayside shrine | Religion 13 | Pray at the wayside shrine | finds Potion of Invulnerability |
 
 ## The Abbey of St. Markovia
 
@@ -146,7 +146,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) | Small headstones | History 14 | Read the squires' headstones | finds Holy Symbol (Emblem) |
 | [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) | A well | Athletics 15 | Climb down to the ledge in the well | finds Cube of Force; on a failure: 2d6 bludgeoning damage |
 | [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) | The parapet, facing the valley | Perception 15 | Look out over the valley | reveals lake_zarovich:jetty_boards |
-| [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) | The chapel altar | Religion 15 | Pray at the dragon's altar | finds Amulet of the Devout, +2 |
+| [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) | The chapel altar | Religion 15 | Pray at the dragon's altar | finds Bowl of Commanding Water Elementals |
 | [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) | Armour stands | Athletics 14 | Shift the armour stands | finds Flame Tongue Longsword |
 | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) | Burned bookcases | Arcana 15 | Search the burned books for a spell | Spell Scroll (Dispel Magic) |
 
@@ -165,15 +165,15 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 |---|---|---|---|---|
 | [The Hills above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hills-above-lake-zarovich.md) | A heap of bones | Medicine 14 | Sort through the bones | 30 gp |
 | [The Hills above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hills-above-lake-zarovich.md) | A patch of purple flowers | Nature 13 | Name the purple flowers | lore: Wolfsbane |
-| [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) | Kiril's trophies | Survival 15 | Read Kiril's trophies | finds Longsword of Wounding |
+| [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) | Kiril's trophies | Survival 15 | Read Kiril's trophies | finds Shortsword of Wounding |
 | [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) | Bundles of drying herbs | Nature 14 | Sort the drying herbs | finds Elixir of Health |
 
 ## Lake Zarovich
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
-| [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | Bluto's rowboat | Acrobatics 13 | Swing under the jetty from the boat | finds Ring of Water Walking; on a failure: 1d4 cold damage |
-| [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | A fishers' shrine | Religion 13 | Pray at the fishers' shrine | finds Trident of Fish Command (Trident) |
+| [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | Bluto's rowboat | Acrobatics 13 | Swing under the jetty from the boat | finds +1 Breastplate; on a failure: 1d4 cold damage |
+| [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | A fishers' shrine | Religion 13 | Pray at the fishers' shrine | finds +2 Trident |
 | [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | A flat rock above the water | Athletics 13 | Dive from the flat rock | 25 gp; on a failure: 1d4 cold damage |
 
 ## Berez
@@ -183,7 +183,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A rotten jetty | Acrobatics 15 | Walk out along the rotten jetty | 30 gp; on a failure: 1d6 cold damage |
 | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A drowned house | Athletics 15 | Wade into the drowned house | finds Mantle of Spell Resistance; on a failure: 1d6 cold damage |
 | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A white statue of a young woman | History 15 | Recall Marina's story | lore: Marina of Berez |
-| [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A roofless house | Athletics 15 | Lift the fallen beam | finds Immovable Rod |
+| [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A roofless house | Athletics 15 | Lift the fallen beam | finds Dwarven Thrower (Warhammer) |
 | [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) | Drawings of a boy | Insight 13 | Look closely at the drawings | lore: The boy in the drawings |
 | [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) | Bundles hanging from the beams | Arcana 16 | Study the hag's charms | finds Potion of Speed |
 
@@ -231,7 +231,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) | Sigils on the wall | Arcana 16 | Read the sigils on the wall | reveals cat_conjurer_glyph; disarms cat conjurer glyph |
 | [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) | Bones stacked to the ceiling | Investigation 16 | Work out why the bones are stacked so | reveals cat_ossuary_secret |
 | [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md) | A carved family | History 15 | Name the carved family | lore: King Barov and Queen Ravenovia |
-| [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) | The pews | Religion 16 | Pray in the count's chapel | finds Amulet of the Devout, +3; on a failure: 2d6 necrotic damage |
+| [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) | The pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
 | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | The study fireplace | Investigation 15 | Pace out the study's walls | reveals court_study_bookcase |
 | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | A chained desk | Deception 15 | Tell the clerk you're the count's auditor | unlocks court tax strongbox |
 | [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) | A chair on the hoard | Arcana 17 | Read the glyph on the bottom step | reveals court_vault_glyph; disarms court vault glyph; on a failure: 3d8 thunder damage |
@@ -240,7 +240,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md) | A dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
 | [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
 | [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
-| [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) | The organ | Performance 16 | Play the count's organ | finds Instrument of the Bards (Anstruth Harp) |
+| [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) | The organ | Performance 16 | Play the count's organ | finds Staff of Striking (Quarterstaff) |
 | [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) | A faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
 | [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md) | Ravens on the ridge | Acrobatics 14 | Walk the roof ridge | reveals spires_slick_slates; on a failure: 2d6 bludgeoning damage |
 | [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) | Small bones | Acrobatics 16 | Climb the rafters to the high nests | finds Ring of Evasion; on a failure: 2d6 bludgeoning damage |

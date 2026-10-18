@@ -7,7 +7,7 @@
 > **Type:** Side quest
 > **Region:** Companions
 > **Starts at:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)
-> **Rewards:** [Amulet of the Devout, +1](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-1), [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, a level (milestone)
+> **Rewards:** [Amulet of the Devout, +3](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-3), [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, a level (milestone)
 
 ## Summary
 
@@ -56,7 +56,7 @@ The Abbot's fate is the choice in this quest that changes the rest of the game (
 
 ## Rewards
 
-- [Amulet of the Devout, +1](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-1)
+- [Amulet of the Devout, +3](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-3)
 - [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2
 - A level (milestone)
 

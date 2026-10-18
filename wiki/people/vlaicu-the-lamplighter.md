@@ -17,3 +17,7 @@ The castle's lamplighter, who died on the night of the wedding halfway up the hi
 ## Where to find them
 
 - [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md), The foot of the high tower, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

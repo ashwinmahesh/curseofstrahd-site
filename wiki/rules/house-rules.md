@@ -205,7 +205,7 @@ A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.7
 *Why:* The 2024 rules leave prices and haggling to the DM; plan §5.6 asks for prices that follow attitude and a Persuasion haggle
 
 ### Magic item prices (2024 DMG "Magic Item Prices": a flat price by rarity, consumables half)
-Each magic item has its own price from Sane Magical Prices (Saidoro's guide, Ashwin's pick): its row in the guide, the closest row for an item the guide doesn't list (the +N spellcasting foci as the Rod of the Pact Keeper, Dragon's Breath potions as Fire Breath), else the guide's median for its rarity, consumables apart; a common item that isn't a consumable keeps the book's 100 gp, as the guide prices none. What the guide refuses to price (the wish and chaos items, the Manuals and Tomes, Giant Strength) is sold too (Ashwin, 2026-10-15), priced the same way, a Potion of Giant Strength at a tenth of its Belt (the guide's rule for consumables). Items made on a weapon or armor add its cost, as the guide says. Spell Scrolls by level, 10 gp to 10,240 gp; magic ammunition a piece at a time (the guide prices it each), not by the bundle. The price is the item's worth everywhere (shops, selling, the inventory's value), so nothing bought sells back for more. data/treasure/magic_prices.json, tools/data/magic_prices.py
+Each magic item has its own price from Sane Magical Prices (Saidoro's guide, Ashwin's pick): its row in the guide, the closest row for an item the guide doesn't list (the +N spellcasting foci as the Rod of the Pact Keeper, Dragon's Breath potions as Fire Breath), else the guide's median for its rarity, consumables apart; a common item that isn't a consumable keeps the book's 100 gp, as the guide prices none. What the guide refuses to price (the wish and chaos items, the Manuals and Tomes, Giant Strength) is sold too (Ashwin, 2026-10-15), priced the same way, a Potion of Giant Strength at a tenth of its Belt (the guide's rule for consumables). Items made on a weapon or armor add its cost, as the guide says. Every price is then held inside its rarity's band around the 2024 DMG's value (Ashwin, 2026-10-17, after a 60,000 gp Handaxe of Warning): nearer its own rarity's value than any other's, so uncommon 200-1,250 gp, rare 1,250-12,500, very rare 12,500-90,000, legendary 90,000-450,000, common 50-200, a consumable half that; the guide still orders items inside a band, and a price a 2024 book prints wins (the PHB's Potion of Healing and its cantrip and level 1 scrolls). Spell Scrolls by level, 30 gp to 45,000 gp; magic ammunition a piece at a time (the guide prices it each), not by the bundle, its band checked by the stack of ten. The price is the item's worth everywhere (shops, selling, the inventory's value), so nothing bought sells back for more. A merchant with magic stock buys magic items at half that price, whatever else they buy (Ashwin, 2026-10-17). data/treasure/magic_prices.json, tools/data/magic_prices.py
 
 *Why:* Ashwin (2026-10-14): every magic item the story doesn't need is for sale, priced from the guide
 
@@ -290,12 +290,22 @@ A hero at 0 Hit Points (stable, outside a fight) wakes from the party's Long Res
 *Why:* Owner's call (2026-10-09, QA's D-2): the party rests together
 
 ### Where a Short Rest can be taken
+Anywhere outside a fight, a dungeon and a place too haunted to sleep in (`rest`: no) included, unless a fight on that map was begun and not won (the party ran) or foes awake and in plain view of the party are about (those the party can see now, not every waiting foe it ever saw; while it sneaks, a foe that would notice none of it doesn't count); the card says why, and Hit Point Dice wait with it. Wait (H) asks the same of the foes in sight (story/rest_rules.gd, LocationStealth.foes_in_sight)
+
+*Why:* Owner's rule (2026-10-12): an hour's breather is possible where a night's sleep isn't; the 2024 rules leave where to rest to the DM. A foe the party has left behind or can't see, or one that can't notice a sneaking party, is no reason to refuse an hour (docs/design/overworld_stealth.md)
+
+### Long Rests in dungeons and buildings
+Refused while enemies remain anywhere in the building or dungeon: its indoor maps (and a dungeon's open-air ones, Castle Ravenloft's roofs) joined by their exits, every floor. Enemies remain while a fight there would still start on its own (entering an area, opening a door or chest, examining something) or one was begun and not won; a fight only a conversation can start doesn't count. Short Rests, towns, inns, camps, the open road and the items' safe rests (Daern's Instant Fortress, the Rod of Security) are unaffected (story/rest_rules.gd)
+
+*Why:* Owner's rule (2026-10-09): what waits on another floor would find a sleeping party; the 2024 rules leave where to rest to the DM
+
+### Where a Short Rest can be taken
 Anywhere outside a fight, a dungeon and a place too haunted to sleep in (`rest`: no) included, unless a fight on that map was begun and not won (the party ran) or foes awake and in plain view of the party are about; the card says why, and Hit Point Dice wait with it (story/rest_rules.gd, LocationStealth.foes_in_sight)
 
 *Why:* Owner's rule (2026-10-12): an hour's breather is possible where a night's sleep isn't; the 2024 rules leave where to rest to the DM
 
 ### Long Rests in dungeons and buildings
-Refused while enemies remain anywhere in the building or dungeon: its indoor maps (and a dungeon's open-air ones, Castle Ravenloft's roofs) joined by their exits, every floor. Enemies remain while a fight there would still start on its own (entering an area, opening a door or chest, examining something) or one was begun and not won; a fight only a conversation can start doesn't count. Short Rests, towns, inns, camps, the open road and the items' safe rests (Daern's Instant Fortress, the Rod of Security) are unaffected (story/rest_rules.gd)
+Refused while enemies remain anywhere in the building or dungeon: its indoor maps (and a dungeon's open-air ones, Castle Ravenloft's roofs) joined by their exits, every floor. Enemies remain while a fight there would still start on its own (entering an area, opening a door or chest, examining something) or one was begun and not won; a fight only a conversation can start doesn't count. Short Rests, towns, inns, camps, the open road and the Rod of Security's safe rest is unaffected, and Daern's Instant Fortress's three maps are a building of their own with nothing in it (story/rest_rules.gd)
 
 *Why:* Owner's rule (2026-10-09): what waits on another floor would find a sleeping party; the 2024 rules leave where to rest to the DM
 
@@ -305,9 +315,9 @@ Where the 2024 rules have a caster change spells when they finish a Long Rest, t
 *Why:* Owner's call (2026-10-14): resting only to prepare different spells is a chore, and a caster should be able to ready the right spell before a fight
 
 ### Sneaking up (who notices whom)
-While the party sneaks, each member keeps the Stealth total rolled on starting; a foe notices a member it sees clearly (less than Three-Quarters Cover) when its passive Perception, 5 lower if the member stands in dim light to it, is at least that total. A member out of its sight or behind Three-Quarters Cover goes unnoticed
+While the party sneaks, each member keeps one Stealth total for the visit: rolled when the party first starts sneaking, kept through stopping and starting again until it leaves the place or an hour has passed on the clock (a rest passes it). A party that walks out through an exit sneaking arrives sneaking, with fresh rolls; the travel map, cutscenes and loads start it walking. Each portrait shows the total, red when a foe in plain view would notice that member even in dim light, amber in bright light only. A foe notices a member it sees clearly (less than Three-Quarters Cover) when its passive Perception, 5 lower if the member stands in dim light to it, is at least that total. A member out of its sight or behind Three-Quarters Cover goes unnoticed
 
-*Why:* The 2024 rules only let you hide out of sight and leave noticing to the DM; comparing Stealth with passive Perception is the usual table call for sneaking up, and the light and cover parts follow the rules for obscurement and Hide
+*Why:* The 2024 rules only let you hide out of sight and leave noticing to the DM; comparing Stealth with passive Perception is the usual table call for sneaking up, and the light and cover parts follow the rules for obscurement and Hide. One roll a visit keeps stopping and starting from being a free reroll, and shown totals let the player plan round the weakest sneaker (docs/design/overworld_stealth.md)
 
 ### Facing before a fight
 A foe waiting in plain view, or a townsperson watching for a theft, sees only within a 120° cone the way it faces (out to 30 ft) and hears the party all round within 10 ft, not through walls; Stealth still applies to both. In fights, nobody has facing
@@ -328,6 +338,16 @@ A party that isn't sneaking surprises no foe (it's heard coming), and a fight a 
 A sneaking member nobody noticed, with a Stealth total of 15 or more and Three-Quarters Cover from every foe, starts the fight with the Invisible condition, as if they had taken the Hide action; it ends when the fight does
 
 *Why:* The rules don't say whether hiding before a fight carries into it; this asks what the Hide action asks
+
+### Slipping past a waiting fight
+A fight that waits in plain view (a `waiting` encounter with a foe that isn't `unseen`) doesn't start when a sneaking party steps into its area unless one of its foes notices a member (the sneaking-up rule, with each member's kept Stealth total); a foe that notices starts it with nobody surprised. Stepping in without sneaking, or stopping to sneak inside the area, starts it. When every member has left the area again unnoticed the party has slipped past it: in Experience mode it earns what winning would (once a fight, as a fight talked away does), in Milestone mode nothing; the fight's flag isn't set and it stays to be fought. A foe asleep (`surprise: enemies`) notices nobody. A party that comes through an exit sneaking arrives sneaking, before its areas are looked at
+
+*Why:* The 2024 rules leave sneaking past a guarded room to the DM; the DMG counts foes cleverly avoided as overcome, so slipping past pays as winning does (Ashwin picked Option A, docs/design/overworld_stealth.md)
+
+### Guarded containers
+A container inside the area of a waiting fight says it is guarded. Opening it asks the notice rule of the leader (kept Stealth total while sneaking, none when not): a foe that would notice them starts the fight and nothing is taken; if none would, the take goes through and the fight doesn't start
+
+*Why:* One rule for noticing keeps sneaking predictable: taking from a chest the foes face can't go unseen, and from one they don't can
 
 ### Picking a pocket
 Dexterity (Sleight of Hand) against the target's passive Perception, once per person; a picked pocket holds coins by the target's station plus any items their data names
@@ -889,10 +909,15 @@ Journeys on the travel map take less time (half, or a third or a quarter less)
 
 *Why:* Flying over Barovia's woods is what the map can show
 
-### Daern's Instant Fortress, Rod of Security
+### Rod of Security
 A safe Long Rest wherever the party is, even with enemies in the building (still 16 hours after the last Long Rest)
 
-*Why:* The fortress as a building on the map isn't built
+*Why:* The demiplane isn't built
+
+### Daern's Instant Fortress
+The statuette (an action to set it down, again to fold it) raises the tower only in the open air, on the nearest clear, level 4 x 4 squares to the party with the door looking at the camera when it can (docs/story/fortress.md); the party's rest in it is the plain Long Rest of a safe place, so the 16 hours since the last Long Rest still apply. A staircase joins the floors (the book lets the owner pick a ladder, staircase or ramp). Left standing when the party leaves the map, it can only be folded from that map ("out of earshot" elsewhere) and no second tower can be raised meanwhile
+
+*Why:* The book pushes creatures and loose objects out of the area where the tower appears; the game picks a plot with nobody and nothing on it instead. Nothing in the game attacks the tower, so its AC 20, Hit Points, immunities and the Wish that repairs it are in the item's text only
 
 ### Mystic Arcanum
 The number of arcana is capped by the level 6-9 Warlock spells the game's data has, like Wild Shape's forms, so a Warlock 11 never dead-ends while those spells are being written

@@ -17,7 +17,7 @@ A widow the Baron's men pay a copper a day to hand out festival ribbons in the s
 ## Where to find them
 
 > [!note]- At points in the story (2)
-> - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Main street: when dobre beaten and not ribbons resolved
+> - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Main street: when (dobre beaten or dobre arrested) and not ribbons resolved
 > - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Town square, 09:00–17:00, walking a round: when not weather is storm and (not festival over or (quest.ribbons and not ribbons resolved))
 
 ## Quests

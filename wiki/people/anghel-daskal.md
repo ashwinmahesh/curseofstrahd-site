@@ -17,3 +17,7 @@ The count's secretary in life, who wrote out his letters and kept his seals and 
 ## Where to find them
 
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), The study, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

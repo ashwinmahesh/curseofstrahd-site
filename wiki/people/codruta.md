@@ -16,7 +16,8 @@ The youngest of the five children the pack carried off from the farms below Krez
 
 ## Where to find them
 
-> [!note]- At points in the story (2)
+> [!note]- At points in the story (3)
+> - [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), The well square, 09:00–17:00: when den children freed and not weather is storm
 > - [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md), The great cave: when (kiril defeated or den broken) and not emil toranescu with the party and not pack aftermath done
 > - [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md), The pen: when not den children freed
 

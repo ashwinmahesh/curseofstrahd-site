@@ -17,3 +17,7 @@ A lady of fashion from beyond the mists who came up to the castle for a ball two
 ## Where to find them
 
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), The hall of faces, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

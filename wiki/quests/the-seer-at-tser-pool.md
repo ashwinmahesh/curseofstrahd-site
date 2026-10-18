@@ -78,19 +78,6 @@ How you paid matters afterwards:
 - **No respec option on later visits?** It needs her friendly and the respec switch on in the pause menu.
 - **No "Pay ten gold" option?** It only shows when the party has 10 gp (and "Pay twenty gold", after a failed threat, only with 20 gp). A poorer party pays with a true thing: "We can't spare ten gold" takes you there.
 
-## Rewards
-
-**What your companions think**
-
-- **Wren Featherfoot:** +1 you put the hanged boy's earring in Stanimir's hand; +1 you lied to Stanimir and let his own boys take the blame
-- **Liriel Dawnsong:** +1 you put the hanged boy's earring in Stanimir's hand; -2 you fought the Vistani over what you'd stolen from them
-- **Kip Smudgewick:** +2 you gave Stanimir back what was taken from his fire; -2 you lied to Stanimir and let his own boys take the blame; -3 you fought the Vistani over what you'd stolen from them
-- **Godrick Pendlebrook:** +1 you gave Stanimir back what was taken from his fire; -1 you lied to Stanimir and let his own boys take the blame; -2 you fought the Vistani over what you'd stolen from them
-
-## Fights
-
-- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): 2 × Vistani horse-master ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × Vistana with a knife ([Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md)), 2 × Vistana archer ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
-
 ## Journal
 
 > [!quote]- Every journal entry and hint

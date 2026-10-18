@@ -27,6 +27,9 @@ Built for a party of about level 4: random treasure here is rolled for that leve
 ## Quests
 
 - [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md)
+- [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md)
+- [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md)
+- [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md)
 - [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md)
 - [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md)
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md) (main)
@@ -43,7 +46,7 @@ Built for a party of about level 4: random treasure here is rolled for that leve
 
 ## People
 
-[A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md), [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md), [Bogdan](https://curseofstrahd.app/wiki/people/bogdan.md), [Bujor](https://curseofstrahd.app/wiki/people/bujor.md), [Grigor](https://curseofstrahd.app/wiki/people/grigor.md), [Iancu](https://curseofstrahd.app/wiki/people/iancu.md), [Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md), [Lavinia](https://curseofstrahd.app/wiki/people/lavinia.md), [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md), [Nelu](https://curseofstrahd.app/wiki/people/nelu.md), [Old Dorina](https://curseofstrahd.app/wiki/people/old-dorina.md), [Old Marin](https://curseofstrahd.app/wiki/people/old-marin.md), [Petru](https://curseofstrahd.app/wiki/people/petru.md), [Radu](https://curseofstrahd.app/wiki/people/radu.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [The Huntsman](https://curseofstrahd.app/wiki/people/the-huntsman.md), [Tsura](https://curseofstrahd.app/wiki/people/tsura.md), [Wenzel](https://curseofstrahd.app/wiki/people/wenzel.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md)
+[A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md), [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md), [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md), [Bogdan](https://curseofstrahd.app/wiki/people/bogdan.md), [Bujor](https://curseofstrahd.app/wiki/people/bujor.md), [Costica](https://curseofstrahd.app/wiki/people/costica.md), [Grigor](https://curseofstrahd.app/wiki/people/grigor.md), [Iancu](https://curseofstrahd.app/wiki/people/iancu.md), [Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md), [Lavinia](https://curseofstrahd.app/wiki/people/lavinia.md), [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md), [Nelu](https://curseofstrahd.app/wiki/people/nelu.md), [Old Dorina](https://curseofstrahd.app/wiki/people/old-dorina.md), [Old Marin](https://curseofstrahd.app/wiki/people/old-marin.md), [Petru](https://curseofstrahd.app/wiki/people/petru.md), [Radu](https://curseofstrahd.app/wiki/people/radu.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [The Huntsman](https://curseofstrahd.app/wiki/people/the-huntsman.md), [Tsura](https://curseofstrahd.app/wiki/people/tsura.md), [Wenzel](https://curseofstrahd.app/wiki/people/wenzel.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md)
 
 ## Merchants
 

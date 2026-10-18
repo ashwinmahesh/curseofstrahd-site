@@ -28,4 +28,5 @@ The village shopkeeper, who charges ten times the going price because there is n
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md)
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md)
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md)
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md)
 - [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md) (gives it)

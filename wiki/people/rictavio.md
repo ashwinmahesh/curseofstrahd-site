@@ -21,7 +21,7 @@ A loud half-elf showman in loud clothes, lodging at the Blue Water Inn with a ca
 > [!note]- At points in the story (4)
 > - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Taproom: when day and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)
 > - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Rictavio's room: when not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)
-> - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), Ezmerelda's camp: when van richten reunited and not rictavio with the party and not ezmerelda left tower
+> - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), Ezmerelda's camp: when van richten reunited and not rictavio with the party and (not ezmerelda left tower or ezmerelda back at camp or (ezmerelda reunited in vallaki and rictavio gone))
 > - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), The workroom: when rictavio gone and not rictavio with the party and not van richten reunited
 
 ## Shop and services

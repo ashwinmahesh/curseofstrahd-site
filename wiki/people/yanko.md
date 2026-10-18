@@ -17,7 +17,7 @@ A Belview boy who went over the Abbey wall two winters ago and was taken by the 
 ## Where to find them
 
 > [!note]- At points in the story (1)
-> - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when night and waystone wolves beaten and quest.the waystone isn't done
+> - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when waystone wolves beaten and quest.the waystone isn't done
 
 ## Quests
 

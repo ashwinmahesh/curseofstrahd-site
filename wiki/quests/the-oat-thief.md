@@ -49,8 +49,8 @@ There's one ending. Agafia and her children stay in the hollow, Parriwimple keep
 
 **What your companions think**
 
-- **Liriel Dawnsong:** +2 you stood at a hiding mother's door
-- **Godrick Pendlebrook:** +2 you stood at a hiding mother's door
+- **Godrick Pendlebrook:** -1 you blamed Arik for Bildrath's oats; +1 you spoke up for Parriwimple; +2 you stood at a hiding mother's door
+- **Liriel Dawnsong:** -1 you blamed Arik for Bildrath's oats; +1 you spoke up for Parriwimple; +2 you stood at a hiding mother's door
 - **Thistle:** +2 you stood at a hiding mother's door
 - **Wren Featherfoot:** +1 you stood at a hiding mother's door
 
@@ -67,7 +67,10 @@ There's one ending. Agafia and her children stay in the hollow, Parriwimple keep
 
 > [!quote]- Every journal entry and hint
 > **Rumored**: Bildrath is short four sacks of oats a week, and the lock on his back room is never touched. He says Parriwimple is a very poor liar.
-> *Hint:* Watch the north path at the village's north edge after dark and see who's carrying the oats.
+> *Hint:* Ask Bildrath at his mercantile in the village to see the back room, or watch the village's north path after dark and see who's carrying the oats.
+>
+> **Suspect**: The back room says it plainly: oat husks from the gap to the back door, a very large boot with the left heel dragging, a lock that's never touched. Whoever is stealing Bildrath's oats is very big, and a very poor liar.
+> *Hint:* Tell Bildrath at the village's mercantile who you think has been taking the oats, or watch the north path at the village's north edge after dark.
 >
 > **Asked**: Parriwimple carries the oats up the north path at night, to a woman called Agafia who is hiding in the woods with three small children. They mustn't ever have meat, she says.
 > *Hint:* Take the north path at the village's north edge up into the pines, to the hollow.
@@ -78,11 +81,17 @@ There's one ending. Agafia and her children stay in the hollow, Parriwimple keep
 > **Done** (the end: success): Agafia and her children are safe in the hollow, for now, on oats, and Parriwimple still carries them up. Bildrath has decided it's charity. Don't repeat that.
 
 > [!abstract]- Every skill check in its conversations
+> - Investigation DC 10: (Look at the floor.)
+> - Perception DC 11: (Look at the door and the lock.)
+> - Insight DC 12: (Watch Bildrath while he talks about the thief.)
+> - Persuasion DC 10: Go easy on him, Bildrath. He fed hungry people.
 > - Persuasion DC 10: We won't tell your uncle. Who are they for?
 > - Survival DC 12: (Look at the ground round the hut.)
+> - Survival DC 12: (Sweep the husks into the moss and scatter a false line down to the river.)
+> - Stealth DC 12: (Carry the torn sack down toward the river and spill a new trail there.)
 
 ## Related
 
-- **People:** [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Agafia](https://curseofstrahd.app/wiki/people/agafia.md)
+- **People:** [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Arik](https://curseofstrahd.app/wiki/people/arik.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Agafia](https://curseofstrahd.app/wiki/people/agafia.md)
 - **Places:** [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md)
-- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md), [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
+- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md)

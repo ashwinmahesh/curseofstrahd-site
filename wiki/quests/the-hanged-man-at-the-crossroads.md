@@ -64,14 +64,12 @@ The quest always ends at "told". What changes is how you got there:
 
 **What your companions think**
 
-- **Wren Featherfoot:** +1 you took the hanged Vistana's earring home for his people; +1 you cut down the hanged Vistana and gave him a grave; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words; +1 you put the hanged boy's earring in Stanimir's hand; +1 you lied to Stanimir and let his own boys take the blame
+- **Wren Featherfoot:** +1 you took the hanged Vistana's earring home for his people; +1 you cut down the hanged Vistana and gave him a grave; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words; +1 you put the hanged boy's earring in Stanimir's hand
 - **Liriel Dawnsong:** +1 you took the hanged Vistana's earring home for his people; -1 you left a hanged man turning on the gallows; +2 you cut down the hanged Vistana and gave him a grave; +2 you buried the hanged Vistana by the road; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words
-- **Godrick Pendlebrook:** -1 you left a hanged man turning on the gallows; +1 you cut down the hanged Vistana and gave him a grave; +1 you buried the hanged Vistana by the road; +1 you gave Luminita the earring of the brother she lost; +1 you gave Stanimir back what was taken from his fire; -1 you lied to Stanimir and let his own boys take the blame
-- **Kip Smudgewick:** +1 you cut down the hanged Vistana and gave him a grave; +2 you gave Stanimir back what was taken from his fire; -2 you lied to Stanimir and let his own boys take the blame; -3 you fought the Vistani over what you'd stolen from them
+- **Godrick Pendlebrook:** -1 you left a hanged man turning on the gallows; +1 you cut down the hanged Vistana and gave him a grave; +1 you buried the hanged Vistana by the road; +1 you gave Luminita the earring of the brother she lost
+- **Kip Smudgewick:** +1 you cut down the hanged Vistana and gave him a grave
 
 ## Fights
-
-- *The fiddle stops mid-note. Every knife in the camp comes out at once.*, in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): 2 × Vistani horse-master ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × Vistana with a knife ([Bandit](https://curseofstrahd.app/wiki/bestiary/bandit.md)), 2 × Vistana archer ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Scout](https://curseofstrahd.app/wiki/bestiary/scout.md).
 
 - *On the gallows the hanged man lifts his head. Behind him, all across the field, the mounds begin to split.*, in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): Nicu, the hanged man ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 4 × Hanged dead ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Hanged dead ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × Hanged dead ([Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md)).
 
@@ -97,13 +95,12 @@ The quest always ends at "told". What changes is how you got there:
 > - Religion DC 12: Say what words you can remember.
 > - Animal Handling DC 12: Help her with the horse.
 > - Insight DC 14: Who do your people answer to?
-> - Deception DC 16: We never touched it.
 
 ## Related
 
 - **People:** [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Radu](https://curseofstrahd.app/wiki/people/radu.md), [A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md)
 - **Places:** [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md)
-- **More in The Old Svalich Road:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md), [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md), [The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.md)
+- **More in The Old Svalich Road:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md), [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md)
 
 > [!example]- Cutscenes
 > **The Hanged Man**: A young Vistana turns on the rope at the crossroads gallows.

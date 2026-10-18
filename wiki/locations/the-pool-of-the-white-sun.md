@@ -56,7 +56,7 @@ A round spring-fed pool at the north end of Krezk that never freezes, ringed by 
 | # | Where | What | How |
 |---|---|---|---|
 | 7 | a scroll under the candle stubs (hidden) | [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead) | Search: Investigation DC 14 |
-| 8 | something glinting at the pool's edge (hidden) | [Amulet of the Devout, +1](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-1) | Search: Perception DC 13 |
+| 8 | something glinting at the pool's edge (hidden) | [Bloodwell Vial, +2](https://curseofstrahd.app/wiki/items/magic-items.md#bloodwell-vial-2) | Search: Perception DC 13 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Krezk Pool of the White Sun ()
 

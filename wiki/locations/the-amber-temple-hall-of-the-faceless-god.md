@@ -64,7 +64,7 @@ Every sound you make comes back to you a moment later, slightly changed.
 | # | Where | What | How |
 |---|---|---|---|
 | 5 | Offerings at the statue's feet | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet), 64 gp | open it |
-| 6 | a warden's chest | [Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#spellbook), [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Robe](https://curseofstrahd.app/wiki/items/equipment.md#robe), 20 gp | open it |
+| 6 | a warden's chest | [A Warden's Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#a-wardens-spellbook), [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Robe](https://curseofstrahd.app/wiki/items/equipment.md#robe), 20 gp | open it |
 | 7 | a warden's locker | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 35 gp | lock DC 14 |
 | 8 | a student's desk | [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×5, [Magnifying Glass](https://curseofstrahd.app/wiki/items/equipment.md#magnifying-glass) | open it |
 | 10 | a loose stone in a warden's cell (hidden) | [Ioun Stone (Insight)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-insight) | Search: Investigation DC 17 |

@@ -17,3 +17,7 @@ A drudge of the lower floors, three centuries dead, who walks the guards' run en
 ## Where to find them
 
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md), The guards' run, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

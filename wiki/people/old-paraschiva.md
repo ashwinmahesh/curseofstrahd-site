@@ -22,3 +22,4 @@ An old woman who keeps the camp's pot going and the young men fed, and who disap
 
 - [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md) (gives it)
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md)
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md)

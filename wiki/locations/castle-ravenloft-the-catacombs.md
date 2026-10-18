@@ -51,7 +51,7 @@ Aisles of crypts run away into the dark in straight lines, each behind an iron g
 *the Mad Dog's sarcophagus, Torn regimental banners*
 
 ![loc castle ravenloft catacombs spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-spot2.webp)
-*a sealed reliquary with a slot in its lid, a wand hidden in the conjurer's bier*
+*a sealed reliquary with a slot in its lid, a staff hidden in the conjurer's bier*
 
 ![loc castle ravenloft catacombs spot3](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-spot3.webp)
 *an iron-bound chest under the bones, Bones stacked to the ceiling*
@@ -67,7 +67,7 @@ Aisles of crypts run away into the dark in straight lines, each behind an iron g
 | 9 | a noble's crypt, its lid ajar | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), 25 gp | open it |
 | 10 | the champion's slab | [Greatsword](https://curseofstrahd.app/wiki/items/equipment.md#greatsword), 20 gp | open it |
 | 13 | the conjurer's bier (hidden) | [Arcane Focus (Wand)](https://curseofstrahd.app/wiki/items/equipment.md#arcane-focus-wand) | Search |
-| 16 | a wand hidden in the conjurer's bier (hidden) | [Wand of the War Mage, +2](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-2) | Search: Investigation DC 16 |
+| 16 | a staff hidden in the conjurer's bier (hidden) | [Staff of Thunder and Lightning (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-thunder-and-lightning) | Search: Investigation DC 16 |
 | 17 | a false bottom in the jester's sarcophagus (hidden) | [Cape of the Mountebank](https://curseofstrahd.app/wiki/items/magic-items.md#cape-of-the-mountebank) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Crypt of the Mad Dog (cat_mad_dog_sarcophagus); Castle Ravenloft Crypt of the Wizard (cat_conjurer_reliquary); Castle Ravenloft Gargoyle Tomb (cat_champion_slab)
@@ -104,10 +104,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The coffins are empty because their sleepers are already standing, and they have been waiting for you.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the sleepers' crypt.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP)
+> - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; waiting)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when day: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; surprise: enemies)
 
-- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (134 HP). Starts when you reach the champion's tomb.
+- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (110 HP). Starts when you reach the champion's tomb.
 
 - *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)

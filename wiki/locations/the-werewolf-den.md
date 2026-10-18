@@ -69,9 +69,9 @@ Warm, close and dark. Straw and furs, gnawed bones, the smell of animals that ar
 | # | Where | What | How |
 |---|---|---|---|
 | 21 | Offerings at the shrine | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, 35 gp | open it |
-| 22 | Kiril's hoard | [Ring of Regeneration](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-regeneration), [Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection), [Ring of Animal Influence](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-animal-influence), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Dice Set](https://curseofstrahd.app/wiki/items/equipment.md#dice-set), 140 gp | lock DC 15 |
-| 25 | a sword among Kiril's trophies (hidden) | [Longsword of Wounding](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-wounding) | Search: Perception DC 15 |
-| 26 | an offering hidden under the shrine (hidden) | [Moon Sickle, +2 (Sickle)](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-2) | Search: Perception DC 15 |
+| 22 | Kiril's hoard | [Ring of Regeneration](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-regeneration), [+2 Longbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), [+1 Splint Armor](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Dice Set](https://curseofstrahd.app/wiki/items/equipment.md#dice-set), 140 gp | lock DC 15 |
+| 25 | a sword among Kiril's trophies (hidden) | [Shortsword of Wounding](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-wounding) | Search: Perception DC 15 |
+| 26 | an offering hidden under the shrine (hidden) | [Figurine of Wondrous Power (Marble Elephant)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-marble-elephant) | Search: Perception DC 15 |
 | 27 | a flask in the drying herbs (hidden) | [Elixir of Health](https://curseofstrahd.app/wiki/items/magic-items.md#elixir-of-health) | Search: Investigation DC 14 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Werewolf Den Shrine (mother_night_offerings)
@@ -82,16 +82,16 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 23 | Kiril's trophies | Survival 15 | Read Kiril's trophies | finds Longsword of Wounding |
+| 23 | Kiril's trophies | Survival 15 | Read Kiril's trophies | finds Shortsword of Wounding |
 | 24 | Bundles of drying herbs | Nature 14 | Sort the drying herbs | finds Elixir of Health |
 
 ## Fights
 
 - *Shapes uncurl from the straw along the walls, and the cave is suddenly full of yellow eyes. Nobody told them…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level. Starts when you reach the mouth cave.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved and level ≥ 8: 7 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5500 XP)
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved and level ≥ 7: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4100 XP)
-> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4100 XP)
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved and level ≥ 8: 7 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5500 XP; waiting)
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved and level ≥ 7: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4100 XP; waiting)
+> - **[The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)**, when not zuleika vouched and not den guards cleared and not emil freed and not pack resolved: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (4100 XP; waiting)
 
 - *Kiril throws back his head and laughs, and the laugh turns into a howl halfway through, and his loyal wolves…*, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md): [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)

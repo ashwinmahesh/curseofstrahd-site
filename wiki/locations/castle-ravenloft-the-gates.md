@@ -8,6 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (Castle Ravenloft)
+> **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)
 
 ## Overview
 
@@ -56,17 +57,21 @@ A chasm with no bottom you can see, a drawbridge already lowered, a gatehouse wi
 
 ## People
 
-- **[The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md)**, Of the Castle Watch: The front courtyard (#7)
-- **[The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md)**, Of the Castle Watch: The front courtyard (#8)
+- **[The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md)**, Of the Castle Watch: The front courtyard (#9)
+- **[The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md)**, Of the Castle Watch: The front courtyard (#10)
+
+> [!note]- Who turns up at points in the story (2)
+> - **[Gogu](https://curseofstrahd.app/wiki/people/gogu.md)**, The front courtyard (#7): when gogu lowered
+> - **[Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)**, The road below the gates (#8): when quest fennimores guide at done and level ≥ 10
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 9 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
-| 10 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
-| 13 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
-| 14 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
+| 11 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
+| 12 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
+| 15 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
+| 16 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -74,15 +79,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 11 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
-| 12 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
+| 13 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
+| 14 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
 
 ## Fights
 
 - *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the front courtyard.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (77 HP) (7200 XP)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (84 HP) (6300 XP)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (64 HP) (7200 XP; waiting)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (68 HP) (6300 XP; waiting)
 
 ### At camp here
 
@@ -93,3 +98,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 | 1–3 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) | 160 |
 | 4–6 | 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 810 |
 | 7–11 | 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |
+
+## Quests and lore
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…

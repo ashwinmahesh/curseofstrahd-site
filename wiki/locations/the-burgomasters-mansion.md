@@ -8,7 +8,7 @@
 > **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)
-> **Quests:** [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) and 1 more
+> **Quests:** [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) and 2 more
 
 ## Overview
 
@@ -46,7 +46,7 @@ Bunting on every banister, portraits of the Baron in every pose a man can strike
 ### Close up
 
 ![loc vallaki burgomaster mansion spot1](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-burgomaster-mansion-spot1.webp)
-*the Baron's strongbox*
+*Leontina*
 
 ![loc vallaki burgomaster mansion spot2](https://curseofstrahd.app/wiki/img/shots/loc-vallaki-burgomaster-mansion-spot2.webp)
 *Old trunk*
@@ -55,6 +55,8 @@ Bunting on every banister, portraits of the Baron in every pose a man can strike
 *Izek's chest*
 
 ## People
+
+- **[Leontina](https://curseofstrahd.app/wiki/people/leontina.md)**, The Baron's Cook: Dining hall (#10)
 
 > [!note]- Who turns up at points in the story (6)
 > - **[Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md)**, Great hall, The Baron's study (#4, #5): when not festival begun; or when vallaki backed is “baron”; or when vallaki backed is “neither”
@@ -68,11 +70,11 @@ Bunting on every banister, portraits of the Baron in every pose a man can strike
 
 | # | Where | What | How |
 |---|---|---|---|
-| 10 | the Baron's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 60 gp | lock DC 16; Baron Vargas Vallakovich's, so taking is theft |
-| 11 | Old trunk | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 3 gp | open it; Baron Vargas Vallakovich's, so taking is theft |
-| 12 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant) | open it; Izek Strazni's, so taking is theft |
-| 14 | a loose board under the chalk circle (hidden) | [Wand of the War Mage, +1](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-the-war-mage-1) | Search: Investigation DC 15 |
-| 15 | something behind the festival ledger (hidden) | [Necklace of Fireballs](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-fireballs) | Search: Investigation DC 15 |
+| 11 | the Baron's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 60 gp | lock DC 16; Baron Vargas Vallakovich's, so taking is theft |
+| 12 | Old trunk | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 3 gp | open it; Baron Vargas Vallakovich's, so taking is theft |
+| 13 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant) | open it; Izek Strazni's, so taking is theft |
+| 15 | a loose board under the chalk circle (hidden) | [Tentacle Rod](https://curseofstrahd.app/wiki/items/magic-items.md#tentacle-rod) | Search: Investigation DC 15 |
+| 16 | something behind the festival ledger (hidden) | [Necklace of Fireballs](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-fireballs) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Vallaki Burgomaster Mansion:izek Quarters (izek_doll_chest)
 
@@ -82,13 +84,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 13 | a circle chalked on the floor | Arcana 14 | Read the chalk circle | reveals victor_circle_trap; lore: Victor's circle |
+| 14 | a circle chalked on the floor | Arcana 14 | Read the chalk circle | reveals victor_circle_trap; lore: Victor's circle |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 16 | Teleportation circle | 10 | 15 | CON 14 | 4d6 force |
+| 17 | Teleportation circle | 10 | 15 | CON 14 | 4d6 force |
 
 ## Fights
 
@@ -105,6 +107,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md): Baron Vallakovich holds a festival every week to prove Vallaki is happy. This one, with its great wicker sun, will decide who rules the…
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md): The Baron wants a cake shaped like the sun for the festival, and his cook, who has made four hundred and thirteen round things, wants to…
 
 > [!quote]- The festival ledger
 > The Baron's festival accounts, in a round, hopeful hand. Festival of the First Snow: a success. Festival of the Late Harvest: a great success. Festival of the Returning Swallows (no swallows): a success. Beside each, a second column headed MALCONTENTS, and names. The column is longer than the first.

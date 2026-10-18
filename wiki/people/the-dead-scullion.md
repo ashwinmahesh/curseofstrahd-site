@@ -17,3 +17,7 @@ A scullion who died below stairs on the night of the wedding and still scours th
 ## Where to find them
 
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md), The kitchen, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

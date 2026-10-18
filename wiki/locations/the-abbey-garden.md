@@ -68,7 +68,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): The Stitched Sentry ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 60 HP), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 11 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md). Starts when you reach the scarecrows.
+- *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*, in [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): The Stitched Sentry ([Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 60 HP), 3 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), 11 × [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) (18 HP). Starts when you reach the scarecrows.
 
 ### At camp here
 

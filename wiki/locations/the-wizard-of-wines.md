@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (The Wizard of Wines)
-> **Quests:** [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md), [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md), [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md) and 4 more
+> **Quests:** [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md), [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md), [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md), [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md) and 5 more
 
 ## Overview
 
@@ -54,29 +54,30 @@ A painted sign over the yard gate shows a wizard in a starry hat pouring wine fo
 
 ## People
 
-- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven.md)**, Of the Wizard of Wines: The winery yard (#16)
-- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md)**, Of the Wizard of Wines: The lane through the vines (#17)
-- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md)**, Of the Wizard of Wines: The Martikovs' camp (#18)
+- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven.md)**, Of the Wizard of Wines: The winery yard (#18)
+- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md)**, Of the Wizard of Wines: The lane through the vines (#19)
+- **[A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md)**, Of the Wizard of Wines: The Martikovs' camp (#20)
 
-> [!note]- Who turns up at points in the story (9)
-> - **[Adrian Martikov](https://curseofstrahd.app/wiki/people/adrian-martikov.md)**, The foot of the lane, The Martikovs' camp (#4, #7): when not adrian met; or when adrian met and not winery reclaimed and not adrian martikov with the party
-> - **[Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md)**, The Martikovs' camp, The winery yard (#5, #8): when not winery reclaimed and not davian martikov with the party; or when winery reclaimed and not davian martikov with the party
-> - **[Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md)**, The Martikovs' camp, The winery yard (#6, #9): when not winery reclaimed; or when winery reclaimed
-> - **[Ionel](https://curseofstrahd.app/wiki/people/ionel.md)**, The foot of the lane (#10): when not winery reclaimed
-> - **[Tereza](https://curseofstrahd.app/wiki/people/tereza.md)**, The Martikovs' camp (#11): when not winery reclaimed
-> - **[Horia](https://curseofstrahd.app/wiki/people/horia.md)**, The Martikovs' camp (#12): when not winery reclaimed
-> - **[Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md)**, The west vineyard (#13): when winery reclaimed
-> - **[Andrei](https://curseofstrahd.app/wiki/people/andrei.md)**, The east vineyard (#14): when winery reclaimed
-> - **[Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md)**, The winery yard (#15): when winery reclaimed
+> [!note]- Who turns up at points in the story (10)
+> - **[Sprig](https://curseofstrahd.app/wiki/people/sprig.md)**, The east vineyard, The winery yard (#4, #5): when not winery reclaimed; or when winery reclaimed
+> - **[Adrian Martikov](https://curseofstrahd.app/wiki/people/adrian-martikov.md)**, The foot of the lane, The Martikovs' camp (#6, #9): when not adrian met; or when adrian met and not winery reclaimed and not adrian martikov with the party
+> - **[Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md)**, The Martikovs' camp, The winery yard (#7, #10): when not winery reclaimed and not davian martikov with the party; or when winery reclaimed and not davian martikov with the party
+> - **[Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md)**, The Martikovs' camp, The winery yard (#8, #11): when not winery reclaimed; or when winery reclaimed
+> - **[Ionel](https://curseofstrahd.app/wiki/people/ionel.md)**, The foot of the lane (#12): when not winery reclaimed
+> - **[Tereza](https://curseofstrahd.app/wiki/people/tereza.md)**, The Martikovs' camp (#13): when not winery reclaimed
+> - **[Horia](https://curseofstrahd.app/wiki/people/horia.md)**, The Martikovs' camp (#14): when not winery reclaimed
+> - **[Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md)**, The west vineyard (#15): when winery reclaimed
+> - **[Andrei](https://curseofstrahd.app/wiki/people/andrei.md)**, The east vineyard (#16): when winery reclaimed
+> - **[Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md)**, The winery yard (#17): when winery reclaimed
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 23 | a rope tied off below the well's lip (hidden) | [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) | Search: Perception DC 13 |
-| 24 | the ravens' hoard in the dead tree (hidden) | [Ring of Feather Falling](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-feather-falling) | Search: Perception DC 15 |
-| 25 | something behind the casks (hidden) | [Eversmoking Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#eversmoking-bottle) | Search: Perception DC 13 |
-| 26 | something dropped between the vines (hidden) | [Moon Sickle, +1 (Sickle)](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-1) | Search: Perception DC 12 |
+| 25 | a rope tied off below the well's lip (hidden) | [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) | Search: Perception DC 13 |
+| 26 | the ravens' hoard in the dead tree (hidden) | [Ring of Feather Falling](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-feather-falling) | Search: Perception DC 15 |
+| 27 | something behind the casks (hidden) | [Eversmoking Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#eversmoking-bottle) | Search: Perception DC 13 |
+| 28 | something dropped between the vines (hidden) | [Moon Sickle, +1 (Sickle)](https://curseofstrahd.app/wiki/items/magic-items.md#moon-sickle-1) | Search: Perception DC 12 |
 
 The containers here also get random magic items and potions, rolled for a party of level 6 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -84,10 +85,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 19 | the well | Athletics 13 | Climb down inside the well | finds Rope of Climbing; on a failure: 1d6 bludgeoning damage |
-| 20 | Withered vines | Nature 14 | Study the withered vines | reveals yester_hill:gully_cache; lore: The blight on the vines |
-| 21 | the camp fire | Performance 13 | Sing with the Martikovs at the fire | Heroic Inspiration |
-| 22 | a dead tree full of ravens | Persuasion 14 | Ask the ravens for their help | finds Ring of Feather Falling; lore: The vineyard's ravens |
+| 21 | the well | Athletics 13 | Climb down inside the well | finds Rope of Climbing; on a failure: 1d6 bludgeoning damage |
+| 22 | Withered vines | Nature 14 | Study the withered vines | reveals yester_hill:gully_cache; lore: The blight on the vines |
+| 23 | the camp fire | Performance 13 | Sing with the Martikovs at the fire | Heroic Inspiration |
+| 24 | a dead tree full of ravens | Persuasion 14 | Ask the ravens for their help | finds Ring of Feather Falling; lore: The vineyard's ravens |
 
 ## Fights
 
@@ -118,6 +119,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 - [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md): Ratatouille learned magic so that people would sit with him. He crossed the mists to apprentice himself to the Wizard of Wines, a master of…
 - [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md): Hedda Ironvow dreamed of a dying sun and a silver raven, and left her chapel before dawn to follow the dream. Since she crossed the mist,…
+- [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md): Old Silviu wants the last cask of the year Elvir was born carried to Vallaki for his daughter Dana's wedding.
 - [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md): Once the Martikovs are home, the Seventh Row of their vineyard comes up black every night, and every morning it has been picked bare.
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md): Davian's pickers watch a lantern go round and round the crown of Yester Hill at night, where the Gulthias tree burned, like somebody…

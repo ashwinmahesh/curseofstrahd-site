@@ -109,7 +109,7 @@ Burying Elvir turns the empty cairn at the camp into a grave. It also changes a 
 
 - **People:** [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md), [Kostin](https://curseofstrahd.app/wiki/people/kostin.md), [Mother Ruxandra](https://curseofstrahd.app/wiki/people/mother-ruxandra.md)
 - **Places:** [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md), [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md), [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md)
-- **More in The Wizard of Wines:** [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)
+- **More in The Wizard of Wines:** [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md), [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)
 
 > [!example]- Cutscenes
 > **The Effigy on Yester Hill**: Druids sway round the black tree and the forty-foot effigy with Strahd's face.

@@ -22,3 +22,7 @@ A Vistani trader who drives a painted wagon between the camps and sells curios n
 ## Shop and services
 
 - Buys and sells: [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md) lists the stock and prices.
+
+## Quests
+
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md)

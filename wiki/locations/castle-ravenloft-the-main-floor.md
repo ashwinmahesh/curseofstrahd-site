@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md), [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md), [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)
-> **Quests:** [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Dinner at Castle Ravenloft](https://curseofstrahd.app/wiki/quests/dinner-at-castle-ravenloft.md), [The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md)
+> **Quests:** [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Dinner at Castle Ravenloft](https://curseofstrahd.app/wiki/quests/dinner-at-castle-ravenloft.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md) and 1 more
 
 ## Overview
 
@@ -55,7 +55,7 @@ Cold stone, high vaults and dust, and somewhere an organ playing. Stairs climb, 
 ### Close up
 
 ![loc castle ravenloft main floor spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-main-floor-spot1.webp)
-*The Steward, The Hall Broom, a sideboard*
+*A Goat, The Hall Broom*
 
 ![loc castle ravenloft main floor spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-main-floor-spot2.webp)
 *The Dead Sentry*
@@ -65,28 +65,29 @@ Cold stone, high vaults and dust, and somewhere an organ playing. Stairs climb, 
 
 ## People
 
-- **[The Steward](https://curseofstrahd.app/wiki/people/the-steward.md)**, Ghost of the Dining Hall: The dining hall (#13)
-- **[The Dead Sentry](https://curseofstrahd.app/wiki/people/the-dead-sentry.md)**, Of the Great Entry: The great entry (#14)
-- **[The Hall Broom](https://curseofstrahd.app/wiki/people/the-hall-broom.md)**, Of the Guests' Hall: The guests' hall (#15)
-- **[Lord Aubrey Thale](https://curseofstrahd.app/wiki/people/lord-aubrey-thale.md)**, Of the Count's Court: The great entry (#16)
-- **[Lady Celestine Morrow](https://curseofstrahd.app/wiki/people/lady-celestine-morrow.md)**, Of the Count's Court: The hall of faces (#17)
-- **[Nicodim the Verger](https://curseofstrahd.app/wiki/people/nicodim-the-verger.md)**, Of the Household: The chapel passage (#18)
-- **[The Dead Doorward](https://curseofstrahd.app/wiki/people/the-dead-doorward.md)**, Of the Castle Watch: The entry hall (#19)
+- **[A Goat](https://curseofstrahd.app/wiki/people/a-goat.md)**, Of the Back Lanes: The guests' hall (#10)
+- **[The Steward](https://curseofstrahd.app/wiki/people/the-steward.md)**, Ghost of the Dining Hall: The dining hall (#14)
+- **[The Dead Sentry](https://curseofstrahd.app/wiki/people/the-dead-sentry.md)**, Of the Great Entry: The great entry (#15)
+- **[The Hall Broom](https://curseofstrahd.app/wiki/people/the-hall-broom.md)**, Of the Guests' Hall: The guests' hall (#16)
+- **[Lord Aubrey Thale](https://curseofstrahd.app/wiki/people/lord-aubrey-thale.md)**, Of the Count's Court: The great entry (#17)
+- **[Lady Celestine Morrow](https://curseofstrahd.app/wiki/people/lady-celestine-morrow.md)**, Of the Count's Court: The hall of faces (#18)
+- **[Nicodim the Verger](https://curseofstrahd.app/wiki/people/nicodim-the-verger.md)**, Of the Household: The chapel passage (#19)
+- **[The Dead Doorward](https://curseofstrahd.app/wiki/people/the-dead-doorward.md)**, Of the Castle Watch: The entry hall (#20)
 
 > [!note]- Who turns up at points in the story (2)
-> - **[Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md)**, The dining hall (#10): when strahd invitation is “accepted” and not castle dinner
-> - **[Captain Merrow](https://curseofstrahd.app/wiki/people/captain-merrow.md)**, The dining hall (#11, #12): when name ilse varga and quest kestrel company at or past the deserter and not kestrel merrow counted and not kestrel merrow fallen and strahd invitation is “accepted” and not castle dinner; or when name ilse varga and quest kestrel company at or past the deserter and not kestrel merrow counted and not kestrel merrow fallen and (strahd invitation isn't “accepted” or castle dinner is “dined” or crg dinner fight over)
+> - **[Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md)**, The dining hall (#11): when strahd invitation is “accepted” and not castle dinner
+> - **[Captain Merrow](https://curseofstrahd.app/wiki/people/captain-merrow.md)**, The dining hall (#12, #13): when name ilse varga and quest kestrel company at or past the deserter and not kestrel merrow counted and not kestrel merrow fallen and strahd invitation is “accepted” and not castle dinner; or when name ilse varga and quest kestrel company at or past the deserter and not kestrel merrow counted and not kestrel merrow fallen and (strahd invitation isn't “accepted” or castle dinner is “dined” or crg dinner fight over)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 20 | a servery cupboard | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it |
-| 21 | a sideboard | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) ×2, 25 gp | open it |
-| 22 | a guest wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | open it |
-| 23 | a weapon rack | [Halberd](https://curseofstrahd.app/wiki/items/equipment.md#halberd), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
-| 24 | an iron strongbox | [Animated Shield (Shield)](https://curseofstrahd.app/wiki/items/magic-items.md#animated-shield), 320 gp | open it |
-| 26 | a compartment behind one of the organ's stops (hidden) | [Instrument of the Bards (Anstruth Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-anstruth-harp) | Search: Investigation DC 16 |
+| 21 | a servery cupboard | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it |
+| 22 | a sideboard | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) ×2, 25 gp | open it |
+| 23 | a guest wardrobe | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | open it |
+| 24 | a weapon rack | [Halberd](https://curseofstrahd.app/wiki/items/equipment.md#halberd), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
+| 25 | an iron strongbox | [Animated Shield (Shield)](https://curseofstrahd.app/wiki/items/magic-items.md#animated-shield), 320 gp | open it |
+| 27 | a compartment behind one of the organ's stops (hidden) | [Staff of Striking (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-striking) | Search: Investigation DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Hidden Hearth (crg_hearth_hoard)
 
@@ -96,7 +97,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 25 | the organ | Performance 16 | Play the count's organ | finds Instrument of the Bards (Anstruth Harp) |
+| 26 | the organ | Performance 16 | Play the count's organ | finds Staff of Striking (Quarterstaff) |
 
 ### Locked and secret doors
 
@@ -108,8 +109,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Suits of black armour step down from their stands at once, as if someone had called the watch.*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level. Starts when you reach the east turret post.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when level ≥ 10: 4 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (118 HP) (9200 XP)
-> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**: 4 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (9200 XP)
+> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when level ≥ 10: 4 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (118 HP) (9200 XP; waiting)
+> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**: 4 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) (9200 XP; waiting)
 
 - *The fire dies, and every face in the hall turns toward you. Two portraits lean out of their frames; helmed…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md), [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level. Starts when the story sets it off.
 > [!example]- Every version (the first whose condition holds is the fight you get)
@@ -142,4 +143,5 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 - [A Seat at the Table](https://curseofstrahd.app/wiki/quests/a-seat-at-the-table.md): Ratatouille learned magic so that people would sit with him. He crossed the mists to apprentice himself to the Wizard of Wines, a master of…
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md): Ilse Varga's mercenary company marched into the mists a year ago at the invitation of someone who signed himself S. She was meant to march…
 - [Dinner at Castle Ravenloft](https://curseofstrahd.app/wiki/quests/dinner-at-castle-ravenloft.md): Strahd sent his carriage with an invitation to dine. He kept his word: the table was laid, and he was waiting.
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md): Kip Smudgewick signed a devil's contract to save his family's apricot orchard. The devil has offered him one way out: a signature from the…

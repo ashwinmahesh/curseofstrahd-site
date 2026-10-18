@@ -64,7 +64,7 @@ The family's private floor around the balcony: the master suite and bathroom, a 
 | 7 | a medicine cabinet | [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin), [Healer's Kit](https://curseofstrahd.app/wiki/items/equipment.md#healers-kit) | open it |
 | 8 | a painted chest | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | open it |
 | 9 | a false bottom in the dressing-table drawer (hidden) | [Circlet of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#circlet-of-blasting) | Search: Investigation DC 13 |
-| 10 | a bundle under the nursemaid's mattress (hidden) | [Cloak of Elvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-elvenkind) | Search: Perception DC 14 |
+| 10 | a bundle under the nursemaid's mattress (hidden) | [+1 Shortsword](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Perception DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 2 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 

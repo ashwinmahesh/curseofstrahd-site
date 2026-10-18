@@ -97,8 +97,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts when you reach the east guardroom.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 5 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10700 XP)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9300 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 5 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10700 XP; waiting)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9300 XP; waiting)
 
 ## Quests and lore
 

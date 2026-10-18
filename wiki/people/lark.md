@@ -16,9 +16,10 @@ A small Belview girl with a lark's feathers down her neck and a lark's thin legs
 
 ## Where to find them
 
-> [!note]- At points in the story (2)
+> [!note]- At points in the story (3)
 > - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when night and quest.the waystone and quest.the waystone isn't done and not waystone wolves beaten
-> - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when night and waystone wolves beaten and quest.the waystone isn't done
+> - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when day and waystone tracked and quest.the waystone and quest.the waystone isn't done and not waystone wolves beaten
+> - [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md), The bend: when waystone wolves beaten and quest.the waystone isn't done
 
 ## Quests
 

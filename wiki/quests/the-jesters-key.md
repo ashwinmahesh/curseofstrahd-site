@@ -8,7 +8,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Given by:** [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)
 > **Starts at:** [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md)
-> **Rewards:** [Figurine of Wondrous Power (Ebony Fly)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-ebony-fly)
+> **Rewards:** [Figurine of Wondrous Power (Ebony Fly)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-ebony-fly), [Pidlwick's Key](https://curseofstrahd.app/wiki/items/equipment.md#pidlwicks-key)
 
 ## Summary
 
@@ -54,6 +54,7 @@ That question is only in his menu while he is on the stair, not while he travels
 ## Rewards
 
 - [Figurine of Wondrous Power (Ebony Fly)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-ebony-fly)
+- [Pidlwick's Key](https://curseofstrahd.app/wiki/items/equipment.md#pidlwicks-key)
 
 **What your companions think**
 
@@ -82,4 +83,4 @@ That question is only in his menu while he is on the stair, not while he travels
 
 - **People:** [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)
 - **Places:** [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md), [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md), [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md)
-- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
+- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)

@@ -21,4 +21,5 @@ A boy of twelve who hangs about inside the gate to see who comes up the road, be
 
 ## Quests
 
+- [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md) (gives it)
 - [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md)

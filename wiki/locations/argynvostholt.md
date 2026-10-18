@@ -56,19 +56,20 @@ A drive between dead trees climbs past the footings of a gatehouse into a courty
 
 ## People
 
-> [!note]- Who turns up at points in the story (3)
-> - **[Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md)**, The courtyard (#6): when not godfrey met
-> - **[Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md)**, The courtyard (#7): when order fate is “ride” or order fate is “grudge”
-> - **[Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md)**, The squires' graves, The drive (#8, #9): when (order fate isn't “rest” or quest.the squire) and quest.the squire isn't done and not cosmin packed; or when quest the squire at done
+> [!note]- Who turns up at points in the story (4)
+> - **[Sir Ottokar the Late](https://curseofstrahd.app/wiki/people/sir-ottokar-the-late.md)**, The courtyard (#6): when (courtyard phantoms defeated or bone watch defeated or lamp dark cleared or beacon stand won or vladimir duel won or squires vigil won) and order fate isn't “rest”
+> - **[Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md)**, The courtyard (#7): when not godfrey met
+> - **[Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md)**, The courtyard (#8): when order fate is “ride” or order fate is “grudge”
+> - **[Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md)**, The squires' graves, The drive (#9, #10): when (order fate isn't “rest” or quest.the squire) and quest.the squire isn't done and not cosmin packed; or when quest the squire at done
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 10 | Rotted saddlebags | [Lance](https://curseofstrahd.app/wiki/items/equipment.md#lance), 18 gp | open it |
-| 14 | something on a ledge down the well (hidden) | [Cube of Force](https://curseofstrahd.app/wiki/items/magic-items.md#cube-of-force) | Search: Perception DC 15 |
-| 15 | something in the straw of a stall (hidden) | [Chain](https://curseofstrahd.app/wiki/items/equipment.md#chain) | Search: Perception DC 13 |
-| 16 | something left on a squire's grave (hidden) | [Holy Symbol (Emblem)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-emblem) | Search: Perception DC 14 |
+| 11 | Rotted saddlebags | [Lance](https://curseofstrahd.app/wiki/items/equipment.md#lance), 18 gp | open it |
+| 15 | something on a ledge down the well (hidden) | [Cube of Force](https://curseofstrahd.app/wiki/items/magic-items.md#cube-of-force) | Search: Perception DC 15 |
+| 16 | something in the straw of a stall (hidden) | [Chain](https://curseofstrahd.app/wiki/items/equipment.md#chain) | Search: Perception DC 13 |
+| 17 | something left on a squire's grave (hidden) | [Holy Symbol (Emblem)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-emblem) | Search: Perception DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -76,9 +77,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 11 | the frost scar | Arcana 15 | Study the frost scar | lore: The frost scar |
-| 12 | Small headstones | History 14 | Read the squires' headstones | finds Holy Symbol (Emblem) |
-| 13 | a well | Athletics 15 | Climb down to the ledge in the well | finds Cube of Force; on a failure: 2d6 bludgeoning damage |
+| 12 | the frost scar | Arcana 15 | Study the frost scar | lore: The frost scar |
+| 13 | Small headstones | History 14 | Read the squires' headstones | finds Holy Symbol (Emblem) |
+| 14 | a well | Athletics 15 | Climb down to the ledge in the well | finds Cube of Force; on a failure: 2d6 bludgeoning damage |
 
 ## Fights
 

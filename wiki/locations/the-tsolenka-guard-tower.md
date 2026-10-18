@@ -48,7 +48,7 @@ The door from the road opens into a vestibule and the guardroom. The gatehouse w
 *the gate winch, the watch horn behind the winch*
 
 ![loc tsolenka pass guard tower spot3](https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-spot3.webp)
-*a hauberk that never rusted*
+*armour that never rusted*
 
 ## People
 
@@ -62,7 +62,7 @@ The door from the road opens into a vestibule and the guardroom. The gatehouse w
 |---|---|---|---|
 | 4 | a footlocker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), 20 gp | open it |
 | 5 | the captain's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 90 gp | lock DC 15 |
-| 8 | a hauberk that never rusted (hidden) | [+2 Chain Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2) | Search: Investigation DC 16 |
+| 8 | armour that never rusted (hidden) | [+2 Half Plate Armor](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2) | Search: Investigation DC 16 |
 | 9 | the watch horn behind the winch (hidden) | [Horn of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-blasting) | Search: Perception DC 14 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Tsolenka Pass Guard Tower (captains_strongbox)

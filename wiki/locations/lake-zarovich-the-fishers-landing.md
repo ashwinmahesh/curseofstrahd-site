@@ -67,9 +67,9 @@ Black water to the far shore and the wolf hills above it. The fishers left a yea
 | 9 | Bluto's sea chest | [Net](https://curseofstrahd.app/wiki/items/equipment.md#net), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil), 2 gp | lock DC 10 |
 | 10 | a locker left behind | [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 6 gp | open it |
 | 14 | Something caught in the reeds (hidden) | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) | Search: Perception DC 13 |
-| 15 | something under the jetty's boards (hidden) | [Ring of Water Walking](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-water-walking) | Search: Perception DC 14 |
+| 15 | something under the jetty's boards (hidden) | [+1 Breastplate](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1) | Search: Perception DC 14 |
 | 16 | a loose hearthstone in the empty hut (hidden) | [Folding Boat](https://curseofstrahd.app/wiki/items/magic-items.md#folding-boat) | Search: Investigation DC 14 |
-| 17 | something behind the fishers' shrine (hidden) | [Trident of Fish Command (Trident)](https://curseofstrahd.app/wiki/items/magic-items.md#trident-of-fish-command) | Search: Perception DC 13 |
+| 17 | something behind the fishers' shrine (hidden) | [+2 Trident](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) | Search: Perception DC 13 |
 | 18 | a glass float tangled in the reeds (hidden) | [Glass Bottle](https://curseofstrahd.app/wiki/items/equipment.md#glass-bottle) | Search: Perception DC 12 |
 | 19 | something under the empty hut's step (hidden) | [Net](https://curseofstrahd.app/wiki/items/equipment.md#net) | Search: Perception DC 13 |
 
@@ -79,8 +79,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 11 | Bluto's rowboat | Acrobatics 13 | Swing under the jetty from the boat | finds Ring of Water Walking; on a failure: 1d4 cold damage |
-| 12 | a fishers' shrine | Religion 13 | Pray at the fishers' shrine | finds Trident of Fish Command (Trident) |
+| 11 | Bluto's rowboat | Acrobatics 13 | Swing under the jetty from the boat | finds +1 Breastplate; on a failure: 1d4 cold damage |
+| 12 | a fishers' shrine | Religion 13 | Pray at the fishers' shrine | finds +2 Trident |
 | 13 | a flat rock above the water | Athletics 13 | Dive from the flat rock | 25 gp; on a failure: 1d4 cold damage |
 
 ## Fights

@@ -489,7 +489,7 @@ A creature it hits makes a DC 10 Strength save or falls Prone.
 **Where to find it:**
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
-## Uncommon (133)
+## Uncommon (131)
 
 ### Adamantine Armor
 *uncommon, armor* · **Cheat code:** `30D5A5` (pick an armor)
@@ -513,7 +513,6 @@ Hits against objects are Critical Hits.
 Once a day, it pours out the liquid you name: acid, poison, oil, water, wine and more.
 
 **Where to find it:**
-- Hidden: a stave in the founder's cask that opens, [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md) (The foot of the stair) (found with Search, Investigation DC 14)
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ammunition, +1
@@ -530,9 +529,6 @@ Once a day, it pours out the liquid you name: acid, poison, oil, water, wine and
 +1 to your Cleric and Paladin spell attacks and save DC; once a day, a use of Channel Divinity back.
 
 **Where to find it:**
-- Hidden: something glinting at the pool's edge, [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) (The pool) (found with Search, Perception DC 13)
-- Hidden: a loose stone under the front pew, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Nave) (found with Search, Investigation DC 14)
-- Given by The altar step in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) ([Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Arcane Grimoire, +1
@@ -559,7 +555,6 @@ Holds 500 lb (64 cubic feet) and always weighs 5 lb.
 3 charges: pull out a fuzzy ball that becomes a random Beast friendly to you (weasel, giant rat, badger, and others).
 
 **Where to find it:**
-- Hidden: a secret drawer in the toy chest, [Death House, Attic](https://curseofstrahd.app/wiki/locations/death-house-attic.md) (Children's Room) (found with Search, Investigation DC 12)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Bag of Tricks (Rust)
@@ -568,7 +563,6 @@ Holds 500 lb (64 cubic feet) and always weighs 5 lb.
 3 charges: pull out a fuzzy ball that becomes a random Beast friendly to you (rat, owl, mastiff, and others).
 
 **Where to find it:**
-- Hidden: a hollow in the fallen trunk, [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) (The east glade) (found with Search, Investigation DC 12)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Bag of Tricks (Tan)
@@ -645,7 +639,7 @@ Your steps make no sound: Advantage on Dexterity (Stealth) checks.
 Your Speed is at least 30 ft and isn't lowered by armor or weight; you jump three times as far.
 
 **Where to find it:**
-- Hidden: a Vistani cache under the ribbon tree, [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) (The Vistani camp) (found with Search, Investigation DC 14)
+- Given by [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) ([The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md))
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Boots of the Winterlands
@@ -715,7 +709,6 @@ Once a day, cast Scorching Ray (+5 to hit).
 With the hood up: Advantage on Stealth checks, and Perception checks to see you have Disadvantage.
 
 **Where to find it:**
-- Hidden: a bundle under the nursemaid's mattress, [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md) (Nursemaid's Room) (found with Search, Perception DC 14)
 - Given by [Fen Burley](https://curseofstrahd.app/wiki/people/fen-burley.md) in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) ([Grandda's Trail](https://curseofstrahd.app/wiki/quests/granddas-trail.md))
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -744,7 +737,6 @@ With the hood up you breathe underwater and swim at 60 ft.
 Pours endless water: a stream, a fountain, or a geyser that knocks a creature down (Str DC 13).
 
 **Where to find it:**
-- Hidden: something behind the wizard's casks, [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md) (The wizard's rack) (found with Search, Perception DC 14)
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Deck of Illusions
@@ -880,7 +872,6 @@ Opened, it pours out smoke that heavily obscures everything within 60 ft.
 Advantage on Intelligence (Investigation) checks that rely on sight.
 
 **Where to find it:**
-- Hidden: a slit in the satchel's lining, [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md) (Back room) (found with Search, Investigation DC 14)
 - Hidden: a loose board under the card cabinet, [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md) (Den of Wolves) (found with Search, Investigation DC 13)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
@@ -991,6 +982,7 @@ Cast Disguise Self at will.
 Your Intelligence is 19 while you wear it.
 
 **Where to find it:**
+- Hidden: a slit in the satchel's lining, [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md) (Back room) (found with Search, Investigation DC 14)
 - Sold by [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Helm of Comprehending Languages
@@ -1007,7 +999,6 @@ Cast Comprehend Languages at will.
 Press its button and it stays fixed in place, holding up to 8,000 lb.
 
 **Where to find it:**
-- Hidden: something under a fallen beam, [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (found with Search, Perception DC 14)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Instrument of the Bards (Doss Lute)
@@ -1050,7 +1041,6 @@ Once a day, throw it as a bolt of lightning: a 120-ft line (Dex DC 13, 4d6 Light
 1d4 + 1 doses: each heals 2d8 + 2 and cures poison and disease.
 
 **Where to find it:**
-- Hidden: a tin behind the wayside shrine, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The well square) (found with Search, Perception DC 13)
 - A Nature check (DC 15) at Old Smaranda's herb stall, [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
@@ -1165,7 +1155,7 @@ Once a day, regain one spent spell slot of level 3 or lower.
 You can't contract a disease, and you have Advantage on saves against being Poisoned.
 
 **Where to find it:**
-- Hidden: an old priest in the burial niches, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Undercroft) (found with Search, Perception DC 14)
+- Given ([The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Periapt of Wound Closure
@@ -1255,6 +1245,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 4d4 + 4 Hit Poin
 - 2 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
 - 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
+- Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
 - 2 × Given by a random encounter on the road
 - Given by a random encounter on the road
 - Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
@@ -1403,16 +1394,6 @@ Cast Jump on yourself as a Bonus Action, at will.
 - Hidden: something glinting high in the pine, [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md) (The forest road) (found with Search, Perception DC 14)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
-### Ring of Mind Shielding
-*uncommon, ring, needs attunement* · **Cheat code:** `26BD50`
-
-Magic can't read your thoughts, tell if you lie, or learn your alignment or creature type.
-
-**Where to find it:**
-- Hidden: a loose board behind the shrine, [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Gates of Barovia) (found with Search, Investigation DC 12)
-- Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
-- Sometimes in the changing stock of Vadoma
-
 ### Ring of Swimming
 *uncommon, ring* · **Cheat code:** `6798E8`
 
@@ -1428,15 +1409,6 @@ Resistance to Cold damage; you and what you wear are unharmed by temperatures do
 
 **Where to find it:**
 - Hidden: something under the cairn by the track, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The abbey track) (found with Search, Perception DC 14)
-- Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
-
-### Ring of Water Walking
-*uncommon, ring* · **Cheat code:** `3F8C54`
-
-You can walk on liquid as if it were solid ground.
-
-**Where to find it:**
-- Hidden: something under the jetty's boards, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The jetty) (found with Search, Perception DC 14)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Robe of Useful Items
@@ -1463,7 +1435,6 @@ Covered in cloth patches you can pull off to get the items they show (a dagger, 
 A rope that climbs and ties itself where you tell it, and knots up for easy climbing.
 
 **Where to find it:**
-- Hidden: something in the frozen traveller's pack, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The cliff road) (found with Search, Perception DC 12)
 - Hidden: a rope tied off below the well's lip, [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The winery yard) (found with Search, Perception DC 13)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -1517,6 +1488,7 @@ A doll you float up to 30 ft away and speak through, Verbal spells included.
 The head becomes a snake: its bite deals 1d6 Piercing and 3d6 Poison (Con DC 15 avoids the poison).
 
 **Where to find it:**
+- Staff of the Adder (Quarterstaff): Hidden: a hollow under the front pew, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Nave) (found with Search, Investigation DC 14)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of the Python
@@ -1525,6 +1497,7 @@ The head becomes a snake: its bite deals 1d6 Piercing and 3d6 Poison (Con DC 15 
 Throw it down and it becomes a Giant Constrictor Snake that obeys you.
 
 **Where to find it:**
+- Hidden: a hollow in the fallen trunk, [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) (The east glade) (found with Search, Investigation DC 12)
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Stone of Good Luck (Luckstone)
@@ -1533,7 +1506,6 @@ Throw it down and it becomes a Giant Constrictor Snake that obeys you.
 +1 to ability checks and saving throws while it's on your person.
 
 **Where to find it:**
-- Given ([The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md))
 - Given by a very small crypt in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md) ([The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md))
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
@@ -1568,7 +1540,6 @@ Soaks up 30 damage from traps you set off, then breaks.
 3 charges: cast Dominate Beast (DC 15) on a Beast with a Swim Speed.
 
 **Where to find it:**
-- Trident of Fish Command (Trident): Hidden: something behind the fishers' shrine, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The landing) (found with Search, Perception DC 13)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Wand of Freshness
@@ -1621,7 +1592,6 @@ Four charges (1d4 + 1 back at dawn): a charge purifies food and drink.
 +1 to spell attack rolls, and your spell attacks ignore Half Cover.
 
 **Where to find it:**
-- Hidden: a loose board under the chalk circle, [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) (Victor's attic) (found with Search, Investigation DC 15)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Weapon of Warning
@@ -1640,9 +1610,13 @@ You can't be surprised, and you and your allies within 30 ft have Advantage on I
 
 **Where to find it:**
 - +1 Handaxe: Hidden: an axe left in a woodcutter's stump, [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) (The path to the falls) (found with Search, Perception DC 12)
-- +1 Longsword: Given by [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or 2 more
-- +1 Longsword: Given by [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-- +1 Sling: Hidden: a loose stone low in the wall, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The south row) (found with Search, Perception DC 14)
+- +1 Mace: Hidden: an old priest in the burial niches, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Undercroft) (found with Search, Perception DC 14)
+- +1 Quarterstaff: Hidden: a loose board behind the shrine, [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Gates of Barovia) (found with Search, Investigation DC 12)
+- +1 Rapier: Given by [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) or 2 more
+- +1 Rapier: Given by [Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
+- +1 Shortbow: Hidden: a Vistani cache under the ribbon tree, [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) (The Vistani camp) (found with Search, Investigation DC 14)
+- +1 Shortsword: Hidden: a bundle under the nursemaid's mattress, [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md) (Nursemaid's Room) (found with Search, Perception DC 14)
+- +1 Sling: Hidden: a secret drawer in the toy chest, [Death House, Attic](https://curseofstrahd.app/wiki/locations/death-house-attic.md) (Children's Room) (found with Search, Investigation DC 12)
 - Given by The beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
@@ -1672,7 +1646,6 @@ Cast Gust of Wind (save DC 13); each extra use in a day risks tearing it.
 
 **Where to find it:**
 - Given by [Mother](https://curseofstrahd.app/wiki/people/mother.md) in [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md) ([Mother's Ninth Improvement](https://curseofstrahd.app/wiki/quests/mothers-ninth-improvement.md))
-- Given by [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) ([The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md))
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Wraps of Unarmed Power, +1
@@ -1709,8 +1682,6 @@ Your Constitution is 19 while you wear it (no effect if it's already higher).
 +2 to your Cleric and Paladin spell attacks and save DC; once a day, a use of Channel Divinity back.
 
 **Where to find it:**
-- Hidden: a reliquary behind the chapel altar, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The chapel) (found with Search, Investigation DC 15)
-- Hidden: something in the barrow mound, [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) (The barrow slope) (found with Search, Perception DC 14)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Aquatic Wave-Swept Weapon
@@ -1792,6 +1763,7 @@ Resistance to Lightning damage while you wear it.
 Resistance to Necrotic damage while you wear it.
 
 **Where to find it:**
+- Scale Mail of Necrotic Resistance: Hidden: something in the barrow mound, [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) (The barrow slope) (found with Search, Perception DC 14)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Armor of Resistance (Poison)
@@ -1853,8 +1825,11 @@ Resistance to Slashing damage, and a curse: Vulnerability to the other two and y
 +1 to Armor Class while you wear it.
 
 **Where to find it:**
+- +1 Breastplate: Hidden: something under the jetty's boards, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The jetty) (found with Search, Perception DC 14)
+- +1 Leather Armor: Hidden: a sack under the hovel's step, [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) (Lower town) (found with Search, Perception DC 14)
 - +1 Plate Armor: Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md))
 - +1 Plate Armor: Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md))
+- +1 Splint Armor: In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
 - Given by [Sorin](https://curseofstrahd.app/wiki/people/sorin.md) in [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md) ([Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md))
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
@@ -1900,6 +1875,7 @@ Six charges (1d6 + 1 back at dawn): choke one creature (1), a 30-ft Cone (3) or 
 +2 Constitution (to 20), Darkvision 60 ft, Advantage on saves against poison and Resistance to it, Dwarvish.
 
 **Where to find it:**
+- Hidden: a loose stone low in the wall, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The south row) (found with Search, Perception DC 14)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Belt of Giant Strength (Hill Giant)
@@ -1934,6 +1910,7 @@ Three charges (1d3 back at dawn): when you deal damage, a charge adds 2d10 Necro
 +2 to your Sorcerer spell attacks and save DC; once a day, 5 Sorcery Points back after a Short Rest.
 
 **Where to find it:**
+- Hidden: something glinting at the pool's edge, [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) (The pool) (found with Search, Perception DC 13)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Boots of Levitation
@@ -1942,7 +1919,6 @@ Three charges (1d3 back at dawn): when you deal damage, a charge adds 2d10 Necro
 Cast Levitate on yourself at will.
 
 **Where to find it:**
-- In Escher's dressing table, [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md) (Escher's suite)
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Boots of Speed
@@ -1960,6 +1936,7 @@ Click your heels (Bonus Action): doubled Speed and Opportunity Attacks against y
 Once a day, call a Water Elemental that obeys you for up to 1 hour.
 
 **Where to find it:**
+- Hidden: a reliquary behind the chapel altar, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The chapel) (found with Search, Investigation DC 15)
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Bracers of Defense
@@ -2043,9 +2020,9 @@ Raise a cube of force around yourself that keeps out gases, objects, creatures, 
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Daern's Instant Fortress
-*rare, wondrous* · **Cheat code:** `DF3560`
+*rare, wondrous, needs attunement* · **Cheat code:** `DF3560`
 
-A tiny cube that grows into a stone tower you can rest in safely, then shrinks back.
+A tiny adamantine statuette that grows into a tower you can sleep safely in, and shrinks back when it is empty.
 
 **Where to find it:**
 - Given by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) or [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) ([The Druid Who Came Back](https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.md))
@@ -2092,6 +2069,7 @@ Shackle an Incapacitated creature: it attacks at Disadvantage and can't teleport
 +2 to the save DC of your Monk features; once a day, regain 1d6 Focus Points.
 
 **Where to find it:**
+- In the dragon's gift, [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md) (The dragon's rest) (only when argynvost beacon lit)
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Dream Weaver
@@ -2169,6 +2147,7 @@ Toss it up to 10 ft: a floating whip of force attacks (+9, 1d6 + 5 Force) for up
 
 **Where to find it:**
 - Hidden: a stone bench heaped with feathers, [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) (The cloister walk) (found with Search, Perception DC 12)
+- Hidden: a hollow in the empty plinth, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The hall of heroes) (found with Search, Investigation DC 16)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Figurine of Wondrous Power (Bronze Griffon)
@@ -2177,6 +2156,7 @@ Toss it up to 10 ft: a floating whip of force attacks (+9, 1d6 + 5 Force) for up
 Becomes a Griffon that serves you for up to 6 hours (once every 5 days).
 
 **Where to find it:**
+- Hidden: a hidden drawer in the dragon's desk, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The dragon's study) (found with Search, Investigation DC 16)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Figurine of Wondrous Power (Ebony Fly)
@@ -2211,6 +2191,7 @@ Becomes a Giant Goat that serves you for up to 24 hours (once every 7 days).
 Becomes a Elephant that serves you for up to 24 hours (once every 7 days).
 
 **Where to find it:**
+- Hidden: an offering hidden under the shrine, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (The shrine of Mother Night) (found with Search, Perception DC 15)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Figurine of Wondrous Power (Onyx Dog)
@@ -2280,6 +2261,7 @@ A small box that unfolds into a rowboat or a keelboat.
 +1 AC; a Bonus Action makes it look like ordinary clothing or another outfit.
 
 **Where to find it:**
+- Glamoured Studded Leather (Studded Leather Armor): Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
 - Glamoured Studded Leather (Studded Leather Armor): Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -2297,7 +2279,6 @@ Divination reports a chosen Harper persona instead of you, and you can cloak you
 A backpack holding 120 lb in three extradimensional pouches; it always weighs 5 lb, and things come out at once.
 
 **Where to find it:**
-- Hidden: a sack under the hovel's step, [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) (Lower town) (found with Search, Perception DC 14)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Horn of Blasting
@@ -2453,7 +2434,6 @@ Advantage on saving throws against spells.
 +2 sickle; +2 to your Druid and Ranger spell attacks and save DC; healing spells you cast heal 1d4 more.
 
 **Where to find it:**
-- Moon Sickle, +2 (Sickle): Hidden: an offering hidden under the shrine, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (The shrine of Mother Night) (found with Search, Perception DC 15)
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Namer’s Needle
@@ -2587,6 +2567,7 @@ Resistance to all damage for 1 minute.
 
 **Where to find it:**
 - In a shelf of humming jars, [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) (The kitchen) (only when lysaga dead or lysaga bargained or lysaga left broken)
+- Hidden: a tin behind the wayside shrine, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The well square) (found with Search, Perception DC 13)
 - Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Prismatic Rune
@@ -2603,6 +2584,7 @@ Six charges (1d6 back at dawn): a charge turns a damaging spell to the rune's el
 +2 to your Bard spell attacks and save DC; once a day, regain a use of Bardic Inspiration.
 
 **Where to find it:**
+- Hidden: something behind the wizard's casks, [The Press House](https://curseofstrahd.app/wiki/locations/the-press-house.md) (The wizard's rack) (found with Search, Perception DC 14)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ring of Animal Influence
@@ -2611,7 +2593,6 @@ Six charges (1d6 back at dawn): a charge turns a damaging spell to the rune's el
 3 charges: Animal Friendship, Fear (Beasts only) or Speak with Animals (save DC 13).
 
 **Where to find it:**
-- In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
 - Given by The Huntsman's saddlebag in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md))
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -2665,7 +2646,6 @@ Resistance to Acid damage while you wear it.
 Resistance to Cold damage while you wear it.
 
 **Where to find it:**
-- Hidden: a hollow in the empty plinth, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The hall of heroes) (found with Search, Investigation DC 16)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ring of Resistance (Fire)
@@ -2748,7 +2728,6 @@ Holds up to 5 levels of spells cast into it; whoever wears it can cast them.
 See through walls within 30 ft for a minute; using it twice before a Long Rest risks Exhaustion.
 
 **Where to find it:**
-- In a footlocker, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Rahadin's room) (locked, DC 17)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ring of the Ram
@@ -2889,7 +2868,6 @@ Resistance to damage from ranged weapon attacks. Cursed: ranged weapon attacks a
 +2 to Armor Class while you wield it, beyond the Shield's normal bonus.
 
 **Where to find it:**
-- +2 Shield: In the dragon's gift, [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md) (The dragon's rest) (only when argynvost beacon lit)
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Spell Duelist’s Trophy
@@ -2968,7 +2946,7 @@ A blade of sunlight: +2, Radiant, Finesse; an extra 1d8 Radiant against Undead; 
 On a 20, an extra 3d6 Necrotic to a living target, and you gain that much in Temporary Hit Points.
 
 **Where to find it:**
-- Longsword of Life Stealing: Hidden: a sword under the cage floor, [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) (The wardens' camp) (found with Search, Perception DC 15)
+- Rapier of Life Stealing: Hidden: a sword under the cage floor, [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md) (The wardens' camp) (found with Search, Perception DC 15)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Sword of Wounding
@@ -2977,7 +2955,7 @@ On a 20, an extra 3d6 Necrotic to a living target, and you gain that much in Tem
 Once a turn, a hit wounds: 1d4 Necrotic per wound at the start of each of its turns until a DC 15 Con save ends them.
 
 **Where to find it:**
-- Longsword of Wounding: Hidden: a sword among Kiril's trophies, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (found with Search, Perception DC 15)
+- Shortsword of Wounding: Hidden: a sword among Kiril's trophies, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (found with Search, Perception DC 15)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Tarnished Idol of Good Fortunes
@@ -3002,6 +2980,7 @@ Once a turn, a hit wounds: 1d4 Necrotic per wound at the start of each of its tu
 Three rubbery tentacles lash a creature within 15 ft; three hits can hamper it badly for a minute.
 
 **Where to find it:**
+- Hidden: a loose board under the chalk circle, [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) (Victor's attic) (found with Search, Investigation DC 15)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Vicious Weapon
@@ -3028,8 +3007,6 @@ On a 20 to hit, an extra 7 damage of the weapon's type.
 7 charges: for a minute, sense the direction of the nearest hostile creature within 60 ft, hidden or invisible.
 
 **Where to find it:**
-- Hidden: a hidden drawer in the dragon's desk, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The dragon's study) (found with Search, Investigation DC 16)
-- In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Wand of Fear
@@ -3100,7 +3077,6 @@ Ten charges (1d10 back at dawn): 1 to 3 charges spray a 30-ft Cone of teeth, 1d8
 +2 to spell attack rolls, and your spell attacks ignore Half Cover.
 
 **Where to find it:**
-- Hidden: a wand hidden in the conjurer's bier, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The conjurer's crypt) (found with Search, Investigation DC 16)
 - Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Weapon, +2
@@ -3110,9 +3086,12 @@ Ten charges (1d10 back at dawn): 1 to 3 charges spray a 30-ft Cone of teeth, 1d8
 
 **Where to find it:**
 - +2 Greatsword: In the roc's nest, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The roc's shelf)
+- +2 Hand Crossbow: Hidden: a stave in the founder's cask that opens, [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md) (The foot of the stair) (found with Search, Investigation DC 14)
+- +2 Longbow: In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
+- +2 Scimitar: Given by Bones and rusted harness across the road in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) ([The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md))
+- +2 Trident: Hidden: something behind the fishers' shrine, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The landing) (found with Search, Perception DC 13)
 - Given by The beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
-- Given by Bones and rusted harness across the road in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) ([The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md))
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Wings of Flying
@@ -3261,7 +3240,7 @@ A Undead it hits makes a DC 17 Con save: 6d10 extra Piercing, half on a success;
 +3 to your Cleric and Paladin spell attacks and save DC; once a day, a use of Channel Divinity back.
 
 **Where to find it:**
-- Hidden: something under the altar's dust, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel) (found with Search, Investigation DC 17)
+- Given by The altar step in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) ([Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Amulet of the Planes
@@ -3287,7 +3266,6 @@ A Bonus Action animates it for 1 minute: it guards you as if wielded, leaving yo
 +3 to your Wizard spell attacks and save DC; Arcane Recovery brings back one more slot level.
 
 **Where to find it:**
-- Hidden: a grimoire among Ludmilla's books, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Ludmilla's room) (found with Search, Investigation DC 17)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Armor, +2
@@ -3296,7 +3274,8 @@ A Bonus Action animates it for 1 minute: it guards you as if wielded, leaving yo
 +2 to Armor Class while you wear it.
 
 **Where to find it:**
-- +2 Chain Mail: Hidden: a hauberk that never rusted, [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md) (The guardroom) (found with Search, Investigation DC 16)
+- +2 Half Plate Armor: Hidden: armour that never rusted, [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md) (The guardroom) (found with Search, Investigation DC 16)
+- +2 Studded Leather Armor: In Escher's dressing table, [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md) (Escher's suite)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ascendant Wave-Swept Weapon
@@ -3336,7 +3315,6 @@ Your Strength is 23 while you wear it.
 Your Strength is 23 while you wear it.
 
 **Where to find it:**
-- Given by [Mountain Captive](https://curseofstrahd.app/wiki/people/mountain-captive.md) in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md) ([The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Bloodwell Vial, +3
@@ -3394,6 +3372,7 @@ A flying carpet: Fly Speed 30 ft; journeys take half the time.
 Resistance to Poison, climb like a spider, webs can't hold you, and a daily Web.
 
 **Where to find it:**
+- Hidden: something in the frozen traveller's pack, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The cliff road) (found with Search, Perception DC 12)
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Crystal Ball
@@ -3402,7 +3381,6 @@ Resistance to Poison, climb like a spider, webs can't hold you, and a daily Web.
 Cast Scrying (save DC 17) through it.
 
 **Where to find it:**
-- Hidden: a hidden drawer in the count's desk, [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) (The study) (found with Search, Investigation DC 17)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Dancing Sword
@@ -3516,6 +3494,7 @@ Toss it as a Bonus Action and it fights on its own: up to four attacks, one per 
 +2 AC; when something moves you against your will along the ground, you can cut the distance by up to 10 ft.
 
 **Where to find it:**
+- Given by [Mountain Captive](https://curseofstrahd.app/wiki/people/mountain-captive.md) in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md) ([The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Dwarven Thrower
@@ -3524,6 +3503,7 @@ Toss it as a Bonus Action and it fights on its own: up to four attacks, one per 
 +3 warhammer that can be thrown (20/60 ft) and flies back; an extra 1d8 when thrown (2d8 against Giants).
 
 **Where to find it:**
+- Dwarven Thrower (Warhammer): Hidden: something under a fallen beam, [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (found with Search, Perception DC 14)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Efreeti Bottle
@@ -3532,6 +3512,7 @@ Toss it as a Bonus Action and it fights on its own: up to four attacks, one per 
 Unstoppered, an efreeti bursts out: it attacks you, serves you for an hour, or grants three wishes.
 
 **Where to find it:**
+- Hidden: a hidden drawer in the count's desk, [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) (The study) (found with Search, Investigation DC 17)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Figurine of Wondrous Power (Obsidian Steed)
@@ -3593,7 +3574,6 @@ Shod on a mount, it glides above the ground, leaves no tracks and never tires.
 Each once a day: Fly, Invisibility, Levitate, Protection from Evil and Good, Cure Wounds, Wall Of Thorns.
 
 **Where to find it:**
-- Hidden: a compartment behind one of the organ's stops, [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) (The dining hall) (found with Search, Investigation DC 16)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ioun Stone (Absorption)
@@ -3620,6 +3600,7 @@ Absorbs a spell of level 4 or lower aimed only at you (20 levels, then it burns 
 +2 Constitution (to 20).
 
 **Where to find it:**
+- Hidden: something under the altar's dust, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel) (found with Search, Investigation DC 17)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ioun Stone (Insight)
@@ -3655,6 +3636,7 @@ Absorbs a spell of level 4 or lower aimed only at you (20 levels, then it burns 
 +2 Strength (to 20).
 
 **Where to find it:**
+- Hidden: a stone set into the throne of bones, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The hall of bones) (found with Search, Perception DC 16)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Manual of Bodily Health
@@ -3663,6 +3645,7 @@ Absorbs a spell of level 4 or lower aimed only at you (20 levels, then it burns 
 Study it for 48 hours over 6 days: +2 Constitution, and your maximum rises by 2.
 
 **Where to find it:**
+- Hidden: a manual among Ludmilla's books, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Ludmilla's room) (found with Search, Investigation DC 17)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Manual of Gainful Exercise
@@ -3774,6 +3757,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 10d4 + 20 Hit Po
 
 **Where to find it:**
 - 2 × In an iron chest at the foot of the dais, [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md) (Strahd's tomb)
+- In the lamplighters' cupboard, [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) (The lamplighters' closet)
 - 2 × Given by [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md) in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -3832,7 +3816,6 @@ Chill Touch, Intimidation, a dim glow, a Reaction against attacks, and once a da
 Regain 1d6 Hit Points every 10 minutes (if you have at least 1); lost body parts grow back.
 
 **Where to find it:**
-- Hidden: a ring set into the throne of bones, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The hall of bones) (found with Search, Perception DC 16)
 - In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -3946,6 +3929,7 @@ Advantage on saves against spells and magical effects; spell attacks against you
 Resistance to Fire; 10 charges: Burning Hands (1), Fireball (3), Wall of Fire (4) at your DC.
 
 **Where to find it:**
+- Staff of Fire (Quarterstaff): In the lamplighters' cupboard, [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) (The lamplighters' closet)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of Frost
@@ -3972,6 +3956,7 @@ Resistance to Cold; 10 charges: Cone of Cold (5), Fog Cloud (1), Ice Storm (4), 
 +3 quarterstaff; on a hit, spend up to 3 charges for an extra 1d6 Force each.
 
 **Where to find it:**
+- Staff of Striking (Quarterstaff): Hidden: a compartment behind one of the organ's stops, [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) (The dining hall) (found with Search, Investigation DC 16)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of Thunder and Lightning
@@ -3980,6 +3965,7 @@ Resistance to Cold; 10 charges: Cone of Cold (5), Fog Cloud (1), Ice Storm (4), 
 +2 quarterstaff with a daily Lightning hit, Thunder hit, Lightning Strike, Thunderclap, and both at once.
 
 **Where to find it:**
+- Staff of Thunder and Lightning (Quarterstaff): Hidden: a staff hidden in the conjurer's bier, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The conjurer's crypt) (found with Search, Investigation DC 16)
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Sword of Sharpness
@@ -3988,7 +3974,7 @@ Resistance to Cold; 10 charges: Cone of Cold (5), Fog Cloud (1), Ice Storm (4), 
 On a 20, an extra 4d6 Slashing, and another 20 lops off a limb. Objects it hits take maximum damage.
 
 **Where to find it:**
-- Longsword of Sharpness: Hidden: a sword hung high among the trophies, [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) (The trophy room) (found with Search, Perception DC 15)
+- Scimitar of Sharpness: Hidden: a sword hung high among the trophies, [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) (The trophy room) (found with Search, Perception DC 15)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Tome of Clear Thought
@@ -4051,6 +4037,7 @@ Study it for 48 hours over 6 days: +2 Wisdom, and your maximum rises by 2.
 
 **Where to find it:**
 - +3 Halberd: Hidden: one halberd on the rack that isn't frosted, [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md) (The west guardroom) (found with Search, Investigation DC 16)
+- +3 Heavy Crossbow: In a footlocker, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Rahadin's room) (locked, DC 17)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Workshop Wrecker

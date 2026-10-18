@@ -21,5 +21,6 @@ The winery's old cooper, back at his casks in the yard, tightening hoops that no
 
 ## Quests
 
+- [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md) (gives it)
 - [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md)
 - [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md)

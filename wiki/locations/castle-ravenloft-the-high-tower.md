@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md)
-> **Quests:** [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md) and 2 more
+> **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md) and 3 more
 
 ## Overview
 
@@ -61,7 +61,7 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 
 | # | Where | What | How |
 |---|---|---|---|
-| 7 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | open it |
+| 7 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), [Staff of Fire (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-fire), [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme), [Diamond](https://curseofstrahd.app/wiki/items/equipment.md#diamond) ×3, 450 gp | open it |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -101,6 +101,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 ## Quests and lore
 
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md): At the top of Castle Ravenloft's high tower hangs a crystal heart that takes Strahd's wounds before he does.

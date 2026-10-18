@@ -17,9 +17,11 @@ A Vistana who left the wagons to hunt the things that hunt people, trained by Ru
 
 ## Where to find them
 
-> [!note]- At points in the story (2)
+> [!note]- At points in the story (4)
 > - [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md), The top of the switchback: when tarokka.ally.npc is ezmerelda and not ezmerelda with the party
-> - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), Ezmerelda's camp: when not ezmerelda with the party and tarokka.ally.npc isn't ezmerelda and not ezmerelda left tower
+> - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Stable yard: when ezmerelda left tower and not ezmerelda with the party and ((not van richten reunited and not ezmerelda back at camp and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)) or (ezmerelda reunited in vallaki and not rictavio gone))
+> - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), Ezmerelda's camp: when not ezmerelda with the party and tarokka.ally.npc isn't ezmerelda and (not ezmerelda left tower or ezmerelda back at camp or (ezmerelda reunited in vallaki and rictavio gone))
+> - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), Ezmerelda's camp: when ezmerelda left tower and not ezmerelda back at camp and not van richten reunited and not ezmerelda with the party and tarokka.ally.npc isn't ezmerelda and (rictavio gone or rictavio with the party or (vallaki backed is “wachter” and tarokka.ally.npc isn't rictavio))
 
 ## Quests
 

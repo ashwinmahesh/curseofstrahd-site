@@ -178,3 +178,9 @@ Barovia is crossed on the travel map (M): pick a place you know of and the party
 - [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): The roofs of Castle Ravenloft: the south tower's battlements, a walkway to the slate roof of the keep, and a narrow bridge across the drop to the north tower peak, where stone guardians crouch on the parapet.
 - [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): The rooms high in the towers, off a narrow gallery: the count's bats, a stillroom of four glass vessels, a coven at its cauldron, Escher locked in his suite, and a ladder to the roofs.
 - [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): The long space under the castle's roofs where hundreds of ravens roost on the beams. They hide bright things in their nests, and they watch everything.
+
+## [Daerns Fortress](https://curseofstrahd.app/wiki/regions/daerns-fortress.md)
+
+- [Daern's Instant Fortress, Ground Floor](https://curseofstrahd.app/wiki/locations/daerns-instant-fortress-ground-floor.md): The tower's ground floor: bare adamantine walls pierced by arrow slits, one door that opens only at its owner's word, and a stair up along the east wall.
+- [Daern's Instant Fortress, the Battlement](https://curseofstrahd.app/wiki/locations/daerns-instant-fortress-the-battlement.md): The roof: a square of flat adamantine inside a toothed parapet, thirty feet above the ground, with the trapdoor in one corner.
+- [Daern's Instant Fortress, Second Floor](https://curseofstrahd.app/wiki/locations/daerns-instant-fortress-second-floor.md): The tower's upper floor: the same bare adamantine, bedrolls laid along the walls, a stair down and a trapdoor up to the battlement.

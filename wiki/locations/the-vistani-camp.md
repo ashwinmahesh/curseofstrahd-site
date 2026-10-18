@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Quests:** [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md), [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md) and 1 more
+> **Quests:** [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md), [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md) and 2 more
 
 ## Overview
 
@@ -108,4 +108,5 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md): Wren Featherfoot's old master, a dusk elf called Sorrel, died before Wren's training was finished, and left him one errand: a sealed letter…
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md): Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md): The Baron wants a cake shaped like the sun for the festival, and his cook, who has made four hundred and thirteen round things, wants to…
 - [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md): Tamsin Tealeaf lifted a silver locket from a coach with no driver and no horses he could hear. The woman painted inside it has called his…

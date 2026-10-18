@@ -17,3 +17,7 @@ The ghost of the castle's last steward, still in his black coat, keeping the cou
 ## Where to find them
 
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), The dining hall, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

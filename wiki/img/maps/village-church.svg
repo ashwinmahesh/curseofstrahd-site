@@ -160,16 +160,18 @@
 <text x="72.0" y="124.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">7</text>
 <circle cx="248.0" cy="152.0" r="9.92" fill="#d9b45a" stroke="#120709" stroke-width="2"/>
 <text x="248.0" y="156.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">8</text>
+<circle cx="104.0" cy="184.0" r="9.92" fill="#d9b45a" stroke="#120709" stroke-width="2"/>
+<text x="104.0" y="188.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">9</text>
 <circle cx="40.0" cy="40.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
-<text x="40.0" y="44.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">9</text>
+<text x="40.0" y="44.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">10</text>
 <circle cx="312.0" cy="408.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
-<text x="312.0" y="412.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">10</text>
+<text x="312.0" y="412.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">11</text>
 <circle cx="168.0" cy="24.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
-<text x="168.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">11</text>
+<text x="168.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">12</text>
 <circle cx="88.0" cy="104.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
-<text x="88.0" y="108.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">12</text>
+<text x="88.0" y="108.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">13</text>
 <circle cx="24.0" cy="328.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
-<text x="24.0" y="332.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">13</text>
+<text x="24.0" y="332.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">14</text>
 <circle cx="40.0" cy="360.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
-<text x="40.0" y="364.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">14</text>
+<text x="40.0" y="364.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">15</text>
 </svg>

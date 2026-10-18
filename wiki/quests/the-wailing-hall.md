@@ -98,7 +98,7 @@ It helps a great deal to have met her brother first. [Kasimir Velikov](https://c
 
 - **People:** [Patrina Velikovna](https://curseofstrahd.app/wiki/people/patrina-velikovna.md)
 - **Places:** [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md), [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md)
-- **More in The Amber Temple:** [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md)
+- **More in The Amber Temple:** [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md), [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md)
 
 > [!example]- Cutscenes
 > **Patrina**: Patrina's ghost at the one desk not furred with frost.

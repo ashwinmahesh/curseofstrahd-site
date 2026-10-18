@@ -16,4 +16,8 @@ Somebody's goat, tethered to nothing, eating a fence.
 
 ## Where to find them
 
+- [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md), Shop floor
+- [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), The guests' hall
+- [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), Nave
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Back lanes, walking a round
+- [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Death House lot

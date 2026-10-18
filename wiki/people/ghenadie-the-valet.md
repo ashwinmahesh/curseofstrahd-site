@@ -17,3 +17,7 @@ The count's valet in life, who laid out his clothes and turned down his bed for 
 ## Where to find them
 
 - [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md), The count's bedroom, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

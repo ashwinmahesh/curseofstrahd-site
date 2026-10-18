@@ -66,7 +66,7 @@ The road climbs from the south along the cliff, crosses the gorge on a narrow br
 | 7 | the roc's nest | [Chain Shirt](https://curseofstrahd.app/wiki/items/equipment.md#chain-shirt), [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [+2 Greatsword](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), [Ioun Stone (Agility)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-agility), 140 gp | open it |
 | 12 | a traveller the roc dropped (hidden) | [Wings of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#wings-of-flying) | Search: Perception DC 15 |
 | 13 | a feather as long as a man, caught on the rocks (hidden) | [Feather Token (Bird)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-bird) | Search: Perception DC 12 |
-| 14 | something in the frozen traveller's pack (hidden) | [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) | Search: Perception DC 12 |
+| 14 | something in the frozen traveller's pack (hidden) | [Cloak of Arachnida](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-arachnida) | Search: Perception DC 12 |
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 

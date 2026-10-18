@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/quests/side-quests.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-91 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
+102 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
 
 ## Into the Mists (level 1)
 
@@ -22,9 +22,11 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md) | [Grigore](https://curseofstrahd.app/wiki/people/grigore.md) | The woodcutters of Barovia cut what they need by noon and go home. Grigore's son stayed late, and brought something back. |
+| [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md) | [Old Florin](https://curseofstrahd.app/wiki/people/old-florin.md) | Old Florin prays every day that his grandson, who went up the castle road for work two winters ago, doesn't come back. |
 | [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md) | [Mad Mary](https://curseofstrahd.app/wiki/people/mad-mary.md) | Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped out of the house a few nights ago and hasn't come back. |
 | [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md) | [Old Mihail](https://curseofstrahd.app/wiki/people/old-mihail.md) | Old Mihail the sexton digs graves before anybody has died. There's always somebody by the end of the week. |
 | [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md) | [Lupu](https://curseofstrahd.app/wiki/people/lupu.md) | The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves. |
+| [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md) | [Vasile](https://curseofstrahd.app/wiki/people/vasile.md) | Vasile and Petre have traded the same three rumours since the mist came down. They might take a fourth, if somebody made one. |
 | [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md) | [Goodwife Petra](https://curseofstrahd.app/wiki/people/goodwife-petra.md) | Goodwife Petra's grandson Erno counts one more goat every evening on the high pasture than he owns. |
 | [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md) | [Old Mihail](https://curseofstrahd.app/wiki/people/old-mihail.md) | Old Mihail the gravedigger says a girl in a nursemaid's cap stands at the churchyard wall by night and won't come in. Nobody ever brought her to him. |
 | [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md) | [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) | Somebody is stealing four sacks of oats a week from Bildrath's back room, and the lock is never touched. |
@@ -36,6 +38,9 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md) | [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md) | Big Tobar's son went into the trees after his dead mother's voice. Every night since, a voice from the gorge under Tser Falls has called his father in the boy's. |
+| [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md) | [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md) | Ambrose Fennimore is writing the definitive guidebook to the valley and is not sure the Tser Pool camp's famous plum stew is really plum. |
+| [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md) | [Radu](https://curseofstrahd.app/wiki/people/radu.md) | Radu has a handsome dun gelding called Dinte that bites everyone, and he will pay fifteen gold to anyone who finds it a home. |
+| [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md) | [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) | Stanimir has bet his cask of plum wine that nobody can tell a better tale at his fire than he can. |
 | [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md) | [Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md) | On cold nights a horn sounds in the Svalich woods, and in the morning whoever the count is displeased with lies under the crossroads gallows, run to death. |
 | [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md) | [Lavinia](https://curseofstrahd.app/wiki/people/lavinia.md) | Lavinia's bear Bujor, who has danced on the Tser Pool camp's stage for nine years, broke his chain in the night and went up into the woods. |
 | [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) | [Radu](https://curseofstrahd.app/wiki/people/radu.md) | The black carriage that drives itself stopped by Radu's horse pen, and left a purse on the gatepost. Now his best mare is tied at the crossroads, waiting for midnight. |
@@ -49,6 +54,7 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md) | [Ignat the Lamplighter](https://curseofstrahd.app/wiki/people/ignat-the-lamplighter.md) | Last winter Ignat the lamplighter's daughter Catalina was found smiling and white at the lake gate, and black roses came with a card. This morning there were black roses on the chandler's step. |
+| [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md) | [Emanoil](https://curseofstrahd.app/wiki/people/emanoil.md) | A Vallaki clerk who sleeps in a coffin writes long poems to the castle and wants to be chosen by the lord of the valley. |
 | [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) | [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md) | Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for. |
 | [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md) | [Old Sabin](https://curseofstrahd.app/wiki/people/old-sabin.md) | Every festival week the children of Vallaki carry paper lanterns round the square for the Baron. Thirty-one children. Thirty-two lanterns. |
 | [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md) | [Daciana](https://curseofstrahd.app/wiki/people/daciana.md) | Daciana gives out yellow festival ribbons in Vallaki's square and writes down everyone who won't wear one. It isn't her who wants to know. |
@@ -60,6 +66,7 @@
 | [The Hunters at the Inn](https://curseofstrahd.app/wiki/quests/the-hunters-at-the-inn.md) | [Szoldar](https://curseofstrahd.app/wiki/people/szoldar.md) | Two hunters in the corner of the Blue Water Inn sell wolf ears to the Baron at a copper apiece, and want help with the one wolf he pays three hundred gold for. |
 | [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md) | [Luvash](https://curseofstrahd.app/wiki/people/luvash.md) | Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night. |
 | [The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md) | [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) | Urwin and Danika Martikov's younger boy flew out of the inn's window after dark to look at the castle, and didn't come home. |
+| [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md) | [Leontina](https://curseofstrahd.app/wiki/people/leontina.md) | The Baron wants a cake shaped like the sun for the festival, and his cook, who has made four hundred and thirteen round things, wants to make one that isn't. |
 | [The Toymaker's Masterpiece](https://curseofstrahd.app/wiki/quests/the-toymakers-masterpiece.md) | [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) | Gadof Blinsky, Vallaki's toymaker, has wanted all his life to see the clockwork jester his master's master made for the count's children. |
 
 ## Old Bonegrinder (level 6)
@@ -73,6 +80,7 @@
 
 | Quest | Given by | What it's about |
 |---|---|---|
+| [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md) | [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md) | Old Silviu wants the last cask of the year Elvir was born carried to Vallaki for his daughter Dana's wedding. |
 | [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md) | [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md) | Once the Martikovs are home, the Seventh Row of their vineyard comes up black every night, and every morning it has been picked bare. |
 | [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md) | [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md) | Davian Martikov has never forgiven his son Adrian for coming home alone from Yester Hill, where his youngest, Elvir, was taken. |
 | [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md) | [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md) | The third of the Martikovs' vine stones, the winery's magic gems, was stolen last autumn and carried to Berez, the drowned village, where a witch lives. |
@@ -83,6 +91,7 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md) | [Clovin Belview](https://curseofstrahd.app/wiki/people/clovin-belview.md) | Clovin Belview, the abbey's errand-runner, has written jokes for forty years and wants to tell them once to people who could choose not to laugh. Krezk won't open its gate to a Belview. |
+| [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md) | [Dumitru](https://curseofstrahd.app/wiki/people/dumitru.md) | Dumitru waits inside Krezk's gate for a visitor who never comes, and writes weekly letters to an uncle in Vallaki who died. |
 | [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md) | [Anna Krezkova](https://curseofstrahd.app/wiki/people/anna-krezkova.md) | Somebody leaves carved toys on the five Krezkov graves at the Pool of the White Sun every night. Nobody in Krezk carves like that. |
 | [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md) | [Anna Krezkova](https://curseofstrahd.app/wiki/people/anna-krezkova.md) | Ilya Krezkov, the burgomaster's last child, has been burning with fever for a month. |
 | [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md) | [Krezk Watchman](https://curseofstrahd.app/wiki/people/krezk-watchman.md) | Krezk keeps its gate shut to strangers. It opens for a reason, and the burgomaster decides what a reason is. |
@@ -163,6 +172,7 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md) | [Escher](https://curseofstrahd.app/wiki/people/escher.md) | Every night for nine years Escher has slid the same petition under the count's door: let me see the sun. Now an answer has come back. |
+| [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md) | [Boyar Vintila Crainic](https://curseofstrahd.app/wiki/people/boyar-vintila-crainic.md) | Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the household's four seals. |
 | [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md) | [Cyrus Belview](https://curseofstrahd.app/wiki/people/cyrus-belview.md) | Below Castle Ravenloft's kitchen, the cook keeps his Master's guests fresh in the cells. |
 | [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md) | [Escher](https://curseofstrahd.app/wiki/people/escher.md) | At the top of Castle Ravenloft's high tower hangs a crystal heart that takes Strahd's wounds before he does. |
 | [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md) | [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md) | Pidlwick II, the clockwork jester of the high tower, is running down: the ravens took his wind-up key. |
@@ -179,6 +189,7 @@
 
 | Quest | Given by | What it's about |
 |---|---|---|
+| [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md) | [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md) | Exethanter, the last Warden of the Amber Temple, has forgotten what he was doing this morning. His notes have come unpinned. |
 | [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md) | [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md) | Exethanter, the forgetful lich of the Amber Temple, has lost his phylactery. He hid it very cleverly. |
 | [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md) | [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md) | Exethanter has an old note pinned under all the others, in his own hand: DO NOT GO BELOW THE VAULT. YOU SEALED IT. YOU DO NOT REMEMBER WHY. THAT IS WHY. |
 | [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md) |  | High above the Tsolenka Pass, a temple of amber where dead powers talk and bargain, and where the lord of the valley once made his. |

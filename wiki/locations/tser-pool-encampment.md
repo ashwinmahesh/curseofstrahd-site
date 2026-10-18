@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (Tser Pool)
-> **Quests:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) and 5 more
+> **Quests:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md) and 8 more
 
 ## Overview
 
@@ -80,7 +80,7 @@ The Old Svalich Road runs past a clearing on the edge of the Svalich Woods. In i
 | 26 | Something trodden into the mud by the pen (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 13 |
 | 27 | a hollow stump (hidden) | [Potion of Fire Breath](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-fire-breath) | Search: Perception DC 14 |
 | 28 | Something under the wagon's step (hidden) | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set) | Search: Perception DC 15 |
-| 29 | a Vistani cache under the ribbon tree (hidden) | [Boots of Striding and Springing](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-striding-and-springing) | Search: Investigation DC 14 |
+| 29 | a Vistani cache under the ribbon tree (hidden) | [+1 Shortbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Investigation DC 14 |
 | 30 | something dropped behind the stage (hidden) | [Bell](https://curseofstrahd.app/wiki/items/equipment.md#bell) | Search: Perception DC 12 |
 | 32 | a false floor in the broken cart (hidden) | [Bag of Holding](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-holding) | Search: Investigation DC 12 |
 
@@ -92,7 +92,7 @@ The containers here also get random magic items and potions, rolled for a party 
 |---|---|---|---|---|
 | 20 | the bonfire | Performance 12 | Dance at the bonfire | Heroic Inspiration |
 | 21 | Horses | Animal Handling 12 | Calm the skittish horses | finds Elemental Gem (Yellow Diamond) |
-| 22 | a tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds Boots of Striding and Springing |
+| 22 | a tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds +1 Shortbow |
 | 23 | a cart with a cracked wheel | Athletics 13 | Lift the cart off its cracked wheel | finds Bag of Holding |
 | 24 | a cairn by the water | History 13 | Read the cairn's oldest marks | lore: The cairn at Tser Pool |
 | 31 | a stump stuck with knives | Sleight of Hand 13 | Play the knife game for coin | 12 gp; on a failure: 1d4 slashing damage |
@@ -107,6 +107,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md): Big Tobar's son went into the trees after his dead mother's voice. Every night since, a voice from the gorge under Tser Falls has called…
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md): Ilse Varga's mercenary company marched into the mists a year ago at the invitation of someone who signed himself S. She was meant to march…
+- [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md): Ambrose Fennimore is writing the definitive guidebook to the valley and is not sure the Tser Pool camp's famous plum stew is really plum.
+- [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md): Radu has a handsome dun gelding called Dinte that bites everyone, and he will pay fifteen gold to anyone who finds it a home.
+- [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md): Stanimir has bet his cask of plum wine that nobody can tell a better tale at his fire than he can.
 - [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md): Lavinia's bear Bujor, who has danced on the Tser Pool camp's stage for nine years, broke his chain in the night and went up into the woods.
 - [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md): The black carriage that drives itself stopped by Radu's horse pen, and left a purse on the gatepost. Now his best mare is tied at the…
 - [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md): A young Vistana hangs from the gallows where the Old Svalich Road crosses the Ivlis, and a girl at Tser Pool is waiting for her brother to…

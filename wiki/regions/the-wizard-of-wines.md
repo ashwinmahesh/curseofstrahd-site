@@ -15,6 +15,7 @@ Built for a party of about level 6: random treasure here is rolled for that leve
 
 ## Quests
 
+- [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md)
 - [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md)
 - [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md)
 - [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md)
@@ -22,7 +23,7 @@ Built for a party of about level 6: random treasure here is rolled for that leve
 
 ## People
 
-[A Raven](https://curseofstrahd.app/wiki/people/a-raven.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md), [Adrian Martikov](https://curseofstrahd.app/wiki/people/adrian-martikov.md), [Andrei](https://curseofstrahd.app/wiki/people/andrei.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Horia](https://curseofstrahd.app/wiki/people/horia.md), [Ionel](https://curseofstrahd.app/wiki/people/ionel.md), [Kostin](https://curseofstrahd.app/wiki/people/kostin.md), [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md), [Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md), [Tereza](https://curseofstrahd.app/wiki/people/tereza.md)
+[A Raven](https://curseofstrahd.app/wiki/people/a-raven.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md), [Adrian Martikov](https://curseofstrahd.app/wiki/people/adrian-martikov.md), [Andrei](https://curseofstrahd.app/wiki/people/andrei.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Horia](https://curseofstrahd.app/wiki/people/horia.md), [Ionel](https://curseofstrahd.app/wiki/people/ionel.md), [Kostin](https://curseofstrahd.app/wiki/people/kostin.md), [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md), [Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md), [Sprig](https://curseofstrahd.app/wiki/people/sprig.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md), [Tereza](https://curseofstrahd.app/wiki/people/tereza.md)
 
 ## Merchants
 

@@ -89,9 +89,10 @@ There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** an
 > - Insight DC 12: (Does he think the boy is alive?)
 > - Wisdom DC 14: (rolled in the scene)
 > - Athletics DC 13: (Rope off a pine and go down for him.)
+> - Survival DC 12: (Read the rock for a way down.)
 
 ## Related
 
 - **People:** [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md), [Nelu](https://curseofstrahd.app/wiki/people/nelu.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md)
 - **Places:** [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)
-- **More in The Old Svalich Road:** [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md), [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md), [The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.md)
+- **More in The Old Svalich Road:** [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md), [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md)

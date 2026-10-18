@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md) and 4 more
+> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md) and 5 more
 
 ## Overview
 
@@ -65,7 +65,7 @@ The only room in Barovia where people still talk, if quietly. The wine is Purple
 | # | Where | What | How |
 |---|---|---|---|
 | 7 | Scholar's satchel | [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×3, [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), 4 gp | locked, with nothing to pick |
-| 10 | a slit in the satchel's lining (hidden) | [Eyes of Minute Seeing](https://curseofstrahd.app/wiki/items/magic-items.md#eyes-of-minute-seeing) | Search: Investigation DC 14 |
+| 10 | a slit in the satchel's lining (hidden) | [Headband of Intellect](https://curseofstrahd.app/wiki/items/magic-items.md#headband-of-intellect) | Search: Investigation DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -83,6 +83,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md): Old Mihail the sexton digs graves before anybody has died. There's always somebody by the end of the week.
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md): Vasile and Petre have traded the same three rumours since the mist came down. They might take a fourth, if somebody made one.
 - [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md): The Grey Goose roadhouse burned twenty winters ago, and every night a lantern burns in its upstairs window, though there's no upstairs any…
 - [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md): Widow Ileana's husband Teodor died three winters ago and still knocks at her shutter every night. He has never once asked to be let in.
 - [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md): Druids from Yester Hill have driven the Martikov family out of their winery and taken the magic gems, the family's three vine stones, that…

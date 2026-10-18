@@ -77,9 +77,12 @@ Both endings close the quest (**Done**) and pay the same: Lark gives you the Abb
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 12: (Watch where she keeps looking.)
 > - Persuasion DC 13: (Talk to him, low and slow, the way she sings.)
+> - Survival DC 12: (Follow the tracks off the road.)
+> - Persuasion DC 12: (Steady her: tell her to breathe, and take her time.)
+> - Stealth DC 13: (Lie up in the pines downwind and watch the ridge.)
 
 ## Related
 
 - **People:** [Clovin Belview](https://curseofstrahd.app/wiki/people/clovin-belview.md), [Lark](https://curseofstrahd.app/wiki/people/lark.md), [Yanko](https://curseofstrahd.app/wiki/people/yanko.md)
 - **Places:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md), [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md)
-- **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md)
+- **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md)

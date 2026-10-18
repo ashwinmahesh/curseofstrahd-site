@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md) and 9 more
+> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md) and 10 more
 
 ## Overview
 
@@ -59,21 +59,22 @@ A taproom with a long bar and a fire that is actually lit. Through the kitchen, 
 - **[Oana](https://curseofstrahd.app/wiki/people/oana.md)**, A drinker at the Blue Water Inn: Taproom, 11:00–22:00 (#11)
 - **[Yevgeni](https://curseofstrahd.app/wiki/people/yevgeni.md)**, Szoldar's Son: Taproom (#13)
 
-> [!note]- Who turns up at points in the story (6)
+> [!note]- Who turns up at points in the story (7)
 > - **[Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md)**, Taproom (#2): when not (festival begun and not festival over)
 > - **[Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md)**, Taproom, Rictavio's room (#4, #5): when day and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio); or when not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Guest rooms (#6): when ireena sanctuary is “inn” and not ireena with the party
 > - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Guest rooms (#7): when ismark guards ireena and ireena sanctuary is “inn” and not ismark with the party
 > - **[Szoldar](https://curseofstrahd.app/wiki/people/szoldar.md)**, Taproom (#12): when not greytooth beaten or szoldar turned or szoldar stays
 > - **[Bray](https://curseofstrahd.app/wiki/people/bray.md)**, Kitchen (#14): when quest the ravens ransom at home or quest the ravens ransom at done
+> - **[Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md)**, Stable yard (#15): when ezmerelda left tower and not ezmerelda with the party and ((not van richten reunited and not ezmerelda back at camp and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)) or (ezmerelda reunited in vallaki and not rictavio gone))
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 15 | Iron-bound lockbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) ×2, 25 gp | lock DC 18; Rictavio's, so taking is theft |
-| 18 | a loose board under a guest bed (hidden) | [Gloves of Thievery](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-thievery) | Search: Perception DC 15 |
-| 19 | a loose brick by the hearth (hidden) | [Bead of Force](https://curseofstrahd.app/wiki/items/magic-items.md#bead-of-force) | Search: Investigation DC 15 |
+| 16 | Iron-bound lockbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) ×2, 25 gp | lock DC 18; Rictavio's, so taking is theft |
+| 19 | a loose board under a guest bed (hidden) | [Gloves of Thievery](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-thievery) | Search: Perception DC 15 |
+| 20 | a loose brick by the hearth (hidden) | [Bead of Force](https://curseofstrahd.app/wiki/items/magic-items.md#bead-of-force) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Vallaki Blue Water Inn:rictavio Wagon (wagon_lockbox)
 
@@ -83,8 +84,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 16 | Carving over the door | History 13 | Read the raven over the door | lore: The raven over the door |
-| 17 | a covered cage | Animal Handling 15 | Calm the great cat in the cage | Heroic Inspiration; on a failure: 1d6 slashing damage |
+| 17 | Carving over the door | History 13 | Read the raven over the door | lore: The raven over the door |
+| 18 | a covered cage | Animal Handling 15 | Calm the great cat in the cage | Heroic Inspiration; on a failure: 1d6 slashing damage |
 
 ### Locked and secret doors
 
@@ -102,6 +103,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md): Baron Vallakovich holds a festival every week to prove Vallaki is happy. This one, with its great wicker sun, will decide who rules the…
+- [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md): A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Richten and warded against one person in particular.
 - [The Hunters at the Inn](https://curseofstrahd.app/wiki/quests/the-hunters-at-the-inn.md): Two hunters in the corner of the Blue Water Inn sell wolf ears to the Baron at a copper apiece, and want help with the one wolf he pays…
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md): Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.
 - [The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md): Urwin and Danika Martikov's younger boy flew out of the inn's window after dark to look at the castle, and didn't come home.

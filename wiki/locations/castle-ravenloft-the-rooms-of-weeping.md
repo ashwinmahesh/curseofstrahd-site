@@ -8,7 +8,7 @@
 > **Resting:** No sleeping here
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)
-> **Quests:** [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md)
+> **Quests:** [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md)
 
 ## Overview
 
@@ -75,9 +75,9 @@ A long corridor lined with closed doors. Somewhere along it, always just out of 
 | 16 | a plain trunk | [Traveler's Clothes](https://curseofstrahd.app/wiki/items/equipment.md#travelers-clothes), [Figurine of Wondrous Power (Onyx Dog)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-onyx-dog), 3 gp | open it |
 | 17 | a painted chest | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Mace of Terror (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-terror), 45 gp | open it |
 | 18 | a sword rack | [Scimitar](https://curseofstrahd.app/wiki/items/equipment.md#scimitar) ×2, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) | open it |
-| 19 | a footlocker | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Scimitar of Speed (Scimitar)](https://curseofstrahd.app/wiki/items/magic-items.md#scimitar-of-speed), [Ring of X-ray Vision](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-x-ray-vision), 150 gp | lock DC 17 |
+| 19 | a footlocker | [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), [Scimitar of Speed (Scimitar)](https://curseofstrahd.app/wiki/items/magic-items.md#scimitar-of-speed), [+3 Heavy Crossbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-3), 150 gp | lock DC 17 |
 | 21 | a space behind the mirror that shows no one (hidden) | [Cloak of Displacement](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-displacement) | Search: Investigation DC 17 |
-| 22 | a grimoire among Ludmilla's books (hidden) | [Arcane Grimoire, +3](https://curseofstrahd.app/wiki/items/magic-items.md#arcane-grimoire-3) | Search: Investigation DC 17 |
+| 22 | a manual among Ludmilla's books (hidden) | [Manual of Bodily Health](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-bodily-health) | Search: Investigation DC 17 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -108,6 +108,7 @@ The containers here also get random magic items and potions, rolled for a party 
 ## Quests and lore
 
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md): Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped out of the house a few nights ago and hasn't come back.
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md): Wren Featherfoot's old master, a dusk elf called Sorrel, died before Wren's training was finished, and left him one errand: a sealed letter…
 
 > [!quote]- A ledger of names

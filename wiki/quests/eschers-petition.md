@@ -93,7 +93,7 @@ You get one helm and 250 gp either way, not both.
 
 - **People:** [Escher](https://curseofstrahd.app/wiki/people/escher.md), [Querreth](https://curseofstrahd.app/wiki/people/querreth.md)
 - **Places:** [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md), [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)
-- **More in Castle Ravenloft:** [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
+- **More in Castle Ravenloft:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
 
 > [!example]- Cutscenes
 > **Escher's Petition**: Escher at the south tower parapet in his good coat, and the first light coming over the mountains.

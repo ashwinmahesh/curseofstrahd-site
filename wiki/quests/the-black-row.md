@@ -104,6 +104,8 @@ Afterwards the row is replanted with young vines. Andrei is "never so glad of so
 > **Done** (the end: success): The Black Row is cut out of the Martikovs' vineyard, and young vines are going in. Davian gave us a wand the Wizard of Wines left in the press-house rack a hundred years ago, against the day something in the vines needed burning.
 
 > [!abstract]- Every skill check in its conversations
+> - Insight DC 12: (Watch how he holds the crossbow.)
+> - Insight DC 12: (Watch how she talks about Horia.)
 > - Nature DC 13: (Look at where the vine meets the root.)
 > - Investigation DC 13: (Look at the ground between the rows.)
 > - Persuasion DC 15: That isn't Elvir. It's the tree from the hill, wearing his face, and it's drinking you.
@@ -112,7 +114,7 @@ Afterwards the row is replanted with young vines. Andrei is "never so glad of so
 
 - **People:** [Ionel](https://curseofstrahd.app/wiki/people/ionel.md), [Tereza](https://curseofstrahd.app/wiki/people/tereza.md), [Horia](https://curseofstrahd.app/wiki/people/horia.md), [Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md), [Andrei](https://curseofstrahd.app/wiki/people/andrei.md), [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md)
 - **Places:** [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md)
-- **More in The Wizard of Wines:** [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)
+- **More in The Wizard of Wines:** [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md), [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)
 
 > [!example]- Cutscenes
 > **One Hat a Night**: A raven drops into the Seventh Row at night and becomes Adrian, picking black grapes by feel with his eyes shut.

@@ -18,3 +18,7 @@ The camp's cook, older than anyone will say, who has kept the same pot of plum s
 
 > [!note]- At points in the story (1)
 > - [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), The Vistani camp: when not tser pool brawl won and not vistani turned hostile
+
+## Quests
+
+- [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md)

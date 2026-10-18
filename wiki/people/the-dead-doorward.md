@@ -17,3 +17,7 @@ The doorward of the castle's entry hall, dead since the night of the wedding, wh
 ## Where to find them
 
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), The entry hall, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

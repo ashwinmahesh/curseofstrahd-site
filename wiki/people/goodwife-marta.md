@@ -24,4 +24,5 @@ A stout Vallakian housewife who walks the market row and the main street every m
 ## Quests
 
 - [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md)
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md)
 - [The Toymaker's Masterpiece](https://curseofstrahd.app/wiki/quests/the-toymakers-masterpiece.md)

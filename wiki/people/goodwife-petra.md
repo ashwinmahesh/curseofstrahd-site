@@ -22,5 +22,6 @@ A grey Barovian woman who carries water from the well by daylight and is behind 
 ## Quests
 
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md)
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md)
 - [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md) (gives it)
 - [The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md)

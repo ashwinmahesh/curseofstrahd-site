@@ -18,7 +18,7 @@ The music follows where you are: each place has a mood, and a mood plays its pie
 | Haunted | maps of the kind manor, attic, dungeon | *Darkest Child* (Kevin MacLeod), *Anabasis I* (Scott Buckley), *In Darkness* (Of Far Different Nature), *Into the Ruins* (Viktor Kraus), *Skeleton Waltz Theme* (Wolfgang_) |
 | Combat | fights | *Darkling* (Kevin MacLeod), *Nightmare Machine* (Kevin MacLeod), *Malicious* (Kevin MacLeod), *Grim Idol* (Kevin MacLeod) |
 | Boss | fights with a foe that has Legendary Actions | *Unholy Knight* (Kevin MacLeod), *Final Count* (Kevin MacLeod), a piece by Scott Buckley, *Dark Descent* (Matthew Pablo) |
-| Castle | 17 places in Castle Ravenloft | *Anabasis I* (Scott Buckley), *Danse Macabre* (Kevin MacLeod), *Marche funèbre* (Chopin), *Dark Gothic Haunted Masquerade* (ISAo), *Stronghold* (Tausdei), a piece by ISAo |
+| Castle | 17 places in Castle Ravenloft | *Anabasis I* (Scott Buckley), *Danse Macabre* (Kevin MacLeod), *Marche funèbre* (Chopin), *Dark Gothic Haunted Masquerade* (ISAo), *Stronghold* (Tausdei), *Chopin Nocturne Op48 No1 Luke Faulkner*, *Chopin Prelude Op28 No4 Ivan Ilic*, *Toccata and Fugue in D minor, BWV 565* (J. S. Bach, played by Norbert Schenk), *Chopin Nocturne Op72 No1 Luke Faulkner*, *Beethoven Moonlight Sonata I Paul Pitman*, *Wounded* (Kevin MacLeod) |
 | Dread | in place of the castle music while [Strahd von Zarovich](https://curseofstrahd.app/wiki/people/strahd-von-zarovich.md), [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md), [Volenta Popofsky](https://curseofstrahd.app/wiki/people/volenta-popofsky.md), [Ludmilla Vilisevic](https://curseofstrahd.app/wiki/people/ludmilla-vilisevic.md), [Escher](https://curseofstrahd.app/wiki/people/escher.md), [Captain Merrow](https://curseofstrahd.app/wiki/people/captain-merrow.md) speak | *Inner Sanctum* (Kevin MacLeod), *Shadowlands 1 - Horizon* (Kevin MacLeod), *Echoes of Time* (Kevin MacLeod), *Come Play with Me* (Kevin MacLeod) |
 | Ending | the endings | *Ossuary 6 - Air* (Kevin MacLeod), *Marche funèbre* (Chopin), *Relent* (Kevin MacLeod), *Unraveling* (Scott Buckley) |
 | Combat Hard | fights at full danger (a boss on the field, or someone Bloodied) | *Clash Defiant* (Kevin MacLeod), *Black Vortex* (Kevin MacLeod), *Death and Axes* (Kevin MacLeod), *Volatile Reaction* (Kevin MacLeod), *Dark Descent* (Matthew Pablo) |
@@ -32,6 +32,11 @@ The music follows where you are: each place has a mood, and a mood plays its pie
 | Vineyard Freed | The Wizard of Wines once yester hill resolved | *Lachaim* (Kevin MacLeod), *Bushwick Tarantella* (Kevin MacLeod) |
 | Wildlands | anywhere in Yester Hill; anywhere in The Werewolf Den; anywhere in Mount Baratok | *Bump in the Night* (Kevin MacLeod), *Willow and the Light* (Kevin MacLeod), *Moorland* (Kevin MacLeod) |
 | Bonegrinder | anywhere in Old Bonegrinder | *Come Play with Me* (Kevin MacLeod), *Children's Theme* (Kevin MacLeod) |
+| Sorrow |  | *Relent* (Kevin MacLeod), *Unraveling* (Scott Buckley), *Penumbra* (Scott Buckley), a piece by Scott Buckley, *Wounded* (Kevin MacLeod), *Chopin Nocturne Op48 No1 Luke Faulkner*, *Chopin Nocturne Op72 No1 Luke Faulkner*, *Toccata and Fugue in D minor, BWV 565* (J. S. Bach, played by Norbert Schenk) |
+| Tension |  | *Gloom Horizon* (Kevin MacLeod), *Oppressive Gloom* (Kevin MacLeod), *Lost Frontier* (Kevin MacLeod) |
+| Dawn |  | *Long Road Ahead* (Kevin MacLeod), *Virtutes Instrumenti* (Kevin MacLeod) |
+| Sacred |  | *Night Vigil* (Kevin MacLeod), *Virtutes Instrumenti* (Kevin MacLeod), *Ancient Rite* (Kevin MacLeod), *Gregorian Chant* (Kevin MacLeod) |
+| Somber |  | *Marche funèbre* (Chopin), *Chopin Nocturne Op48 No1 Luke Faulkner*, *Toccata and Fugue in D minor, BWV 565* (J. S. Bach, played by Norbert Schenk), *Beethoven Moonlight Sonata I Paul Pitman*, *Unraveling* (Scott Buckley) |
 
 ## Credits
 
@@ -92,6 +97,7 @@ The music's own credit lines, as the game's Credits screen gives them:
 - "Virtutes Instrumenti" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/
 - "Volatile Reaction" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/
 - "Willow and the Light" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/
+- "Wounded" Kevin MacLeod (incompetech.com) Licensed under Creative Commons: By Attribution 4.0 https://creativecommons.org/licenses/by/4.0/
 - 'Memories Of Stone' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
 - 'Anabasis I' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
 - 'Eyes In The Void' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
@@ -100,6 +106,10 @@ The music's own credit lines, as the game's Credits screen gives them:
 - 'Unraveling' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au
 - Fugue in G minor, BWV 542 (J. S. Bach), played by Herbert Collum on the Silbermann organ at Reinhardtsgrimma. CC BY 1.0, via Wikimedia Commons.
 - Marche funèbre (Chopin) and Night on Bald Mountain (Mussorgsky), recordings from Musopen. CC0 and public domain, via Wikimedia Commons.
+- Prelude in E minor, Op. 28 No. 4 (Chopin), played by Ivan Ilić. CC BY 3.0, via Wikimedia Commons.
+- Nocturne in C minor, Op. 48 No. 1 and Nocturne in E minor, Op. 72 No. 1 (Chopin), played by Luke Faulkner, recordings from Musopen. CC0 and public domain, via Wikimedia Commons.
+- Nocturne in C-sharp minor, Op. posth. (Chopin), recording from Musopen. CC BY 3.0, via Wikimedia Commons.
+- Moonlight Sonata, first movement (Beethoven), played by Paul Pitman, recording from Musopen. Public domain, via Wikimedia Commons.
 - "Dark Gothic Haunted Masquerade", "Swing Jazz Band Gothic Dance", "Dark Solemn Choral with Organ" and "Final Boss Appearance Dark Fantasy" by ISAo (airyluvs.com). OGA-BY 3.0, via OpenGameArt.org.
 - "In Darkness" by Of Far Different Nature (fardifferent.carrd.co). CC BY 4.0, via OpenGameArt.org.
 - "Dark Descent" by Matthew Pablo (matthewpablo.com). CC BY 3.0, via OpenGameArt.org.

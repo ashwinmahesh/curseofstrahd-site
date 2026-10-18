@@ -550,6 +550,12 @@ From [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.
 
 ![escher coat](https://curseofstrahd.app/wiki/img/cutscenes/escher-coat.webp)
 
+## The Mirror Behind Him
+Escher's suite at the first meeting: Escher lounges in his armchair while the tall mirror behind him shows the same armchair empty (castle_ravenloft/spires_escher, ~ first).
+From [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
+
+![escher mirror](https://curseofstrahd.app/wiki/img/cutscenes/escher-mirror.webp)
+
 ## The Candles Lean
 The Candles Lean: a later beat of a long conversation picture (svalich_road/madam_eva, ~ ally_seen), Ashwin's ask 2026-10-12.
 From [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Holy Symbol of Ravenkind](https://curseofstrahd.app/wiki/quests/the-holy-symbol-of-ravenkind.md), [The Sunsword](https://curseofstrahd.app/wiki/quests/the-sunsword.md), [The Tome of Strahd](https://curseofstrahd.app/wiki/quests/the-tome-of-strahd.md), [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md), [Where the Devil Waits](https://curseofstrahd.app/wiki/quests/where-the-devil-waits.md)
@@ -747,6 +753,11 @@ From [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-childr
 
 ![ilinca raven](https://curseofstrahd.app/wiki/img/cutscenes/ilinca-raven.webp)
 
+## Ireena at the Altar
+Ireena stands entranced before the altar of Castle Ravenloft's chapel, hands clasped, a ring of freshly lit candles around her and the black window above, the party small at the foot of the steps (the first sight of her in the chapel, castle_ravenloft/chapel_ireena).
+
+![ireena altar](https://curseofstrahd.app/wiki/img/cutscenes/ireena-altar.webp)
+
 ## Three Bolts Slide Back
 The mansion's barred door opens on Ireena with her sword drawn.
 
@@ -777,6 +788,11 @@ The window wide on an empty night, and Ireena's shawl on the floor.
 From [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md)
 
 ![ireena window empty](https://curseofstrahd.app/wiki/img/cutscenes/ireena-window-empty.webp)
+
+## Ireena Wakes
+Ireena wakes at the chapel altar, one hand gripping its edge and fury in her face, every candle flame bent away from her and the party small at the foot of the steps (castle_ravenloft/chapel_ireena ~ woken).
+
+![ireena woken](https://curseofstrahd.app/wiki/img/cutscenes/ireena-woken.webp)
 
 ## Izek and the Doll
 Izek alone in the dark with a red-haired doll.
@@ -1332,10 +1348,40 @@ From [The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wago
 
 ![tinker freed](https://curseofstrahd.app/wiki/img/cutscenes/tinker-freed.webp)
 
+## Generation After Generation
+The Tome's last scene: Tatyana is born again in the valley with the same face, and each time he tries to make her love him; the ledger of names and the unfinished last entry.
+
+![tome again](https://curseofstrahd.app/wiki/img/cutscenes/tome-again.webp)
+
+## The Brother and the Girl
+The Tome's second picture: on a summer terrace Sergei gives Tatyana a flower while Strahd watches from the dark archway.
+
+![tome brothers](https://curseofstrahd.app/wiki/img/cutscenes/tome-brothers.webp)
+
+## The Conqueror
+The Tome of Strahd, first pictures of the book: young, living Strahd alone on a ridge at dawn above the valley his army has just taken, his back to the cheering soldiers. Plays the first time the Tome is read.
+
+![tome conqueror](https://curseofstrahd.app/wiki/img/cutscenes/tome-conqueror.webp)
+
 ## The First Page
 The Tome of Strahd lies open at its first page while the candle beside it leans toward it.
 
 ![tome page](https://curseofstrahd.app/wiki/img/cutscenes/tome-page.webp)
+
+## What He Offered
+The Tome's third scene: in dress uniform and medals Strahd offers Tatyana his hand and his house, and she refuses him gently with her eyes on Sergei across the hall.
+
+![tome refused](https://curseofstrahd.app/wiki/img/cutscenes/tome-refused.webp)
+
+## The Castle Wall
+The Tome's last picture: Tatyana steps off the battlements into the mist while Strahd's own soldiers loose arrows at him in the courtyard.
+
+![tome wall](https://curseofstrahd.app/wiki/img/cutscenes/tome-wall.webp)
+
+## The Wedding Day
+The Tome's third picture: the wedding hall, Sergei fallen at the foot of the dais, Strahd over him with a dropped dagger and a shape of black mist at his shoulder.
+
+![tome wedding](https://curseofstrahd.app/wiki/img/cutscenes/tome-wedding.webp)
 
 ## Someone Waiting Up
 The topmost window of Van Richten's tower burns steady over the black water.

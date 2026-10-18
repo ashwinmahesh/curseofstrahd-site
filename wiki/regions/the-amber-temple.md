@@ -18,6 +18,7 @@ Built for a party of about level 10: random treasure here is rolled for that lev
 
 ## Quests
 
+- [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md)
 - [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md)
 - [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md)
 - [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md)

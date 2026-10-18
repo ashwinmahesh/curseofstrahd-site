@@ -27,5 +27,6 @@ A big, grey-bearded Vistana with a fiddle, a laugh and a cask of plum wine, who 
 ## Quests
 
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md)
+- [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md) (gives it)
 - [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md)
 - [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md) (gives it)

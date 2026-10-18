@@ -8,7 +8,7 @@
 > **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-> **Quests:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
+> **Quests:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md) and 1 more
 
 ## Overview
 
@@ -49,6 +49,7 @@ The only shop in the village, immaculate and overpriced: rope, oil, rations and 
 
 - **[Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md)**, Proprietor, Bildrath's Mercantile: Shop floor (#2)
 - **[Goodwife Viorica](https://curseofstrahd.app/wiki/people/goodwife-viorica.md)**, A customer at Bildrath's: Shop floor, 09:00–16:00 (#4)
+- **[A Goat](https://curseofstrahd.app/wiki/people/a-goat.md)**, Of the Back Lanes: Shop floor (#5)
 
 > [!note]- Who turns up at points in the story (1)
 > - **[Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md)**, Shop floor (#3): when not (burial procession and parriwimple pallbearer and not burgomaster buried)
@@ -57,7 +58,7 @@ The only shop in the village, immaculate and overpriced: rope, oil, rations and 
 
 | # | Where | What | How |
 |---|---|---|---|
-| 5 | Strongbox | 30 gp | lock DC 15 |
+| 6 | Strongbox | 30 gp | lock DC 15 |
 
 The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -70,6 +71,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md): The woodcutters of Barovia cut what they need by noon and go home. Grigore's son stayed late, and brought something back.
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md): Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped out of the house a few nights ago and hasn't come back.
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md): The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves.
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md): Vasile and Petre have traded the same three rumours since the mist came down. They might take a fourth, if somebody made one.
 - [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md): Somebody is stealing four sacks of oats a week from Bildrath's back room, and the lock is never touched.
 
 > [!quote]- Ledger

@@ -85,7 +85,7 @@ The name matters. If you have played [The Mage's Lost Pages](https://curseofstra
 
 - **People:** [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md), [Corvina](https://curseofstrahd.app/wiki/people/corvina.md)
 - **Places:** [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md), [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md), [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)
-- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md)
+- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md)
 
 > [!example]- Cutscenes
 > **The Unnamed Crypt**: Corvina sits up in the crypt with no name.

@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/all-people.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-280 people you can meet in Barovia, by region.
+290 people you can meet in Barovia, by region.
 
 ## Into the Mists
 
@@ -70,9 +70,11 @@
 | | Who | Title |
 |---|---|---|
 | ![mastiff](https://curseofstrahd.app/wiki/img/portraits/mastiff.webp) | [A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md) | Of the Vistani |
+| ![noble](https://curseofstrahd.app/wiki/img/portraits/noble.webp) | [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md) | Travel Writer |
 | ![tough](https://curseofstrahd.app/wiki/img/portraits/tough.webp) | [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md) | Wheelwright of the Tser Pool Camp |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Bogdan](https://curseofstrahd.app/wiki/people/bogdan.md) | A Farmer on the Road |
 | ![brown bear](https://curseofstrahd.app/wiki/img/portraits/brown-bear.webp) | [Bujor](https://curseofstrahd.app/wiki/people/bujor.md) | Lavinia's Dancing Bear |
+| ![bandit](https://curseofstrahd.app/wiki/img/portraits/bandit.webp) | [Costica](https://curseofstrahd.app/wiki/people/costica.md) | Highwayman of the Old Svalich Road |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Grigor](https://curseofstrahd.app/wiki/people/grigor.md) | Wolf Hunter of the Svalich Woods |
 | ![bandit](https://curseofstrahd.app/wiki/img/portraits/bandit.webp) | [Iancu](https://curseofstrahd.app/wiki/people/iancu.md) | Knife-Thrower |
 | ![vistana](https://curseofstrahd.app/wiki/img/portraits/vistana.webp) | [Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md) | A Vistani Tinker |
@@ -104,8 +106,10 @@
 | ![toma sarnov](https://curseofstrahd.app/wiki/img/portraits/toma-sarnov.webp) | [Bray](https://curseofstrahd.app/wiki/people/bray.md) | Urwin and Danika's Younger Boy |
 | ![ilka sarnov](https://curseofstrahd.app/wiki/img/portraits/ilka-sarnov.webp) | [Catalina](https://curseofstrahd.app/wiki/people/catalina.md) | The Lamplighter's Daughter |
 | ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Daciana](https://curseofstrahd.app/wiki/people/daciana.md) | Festival Ribbon Seller |
+| ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Dana](https://curseofstrahd.app/wiki/people/dana.md) | A Bride of Vallaki |
 | ![danika martikov](https://curseofstrahd.app/wiki/img/portraits/danika-martikov.webp) | [Danika Martikov](https://curseofstrahd.app/wiki/people/danika-martikov.md) | Mistress of the Blue Water Inn |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Dragan](https://curseofstrahd.app/wiki/people/dragan.md) | A drinker at the Blue Water Inn |
+| ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Emanoil](https://curseofstrahd.app/wiki/people/emanoil.md) | A Clerk Who Would Be Bitten |
 | ![father lucian](https://curseofstrahd.app/wiki/img/portraits/father-lucian.webp) | [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) | Lucian Petrovich, priest of St. Andral's |
 | ![vallaki guard](https://curseofstrahd.app/wiki/img/portraits/vallaki-guard.webp) | [Festival Herald](https://curseofstrahd.app/wiki/people/festival-herald.md) | Crier of the Baron's Festivals |
 | ![blinsky](https://curseofstrahd.app/wiki/img/portraits/blinsky.webp) | [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) | Toymaker |
@@ -119,6 +123,7 @@
 | ![izek](https://curseofstrahd.app/wiki/img/portraits/izek.webp) | [Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md) | The Baron's Enforcer |
 | ![kasimir velikov](https://curseofstrahd.app/wiki/img/portraits/kasimir-velikov.webp) | [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) | Dusk Elf of the Lakeside Camp |
 | ![lady wachter](https://curseofstrahd.app/wiki/img/portraits/lady-wachter.webp) | [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md) | Fiona Wachter, widow of Wachterhaus |
+| ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Leontina](https://curseofstrahd.app/wiki/people/leontina.md) | The Baron's Cook |
 | ![vallaki guard](https://curseofstrahd.app/wiki/img/portraits/vallaki-guard.webp) | [Lockup Warden](https://curseofstrahd.app/wiki/people/lockup-warden.md) | Keeper of the Baron's Lockup |
 | ![luvash](https://curseofstrahd.app/wiki/img/portraits/luvash.webp) | [Luvash](https://curseofstrahd.app/wiki/people/luvash.md) | Headman of the Lakeside Camp |
 | ![lydia petrovna](https://curseofstrahd.app/wiki/img/portraits/lydia-petrovna.webp) | [Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md) | Lady of Vallaki, the Baron's wife |
@@ -140,6 +145,7 @@
 | ![bandit captain](https://curseofstrahd.app/wiki/img/portraits/bandit-captain.webp) | [Szoldar](https://curseofstrahd.app/wiki/people/szoldar.md) | Hunter at the Blue Water Inn |
 | ![guardian portrait](https://curseofstrahd.app/wiki/img/portraits/guardian-portrait.webp) | [The Count's Likeness](https://curseofstrahd.app/wiki/people/the-counts-likeness.md) | An Eye of the Castle |
 | ![vallaki guard](https://curseofstrahd.app/wiki/img/portraits/vallaki-guard.webp) | [Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md) | Watchman of Vallaki |
+| ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Tudorel](https://curseofstrahd.app/wiki/people/tudorel.md) | A Footman at Wachterhaus |
 | ![urwin martikov](https://curseofstrahd.app/wiki/img/portraits/urwin-martikov.webp) | [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) | Keeper of the Blue Water Inn |
 | ![vadoma](https://curseofstrahd.app/wiki/img/portraits/vadoma.webp) | [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md) | Trader of the painted wagon |
 | ![victor vallakovich](https://curseofstrahd.app/wiki/img/portraits/victor-vallakovich.webp) | [Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md) | The Baron's Son |
@@ -174,6 +180,7 @@
 | ![kostin](https://curseofstrahd.app/wiki/img/portraits/kostin.webp) | [Kostin](https://curseofstrahd.app/wiki/people/kostin.md) | Druid of Yester Hill |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md) | Cooper of the Wizard of Wines |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md) | Vine-Dresser of the Wizard of Wines |
+| ![twig blight](https://curseofstrahd.app/wiki/img/portraits/twig-blight.webp) | [Sprig](https://curseofstrahd.app/wiki/people/sprig.md) | A Twig Blight of the Wizard of Wines |
 | ![stefania martikov](https://curseofstrahd.app/wiki/img/portraits/stefania-martikov.webp) | [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md) | Davian's Daughter |
 | ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Tereza](https://curseofstrahd.app/wiki/people/tereza.md) | Of the Martikov Camp |
 
@@ -196,6 +203,7 @@
 | ![krezk guard](https://curseofstrahd.app/wiki/img/portraits/krezk-guard.webp) | [Krezk Watchman](https://curseofstrahd.app/wiki/people/krezk-watchman.md) | Gate Watch of Krezk |
 | ![waystone lark](https://curseofstrahd.app/wiki/img/portraits/waystone-lark.webp) | [Lark](https://curseofstrahd.app/wiki/people/lark.md) | A Belview of the Abbey |
 | ![toma sarnov](https://curseofstrahd.app/wiki/img/portraits/toma-sarnov.webp) | [Little Petru](https://curseofstrahd.app/wiki/people/little-petru.md) | Of the Farms below Krezk |
+| ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Madam Profira](https://curseofstrahd.app/wiki/people/madam-profira.md) | Matchmaker of Krezk |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md) | Of Krezk |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [Old Simion](https://curseofstrahd.app/wiki/people/old-simion.md) | Keeper of the Graves |
 | ![sergei von zarovich](https://curseofstrahd.app/wiki/img/portraits/sergei-von-zarovich.webp) | [Sergei von Zarovich](https://curseofstrahd.app/wiki/people/sergei-von-zarovich.md) | A Reflection in the Pool |
@@ -244,6 +252,7 @@
 | ![order knight](https://curseofstrahd.app/wiki/img/portraits/order-knight.webp) | [Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md) | Knight of the Silver Dragon |
 | ![phantom warden](https://curseofstrahd.app/wiki/img/portraits/phantom-warden.webp) | [Phantom Warden](https://curseofstrahd.app/wiki/people/phantom-warden.md) | Ghost of the Gate |
 | ![sir godfrey gwilym](https://curseofstrahd.app/wiki/img/portraits/sir-godfrey-gwilym.webp) | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) | Knight of the Silver Dragon |
+| ![order knight](https://curseofstrahd.app/wiki/img/portraits/order-knight.webp) | [Sir Ottokar the Late](https://curseofstrahd.app/wiki/people/sir-ottokar-the-late.md) | A Knight of the Silver Dragon |
 | ![revenant](https://curseofstrahd.app/wiki/img/portraits/revenant.webp) | [The Gilded Knight](https://curseofstrahd.app/wiki/people/the-gilded-knight.md) | Keeper of the Dragon's Tithe |
 | ![vladimir horngaard](https://curseofstrahd.app/wiki/img/portraits/vladimir-horngaard.webp) | [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) | Commander of the Order of the Silver Dragon |
 
@@ -317,6 +326,7 @@
 | ![escher](https://curseofstrahd.app/wiki/img/portraits/escher.webp) | [Escher](https://curseofstrahd.app/wiki/people/escher.md) | A Cast-Off Consort |
 | ![gertruda](https://curseofstrahd.app/wiki/img/portraits/gertruda.webp) | [Gertruda](https://curseofstrahd.app/wiki/people/gertruda.md) | Mad Mary's daughter |
 | ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Ghenadie the Valet](https://curseofstrahd.app/wiki/people/ghenadie-the-valet.md) | Of the Household |
+| ![gargoyle](https://curseofstrahd.app/wiki/img/portraits/gargoyle.webp) | [Gogu](https://curseofstrahd.app/wiki/people/gogu.md) | A Gargoyle Afraid of Heights |
 | ![helga ruvak](https://curseofstrahd.app/wiki/img/portraits/helga-ruvak.webp) | [Helga Ruvak](https://curseofstrahd.app/wiki/people/helga-ruvak.md) | Maid of the Upper Floors |
 | ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Lady Celestine Morrow](https://curseofstrahd.app/wiki/people/lady-celestine-morrow.md) | Of the Count's Court |
 | ![lief lipsiege](https://curseofstrahd.app/wiki/img/portraits/lief-lipsiege.webp) | [Lief Lipsiege](https://curseofstrahd.app/wiki/people/lief-lipsiege.md) | Accountant to the Count |

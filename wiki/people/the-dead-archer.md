@@ -17,3 +17,7 @@ An archer of the castle's watch, three centuries dead, walking the inside of the
 ## Where to find them
 
 - [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), The front courtyard, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

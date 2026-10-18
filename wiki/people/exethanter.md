@@ -22,6 +22,7 @@ The last of the wizards who built the Amber Temple to imprison the vestiges: a l
 
 ## Quests
 
+- [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md) (gives it)
 - [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md) (gives it)
 - [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md) (gives it)
 - [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md)

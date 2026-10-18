@@ -252,7 +252,7 @@ The quest has one ending, *Saved*, and its reward is the milestone level. Everyt
 
 - **People:** [Krezk Watchman](https://curseofstrahd.app/wiki/people/krezk-watchman.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Danika Martikov](https://curseofstrahd.app/wiki/people/danika-martikov.md), [Arik](https://curseofstrahd.app/wiki/people/arik.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md)
 - **Places:** [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md)
-- **More in The Wizard of Wines:** [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md)
+- **More in The Wizard of Wines:** [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md), [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md)
 
 > [!example]- Cutscenes
 > **Ravens on Every Beam**: The Blue Water Inn's taproom fills with silent, watching ravens.

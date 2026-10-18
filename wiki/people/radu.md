@@ -21,5 +21,6 @@ A swaggering horse-trader in a red coat who keeps the camp's string and will sel
 
 ## Quests
 
+- [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md) (gives it)
 - [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) (gives it)
 - [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md)

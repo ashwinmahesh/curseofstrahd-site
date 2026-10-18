@@ -138,6 +138,7 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 > [!abstract]- Every skill check in its conversations
 > - History DC 15: (Answer the challenge as a knight of the Order would have.)
 > - Religion DC 14: We've come to tend his rest, not to rob it.
+> - Insight DC 12: (He holds the doorframe too tightly.)
 > - Arcana DC 15: There's something still burning in these bones.
 
 ## Related

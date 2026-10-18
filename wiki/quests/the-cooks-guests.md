@@ -130,7 +130,7 @@ None of these pay anything themselves. The rations and the Ioun Stone come from 
 
 - **People:** [Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md), [Doru](https://curseofstrahd.app/wiki/people/doru.md), [Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md), [Cyrus Belview](https://curseofstrahd.app/wiki/people/cyrus-belview.md)
 - **Places:** [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md), [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)
-- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
+- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
 
 > [!example]- Cutscenes
 > **In Silvered Chains**: Doru hangs in silvered chains in his cell, starving, and knows them at once.

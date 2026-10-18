@@ -17,3 +17,7 @@ A boyar of the valley's orchards who came up two hundred and six years ago with 
 ## Where to find them
 
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), The audience hall, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md) (gives it)

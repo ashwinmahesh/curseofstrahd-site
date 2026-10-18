@@ -48,8 +48,8 @@ The road bends between pines and rock. At the bend stands a waist-high stone wit
 ## People
 
 > [!note]- Who turns up at points in the story (2)
-> - **[Lark](https://curseofstrahd.app/wiki/people/lark.md)**, The bend (#3): when night and quest.the waystone and quest.the waystone isn't done and not waystone wolves beaten; or when night and waystone wolves beaten and quest.the waystone isn't done
-> - **[Yanko](https://curseofstrahd.app/wiki/people/yanko.md)**, The bend (#4): when night and waystone wolves beaten and quest.the waystone isn't done
+> - **[Lark](https://curseofstrahd.app/wiki/people/lark.md)**, The bend (#3): when night and quest.the waystone and quest.the waystone isn't done and not waystone wolves beaten; or when day and waystone tracked and quest.the waystone and quest.the waystone isn't done and not waystone wolves beaten; or when waystone wolves beaten and quest.the waystone isn't done
+> - **[Yanko](https://curseofstrahd.app/wiki/people/yanko.md)**, The bend (#4): when waystone wolves beaten and quest.the waystone isn't done
 
 ## What to find
 

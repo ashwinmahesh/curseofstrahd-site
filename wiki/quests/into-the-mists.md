@@ -41,7 +41,7 @@ The game opens here. Your party stands at the east end of [The Old Svalich Road]
    Any failed roll means a fight. The fight is seven [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (350 XP, Moderate for a level 1 party of four): six on the far side of the gap and one coming out of the trees behind you. Wolves get Advantage when a packmate is next to you, and a bite knocks you prone, so turn someone round to deal with the one behind and hold the gap so the other six can only come through one at a time. Talked past or fought, the journal moves to The Pack.
 4. **The Gates of Barovia.** Past the narrows two headless stone knights keep a pair of iron gates that swing open by themselves. Worth a stop:
    - The wayside shrine to the Morninglord: pray at it (**Religion DC 11**) for Heroic Inspiration.
-   - A loose board behind the shrine (Search, **Investigation DC 12**): a [Ring of Mind Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-mind-shielding).
+   - A loose board behind the shrine (Search, **Investigation DC 12**): a [+1 Quarterstaff](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1).
    - The statues' plinths (**History DC 12**): a codex entry, and it points out their stone heads in the weeds (otherwise a Search at DC 12; they're only scenery).
    - A gate guard's sword in the weeds below the statues (Search, **DC 13**): a [Weapon of Warning](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-of-warning). Climbing the oak at the village edge (step 5) also shows it to you.
 

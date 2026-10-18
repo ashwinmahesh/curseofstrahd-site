@@ -8,7 +8,7 @@
 > **Region:** [Into the Mists](https://curseofstrahd.app/wiki/regions/into-the-mists.md) · level 1
 > **Given by:** [Marshal Dragomir](https://curseofstrahd.app/wiki/people/marshal-dragomir.md)
 > **Starts at:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)
-> **Rewards:** [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), 200 gp
+> **Rewards:** [+2 Scimitar](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), 200 gp
 
 ## Summary
 
@@ -62,7 +62,7 @@ There is one ending, Released. Talking the riders down or fighting the whole col
 
 ## Rewards
 
-- [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2)
+- [+2 Scimitar](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2)
 - 200 gp
 
 **What your companions think**
@@ -103,7 +103,7 @@ There is one ending, Released. Talking the riders down or fighting the whole col
 
 ## Related
 
-- **People:** [Marshal Dragomir](https://curseofstrahd.app/wiki/people/marshal-dragomir.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md)
+- **People:** [Marshal Dragomir](https://curseofstrahd.app/wiki/people/marshal-dragomir.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md)
 - **Places:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md), [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
 - **More in Into the Mists:** [The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md)
 

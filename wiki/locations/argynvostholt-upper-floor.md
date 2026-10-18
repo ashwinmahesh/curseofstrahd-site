@@ -65,8 +65,8 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 | 5 | the dragon's desk | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×3, 35 gp | open it |
 | 6 | a plain chest | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), 9 gp | open it |
 | 7 | the commander's strongbox | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Ioun Stone (Leadership)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-leadership), [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism), 120 gp | lock DC 18 |
-| 9 | a hollow in the empty plinth (hidden) | [Ring of Resistance (Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-resistance-cold) | Search: Investigation DC 16 |
-| 10 | a hidden drawer in the dragon's desk (hidden) | [Wand of Enemy Detection](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-enemy-detection) | Search: Investigation DC 16 |
+| 9 | a hollow in the empty plinth (hidden) | [Feather Token (Whip)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-whip) | Search: Investigation DC 16 |
+| 10 | a hidden drawer in the dragon's desk (hidden) | [Figurine of Wondrous Power (Bronze Griffon)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-bronze-griffon) | Search: Investigation DC 16 |
 
 The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 

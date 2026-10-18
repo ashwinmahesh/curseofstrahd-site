@@ -59,11 +59,11 @@ There are two endings, and both count as a success.
 
 **What your companions think**
 
-- **Godrick Pendlebrook:** +3 you stood the squire's vigil with Cosmin
-- **Thistle:** +1 you stood the squire's vigil with Cosmin
-- **Liriel Dawnsong:** +2 you stood the squire's vigil with Cosmin
-- **Wren Featherfoot:** +1 you stood the squire's vigil with Cosmin
-- **Ratatouille:** +1 you stood the squire's vigil with Cosmin
+- **Godrick Pendlebrook:** +3 you stood by Cosmin and cleared Ioan's name
+- **Thistle:** +1 you stood by Cosmin and cleared Ioan's name
+- **Liriel Dawnsong:** +2 you stood by Cosmin and cleared Ioan's name
+- **Wren Featherfoot:** +1 you stood by Cosmin and cleared Ioan's name
+- **Ratatouille:** +1 you stood by Cosmin and cleared Ioan's name
 
 ## Fights
 
@@ -93,9 +93,11 @@ There are two endings, and both count as a success.
 > [!abstract]- Every skill check in its conversations
 > - Persuasion DC 17: Come home. Your mother's at the north gate every night.
 > - Investigation DC 13: (Look at the last headstone, the one he's sitting on.)
+> - History DC 13: (Argue from the Order's own rolls.)
+> - Persuasion DC 14: (Speak for Ioan.)
 
 ## Related
 
-- **People:** [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md)
+- **People:** [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md), [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md), [Sir Ottokar the Late](https://curseofstrahd.app/wiki/people/sir-ottokar-the-late.md)
 - **Places:** [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md), [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
 - **More in Argynvostholt:** [The Dragon's Beacon](https://curseofstrahd.app/wiki/quests/the-dragons-beacon.md), [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md), [The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md)

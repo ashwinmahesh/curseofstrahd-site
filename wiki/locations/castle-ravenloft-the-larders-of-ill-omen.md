@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md), [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)
-> **Quests:** [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md)
+> **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md)
 
 ## Overview
 
@@ -96,4 +96,5 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 ## Quests and lore
 
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md): Below Castle Ravenloft's kitchen, the cook keeps his Master's guests fresh in the cells.

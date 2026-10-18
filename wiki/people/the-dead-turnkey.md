@@ -17,3 +17,7 @@ The dungeon's turnkey, dead since the night of the wedding, who walks the passag
 ## Where to find them
 
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md), The passage between the cells, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

@@ -366,6 +366,7 @@ Ammunition for Light, Hand and Heavy Crossbows; sold 20 at a time.
 - 20 × In a glass-fronted hunting cabinet, [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md) (Den of Wolves) (locked, DC 12)
 - 20 × In a footlocker, [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md) (The barracks)
 - 20 × In Ezmerelda's wagon, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) (Ezmerelda's camp) (locked, DC 16)
+- 10 × Given by visits: ezmerelda or [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md))
 - 10 × Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -825,6 +826,14 @@ Artisan's Tools (Dexterity): carve a pattern into wood (DC 10).
 
 ## Gear
 
+### A Warden's Spellbook
+*gear* · 50 gp · 3 lb · **Cheat code:** `F008E7`
+
+A temple warden's spellbook, its pages stiff with cold. Nine Wizard spells for keeping things shut in, a Wizard can copy.
+
+**Where to find it:**
+- In a warden's chest, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells)
+
 ### Ball Bearings
 *gear* · 1 gp · 2 lb · **Cheat code:** `DCF65F`
 
@@ -943,6 +952,7 @@ Advantage on Strength checks where its leverage helps.
 A cut diamond worth 100 gp: what Revivify, Raise Dead and Chromatic Orb ask for. Diamonds count together toward a spell's cost.
 
 **Where to find it:**
+- 3 × In the lamplighters' cupboard, [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) (The lamplighters' closet)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Diamond Dust
@@ -1205,9 +1215,6 @@ Blow it as a Utilize action to make a sound heard up to 600 ft away.
 *gear* · 50 gp · 3 lb · **Cheat code:** `4909D3`
 
 Leather-bound book of 100 blank vellum pages for recording spells.
-
-**Where to find it:**
-- In a warden's chest, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells)
 
 ### Spyglass
 *gear* · 1000 gp · 1 lb · **Cheat code:** `BEDA84`
@@ -1550,7 +1557,7 @@ Thrown flask: a Fiend or Undead within 20 ft makes a Dex save or takes 2d8 Radia
 - 2 × In a crate of supplies, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The hunter's storeroom)
 - 3 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × In Vestry chest, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Vestry) (locked, with nothing to pick)
-- …and 9 more places
+- …and 10 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil
@@ -1619,7 +1626,7 @@ One day of travel food; going without food risks malnutrition.
 - 4 × A Animal Handling check (DC 13) at The goat pens, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)
 - 4 × In the larder, [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md) (The hall) (belongs to Dmitri Krezkov: taking it is theft)
 - 2 × In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study)
-- …and 7 more places
+- …and 8 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Red Dragon Crush
@@ -1629,6 +1636,14 @@ A bottle of dark, peppery red from the Wizard of Wines, kept for feast days.
 
 **Where to find it:**
 - Sold by [Arik](https://curseofstrahd.app/wiki/people/arik.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+
+### Stanimir's Plum Wine
+*consumable* · 5 gp · 8 lb · **Cheat code:** `9AB29A`
+
+A small cask of the Tser Pool camp's plum wine, sweet as a promise and about as strong as a threat.
+
+**Where to find it:**
+- Given by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) in [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) ([Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md))
 
 ## Potion
 
@@ -1656,14 +1671,14 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 ## Scroll
 
 ### Spell Scroll (Cantrip)
-*common, scroll* · 10 gp · **Cheat code:** `DB4D91`
+*common, scroll* · 30 gp · **Cheat code:** `DB4D91`
 
 Magic scroll holding one cantrip; cast it if it is on your class's spell list (DC 13, +5).
 
 **Where to find it:** no fixed place. It can turn up as random treasure ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)); or give it with its cheat code.
 
 ### Spell Scroll (Level 1)
-*common, scroll* · 60 gp · **Cheat code:** `19D570`
+*common, scroll* · 50 gp · **Cheat code:** `19D570`
 
 Magic scroll holding one level 1 spell; cast it if it is on your class's spell list (DC 13, +5).
 
@@ -1778,3 +1793,19 @@ A plain iron key from the drawer of the Dursts' library desk.
 
 **Where to find it:**
 - In the library desk, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Library)
+
+### Pidlwick's Key
+*quest* · **Cheat code:** `6CDA74`
+
+A brass wind-up key as long as a hand, its bow shaped like a jester's cap with a tiny bell on every point.
+
+**Where to find it:**
+- Given by A glint of brass in a nest in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) ([The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md))
+
+### Silviu's Wedding Cask
+*quest* · 60 lb · **Cheat code:** `476A61`
+
+A small oak cask, hooped by Old Silviu, of the last good wine of the year Elvir Martikov was born.
+
+**Where to find it:**
+- Given by [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) ([Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md))

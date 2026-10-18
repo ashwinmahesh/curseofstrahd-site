@@ -56,8 +56,8 @@ Burning the wood and fighting it at dusk both end with Luca awake. The differenc
 
 - **Kip Smudgewick:** +2 you haggled Bildrath down; -1 you menaced a shopkeeper over his prices; -2 you lied to Bildrath about his strongbox; +2 you paid Bildrath back what was taken from him; -2 you threatened Bildrath and his nephew; +1 you let Bildrath buy your silence
 - **Wren Featherfoot:** +1 you haggled Bildrath down; +1 you lied to Bildrath about his strongbox; +2 you wouldn't take a woodcutter's last forty gold
-- **Godrick Pendlebrook:** -2 you lied to Bildrath about his strongbox; +2 you paid Bildrath back what was taken from him; -1 you threatened Bildrath and his nephew; +2 you wouldn't take a woodcutter's last forty gold
-- **Liriel Dawnsong:** +1 you paid Bildrath back what was taken from him; +1 you wouldn't take a woodcutter's last forty gold
+- **Godrick Pendlebrook:** +1 you saw what Bildrath writes beside the debts; -2 you lied to Bildrath about his strongbox; +2 you paid Bildrath back what was taken from him; -1 you threatened Bildrath and his nephew; +2 you wouldn't take a woodcutter's last forty gold
+- **Liriel Dawnsong:** +1 you saw what Bildrath writes beside the debts; +1 you paid Bildrath back what was taken from him; +1 you wouldn't take a woodcutter's last forty gold
 - **Thistle:** +1 you threatened Bildrath and his nephew
 
 ## Fights
@@ -98,6 +98,7 @@ Burning the wood and fighting it at dusk both end with Luca awake. The differenc
 > - Insight DC 12: Study him properly.
 > - Persuasion DC 18: A loyal customer is worth more than one sale. (one try)
 > - Intimidation DC 18: Lower the prices. (one try)
+> - Insight DC 13: (Read his face while he talks about the accounts.)
 > - Deception DC 15: We've no idea what you're talking about. (If he doesn't believe you, you're thrown out.)
 > - Intimidation DC 14: Call your nephew off, or else. (If he doesn't back down, you're thrown out.)
 > - Nature DC 13: Split one open and look at the grain.
@@ -109,6 +110,6 @@ Burning the wood and fighting it at dusk both end with Luca awake. The differenc
 
 ## Related
 
-- **People:** [Arik](https://curseofstrahd.app/wiki/people/arik.md), [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Grigore](https://curseofstrahd.app/wiki/people/grigore.md), [Luca](https://curseofstrahd.app/wiki/people/luca.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md)
+- **People:** [Arik](https://curseofstrahd.app/wiki/people/arik.md), [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md), [Grigore](https://curseofstrahd.app/wiki/people/grigore.md), [Luca](https://curseofstrahd.app/wiki/people/luca.md), [Petre](https://curseofstrahd.app/wiki/people/petre.md), [Vasile](https://curseofstrahd.app/wiki/people/vasile.md)
 - **Places:** [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md), [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-- **More in The Village of Barovia:** [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md), [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md), [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
+- **More in The Village of Barovia:** [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)

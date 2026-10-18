@@ -98,7 +98,7 @@ You can also skip him: from level 10 a crack weeping amber appears in the vault 
 
 - **People:** [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md), [The Eye Below](https://curseofstrahd.app/wiki/people/the-eye-below.md)
 - **Places:** [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md), [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md), [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md)
-- **More in The Amber Temple:** [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
+- **More in The Amber Temple:** [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md), [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
 
 > [!example]- Cutscenes
 > **The Amber Debt**: A beholder floats out of a block of amber split like an egg, its great eye still clouded.

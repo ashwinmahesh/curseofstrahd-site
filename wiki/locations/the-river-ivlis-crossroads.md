@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (The Ivlis Crossroads)
-> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Grandda's Trail](https://curseofstrahd.app/wiki/quests/granddas-trail.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) and 3 more
+> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md), [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Grandda's Trail](https://curseofstrahd.app/wiki/quests/granddas-trail.md) and 6 more
 
 ## Overview
 
@@ -45,30 +45,33 @@ A stone bridge carries the road over the Ivlis. East lies the village of Barovia
 ### Close up
 
 ![loc svalich crossroads spot1](https://curseofstrahd.app/wiki/img/shots/loc-svalich-crossroads-spot1.webp)
-*the gallows, a signpost*
+*Costica*
 
 ![loc svalich crossroads spot2](https://curseofstrahd.app/wiki/img/shots/loc-svalich-crossroads-spot2.webp)
-*the bridge parapet, a raven on a fencepost*
+*the gallows, a signpost*
 
 ![loc svalich crossroads spot3](https://curseofstrahd.app/wiki/img/shots/loc-svalich-crossroads-spot3.webp)
-*the road south*
+*the bridge parapet, a raven on a fencepost*
 
 ## People
 
-> [!note]- Who turns up at points in the story (4)
+- **[Costica](https://curseofstrahd.app/wiki/people/costica.md)**, Highwayman of the Old Svalich Road: The east road, 08:00–18:00 (#9)
+
+> [!note]- Who turns up at points in the story (5)
 > - **[Corporal Vell](https://curseofstrahd.app/wiki/people/corporal-vell.md)**, The castle road (#5): when night and name ilse varga and quest kestrel company at or past the count and level ≥ 5 and not kestrel vell rests
 > - **[The Huntsman](https://curseofstrahd.app/wiki/people/the-huntsman.md)**, The east road (#6): when night and quest the counts huntsman at hunted
 > - **[Gavril](https://curseofstrahd.app/wiki/people/gavril.md)**, The crossroads (#7): when night and quest the counts huntsman at hunted and hunt quarry is “gavril”
 > - **[Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md)**, The castle road (#8): when quest.the tinkers wagon isn't done and not wagon slain; or when wagon slain and quest.the tinkers wagon isn't done
+> - **[Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)**, The crossroads (#10): when not (fennimore to krezk and quest.dumitrus visitor isn't done)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 12 | the bridge footings (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 13 |
-| 13 | a mound that isn't as old as the others (hidden) | [Boots of Elvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-elvenkind) | Search: Perception DC 14 |
-| 14 | a hollow behind the milestone (hidden) | [Wand of Web](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-web) | Search: Investigation DC 14 |
-| 15 | a farmer's cache behind the field wall (hidden) | [Gauntlets of Ogre Power](https://curseofstrahd.app/wiki/items/magic-items.md#gauntlets-of-ogre-power) | Search: Perception DC 14 |
+| 14 | the bridge footings (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 13 |
+| 15 | a mound that isn't as old as the others (hidden) | [Boots of Elvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-elvenkind) | Search: Perception DC 14 |
+| 16 | a hollow behind the milestone (hidden) | [Wand of Web](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-web) | Search: Investigation DC 14 |
+| 17 | a farmer's cache behind the field wall (hidden) | [Gauntlets of Ogre Power](https://curseofstrahd.app/wiki/items/magic-items.md#gauntlets-of-ogre-power) | Search: Perception DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -76,9 +79,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 9 | Unmarked mounds | Survival 13 | Read the disturbed earth | finds Boots of Elvenkind |
-| 10 | the bridge parapet | Athletics 12 | Climb down to the bridge footings | finds Potion of Healing; on a failure: 1d4 cold damage |
-| 11 | the road south | Survival 14 | Read the tracks on the castle road | lore: The road to the castle |
+| 11 | Unmarked mounds | Survival 13 | Read the disturbed earth | finds Boots of Elvenkind |
+| 12 | the bridge parapet | Athletics 12 | Climb down to the bridge footings | finds Potion of Healing; on a failure: 1d4 cold damage |
+| 13 | the road south | Survival 14 | Read the tracks on the castle road | lore: The road to the castle |
 
 ## Fights
 
@@ -127,7 +130,10 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 ## Quests and lore
 
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md): Ilse Varga's mercenary company marched into the mists a year ago at the invitation of someone who signed himself S. She was meant to march…
+- [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md): Dumitru waits inside Krezk's gate for a visitor who never comes, and writes weekly letters to an uncle in Vallaki who died.
+- [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md): Ambrose Fennimore is writing the definitive guidebook to the valley and is not sure the Tser Pool camp's famous plum stew is really plum.
 - [Grandda's Trail](https://curseofstrahd.app/wiki/quests/granddas-trail.md): Thistle was raised in the deep woods by a trapper called Fen Burley. He followed a wolf the size of a pony into a wall of fog and never…
+- [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md): Radu has a handsome dun gelding called Dinte that bites everyone, and he will pay fifteen gold to anyone who finds it a home.
 - [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md): On cold nights a horn sounds in the Svalich woods, and in the morning whoever the count is displeased with lies under the crossroads…
 - [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md): The black carriage that drives itself stopped by Radu's horse pen, and left a purse on the gatepost. Now his best mare is tied at the…
 - [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md): A young Vistana hangs from the gallows where the Old Svalich Road crosses the Ivlis, and a girl at Tser Pool is waiting for her brother to…

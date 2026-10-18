@@ -48,13 +48,18 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 ![loc castle ravenloft chapel spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-chapel-spot2.webp)
 *the poor box*
 
+## People
+
+> [!note]- Who turns up at points in the story (1)
+> - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, The chancel (#3): when ireena held by strahd and not ireena with the party and not (final room:castle ravenloft chapel and quest strahds lair at or past foretold and not strahd destroyed and not strahd in coffin)
+
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 3 | the altar, under its dust | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Holy Symbol (Reliquary)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-reliquary) | open it |
-| 4 | the poor box | 7 gp | open it |
-| 6 | something under the altar's dust (hidden) | [Amulet of the Devout, +3](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-3) | Search: Investigation DC 17 |
+| 4 | the altar, under its dust | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Holy Symbol (Reliquary)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-reliquary) | open it |
+| 5 | the poor box | 7 gp | open it |
+| 7 | something under the altar's dust (hidden) | [Ioun Stone (Fortitude)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-fortitude) | Search: Investigation DC 17 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Chapel (crg_chapel_altar)
 
@@ -64,7 +69,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 5 | the pews | Religion 16 | Pray in the count's chapel | finds Amulet of the Devout, +3; on a failure: 2d6 necrotic damage |
+| 6 | the pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
 
 ## Fights
 

@@ -180,7 +180,7 @@ What each gift gives and costs is on the [Dark Gifts](https://curseofstrahd.app/
 
 - **People:** [The Amber Sentinel](https://curseofstrahd.app/wiki/people/the-amber-sentinel.md), [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md), [Master Vosk](https://curseofstrahd.app/wiki/people/master-vosk.md)
 - **Places:** [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md), [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md), [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md), [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)
-- **More in The Amber Temple:** [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
+- **More in The Amber Temple:** [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md), [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
 
 > [!example]- Cutscenes
 > **The Amber Sentinels**: Two hooded colossi of amber flank the temple doors above a valley lost in cloud.

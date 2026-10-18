@@ -28,6 +28,8 @@ The barkeep of the Blood of the Vine, a man of very few words and, a careful loo
 
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md)
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md)
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md)
 - [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md) (gives it)
+- [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
 - [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md)
 - [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)

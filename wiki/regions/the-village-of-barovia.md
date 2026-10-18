@@ -20,11 +20,13 @@ Built for a party of about level 3: random treasure here is rolled for that leve
 ## Quests
 
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md)
+- [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md)
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md) (main)
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md)
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md)
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md) (main)
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md)
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md)
 - [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md)
 - [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md)
 - [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)

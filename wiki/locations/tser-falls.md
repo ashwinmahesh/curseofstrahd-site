@@ -58,7 +58,7 @@ A footpath climbs north through the pines to the lip of a gorge. The river goes 
 | 5 | a token that hums (hidden) | [Pearl of Power](https://curseofstrahd.app/wiki/items/magic-items.md#pearl-of-power) | Search: Perception DC 13 |
 | 6 | a necklace among the names on the cairn (hidden) | [Necklace of Adaptation](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-adaptation) | Search: Perception DC 13 |
 | 8 | a satchel snagged high in the pine (hidden) | [Goggles of Night](https://curseofstrahd.app/wiki/items/magic-items.md#goggles-of-night) | Search: Perception DC 14 |
-| 9 | a hollow in the fallen trunk (hidden) | [Bag of Tricks (Rust)](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-tricks-rust) | Search: Investigation DC 12 |
+| 9 | a hollow in the fallen trunk (hidden) | [Staff of the Python](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-the-python) | Search: Investigation DC 12 |
 | 10 | an axe left in a woodcutter's stump (hidden) | [+1 Handaxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Perception DC 12 |
 
 The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.

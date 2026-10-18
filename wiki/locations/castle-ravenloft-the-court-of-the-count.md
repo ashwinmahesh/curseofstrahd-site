@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dark
 > **Getting here:** [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md), [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
-> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md), [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md)
+> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md) and 1 more
 
 ## Overview
 
@@ -78,8 +78,8 @@ A long hall of black stone hung with old banners runs the width of the keep. Tal
 | 16 | Trophy cabinet | [Spear](https://curseofstrahd.app/wiki/items/equipment.md#spear), [Longbow](https://curseofstrahd.app/wiki/items/equipment.md#longbow), 60 gp | open it |
 | 17 | an iron strongbox | 220 gp | lock DC 15 |
 | 18 | Weapon rack | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Light Crossbow](https://curseofstrahd.app/wiki/items/equipment.md#light-crossbow), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
-| 21 | a hidden drawer in the count's desk (hidden) | [Crystal Ball](https://curseofstrahd.app/wiki/items/magic-items.md#crystal-ball) | Search: Investigation DC 17 |
-| 22 | a sword hung high among the trophies (hidden) | [Longsword of Sharpness](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-sharpness) | Search: Perception DC 15 |
+| 21 | a hidden drawer in the count's desk (hidden) | [Efreeti Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#efreeti-bottle) | Search: Investigation DC 17 |
+| 22 | a sword hung high among the trophies (hidden) | [Scimitar of Sharpness](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-sharpness) | Search: Perception DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Audience Hall (court_throne); Castle Ravenloft Study (court_study_portrait)
 
@@ -137,6 +137,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 - [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md): Silvain Aster's colleague Aurel Mirescu went into the mists after a book written in a vampire's own hand, and wrote home exactly once: He…
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md): Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped out of the house a few nights ago and hasn't come back.
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md): Boyar Vintila Crainic has waited two hundred and six years in Castle Ravenloft to present a petition about a boundary stone. It needs the…
 - [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md): Wren Featherfoot's old master, a dusk elf called Sorrel, died before Wren's training was finished, and left him one errand: a sealed letter…
 - [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md): Tamsin Tealeaf lifted a silver locket from a coach with no driver and no horses he could hear. The woman painted inside it has called his…
 

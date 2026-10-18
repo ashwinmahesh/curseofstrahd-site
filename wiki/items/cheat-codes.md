@@ -188,10 +188,8 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Rhythm-Maker's Drum, +1](https://curseofstrahd.app/wiki/items/magic-items.md#rhythm-makers-drum-1) | `57E192` | wondrous |  |
 | [Ring of Dedicated Focus](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-dedicated-focus) | `BD6546` | ring |  |
 | [Ring of Jumping](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-jumping) | `E5F1A5` | ring |  |
-| [Ring of Mind Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-mind-shielding) | `26BD50` | ring |  |
 | [Ring of Swimming](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-swimming) | `6798E8` | ring |  |
 | [Ring of Warmth](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-warmth) | `C908F5` | ring |  |
-| [Ring of Water Walking](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-water-walking) | `3F8C54` | ring |  |
 | [Robe of Useful Items](https://curseofstrahd.app/wiki/items/magic-items.md#robe-of-useful-items) | `7A853B` | wondrous |  |
 | [Rod of the Pact Keeper, +1](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-the-pact-keeper-1) | `7F4AAA` | rod |  |
 | [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) | `C6832A` | wondrous |  |
@@ -586,6 +584,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 
 | Item | Code | Kind |
 |---|---|---|
+| [A Warden's Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#a-wardens-spellbook) | `F008E7` | gear |
 | [Acid](https://curseofstrahd.app/wiki/items/equipment.md#acid) | `036754` | consumable |
 | [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) | `E06CFA` | consumable |
 | [Alchemist's Supplies](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-supplies) | `863519` | tool |
@@ -726,6 +725,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) | `C44D57` | gear |
 | [Pearl](https://curseofstrahd.app/wiki/items/equipment.md#pearl) | `672E96` | gear |
 | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) | `36E426` | consumable |
+| [Pidlwick's Key](https://curseofstrahd.app/wiki/items/equipment.md#pidlwicks-key) | `6CDA74` | quest |
 | [Pike](https://curseofstrahd.app/wiki/items/equipment.md#pike) | `C74915` | weapon |
 | [Pistol](https://curseofstrahd.app/wiki/items/equipment.md#pistol) | `416AB1` | weapon |
 | [Plate Armor](https://curseofstrahd.app/wiki/items/equipment.md#plate-armor) | `CF1446` | armor |
@@ -759,6 +759,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Shovel](https://curseofstrahd.app/wiki/items/equipment.md#shovel) | `24E167` | gear |
 | [Sickle](https://curseofstrahd.app/wiki/items/equipment.md#sickle) | `3E18C5` | weapon |
 | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | `4787CA` | gear |
+| [Silviu's Wedding Cask](https://curseofstrahd.app/wiki/items/equipment.md#silvius-wedding-cask) | `476A61` | quest |
 | [Sling](https://curseofstrahd.app/wiki/items/equipment.md#sling) | `8275F1` | weapon |
 | [Sling Bullet](https://curseofstrahd.app/wiki/items/equipment.md#sling-bullet) | `E2C1DC` | ammunition |
 | [Smith's Tools](https://curseofstrahd.app/wiki/items/equipment.md#smiths-tools) | `D5F5BE` | tool |
@@ -768,6 +769,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#spellbook) | `4909D3` | gear |
 | [Splint Armor](https://curseofstrahd.app/wiki/items/equipment.md#splint-armor) | `BC784D` | armor |
 | [Spyglass](https://curseofstrahd.app/wiki/items/equipment.md#spyglass) | `BEDA84` | gear |
+| [Stanimir's Plum Wine](https://curseofstrahd.app/wiki/items/equipment.md#stanimirs-plum-wine) | `9AB29A` | consumable |
 | [String](https://curseofstrahd.app/wiki/items/equipment.md#string) | `15A6E5` | gear |
 | [Studded Leather Armor](https://curseofstrahd.app/wiki/items/equipment.md#studded-leather-armor) | `8DE8B4` | armor |
 | [Tent](https://curseofstrahd.app/wiki/items/equipment.md#tent) | `D887EE` | gear |

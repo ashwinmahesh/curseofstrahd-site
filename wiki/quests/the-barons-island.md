@@ -82,6 +82,13 @@ Both endings pay the same. If they **stay**, Ostap is still on the island when y
 
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 12: (Look at the faces round the fires.)
+> - Persuasion DC 12: (Argue that they should go home.)
+> - Persuasion DC 12: (Argue that they should stay hidden.)
+> - Athletics DC 12: (Take the oars.)
+> - Stealth DC 12: (Keep everyone low and the boat dark.)
+> - Acrobatics DC 12: (Bail the left side while you row.)
+> - Stealth DC 12: (Smother every fire and hide every hut.)
+> - Survival DC 12: (Bank the fires so no smoke shows.)
 
 ## Related
 

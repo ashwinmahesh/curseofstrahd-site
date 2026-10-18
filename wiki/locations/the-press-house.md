@@ -58,7 +58,7 @@ The great press stands in the middle of the floor like an altar, its screw as th
 | 3 | the wizard's rack | [Jug](https://curseofstrahd.app/wiki/items/equipment.md#jug), 8 gp | open it |
 | 4 | a tool chest | [Carpenter's Tools](https://curseofstrahd.app/wiki/items/equipment.md#carpenters-tools), [Crowbar](https://curseofstrahd.app/wiki/items/equipment.md#crowbar), [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope) | open it |
 | 5 | Kostin's satchel | [Herbalism Kit](https://curseofstrahd.app/wiki/items/equipment.md#herbalism-kit), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 18 gp | open it; only when press house cleared and not kostin fled |
-| 6 | something behind the wizard's casks (hidden) | [Decanter of Endless Water](https://curseofstrahd.app/wiki/items/magic-items.md#decanter-of-endless-water) | Search: Perception DC 14 |
+| 6 | something behind the wizard's casks (hidden) | [Rhythm-Maker's Drum, +2](https://curseofstrahd.app/wiki/items/magic-items.md#rhythm-makers-drum-2) | Search: Perception DC 14 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Wizard of Wines Press House (wizards_rack)
 

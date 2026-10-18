@@ -75,9 +75,11 @@ The only approval in this quest is the blackmail penalty above.
 
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 14: It isn't Adrian you're angry with.
+> - Insight DC 12: (Watch how he holds the crossbow.)
+> - Insight DC 12: (Watch how she talks about Horia.)
 
 ## Related
 
 - **People:** [Baba Lysaga](https://curseofstrahd.app/wiki/people/baba-lysaga.md), [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stefania Martikov](https://curseofstrahd.app/wiki/people/stefania-martikov.md), [Ionel](https://curseofstrahd.app/wiki/people/ionel.md), [Tereza](https://curseofstrahd.app/wiki/people/tereza.md), [Horia](https://curseofstrahd.app/wiki/people/horia.md), [Ovidiu](https://curseofstrahd.app/wiki/people/ovidiu.md), [Andrei](https://curseofstrahd.app/wiki/people/andrei.md), [Old Silviu](https://curseofstrahd.app/wiki/people/old-silviu.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md), [A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md)
 - **Places:** [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md), [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md)
-- **More in The Wizard of Wines:** [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)
+- **More in The Wizard of Wines:** [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md), [The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md), [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md), [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)

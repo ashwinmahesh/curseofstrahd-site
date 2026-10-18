@@ -17,7 +17,7 @@ A watchman walking main street from gate to gate, looking for anyone not smiling
 ## Where to find them
 
 > [!note]- At points in the story (1)
-> - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Main street, walking a round: when not dobre beaten
+> - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Main street, walking a round: when not dobre beaten and not dobre arrested
 
 ## Quests
 

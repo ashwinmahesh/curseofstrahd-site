@@ -22,6 +22,7 @@ A thin, hooded villager who spends the day outside the tavern with his friend Pe
 ## Quests
 
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md)
+- [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md) (gives it)
 - [The Fourth Sister](https://curseofstrahd.app/wiki/quests/the-fourth-sister.md)
 - [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md)
 - [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md)

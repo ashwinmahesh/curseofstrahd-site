@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (Vallaki)
-> **Quests:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) and 12 more
+> **Quests:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md) and 15 more
 
 ## Overview
 
@@ -60,45 +60,47 @@ A palisade of sharpened logs rings the town. The Old Svalich Road comes in at th
 
 ## People
 
-- **[Festival Herald](https://curseofstrahd.app/wiki/people/festival-herald.md)**, Crier of the Baron's Festivals: Town square (#16)
-- **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, Watchman of Vallaki: East gate (#24)
-- **[Lockup Warden](https://curseofstrahd.app/wiki/people/lockup-warden.md)**, Keeper of the Baron's Lockup: Stockade and lockup (#28)
-- **[A Big Dog](https://curseofstrahd.app/wiki/people/a-big-dog.md)**, Of the Town Square: Town square (#42)
-- **[Old Sabin](https://curseofstrahd.app/wiki/people/old-sabin.md)**, Lantern-Maker of Vallaki: Market row, 08:00–18:00 (#45)
+- **[Festival Herald](https://curseofstrahd.app/wiki/people/festival-herald.md)**, Crier of the Baron's Festivals: Town square (#17)
+- **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, Watchman of Vallaki: East gate (#25)
+- **[Lockup Warden](https://curseofstrahd.app/wiki/people/lockup-warden.md)**, Keeper of the Baron's Lockup: Stockade and lockup (#29)
+- **[A Big Dog](https://curseofstrahd.app/wiki/people/a-big-dog.md)**, Of the Town Square: Town square (#43)
+- **[Old Sabin](https://curseofstrahd.app/wiki/people/old-sabin.md)**, Lantern-Maker of Vallaki: Market row, 08:00–18:00 (#46)
+- **[Emanoil](https://curseofstrahd.app/wiki/people/emanoil.md)**, A Clerk Who Would Be Bitten: Main street, 09:00–19:00 (#49)
 
-> [!note]- Who turns up at points in the story (24)
-> - **[Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md)**, Town square (#10, #17, #18, #22): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “baron”; or when festival climax and not festival over and vallaki pledge is “wachter”; or when festival climax and not festival over and vallaki pledge is “town”; or when vallaki backed is “baron” and day; or when baron fate is “stocks”
-> - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Town square (#11): when festival begun and not festival climax; or when festival climax and not festival over
-> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Town square (#12, #25): when festival begun and not festival climax and not izek dead and not izek told truth; or when festival climax and not festival over and vallaki pledge is “baron” and not izek dead and not izek told truth; or when vallaki backed is “baron” and day and not izek dead and not izek told truth; or when day and ireena with the party and not izek saw ireena and not festival begun and not izek dead and not izek told truth; or when day and not festival begun and not izek dead and not izek told truth
-> - **[Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md)**, Town square (#13, #10, #19, #23): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “wachter”; or when festival climax and not festival over and vallaki pledge is “baron”; or when festival climax and not festival over and vallaki pledge is “town”; or when wachter fate is “stocks”
-> - **[Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)**, Town square (#14, #20): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “town”
-> - **[Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md)**, Town square (#15, #21, #20): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “town”; or when vallaki backed is “neither” and day
-> - **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, East gate (#24): when not vallaki arrived; or when vallaki arrived and ireena with the party and not quest.sanctuary for ireena
-> - **[Milivoj](https://curseofstrahd.app/wiki/people/milivoj.md)**, St. Andral's churchyard (#26): when day and (not festival begun or festival over)
-> - **[Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md)**, Town square (#27): when day and (not festival begun or festival over)
-> - **[Jory Fenn](https://curseofstrahd.app/wiki/people/jory-fenn.md)**, Stockade and lockup (#29): when name ilse varga and not kestrel jory met; or when name ilse varga and kestrel jory met
-> - **[Goodwife Marta](https://curseofstrahd.app/wiki/people/goodwife-marta.md)**, Market row (#30): when not weather is storm
-> - **[Old Kolya](https://curseofstrahd.app/wiki/people/old-kolya.md)**, Lower town (#31): when not weather is storm
-> - **[Ignat the Lamplighter](https://curseofstrahd.app/wiki/people/ignat-the-lamplighter.md)**, Wachter lane (#32): when ilie fate isn't “lost”
-> - **[Anton the Cooper](https://curseofstrahd.app/wiki/people/anton-the-cooper.md)**, Town square (#33): when vallaki stocks grumbler
-> - **[Old Smaranda](https://curseofstrahd.app/wiki/people/old-smaranda.md)**, Market row (#34): when not weather is storm
-> - **[Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md)**, Market row (#35): when not weather is storm
-> - **[Matei](https://curseofstrahd.app/wiki/people/matei.md)**, Before the Blue Water Inn (#36): when not weather is storm
-> - **[Daciana](https://curseofstrahd.app/wiki/people/daciana.md)**, Main street, Town square (#37, #38): when dobre beaten and not ribbons resolved; or when not weather is storm and (not festival over or (quest.ribbons and not ribbons resolved))
-> - **[Haralamb](https://curseofstrahd.app/wiki/people/haralamb.md)**, Town square, East row (#39, #47): when not festival begun and not weather is storm; or when level ≥ 9
-> - **[Watchman Dobre](https://curseofstrahd.app/wiki/people/watchman-dobre.md)**, Main street (#40): when not dobre beaten
-> - **[Gheorghe](https://curseofstrahd.app/wiki/people/gheorghe.md)**, Main street (#41): when not weather is storm
-> - **[Catalina](https://curseofstrahd.app/wiki/people/catalina.md)**, Lower town (#43): when night and roses vigil and not ana met
-> - **[Pyotr Petrov](https://curseofstrahd.app/wiki/people/pyotr-petrov.md)**, Lower town (#44): when quest.black roses and not weather is storm
-> - **[Sandu](https://curseofstrahd.app/wiki/people/sandu.md)**, Market row (#46): when quest one lantern too many at home or quest one lantern too many at done
+> [!note]- Who turns up at points in the story (25)
+> - **[Dana](https://curseofstrahd.app/wiki/people/dana.md)**, Main street (#10): when quest silvius wedding cask at carrying
+> - **[Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md)**, Town square (#11, #18, #19, #23): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “baron”; or when festival climax and not festival over and vallaki pledge is “wachter”; or when festival climax and not festival over and vallaki pledge is “town”; or when vallaki backed is “baron” and day; or when baron fate is “stocks”
+> - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Town square (#12): when festival begun and not festival climax; or when festival climax and not festival over
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Town square (#13, #26): when festival begun and not festival climax and not izek dead and not izek told truth; or when festival climax and not festival over and vallaki pledge is “baron” and not izek dead and not izek told truth; or when vallaki backed is “baron” and day and not izek dead and not izek told truth; or when day and ireena with the party and not izek saw ireena and not festival begun and not izek dead and not izek told truth; or when day and not festival begun and not izek dead and not izek told truth
+> - **[Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md)**, Town square (#14, #11, #20, #24): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “wachter”; or when festival climax and not festival over and vallaki pledge is “baron”; or when festival climax and not festival over and vallaki pledge is “town”; or when wachter fate is “stocks”
+> - **[Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)**, Town square (#15, #21): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “town”
+> - **[Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md)**, Town square (#16, #22, #21): when festival begun and not festival climax; or when festival climax and not festival over and vallaki pledge is “town”; or when vallaki backed is “neither” and day
+> - **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, East gate (#25): when not vallaki arrived; or when vallaki arrived and ireena with the party and not quest.sanctuary for ireena
+> - **[Milivoj](https://curseofstrahd.app/wiki/people/milivoj.md)**, St. Andral's churchyard (#27): when day and (not festival begun or festival over)
+> - **[Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md)**, Town square (#28): when day and (not festival begun or festival over)
+> - **[Jory Fenn](https://curseofstrahd.app/wiki/people/jory-fenn.md)**, Stockade and lockup (#30): when name ilse varga and not kestrel jory met; or when name ilse varga and kestrel jory met
+> - **[Goodwife Marta](https://curseofstrahd.app/wiki/people/goodwife-marta.md)**, Market row (#31): when not weather is storm
+> - **[Old Kolya](https://curseofstrahd.app/wiki/people/old-kolya.md)**, Lower town (#32): when not weather is storm
+> - **[Ignat the Lamplighter](https://curseofstrahd.app/wiki/people/ignat-the-lamplighter.md)**, Wachter lane (#33): when ilie fate isn't “lost”
+> - **[Anton the Cooper](https://curseofstrahd.app/wiki/people/anton-the-cooper.md)**, Town square (#34): when vallaki stocks grumbler
+> - **[Old Smaranda](https://curseofstrahd.app/wiki/people/old-smaranda.md)**, Market row (#35): when not weather is storm
+> - **[Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md)**, Market row (#36): when not weather is storm
+> - **[Matei](https://curseofstrahd.app/wiki/people/matei.md)**, Before the Blue Water Inn (#37): when not weather is storm
+> - **[Daciana](https://curseofstrahd.app/wiki/people/daciana.md)**, Main street, Town square (#38, #39): when (dobre beaten or dobre arrested) and not ribbons resolved; or when not weather is storm and (not festival over or (quest.ribbons and not ribbons resolved))
+> - **[Haralamb](https://curseofstrahd.app/wiki/people/haralamb.md)**, Town square, East row (#40, #48): when not festival begun and not weather is storm; or when level ≥ 9
+> - **[Watchman Dobre](https://curseofstrahd.app/wiki/people/watchman-dobre.md)**, Main street (#41): when not dobre beaten and not dobre arrested
+> - **[Gheorghe](https://curseofstrahd.app/wiki/people/gheorghe.md)**, Main street (#42): when not weather is storm
+> - **[Catalina](https://curseofstrahd.app/wiki/people/catalina.md)**, Lower town (#44): when night and roses vigil and not ana met
+> - **[Pyotr Petrov](https://curseofstrahd.app/wiki/people/pyotr-petrov.md)**, Lower town (#45): when quest.black roses and not weather is storm
+> - **[Sandu](https://curseofstrahd.app/wiki/people/sandu.md)**, Market row (#47): when quest one lantern too many at home or quest one lantern too many at done
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 51 | a ring trodden into the mud by the stocks (hidden) | [Ring of Protection](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-protection) | Search: Perception DC 12 |
-| 52 | a sack under the hovel's step (hidden) | [Heward's Handy Haversack](https://curseofstrahd.app/wiki/items/magic-items.md#hewards-handy-haversack) | Search: Perception DC 14 |
-| 54 | Something under the bench (hidden) | [String](https://curseofstrahd.app/wiki/items/equipment.md#string) | Search: Perception DC 13 |
+| 53 | a ring trodden into the mud by the stocks (hidden) | [Ring of Protection](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-protection) | Search: Perception DC 12 |
+| 54 | a sack under the hovel's step (hidden) | [+1 Leather Armor](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1) | Search: Perception DC 14 |
+| 56 | Something under the bench (hidden) | [String](https://curseofstrahd.app/wiki/items/equipment.md#string) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 5 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -106,10 +108,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 48 | the festival dais | Performance 14 | Perform on the festival dais | 20 gp |
-| 49 | the Lake Gate | History 12 | Read the Lake Gate's carvings | lore: The founding of Vallaki |
-| 50 | Churchyard graves | Religion 13 | Read the epitaphs | lore: Saint Andral |
-| 53 | Old Smaranda's herb stall | Nature 15 | Pick the real herbs from the dross | Keoghtom's Ointment |
+| 50 | the festival dais | Performance 14 | Perform on the festival dais | 20 gp |
+| 51 | the Lake Gate | History 12 | Read the Lake Gate's carvings | lore: The founding of Vallaki |
+| 52 | Churchyard graves | Religion 13 | Read the epitaphs | lore: Saint Andral |
+| 55 | Old Smaranda's herb stall | Nature 15 | Pick the real herbs from the dross | Keoghtom's Ointment |
 
 ## Fights
 
@@ -190,8 +192,10 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 - [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md): Last winter Ignat the lamplighter's daughter Catalina was found smiling and white at the lake gate, and black roses came with a card. This…
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md): Ilse Varga's mercenary company marched into the mists a year ago at the invitation of someone who signed himself S. She was meant to march…
+- [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md): A Vallaki clerk who sleeps in a coffin writes long poems to the castle and wants to be chosen by the lord of the valley.
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
+- [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md): Old Silviu wants the last cask of the year Elvir was born carried to Vallaki for his daughter Dana's wedding.
 - [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md): Every festival week the children of Vallaki carry paper lanterns round the square for the Baron. Thirty-one children. Thirty-two lanterns.
 - [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md): Daciana gives out yellow festival ribbons in Vallaki's square and writes down everyone who won't wear one. It isn't her who wants to know.
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
@@ -203,6 +207,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md): Baron Vallakovich holds a festival every week to prove Vallaki is happy. This one, with its great wicker sun, will decide who rules the…
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md): Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md): The Baron wants a cake shaped like the sun for the festival, and his cook, who has made four hundred and thirteen round things, wants to…
 - [The Toymaker's Masterpiece](https://curseofstrahd.app/wiki/quests/the-toymakers-masterpiece.md): Gadof Blinsky, Vallaki's toymaker, has wanted all his life to see the clockwork jester his master's master made for the count's children.
 
 > [!quote]- Festival notice

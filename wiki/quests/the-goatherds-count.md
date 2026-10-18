@@ -78,9 +78,15 @@ Both endings pay the same: one potion and 25 gp. Only the approval and Erno's co
 
 > [!abstract]- Every skill check in its conversations
 > - Animal Handling DC 10: (Go and look at the old nanny goat.)
+> - Animal Handling DC 10: (Call them down with the old herding calls.)
+> - Athletics DC 10: (Run up the slope and herd them downhill.)
+> - Survival DC 10: (Find where they are getting through.)
+> - Investigation DC 10: (Work out which stones fell, and where they go.)
+> - Sleight of Hand DC 10: (Stuff the bell with Erno's scarf.)
+> - Animal Handling DC 12: (Talk the old nanny into the fold.)
 
 ## Related
 
 - **People:** [Goodwife Petra](https://curseofstrahd.app/wiki/people/goodwife-petra.md), [Erno](https://curseofstrahd.app/wiki/people/erno.md), [Snowdrop](https://curseofstrahd.app/wiki/people/snowdrop.md), [A Goat](https://curseofstrahd.app/wiki/people/a-goat-of-the-village-herd.md)
 - **Places:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), [The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md)
-- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md), [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md), [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
+- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)

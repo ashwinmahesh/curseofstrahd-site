@@ -66,8 +66,8 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 **What your companions think**
 
 - **Kip Smudgewick:** +2 you kept your word to Mad Mary and brought her message to Gertruda; +3 you took Gertruda out of Strahd's guest rooms; +1 you made Rahadin stand aside for Gertruda; -4 you sent Gertruda back up the stairs to Strahd; +2 you haggled Bildrath down; -1 you menaced a shopkeeper over his prices
-- **Godrick Pendlebrook:** +1 you kept your word to Mad Mary and brought her message to Gertruda; +3 you took Gertruda out of Strahd's guest rooms; +2 you made Rahadin stand aside for Gertruda; -5 you sent Gertruda back up the stairs to Strahd; -2 you lied to Bildrath about his strongbox; +2 you paid Bildrath back what was taken from him
-- **Liriel Dawnsong:** +2 you took Gertruda out of Strahd's guest rooms; -3 you sent Gertruda back up the stairs to Strahd; +1 you paid Bildrath back what was taken from him; +1 you told Mary that keeping her girl safe wasn't a crime; +1 you promised Mad Mary you'd look for her daughter; -1 you told Mad Mary you couldn't look for her daughter
+- **Godrick Pendlebrook:** +1 you kept your word to Mad Mary and brought her message to Gertruda; +3 you took Gertruda out of Strahd's guest rooms; +2 you made Rahadin stand aside for Gertruda; -5 you sent Gertruda back up the stairs to Strahd; +1 you saw what Bildrath writes beside the debts; -2 you lied to Bildrath about his strongbox
+- **Liriel Dawnsong:** +2 you took Gertruda out of Strahd's guest rooms; -3 you sent Gertruda back up the stairs to Strahd; +1 you saw what Bildrath writes beside the debts; +1 you paid Bildrath back what was taken from him; +1 you told Mary that keeping her girl safe wasn't a crime; +1 you promised Mad Mary you'd look for her daughter
 - **Thistle:** +2 you took Gertruda out of Strahd's guest rooms; +1 you made Rahadin stand aside for Gertruda; -3 you sent Gertruda back up the stairs to Strahd; +1 you threatened Bildrath and his nephew; +1 you promised Mad Mary you'd look for her daughter
 - **Wren Featherfoot:** +1 you took Gertruda out of Strahd's guest rooms; -3 you sent Gertruda back up the stairs to Strahd; +1 you haggled Bildrath down; +1 you lied to Bildrath about his strongbox
 - **Ratatouille:** +1 you took Gertruda out of Strahd's guest rooms; -2 you sent Gertruda back up the stairs to Strahd
@@ -114,6 +114,7 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 > - Intimidation DC 17: Look at us, Rahadin. You're one man.
 > - Persuasion DC 18: A loyal customer is worth more than one sale. (one try)
 > - Intimidation DC 18: Lower the prices. (one try)
+> - Insight DC 13: (Read his face while he talks about the accounts.)
 > - Deception DC 15: We've no idea what you're talking about. (If he doesn't believe you, you're thrown out.)
 > - Intimidation DC 14: Call your nephew off, or else. (If he doesn't back down, you're thrown out.)
 > - Insight DC 12: Is she as mad as the village says?
@@ -123,7 +124,7 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 
 - **People:** [Gertruda](https://curseofstrahd.app/wiki/people/gertruda.md), [Mad Mary](https://curseofstrahd.app/wiki/people/mad-mary.md), [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md), [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Parriwimple](https://curseofstrahd.app/wiki/people/parriwimple.md)
 - **Places:** [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md), [Mad Mary's House](https://curseofstrahd.app/wiki/locations/mad-marys-house.md), [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md)
-- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md), [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md), [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
+- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
 
 > [!example]- Cutscenes
 > **Gertruda Comes Home**: Gertruda back in her mother's arms in Mad Mary's house.

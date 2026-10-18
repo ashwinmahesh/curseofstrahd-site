@@ -21,4 +21,5 @@ A Vistani dancer with green paint on her face and her hair loose, practising on 
 
 ## Quests
 
+- [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md)
 - [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md) (gives it)

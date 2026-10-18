@@ -7,7 +7,7 @@
 > **Type:** Side quest
 > **Region:** Companions
 > **Starts at:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)
-> **Rewards:** [Stone of Good Luck (Luckstone)](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-good-luck-luckstone)
+> **Rewards:** [Periapt of Health](https://curseofstrahd.app/wiki/items/magic-items.md#periapt-of-health)
 
 ## Summary
 
@@ -54,7 +54,7 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Kip's
 
 ## Rewards
 
-- [Stone of Good Luck (Luckstone)](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-good-luck-luckstone)
+- [Periapt of Health](https://curseofstrahd.app/wiki/items/magic-items.md#periapt-of-health)
 
 **What your companions think**
 

@@ -8,6 +8,7 @@ Animals, the dead and plants who'll talk if you cast the right spell. With **Spe
 
 | Who and where | What they say and what it leads to |
 |---|---|
+| [A Goat](https://curseofstrahd.app/wiki/people/a-goat.md) in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) (The guests' hall) |  |
 | The ravens in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) (The ravens' roost) | shows where Ring of Evasion is hidden |
 | a crow on a barrel in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Village Edge) | shows where Boots of the Winterlands is hidden |
 | the mist behind you in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Svalich Woods) | moves [Into the Mists](https://curseofstrahd.app/wiki/quests/into-the-mists.md) |
@@ -30,6 +31,9 @@ Animals, the dead and plants who'll talk if you cast the right spell. With **Spe
 | [Erno](https://curseofstrahd.app/wiki/people/erno.md) in [The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md) | “Gran had a nanny called Snowdrop, when she was little. Great-grandad took her with him the night he went into the fog. Gran says she still…”; moves [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md); gives [Potion of Animal Friendship](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-animal-friendship) |
 | [A Goat](https://curseofstrahd.app/wiki/people/a-goat-of-the-village-herd.md) in [The High Pasture](https://curseofstrahd.app/wiki/locations/the-high-pasture.md) (The fold) | moves [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md) |
 | [A Goat](https://curseofstrahd.app/wiki/people/a-goat.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) (Back lanes) | shows where Javelin of Lightning (Javelin) is hidden |
+| [A Goat](https://curseofstrahd.app/wiki/people/a-goat.md) in [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md) (Shop floor) |  |
+| [A Goat](https://curseofstrahd.app/wiki/people/a-goat.md) in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Nave) |  |
+| [A Goat](https://curseofstrahd.app/wiki/people/a-goat.md) in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) (Death House lot) |  |
 | [A Raven](https://curseofstrahd.app/wiki/people/a-raven.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The winery yard) | moves [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md); shows where Ring of Feather Falling is hidden |
 | [A Raven](https://curseofstrahd.app/wiki/people/a-raven-of-the-wizard-of-wines.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The lane through the vines) | moves [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md); shows where Ring of Feather Falling is hidden |
 | [A Raven](https://curseofstrahd.app/wiki/people/a-raven-2.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The Martikovs' camp) | moves [The Third Stone](https://curseofstrahd.app/wiki/quests/the-third-stone.md); shows where Ring of Feather Falling is hidden |
@@ -59,4 +63,6 @@ Animals, the dead and plants who'll talk if you cast the right spell. With **Spe
 |---|---|
 | A kitchen garden in [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) (The mill yard) | shows where Broom of Flying is hidden |
 | A patch of purple flowers in [The Hills above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hills-above-lake-zarovich.md) | shows where Elixir of Health is hidden |
+| [Sprig](https://curseofstrahd.app/wiki/people/sprig.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The east vineyard) |  |
+| [Sprig](https://curseofstrahd.app/wiki/people/sprig.md) in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The winery yard) |  |
 | The last green row in [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) (The foot of the lane) | shows where Moon Sickle, +1 (Sickle) is hidden |

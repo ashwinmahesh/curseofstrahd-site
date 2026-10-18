@@ -99,9 +99,12 @@ You don't need any of them, though. Climbing to the top of the tower and looking
 
 - **People:** [Escher](https://curseofstrahd.app/wiki/people/escher.md), [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)
 - **Places:** [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md), [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md), [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md), [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md), [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md)
-- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
+- **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
 
 > [!example]- Cutscenes
+> **The Mirror Behind Him**: Escher's suite at the first meeting: Escher lounges in his armchair while the tall mirror behind him shows the same armchair empty (castle_ravenloft/spires_escher, ~ first).
+> ![escher mirror](https://curseofstrahd.app/wiki/img/cutscenes/escher-mirror.webp)
+>
 > **The Heart of Sorrow**: A heart of red crystal taller than a man beats at the top of the tower.
 > ![heart beats](https://curseofstrahd.app/wiki/img/cutscenes/heart-beats.webp)
 >

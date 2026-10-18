@@ -51,14 +51,15 @@ Wind, and nothing between you and the valley but a parapet. Slate roofs fall awa
 
 ## People
 
-> [!note]- Who turns up at points in the story (1)
-> - **[Escher](https://curseofstrahd.app/wiki/people/escher.md)**, The south tower roof (#3): when night and (quest escher petition at asked or quest escher petition at held)
+> [!note]- Who turns up at points in the story (2)
+> - **[Gogu](https://curseofstrahd.app/wiki/people/gogu.md)**, The keep roof (#3): when not gogu lowered
+> - **[Escher](https://curseofstrahd.app/wiki/people/escher.md)**, The south tower roof (#4): when night and (quest escher petition at asked or quest escher petition at held)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | a guardian that never moved | 60 gp | open it |
+| 5 | a guardian that never moved | 60 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft North Tower Peak (spires_hollow_guardian)
 
@@ -68,21 +69,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 5 | Ravens on the ridge | Acrobatics 14 | Walk the roof ridge | reveals spires_slick_slates; on a failure: 2d6 bludgeoning damage |
+| 6 | Ravens on the ridge | Acrobatics 14 | Walk the roof ridge | reveals spires_slick_slates; on a failure: 2d6 bludgeoning damage |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 6 | slick slates | 13 | 20 | DEX 14 | 3d6 bludgeoning |
+| 7 | slick slates | 13 | 20 | DEX 14 | 3d6 bludgeoning |
 
 ## Fights
 
 - *The carvings on the parapet turn their heads. Stone grinds on stone as wings unfold that were never meant to…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the north tower peak.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 11: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 100 HP) (7200 XP)
-> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 10: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 87 HP) (7200 XP)
-> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 77 HP) (7200 XP)
+> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 11: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 55 HP) (7200 XP; waiting)
+> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared and level ≥ 10: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 70 HP) (7200 XP; waiting)
+> - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not peak guardians cleared: 16 × Stone Guardian ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), 58 HP) (7200 XP; waiting)
 
 - *Querreth comes down onto the tower roof on red wings, and its chains come with it, full of grey shapes that…*, in [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md): [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts from a conversation. Part of [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)

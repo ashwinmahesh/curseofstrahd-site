@@ -89,12 +89,14 @@ There's one ending, **Vera Freed**. Dragos gives you 500 gp of the brides' dowri
 > [!abstract]- Every skill check in its conversations
 > - Animal Handling DC 14: (Get close enough to look at the ring.)
 > - Insight DC 13: (Look him in the eye.)
+> - Insight DC 12: (Watch where the best logs go.)
+> - Insight DC 12: (She prays a beat too long.)
 
 ## Related
 
 - **People:** [The Billy Goat](https://curseofstrahd.app/wiki/people/the-billy-goat.md), [Dragos](https://curseofstrahd.app/wiki/people/dragos.md), [Stefan the Woodcutter](https://curseofstrahd.app/wiki/people/stefan-the-woodcutter.md), [Goodwife Rodica](https://curseofstrahd.app/wiki/people/goodwife-rodica.md), [Goodwife Sanda](https://curseofstrahd.app/wiki/people/goodwife-sanda.md), [Dumitru](https://curseofstrahd.app/wiki/people/dumitru.md), [Stelian](https://curseofstrahd.app/wiki/people/stelian.md), [Cezar](https://curseofstrahd.app/wiki/people/cezar.md), [Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md), [Watchman Lazar](https://curseofstrahd.app/wiki/people/watchman-lazar.md), [A Goat](https://curseofstrahd.app/wiki/people/a-goat-of-the-pens.md), [A Goat](https://curseofstrahd.app/wiki/people/a-goat-2.md), [A Goat](https://curseofstrahd.app/wiki/people/a-goat-3.md)
 - **Places:** [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)
-- **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md), [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md)
+- **More in Krezk:** [Clovin's Audience](https://curseofstrahd.app/wiki/quests/clovins-audience.md), [Dumitru's Visitor](https://curseofstrahd.app/wiki/quests/dumitrus-visitor.md), [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md), [The Gate of Krezk](https://curseofstrahd.app/wiki/quests/the-gate-of-krezk.md), [The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md), [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md), [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md)
 
 > [!example]- Cutscenes
 > **A Goat, Then a Man**: In Krezk's goat pen the curse comes off Dragos like a wet coat and a bearded man kneels in the straw.

@@ -64,10 +64,10 @@ The hill rises out of the moor with almost nothing growing on it, as if the gras
 |---|---|---|---|
 | 6 | the wardens' hoard | [Berserker Greataxe](https://curseofstrahd.app/wiki/items/magic-items.md#berserker-axe), [Handaxe](https://curseofstrahd.app/wiki/items/equipment.md#handaxe) ×2, [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Hide Armor](https://curseofstrahd.app/wiki/items/equipment.md#hide-armor), 34 gp | open it |
 | 10 | something under the bone cairn (hidden) | [Bracers of Archery](https://curseofstrahd.app/wiki/items/magic-items.md#bracers-of-archery) | Search: Perception DC 15 |
-| 11 | a sword under the cage floor (hidden) | [Longsword of Life Stealing](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-life-stealing) | Search: Perception DC 15 |
+| 11 | a sword under the cage floor (hidden) | [Rapier of Life Stealing](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-life-stealing) | Search: Perception DC 15 |
 | 12 | a druid's cache in the gully (hidden) | [Wand of Paralysis](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-paralysis) | Search: Investigation DC 15 |
 | 13 | something tucked into a bedroll (hidden) | [Sickle](https://curseofstrahd.app/wiki/items/equipment.md#sickle) | Search: Perception DC 13 |
-| 14 | something in the barrow mound (hidden) | [Amulet of the Devout, +2](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-2) | Search: Perception DC 14 |
+| 14 | something in the barrow mound (hidden) | [Scale Mail of Necrotic Resistance](https://curseofstrahd.app/wiki/items/magic-items.md#armor-of-resistance-necrotic) | Search: Perception DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -75,7 +75,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 7 | Old grave mounds | History 14 | Read the barrow stones | finds Amulet of the Devout, +2; lore: The barrows of Yester Hill |
+| 7 | Old grave mounds | History 14 | Read the barrow stones | finds Scale Mail of Necrotic Resistance; lore: The barrows of Yester Hill |
 | 8 | the view east | Perception 13 | Look east from the hilltop | reveals wizard_of_wines:vine_sickle |
 | 9 | a cairn of bones | Medicine 14 | Examine the bones in the cairn | finds Bracers of Archery |
 

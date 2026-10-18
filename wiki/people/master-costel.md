@@ -26,4 +26,5 @@ A plump cloth merchant who has sold more yellow bunting this year than in the re
 
 ## Quests
 
+- [Old Silviu's Wedding Cask](https://curseofstrahd.app/wiki/quests/old-silvius-wedding-cask.md)
 - [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md)

@@ -63,7 +63,7 @@ The party's arrival in Barovia: out of the mists onto the Old Svalich Road, thro
 |---|---|---|---|
 | 7 | an abandoned cart | [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) ×3, [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, 2 gp | open it |
 | 11 | a gate guard's sword in the weeds (hidden) | [Longsword of Warning](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-of-warning) | Search: Perception DC 13 |
-| 12 | a loose board behind the shrine (hidden) | [Ring of Mind Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-mind-shielding) | Search: Investigation DC 12 |
+| 12 | a loose board behind the shrine (hidden) | [+1 Quarterstaff](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Investigation DC 12 |
 | 13 | a traveller's pack under the carcass (hidden) | [Boots of the Winterlands](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-the-winterlands) | Search: Perception DC 12 |
 | 14 | a traveller's pack in the ferns (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 12 |
 

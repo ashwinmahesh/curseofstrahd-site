@@ -71,10 +71,10 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 
 **What your companions think**
 
-- **Godrick Pendlebrook:** +1 you brought Steaua home to Radu; +1 you broke the castle's brand on a stolen horse
-- **Thistle:** +2 you brought Steaua home to Radu; +2 you gave Steaua to Luminita, who loved her best; +2 you broke the castle's brand on a stolen horse
-- **Liriel Dawnsong:** +1 you gave Steaua to Luminita, who loved her best; +1 you broke the castle's brand on a stolen horse
-- **Wren Featherfoot:** +1 you gave Steaua to Luminita, who loved her best
+- **Godrick Pendlebrook:** +1 you brought Steaua home to Radu; +1 you broke the castle's brand on a stolen horse; +1 you tricked the castle out of a mare with a play horse
+- **Thistle:** +2 you brought Steaua home to Radu; +2 you gave Steaua to Luminita, who loved her best; +2 you broke the castle's brand on a stolen horse; +2 you tricked the castle out of a mare with a play horse
+- **Liriel Dawnsong:** +1 you gave Steaua to Luminita, who loved her best; +1 you broke the castle's brand on a stolen horse; +1 you tricked the castle out of a mare with a play horse
+- **Wren Featherfoot:** +1 you gave Steaua to Luminita, who loved her best; +1 you tricked the castle out of a mare with a play horse
 
 ## Fights
 
@@ -117,9 +117,11 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 > - Persuasion DC 13: Why did you really sell her, Radu?
 > - Animal Handling DC 14: Calm her before anything else. (one try)
 > - Religion DC 15: (Press a holy symbol to the brand and pray.) (one try)
+> - Sleight of Hand DC 13: (Slip the cord from her halter onto the Winter Horse.)
+> - Stealth DC 13: (Wait in the ditch and switch them as the lamp comes up the road.)
 
 ## Related
 
 - **People:** [Radu](https://curseofstrahd.app/wiki/people/radu.md), [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md)
 - **Places:** [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)
-- **More in The Old Svalich Road:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md), [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md), [The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.md)
+- **More in The Old Svalich Road:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md), [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md)

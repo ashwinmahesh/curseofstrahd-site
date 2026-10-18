@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dark
 > **Getting here:** [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)
-> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md) and 1 more
+> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md), [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md), [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md) and 2 more
 
 ## Overview
 
@@ -96,6 +96,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 ## Quests and lore
 
 - [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md): Silvain Aster's colleague Aurel Mirescu went into the mists after a book written in a vampire's own hand, and wrote home exactly once: He…
+- [Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md): Exethanter, the last Warden of the Amber Temple, has forgotten what he was doing this morning. His notes have come unpinned.
 - [Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md): Exethanter, the forgetful lich of the Amber Temple, has lost his phylactery. He hid it very cleverly.
 - [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md): Exethanter has an old note pinned under all the others, in his own hand: DO NOT GO BELOW THE VAULT. YOU SEALED IT. YOU DO NOT REMEMBER WHY.…
 - [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md): High above the Tsolenka Pass, a temple of amber where dead powers talk and bargain, and where the lord of the valley once made his.

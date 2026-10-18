@@ -8,7 +8,7 @@
 > **Given by:** [Freydis](https://curseofstrahd.app/wiki/people/freydis.md)
 > **Starts at:** [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md)
 > **Only from level:** 7
-> **Rewards:** [Belt of Giant Strength (Stone Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-giant-strength-stone-giant), [Stone of Controlling Earth Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-controlling-earth-elementals), 400 gp
+> **Rewards:** [Dwarven Plate](https://curseofstrahd.app/wiki/items/magic-items.md#dwarven-plate), [Stone of Controlling Earth Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-controlling-earth-elementals), 400 gp
 
 ## Summary
 
@@ -63,7 +63,7 @@ Either one starts the quest at Asked and puts [The Ghakis Quarry](https://curseo
 
 ## Rewards
 
-- [Belt of Giant Strength (Stone Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-giant-strength-stone-giant)
+- [Dwarven Plate](https://curseofstrahd.app/wiki/items/magic-items.md#dwarven-plate)
 - [Stone of Controlling Earth Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-controlling-earth-elementals)
 - 400 gp
 

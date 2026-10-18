@@ -17,3 +17,7 @@ One of the castle's watch, dead since the night of the wedding, who walks the co
 ## Where to find them
 
 - [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), The front courtyard, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)

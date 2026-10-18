@@ -17,3 +17,7 @@ A hunter of the dead from beyond the mists who came up the road ninety years ago
 ## Where to find them
 
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), The trophy room, walking a round
+
+## Quests
+
+- [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md)
