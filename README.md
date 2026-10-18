@@ -17,6 +17,7 @@ browsers.)
 | Path | What it is |
 |---|---|
 | `index.html` | The page. The gallery and the credits are filled in by `tools/build.py`. |
+| `privacy/index.html`, `css/privacy.css` | iPhone/iPad privacy policy at `/privacy/`; standalone, responsive, and readable without JavaScript or external fonts. |
 | `css/site.css`, `js/site.js` | The look (the game's crimson, black and gold) and the small interactions. |
 | `media/shots/`, `media/thumbs/` | Screenshots at 1920 wide and 640 wide thumbnails (WebP). |
 | `media/companions/` | The six companions' dialogue busts from the game. |
@@ -77,3 +78,20 @@ the domain; `.nojekyll` serves the files as they are). Pushing to `main` publish
 Cloudflare R2 at https://downloads.curseofstrahd.app, published by the game repo's `release.yml`; the vault note
 *Website Handoff* has the release routine (`tools/switch_release.py`, `tools/publish_latest.sh`) and the web wiki's
 (`tools/build_wiki.py`, `tools/wiki_check.py`).
+
+## Privacy policy maintenance
+
+The canonical policy URL is `https://curseofstrahd.app/privacy/`. It covers local game data, optional save/report
+sharing, Apple and TestFlight diagnostics, website hosting, retention and deletion. The home, trailer, releases
+and wiki landing pages link to it; the wiki generator includes it in newly rendered pages. `tools/build.py` keeps
+its shared stylesheet URL current. Check the policy against the game's implementation when data practices change,
+and update its effective date and sitemap entry. Do not describe TestFlight as collecting no data.
+
+The October 17 policy was checked against the iOS branch's `core/save_system.gd`, `core/error_watch.gd`,
+`core/save_transfer.gd`, `ui/common/mobile_native.gd` and `tools/native_ios/strahd_ios.mm` at game commit
+`1d88d21f3eb935cd89d15ac54a629d1188f60d71`, plus the site's hosting and font requests. Public contact uses the same
+GitHub issue tracker as the app's support listing, with an explicit warning against posting personal data.
+
+After deployment, verify this URL returns the policy before assigning it in App Store Connect. Apple's
+[review guidelines, section 5.1.1](https://developer.apple.com/app-store/review/guidelines/#data-collection-and-storage)
+also require access to the policy inside the app; publishing this website page alone does not satisfy that step.
