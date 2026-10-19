@@ -2,6 +2,11 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/spells/level-1-spells.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
+## Absorb Elements
+*Level 1 abjuration* · reaction · self · S · rounds 1 · Druid, Ranger, Sorcerer, Wizard
+
+Reaction, taken when you take acid, cold, fire, lightning or thunder damage. The spell captures some of the incoming energy and lessens its effect on you, storing it for your next melee attack. You have Resistance to that damage type until the start of your next turn, which includes the damage that triggered it. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends. Using a Higher-Level Spell Slot: the extra damage increases by 1d6 for each slot level above 1.
+
 ## Alarm
 *Level 1 abjuration (ritual)* · 1 minute · 30 ft · VS M · hours 8 · Ranger, Wizard
 

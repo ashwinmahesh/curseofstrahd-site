@@ -4,9 +4,9 @@
 
 There are four modes, modelled on Baldur's Gate 3. You pick one on the New game page, after choosing the party.
 
-- **Story** is for playing the tale. Foes have less health and spread their blows around, your heroes get +2 to attacks and saves, a Long Rest is never interrupted, and nobody dies for good.
-- **Balanced** is the 2024 rules as written. Monsters fight from their stat blocks. Saves from before the modes existed load as Balanced.
-- **Tactician** is for a hard fight. Foes are tougher and get +2 to hit and to their DCs. They gang up on whoever is hurt, go for your healers and casters, drink potions when Bloodied and run when their side breaks.
+- **Story** is for playing the tale. Foes have less health and spread their blows around, bosses deal the book's damage, your heroes get +2 to attacks and saves, a Long Rest is never interrupted, and nobody dies for good.
+- **Balanced** is the 2024 rules as written, except that bosses hit 25% harder (a "Boss: +N damage" line in the log shows it). Monsters fight from their stat blocks, and spread their Multiattack strikes and Legendary Actions over the party unless they have a reason to focus (a hero they could finish, one under a quarter of their Hit Points, a concentrating caster). Saves from before the modes existed load as Balanced.
+- **Tactician** is for a hard fight. Foes are tougher, get +2 to hit and to their DCs, and bosses hit 25% harder, as on Balanced. They gang up on whoever is hurt, go for your healers and casters, drink potions when Bloodied and run when their side breaks.
 - **Honour** is Tactician without mercy. Bosses keep their full strength even against a low-level party, cruel foes strike heroes who are down, and the whole playthrough has one save.
 
 #### Changing mode

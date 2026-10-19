@@ -12,7 +12,7 @@
 
 ## About
 
-A red dragon who came through the mists forty years ago after a dead silver dragon's hoard and found the count waiting for her. She lies chained by the neck on that hoard in a cavern under Mount Ghakis, her wings riveted shut, starved on salted goat and the count's tithes.
+An ancient red dragon who came through the mists forty years ago after a dead silver dragon's hoard and found the count waiting for her. She lies chained by the neck on that hoard in a cavern under Mount Ghakis, her wings riveted shut, starved on salted goat and the count's tithes.
 
 ## Where to find them
 

@@ -144,6 +144,11 @@ A Reaction spell (Shield, Hellish Rebuke, Feather Fall, Backlash, Moment of Pres
 
 *Why:* The 2024 limit counts every slot spent on a turn; the owner rules that Reactions don't count towards it (Ratatouille wasn't asked about Shield against an Opportunity Attack after casting a level 3 spell earlier in his turn)
 
+### Eldritch Blast as a War Caster Reaction (Ashwin's ruling, 2026-10-19)
+Cast with the Reaction in place of an Opportunity Attack (War Caster's Reactive Spell), Eldritch Blast sends one beam whatever the Warlock's level; Agonizing Blast, Repelling Blast, Grasp of Hadar and the other invocations still apply to that beam. The prompt names the one beam when it is offered and the log says what it gave up and why. Cast as an action it keeps every beam, and so does one readied and released (the action was spent readying it)
+
+*Why:* The 2024 Reactive Spell asks for a spell with a casting time of an action that "must target only that creature", and every beam of Eldritch Blast may be aimed at one creature, so by the book a level 17 Warlock fires four beams at a foe leaving reach. The owner rules that a Reaction is one attack like the Opportunity Attack it replaces, so one beam (combat/spell_specials.gd REACTION_BEAMS)
+
 ### Study DC
 10 + the monster's CR
 
@@ -415,9 +420,14 @@ An area laid on the ground reaches as high as its size (a sphere's radius, a cub
 *Why:* The grid has no vertical aiming; this keeps a Fireball on the ground from catching a creature 30 ft up
 
 ### Lines on the grid
-A Line from a creature (Lightning Bolt, Gust of Wind, Sunbeam, a Breath Weapon line, a monster's line) is aimed at any angle and runs straight out from the middle of its space, starting where it leaves it (a corner when aimed diagonally); a square is in it when at least half of it is, the DMG's grid rule. Pointed within 2° of a row, column or diagonal it lies exactly along it, and straight down a row or column a line whose width doesn't match the space's (a 10-ft Gust of Wind from a Medium caster) starts half a square aside, so it takes whole squares as wide as it is. Cones and cubes still point along the nearest of the eight grid directions
+A Line from a creature (Lightning Bolt, Gust of Wind, Sunbeam, a Breath Weapon line, a monster's line) is aimed at any angle and runs straight out from the middle of its space, starting where it leaves it (a corner when aimed diagonally); a square is in it when at least half of it is, the DMG's grid rule. Pointed within 2° of a row, column or diagonal it lies exactly along it, and straight down a row or column a line whose width doesn't match the space's (a 10-ft Gust of Wind from a Medium caster) starts half a square aside, so it takes whole squares as wide as it is. Cones and cubes from a creature turn the same way (next row)
 
 *Why:* The DMG puts an area's point of origin on a grid intersection, which makes a 5-ft line straight down a row cover half of two rows and so take both (10 ft wide); starting from the creature's middle keeps a line as wide as its text
+
+### Cones and cubes on the grid
+A Cone from the player's creature (Burning Hands, Cone of Cold, a Breath Weapon cone) and a Cube from the caster (Thunderwave) are aimed at any angle; a cone starts where the aim leaves the creature's space (the middle of its facing edge straight out, its corner diagonally), a cube's back face half a square out from the caster's middle. A square is in a cone when at least a quarter of it is inside the cone's triangle, and in a cube when its middle is. Pointed within 2° of a row, column or diagonal they lie exactly along it. Foes' cones point straight at their target the same way (owner, 2026-10-18: "Opponents can free aim too"); the test autopilot's still take the nearest of the eight directions, as the fights were tuned with
+
+*Why:* The DMG's half-a-square rule leaves a 15-ft cone straight out as 1, 1 and 3 squares, narrower than it is long; a quarter gives the even 1, 3, 3 wedge the cones were tuned with, and takes the squares a cone really reaches at any other angle
 
 ### Falling into deep water
 Halved with a Reaction and a DC 15 Strength (Athletics) or Dexterity (Acrobatics) check (2024), then the creature swims to the nearest open square
@@ -1014,10 +1024,10 @@ The tome isn't an object that can be attacked (the prison holds until the save o
 
 *Why:* Carried objects with Hit Points and a Reaction that teleports aren't built
 
-### Counterspell cast by foes
-A foe the AI plays (its Spellcasting, a Reaction that casts it such as the mage's Protective Magic, an enemy wizard's slot) counters a levelled spell a hero or guest casts within 60 ft in its sight; cantrips are let through. The caster's Constitution save is rolled at once, with no pause for Reactions to it. Guests the player runs don't counter foes' spells
+### Counterspell cast by foes, and the chain of Counterspells
+A foe the AI plays (its Spellcasting, a Reaction that casts it such as the mage's Protective Magic, an enemy wizard's slot) counters a levelled spell a hero or guest casts within 60 ft in its sight; cantrips are let through. A hero or guest who sees that foe within 60 ft and can still react (a Reaction, Counterspell and a slot or a free casting) is then asked whether to Counterspell it back, on the usual Reaction prompt (it says each side's save and the odds; the slot is a pick when there are several ways to pay, and Automatic still asks then; the Reactions tab has a Counterspell rule), and the foes answer that Counterspell the same way, and so on until no one answers. The chain resolves from the last Counterspell back (combat/spell_counters.gd): the creature each one targets makes a Constitution save against its caster's DC; on a failure what it was casting dissipates (a Counterspell fizzles, so the one before it stands; the spell is lost with its action spent and its slot kept). A Counterspell spends its Reaction when cast and its slot only if it isn't countered itself. The chain's saves are rolled at once, with no pause for Reactions to them. Heroes and guests don't Counterspell a foe's own spells, only a Counterspell aimed at their side's casting
 
-*Why:* The rules leave whether to counter to the caster: a Reaction (and the mage's three uses a day) is worth more than a cantrip. Asking the player would mean pausing a cast part way through
+*Why:* The rules leave whether to counter to the caster: a Reaction (and the mage's three uses a day) is worth more than a cantrip. A foe's own casting resolves at once, so a hero's Counterspell of it would have to pause it part way through
 
 ### Banshee's Deathly Wail
 Works in sunlight too
@@ -1128,6 +1138,11 @@ Two 2014-rules cantrips from Tasha's Cauldron of Everything in a 2024 game, on t
 Two 2014-rules spells from Xanathar's Guide to Everything in a 2024 game, on the Sorcerer, Warlock and Wizard lists (the book gives them to no subclass list). Thunder Step (3rd level, 90 ft): the boom is laid round the space the caster leaves like any other area, so a solid wall between stops it; the creature brought along must be willing (on the caster's side and able to act), your size or smaller and within 5 ft, picked on a second click or with the next-target key (Enter: go alone), and what it carries is not weighed against its carrying capacity; one left behind for want of room beside the landing is caught in the boom. Far Step (5th level, Bonus Action, Concentration up to 1 minute): the later teleports are a hotbar action while the spell lasts; each is a Bonus Action, and a teleport that can't happen (Dimensional Shackles, a Forcecage) still spends it. Both cast at the pact level for a Warlock (Pact Magic casts at its highest slot, 2026-10-13). Players only: no enemy casts them
 
 *Why:* The owner asked for them (2026-10-15); no 2024 book reprints them
+
+### Absorb Elements
+A 2014-rules spell from Xanathar's Guide to Everything in a 2024 game, on the Druid, Ranger, Sorcerer and Wizard lists (no Artificer). The book's "first time you hit with a melee attack on your next turn" counts a weapon attack, an Unarmed Strike and a melee spell attack (Shocking Grasp); a miss, a ranged attack and an Opportunity Attack on someone else's turn don't use it, and a charge nobody used ends with that turn. When several types land in one blow it answers the biggest one it doesn't already resist (the book lets the caster name any of its five). Against an attack a hero is asked; a hero on Automatic is asked too when there are several ways to cast it (a slot level or a free casting), as for Hellish Rebuke; against spells and hazards, which can't wait for an answer, it is cast only on Automatic, at the lowest casting (a free casting first unless it waits for the pact slots). Players only: no enemy casts it, and the AI has no rule for when a foe's slot is worth it
+
+*Why:* The owner asked for it (2026-10-18); no 2024 book reprints it
 
 ### Echo Knight (Explorer's Guide to Wildemount, 2014) fitted to the 2024 Fighter
 Feature levels stay 3, 7, 10, 15 and 18 (the 2024 subclass levels). Every attack of the Attack action can come from the echo, including Extra Attack, the Nick attack (part of the Attack action in 2024), Haste's one attack and Unleash Incarnation's; Weapon Mastery works from the echo's square (Push shoves away from the echo, Cleave and reach count from it), and the Bonus Action Light-weapon attack, Grapple and Shove stay with the knight. The echo's Opportunity Attack uses the 2024 trigger (a creature leaving its 5-ft reach) and Disengage stops it. Echo Avatar is a Magic action (2014: an action). Shadow Martyr can also be used again by spending a use of Unleash Incarnation

@@ -4,42 +4,42 @@
 
 > [!infobox]
 > ![draconic spirit](https://curseofstrahd.app/wiki/img/portraits/draconic-spirit.webp)
-> **Type:** Huge dragon
+> **Type:** Gargantuan dragon
 > **Alignment:** chaotic evil
-> **Challenge:** 13 (10000 XP)
-> **Armor Class:** 18
-> **Hit Points:** 200 (16d12+96)
-> **Speed:** 20 ft
+> **Challenge:** 24 (62000 XP)
+> **Armor Class:** 22
+> **Hit Points:** 507 (26d20+234)
+> **Speed:** 40 ft, climb 40 ft, fly 80 ft
 
 ## Stat block
 
-A red dragon who came through the mists forty years ago after a dead silver dragon's gold, and found the count waiting. Chained by the neck in a cavern under Mount Ghakis, wings riveted shut, kept starving on a heap of treasure, she has had forty years to grow hungry and patient and very angry. Her claws are hot as coals and her breath still fills a cave.
+An ancient red dragon who came through the mists forty years ago after a dead silver dragon's gold, and found the count waiting. Chained by the neck in a cavern under Mount Ghakis, wings riveted shut, kept starving on a heap of treasure, she has had forty years to grow hungry and patient and very angry. Her claws are hot as coals and her breath fills the cave.
 
 | AC | HP | Speed | CR | XP |
 |---|---|---|---|---|
-| 18 | 200 (16d12+96) | 20 ft | 13 | 10000 |
+| 22 | 507 (26d20+234) | 40 ft, climb 40 ft, fly 80 ft | 24 | 62000 |
 
 | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|
-| 25 (+7) | 10 (+0) | 23 (+6) | 16 (+3) | 13 (+1) | 19 (+4) |
+| 30 (+10) | 10 (+0) | 29 (+9) | 18 (+4) | 15 (+2) | 27 (+8) |
 
-- **Saving throws:** DEX +5, CON +11, WIS +6, CHA +9
-- **Skills:** Perception +11, Stealth +5
+- **Saving throws:** DEX +7, WIS +9
+- **Skills:** Perception +16, Stealth +7
 - **Immune:** fire
-- **Senses:** blindsight 60 ft, darkvision 120 ft; passive Perception 21
+- **Senses:** blindsight 60 ft, darkvision 120 ft; passive Perception 26
 - **Languages:** Common, Draconic
 
 ### Traits
 
-- **Legendary Resistance (3/Day).** When Sarkhaza fails a saving throw, she can choose to succeed instead, three times a day.
-- **Chained.** A collar of black iron sits at the base of Sarkhaza's neck, and its chain runs back into the rock to the count's anchor. It lets her drag herself about her cavern, slowly; her Speed is 20 feet.
-- **Wings Bound.** Iron bands riveted through the bone hold Sarkhaza's wings folded against her back. She has no Fly Speed.
+- **Legendary Resistance (4/Day, or 5/Day in Lair).** If Sarkhaza fails a saving throw, she can choose to succeed instead. She can do this four times a day, or five times while she's in her lair.
+- **Wings Bound.** Forty years ago the count drove iron rivets through the bones of Sarkhaza's wings, and the bone has grown round them. Her wings stay folded against her back: she has no Fly Speed.
 
 ### Actions
 
-- **Multiattack.** Sarkhaza makes two Rend attacks.
-- **Rend.** Melee Attack Roll: +12, reach 10 ft. Hit: 16 (2d8 + 7) Slashing damage plus 3 (1d6) Fire damage.
-- **Fire Breath.** Dexterity Saving Throw: DC 17, each creature in a 60-foot Cone. Failure: 38 (11d6) Fire damage. Success: Half damage. Forty years of hunger have thinned it; it is still a red dragon's fire.
+- **Multiattack.** Sarkhaza makes three Rend attacks. She can replace one attack with a use of Spellcasting to cast Scorching Ray (level 3 version).
+- **Rend.** Melee Attack Roll: +17, reach 15 ft. Hit: 19 (2d8 + 10) Slashing damage plus 10 (3d6) Fire damage.
+- **Fire Breath.** Dexterity Saving Throw: DC 24, each creature in a 90-foot Cone. Failure: 91 (26d6) Fire damage. Success: Half damage.
+- **Spellcasting.** Sarkhaza casts one of the following spells, requiring no Material components and using Charisma as the spellcasting ability (spell save DC 23, +15 to hit with spell attacks). At will: Command (level 2 version), Detect Magic, Scorching Ray (level 3 version). 1/Day Each: Fireball (level 6 version), Scrying.
 
 ### Lair actions
 

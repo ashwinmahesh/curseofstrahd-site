@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/items/spell-scrolls.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every one of the game's 389 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 13 lie somewhere in the world. Of the rest, 259 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
+Every one of the game's 390 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 13 lie somewhere in the world. Of the rest, 260 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
 
 ## Reading a scroll
 
@@ -108,10 +108,11 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 
 ## Level 1 scrolls
 
-63 spells. Common, 50 gp at the guide price, save DC 13, attack +5. A scroll of a random level 1 spell can also come from a fight's spoils (party level 1–2), a road meeting's (party level 1–5) or the level 1 scrolls of a random spell above.
+64 spells. Common, 50 gp at the guide price, save DC 13, attack +5. A scroll of a random level 1 spell can also come from a fight's spoils (party level 1–2), a road meeting's (party level 1–5) or the level 1 scrolls of a random spell above.
 
 | Spell | Read by | Sold by | Found |
 |---|---|---|---|
+| [Absorb Elements](https://curseofstrahd.app/wiki/spells/level-1-spells.md#absorb-elements) | Druid, Ranger, Sorcerer, Wizard | — | random finds only |
 | [Alarm](https://curseofstrahd.app/wiki/spells/level-1-spells.md#alarm) | Ranger, Wizard | — | random finds only |
 | [Animal Friendship](https://curseofstrahd.app/wiki/spells/level-1-spells.md#animal-friendship) | Bard, Druid, Ranger | — | random finds only |
 | [Armor of Agathys](https://curseofstrahd.app/wiki/spells/level-1-spells.md#armor-of-agathys) | Warlock | — | random finds only |

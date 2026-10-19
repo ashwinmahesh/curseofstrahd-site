@@ -23,7 +23,7 @@ There are two ways to start this one, both in [The Tsolenka Guard Tower](https:/
 - **[Sergeant Dorin Valcu](https://curseofstrahd.app/wiki/people/sergeant-dorin-valcu.md)** of the dead watch. Ask him "Heard anything interesting?" once to start [The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md), then ask again (or "Anything to report, sergeant?" once you've passed the watch). He reads the next entry in his log: forty years of smoke on the north shoulder of Mount Ghakis, where nobody lives; snow that melts there in midwinter; and a black cart going up the goat path every new moon with a cage on the back, coming down empty. There were faces in the cage three nights ago.
 - **The watch log** on the desk in the captain's room, east of the guardroom. An entry that comes round every month for forty years tells you the same news: the smoke, the melting snow, and the count's cart going up with a cage and down with it empty. It works whether or not the watch is still at its posts, so it's the way in if you released or fought them before asking the sergeant twice.
 
-Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) on your travel map, 2 hours from the Tsolenka Pass by the goat path round the gorge. It's pitched at about level 10, and the dragon at the bottom is a hard fight unless you use the keepers' tricks.
+Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) on your travel map, 2 hours from the Tsolenka Pass by the goat path round the gorge. The way down is pitched at about level 10, but the dragon at the bottom is an ancient red built for a level 11 party, and a very hard fight even with all the keepers' tricks.
 
 ### Step by step
 
@@ -52,7 +52,7 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
 
 5. **The keepers' three tricks.** Each one makes the last fight easier, and you can use all three.
    - **Salt her meat.** In the larder, Sleight of Hand DC 14 to work grave-salt into a carcass and drag it along (one try). On a miss you over-salt it, and she'll smell it and refuse it.
-   - **Haul her chain in.** In the anchor room, Athletics DC 17 on the capstan (one try). On a miss she rips the chain back out and laughs at you.
+   - **Haul her chain in.** In the anchor room, Athletics DC 17 on the capstan (one try). On a pass she's caught unready and starts the fight surprised. On a miss she rips the chain back out and laughs at you.
    - **Open the sluice.** In the vent gallery, heave the sluice gate up (no roll, ten minutes). Snowmelt floods the cracks, so her cavern can't take lair actions against you. But the gallery is guarded: stepping into it brings out the Vent-Fire ([Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md) at 150 hit points), three Keepers ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) and two Burnt Keepers ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), the keepers who forgot the sluice. The elemental sets you burning just by being near you, and the flameskulls are immune to fire and shrug off spells, so use the potions of fire resistance you've been collecting. You have to cross this gallery to reach the dragon anyway.
 
 6. **Sarkhaza.** In the cavern beyond the vent gallery, a red dragon the size of a barn lies on a slope of gold, chained by the neck with her wings riveted shut. She speaks as you come near.
@@ -66,13 +66,12 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
    - **"(Pull the pin from her collar.)"** She thanks you, and comes for you with nothing holding her back (Godrick -3, Liriel -3, Thistle -2, Wren -2, Ratatouille -1).
    - **"(Draw your weapons.)"**
 
-7. **The fight.** [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) is CR 13 (10,000 XP), AC 18, immune to fire, and can only crawl (speed 20, no flying). She has two burning rends with reach, Fire Breath (a 60-foot cone, Dexterity DC 17, 11d6 fire), and Legendary Resistance three times a day. How hard she is depends on your tricks:
-   - Chained, with nothing done: 200 hit points, and if the sluice is shut, two [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)s fight beside her.
-   - Fed the salted carcass: 155.
-   - Chain hauled in: 170, and she starts the fight surprised, choking on her collar.
-   - Salted and hauled: 125, and surprised. With the sluice open it's 165 and six wights, still surprised.
-   - Unchained: 212 with the sluice open, 375 with it shut, or 195 if you'd fed her the salted carcass first.
-   - With the sluice open she gets no lair actions, whatever else you've done.
+7. **The fight.** [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) is an ancient red dragon: CR 24 (62,000 XP), 507 hit points, AC 22, Gargantuan and immune to fire, with Legendary Resistance four times a day (five in her lair). Her riveted wings keep her out of the air. Each turn she makes three Rends with 15-foot reach, and she has Fire Breath (a 90-foot cone, Dexterity DC 24, 26d6 fire, back on a 5 or 6), Command and Scorching Ray at will, one Fireball, and three legendary actions a round (four in her lair). The keepers' tricks each take something away:
+   - **Chained** (unless you pulled the pin): she can only crawl, at Speed 20, and can't climb.
+   - **Grave-salted** (she ate a well-salted carcass): she's Slowed (half Speed, -2 to AC and Dexterity saves, no Reactions, an action or a Bonus Action but not both), makes one Rend a turn and takes one legendary action a round.
+   - **Chain hauled in:** she starts the fight surprised.
+   - **Sluice open:** her cavern is drowned, so there are no lair actions, and she has three legendary actions and four Legendary Resistances, not four and five.
+   - Nothing else fights beside her. Her first Fire Breath can take a whole level 11 party.
 
    Spread out against the breath, drink the fire resistance potions, and hit her with the Dragon Slayer. Winning moves the quest to Slain.
 
@@ -107,20 +106,20 @@ Either way the quest starts at Rumored and puts [The North Shoulder of Ghakis](h
 
 ## Fights
 
-- *The collar falls off onto the gold. Sarkhaza rises, all of her, and the cavern is too small for her, and she…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level.
+- *The collar falls off onto the gold. Sarkhaza rises, all of her, and the cavern is too small for her, and she…*, in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (195 HP) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (212 HP) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (375 HP) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (165 HP), 6 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (14200 XP; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (125 HP) (10000 XP; lair; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (155 HP) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (155 HP) (10000 XP; lair)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (170 HP) (10000 XP; lair; surprise: enemies)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (10000 XP)
-> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md), 2 × [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (11400 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when wyrm unchained and not wyrm salted and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and wyrm salted and not wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and wyrm chain drawn and not ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair; surprise: enemies)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**, when not wyrm unchained and not wyrm salted and not wyrm chain drawn and ghakis sluice open: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP)
+> - **[Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md)**: [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) (62000 XP; lair)
 
 ## Journal
 
