@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Quests:** [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md), [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md) and 2 more
+> **Quests:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md) and 4 more
 
 ## Overview
 
@@ -56,27 +56,28 @@ Wagons in a ring around a fire, horses on a line, the lake at the camp's back wi
 - **[Arrigal](https://curseofstrahd.app/wiki/people/arrigal.md)**, Vistana of the Lakeside Camp: Arrigal's wagon (#3)
 - **[Luvash](https://curseofstrahd.app/wiki/people/luvash.md)**, Headman of the Lakeside Camp: Luvash's wagon (#4)
 - **[Vistana](https://curseofstrahd.app/wiki/people/vistana.md)**, Of Arrigal's Camp: Campfire (#5)
-- **[Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md)**, Trader of the painted wagon: Lakeshore (#9)
-- **[Stoica](https://curseofstrahd.app/wiki/people/stoica.md)**, Fisherman of the Lake Camp: Lakeshore, 06:00–17:00 (#10)
-- **[Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md)**, Cook of the Lake Camp: Campfire, 07:00–21:00 (#11)
-- **[Gavril](https://curseofstrahd.app/wiki/people/gavril.md)**, Horse-Keeper of the Lake Camp: Camp edge, 07:00–18:00 (#12)
-- **[Mihnea](https://curseofstrahd.app/wiki/people/mihnea.md)**, Lookout of the Lake Camp: Camp edge (#13)
-- **[A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog.md)**, Of the Vistani: Campfire (#14)
+- **[Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md)**, Trader of the painted wagon: Lakeshore (#10)
+- **[Stoica](https://curseofstrahd.app/wiki/people/stoica.md)**, Fisherman of the Lake Camp: Lakeshore, 06:00–17:00 (#11)
+- **[Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md)**, Cook of the Lake Camp: Campfire, 07:00–21:00 (#12)
+- **[Gavril](https://curseofstrahd.app/wiki/people/gavril.md)**, Horse-Keeper of the Lake Camp: Camp edge, 07:00–18:00 (#13)
+- **[Mihnea](https://curseofstrahd.app/wiki/people/mihnea.md)**, Lookout of the Lake Camp: Camp edge (#14)
+- **[A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog.md)**, Of the Vistani: Campfire (#15)
 
-> [!note]- Who turns up at points in the story (3)
+> [!note]- Who turns up at points in the story (4)
 > - **[Arabelle](https://curseofstrahd.app/wiki/people/arabelle.md)**, Luvash's wagon (#6): when arabelle rescued and not arabelle with the party
-> - **[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)**, Camp edge (#7): when not kasimir velikov with the party
-> - **[Bluto Krogarov](https://curseofstrahd.app/wiki/people/bluto-krogarov.md)**, Lakeshore (#8): when quest missing arabelle at clue or (quest missing arabelle at asked and arabelle tracks found)
+> - **[Nelu](https://curseofstrahd.app/wiki/people/nelu.md)**, Campfire (#7): when (quest called by name at nelu found or quest called by name at no fire) and (tser pool brawl won or vistani turned hostile)
+> - **[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)**, Camp edge (#8): when not kasimir velikov with the party
+> - **[Bluto Krogarov](https://curseofstrahd.app/wiki/people/bluto-krogarov.md)**, Lakeshore (#9): when quest missing arabelle at clue or (quest missing arabelle at asked and arabelle tracks found)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 15 | Arrigal's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | lock DC 18; Arrigal's, so taking is theft |
-| 16 | a sack under the brambles | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, [Net](https://curseofstrahd.app/wiki/items/equipment.md#net) | open it |
-| 17 | Luvash's chest | empty | locked, with nothing to pick; opened for you when arabelle rescued or arabelle lost; Luvash's, so taking is theft |
-| 19 | a hidden drawer under Arrigal's wagon (hidden) | [Dagger of Venom (Dagger)](https://curseofstrahd.app/wiki/items/magic-items.md#dagger-of-venom) | Search: Investigation DC 16 |
-| 20 | something washed up in the reeds (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 13 |
+| 16 | Arrigal's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | lock DC 18; Arrigal's, so taking is theft |
+| 17 | a sack under the brambles | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, [Net](https://curseofstrahd.app/wiki/items/equipment.md#net) | open it |
+| 18 | Luvash's chest | empty | locked, with nothing to pick; opened for you when arabelle rescued or arabelle lost; Luvash's, so taking is theft |
+| 20 | a hidden drawer under Arrigal's wagon (hidden) | [Dagger of Venom (Dagger)](https://curseofstrahd.app/wiki/items/magic-items.md#dagger-of-venom) | Search: Investigation DC 16 |
+| 21 | something washed up in the reeds (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 13 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Vallaki Vistani Camp:camp Edge (); Vallaki Vistani Camp:luvash Wagon (luvash_chest)
 
@@ -86,7 +87,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 18 | Rotten jetty | Acrobatics 13 | Walk out to the end of the rotten jetty | 18 gp; on a failure: 1d4 cold damage |
+| 19 | Rotten jetty | Acrobatics 13 | Walk out to the end of the rotten jetty | 18 gp; on a failure: 1d4 cold damage |
 
 ## Fights
 
@@ -104,8 +105,10 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 ## Quests and lore
 
+- [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md): Big Tobar's son went into the trees after his dead mother's voice. Every night since, a voice from the gorge under Tser Falls has called…
 - [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md): On cold nights a horn sounds in the Svalich woods, and in the morning whoever the count is displeased with lies under the crossroads…
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.
+- [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md): A young Vistana hangs from the gallows where the Old Svalich Road crosses the Ivlis, and a girl at Tser Pool is waiting for her brother to…
 - [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md): Wren Featherfoot's old master, a dusk elf called Sorrel, died before Wren's training was finished, and left him one errand: a sealed letter…
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md): Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.
 - [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md): The Baron wants a cake shaped like the sun for the festival, and his cook, who has made four hundred and thirteen round things, wants to…

@@ -8,7 +8,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Given by:** [Escher](https://curseofstrahd.app/wiki/people/escher.md)
 > **Starts at:** [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md)
-> **Rewards:** [Helm of Brilliance](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-brilliance), 250 gp
+> **Rewards:** [Helm of Brilliance](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-brilliance), 150 gp or 250 gp, depending on how it goes
 
 ## Summary
 
@@ -55,14 +55,14 @@ You get one helm and 250 gp either way, not both.
 ## Rewards
 
 - [Helm of Brilliance](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-brilliance)
-- 250 gp
+- 150 gp or 250 gp, depending on how it goes
 
 **What your companions think**
 
-- **Thistle:** +1 you agreed to see Escher out onto the roof; +3 you stood with Escher while he watched the sun come up
-- **Wren Featherfoot:** +1 you agreed to see Escher out onto the roof; +2 you stood with Escher while he watched the sun come up; +2 you talked Escher into waiting for a dawn the count isn't in
+- **Thistle:** +1 you agreed to see Escher out onto the roof; +3 you stood with Escher while he watched the sun come up; +1 you threatened to open Escher's curtains at dawn
+- **Wren Featherfoot:** +1 you agreed to see Escher out onto the roof; +2 you stood with Escher while he watched the sun come up; +2 you talked Escher into waiting for a dawn the count isn't in; +1 you promised Escher you'd leave his door open
 - **Liriel Dawnsong:** +3 you stood with Escher while he watched the sun come up; +1 you talked Escher into waiting for a dawn the count isn't in
-- **Godrick Pendlebrook:** +1 you stood with Escher while he watched the sun come up; +1 you talked Escher into waiting for a dawn the count isn't in
+- **Godrick Pendlebrook:** +1 you stood with Escher while he watched the sun come up; +1 you talked Escher into waiting for a dawn the count isn't in; +1 you promised Escher you'd leave his door open; -1 you threatened to open Escher's curtains at dawn
 - **Ratatouille:** +1 you talked Escher into waiting for a dawn the count isn't in
 
 ## Fights
@@ -71,6 +71,8 @@ You get one helm and 250 gp either way, not both.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (520 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (570 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
+
+- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
 
 ## Journal
 
@@ -84,10 +86,14 @@ You get one helm and 250 gp either way, not both.
 > **Done** (the end: success): Escher watched the sun come up over the mountains, and burned in it, and didn't step back. He said to tell the count it was worth it. He left a good red velvet coat on the stones, and in its pocket the count's present: a helm full of captured daylight.
 >
 > **Waited** (the end: success): With the light coming, we talked Escher into waiting for a dawn the count isn't in. He backed into the shadow of the stair laughing, and gave us the count's present anyway: a helm full of captured daylight, to wear at the count's funeral.
+>
+> **Refused** (the end: failure): We told Escher we would stand with him on the south tower roof before dawn, and then we turned on him in his own rooms. Whatever else the count's answer held, the parapet will stay empty, and there will be no good red velvet coat on the stones for the sun to find.
 
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 15: (Watch how he holds the paper.)
 > - Persuasion DC 15: Not this one. Wait for a dawn he isn't in.
+> - Persuasion DC 15: You hate him more than we do. Tell us for the pleasure of it.
+> - Intimidation DC 14: Tell us, or we open your curtains at dawn.
 
 ## Related
 
@@ -101,3 +107,6 @@ You get one helm and 250 gp either way, not both.
 >
 > **A Good Red Coat**: On the parapet at sunrise lie Escher's empty red coat, a drift of ash blowing away, and a helm that throws sparks of daylight.
 > ![escher coat](https://curseofstrahd.app/wiki/img/cutscenes/escher-coat.webp)
+>
+> **The Mirror Behind Him**: Escher's suite at the first meeting: Escher lounges in his armchair while the tall mirror behind him shows the same armchair empty (castle_ravenloft/spires_escher, ~ first).
+> ![escher mirror](https://curseofstrahd.app/wiki/img/cutscenes/escher-mirror.webp)

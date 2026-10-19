@@ -45,8 +45,9 @@ Afterwards, ask "Is the kettle still warm?" He has pinned the five notes to his 
 
 **What your companions think**
 
+- **Liriel Dawnsong:** +2 you smashed Exethanter's phylactery and let him go; +1 you put Exethanter's notes in order, and he made tea
+- **Thistle:** +1 you smashed Exethanter's phylactery and let him go
 - **Wren Featherfoot:** +1 you put Exethanter's notes in order, and he made tea
-- **Liriel Dawnsong:** +1 you put Exethanter's notes in order, and he made tea
 - **Kip Smudgewick:** +1 you put Exethanter's notes in order, and he made tea
 
 ## Journal
@@ -56,6 +57,8 @@ Afterwards, ask "Is the kettle still warm?" He has pinned the five notes to his 
 > *Hint:* Talk to Exethanter in the Amber Temple and ask about his notes.
 >
 > **Done** (the end: success): Put in order, the notes said what he was doing this morning: making tea. Exethanter made us a cup.
+>
+> **Lost** (the end: failure): We smashed Exethanter's phylactery and let him go before his loose notes were in order. The five scraps lie where they fell, and whatever he was doing this morning stays out of order for good.
 
 > [!abstract]- Every skill check in its conversations
 > - Investigation DC 12: (Check which scrap was written first.)

@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/all-creatures.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every creature the party can fight: 148 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
+Every creature the party can fight: 149 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
 
 | | Creature | Type | Size | CR | XP | AC | HP | Speed | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -100,6 +100,7 @@ Every creature the party can fight: 148 of them, with their stat blocks' numbers
 | ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Ghost](https://curseofstrahd.app/wiki/bestiary/ghost.md) | undead | medium | 4 | 1100 | 11 | 45 | 5 ft, fly 40 ft, hover True ft | 7 | 13 | 10 | 10 | 12 | 17 |
 | ![helmed horror](https://curseofstrahd.app/wiki/img/portraits/helmed-horror.webp) | [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) | construct | medium | 4 | 1100 | 20 | 60 | 30 ft, fly 30 ft | 18 | 13 | 16 | 10 | 10 | 10 |
 | ![kiril stoyanovich](https://curseofstrahd.app/wiki/img/portraits/kiril-stoyanovich.webp) | [Kiril Stoyanovich](https://curseofstrahd.app/wiki/bestiary/kiril-stoyanovich.md) | monstrosity | medium | 4 | 1100 | 15 | 90 | 30 ft | 16 | 14 | 16 | 10 | 11 | 10 |
+| ![red dragon wyrmling](https://curseofstrahd.app/wiki/img/portraits/red-dragon-wyrmling.webp) | [Red Dragon Wyrmling](https://curseofstrahd.app/wiki/bestiary/red-dragon-wyrmling.md) | dragon | medium | 4 | 1100 | 17 | 75 | 30 ft, climb 30 ft, fly 60 ft | 19 | 10 | 17 | 12 | 11 | 15 |
 | ![air elemental](https://curseofstrahd.app/wiki/img/portraits/air-elemental.webp) | [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md) | elemental | large | 5 | 1800 | 15 | 90 | 10 ft, fly 90 ft | 14 | 20 | 14 | 6 | 10 | 6 |
 | ![earth elemental](https://curseofstrahd.app/wiki/img/portraits/earth-elemental.webp) | [Earth Elemental](https://curseofstrahd.app/wiki/bestiary/earth-elemental.md) | elemental | large | 5 | 1800 | 17 | 147 | 30 ft, burrow 30 ft | 20 | 8 | 20 | 5 | 10 | 5 |
 | ![fire elemental](https://curseofstrahd.app/wiki/img/portraits/fire-elemental.webp) | [Fire Elemental](https://curseofstrahd.app/wiki/bestiary/fire-elemental.md) | elemental | large | 5 | 1800 | 13 | 93 | 50 ft | 10 | 17 | 16 | 6 | 10 | 7 |

@@ -316,6 +316,7 @@ Plant a shrub in it and in 30 days it becomes an Awakened Shrub.
 For 1 hour: a Climb Speed equal to your Speed, and Advantage on Athletics checks to climb.
 
 **Where to find it:**
+- Hidden: a glove wedged in the stones above the cheeses, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The south row) (found with Search, Perception DC 14)
 - Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 
@@ -364,11 +365,13 @@ Holds one prepared spell's ordinary Material component, so you need no free hand
 
 A spell written on a scroll: read it to cast it, if the spell is on your class's list.
 
+Every spell's scroll, who sells it and where it's found: [Spell Scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md).
+
 **Where to find it:**
 - Spell Scroll (Bless): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13)
 - Spell Scroll (Circle of Death): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
 - Spell Scroll (Cone of Cold): Hidden: a page blown into the snow, [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) (The frost garden) (found with Search, Perception DC 13)
-- Spell Scroll (Dispel Magic): A Arcana check (DC 15) at Burned bookcases, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
+- Spell Scroll (Dispel Magic): An Arcana check (DC 15) at Burned bookcases, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
 - Spell Scroll (Harm): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
 - Spell Scroll (Mordenkainen's Sword): In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study)
 - Spell Scroll (Protection from Poison): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13)
@@ -623,7 +626,7 @@ For 1 minute, a Magic action breathes a 15-ft Cone of Lightning (Dex DC 13, 3d6,
 Two rings: once a day, one wearer's area spell spares the other (an automatic success, no damage instead of half).
 
 **Where to find it:**
-- 2 × Given by A long bundle of web in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md) ([The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md))
+- 2 × Given by a long bundle of web in [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md) ([The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md))
 - Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Boots of Elvenkind
@@ -820,7 +823,7 @@ Holds 60 arrows, 18 javelins and 6 bows or staffs, and always weighs 2 lb.
 Break it to summon an Air Elemental that obeys you for an hour.
 
 **Where to find it:**
-- Given by The grave Mihail dug this week in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) ([Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md))
+- Given by the grave Mihail dug this week in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) ([Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md))
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Elemental Gem (Emerald)
@@ -1088,7 +1091,7 @@ Four charges (1d4 back at dawn): Searing Smite (2 charges, DC 13), a charge to t
 No Strength requirement and no Disadvantage on Stealth checks.
 
 **Where to find it:**
-- Given by The cold corner in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) ([The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md))
+- Given by the cold corner in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) ([The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md))
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Moon Sickle, +1
@@ -1627,7 +1630,7 @@ You can't be surprised, and you and your allies within 30 ft have Advantage on I
 - +1 Shortbow: Hidden: a Vistani cache under the ribbon tree, [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) (The Vistani camp) (found with Search, Investigation DC 14)
 - +1 Shortsword: Hidden: a bundle under the nursemaid's mattress, [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md) (Nursemaid's Room) (found with Search, Perception DC 14)
 - +1 Sling: Hidden: a secret drawer in the toy chest, [Death House, Attic](https://curseofstrahd.app/wiki/locations/death-house-attic.md) (Children's Room) (found with Search, Investigation DC 12)
-- Given by The beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
+- Given by the beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
@@ -1897,7 +1900,7 @@ Six charges (1d6 + 1 back at dawn): choke one creature (1), a 30-ft Cone (3) or 
 Your Strength is 21 while you wear it.
 
 **Where to find it:**
-- Given by The roc's egg in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) ([The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md))
+- Given by the roc's egg in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) ([The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Berserker Axe
@@ -1985,7 +1988,7 @@ Once a day, cast Dimension Door in a puff of smoke.
 Once a day, call an Air Elemental that obeys you for up to 1 hour.
 
 **Where to find it:**
-- Given by The heart of the ring of glass in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md))
+- Given by the heart of the ring of glass in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md))
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Chattering Staff of Skulls
@@ -2109,7 +2112,7 @@ Cures disease and ends the Blinded, Deafened, Paralyzed and Poisoned conditions.
 +1 AC; you're trained with it even without Medium armor training.
 
 **Where to find it:**
-- Given by [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) or [Bray](https://curseofstrahd.app/wiki/people/bray.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) ([The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md))
+- Given by [Danika Martikov](https://curseofstrahd.app/wiki/people/danika-martikov.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) or [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) in [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) or 1 more ([The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md))
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Feather Token (Anchor)
@@ -2619,7 +2622,7 @@ Six charges (1d6 back at dawn): a charge turns a damaging spell to the rune's el
 3 charges: Animal Friendship, Fear (Beasts only) or Speak with Animals (save DC 13).
 
 **Where to find it:**
-- Given by The Huntsman's saddlebag in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md))
+- Given by the Huntsman's saddlebag in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md))
 - Sold by [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ring of Evasion
@@ -2924,7 +2927,7 @@ Cast Mage Hand; no Somatic components with slots; once a day a melee spell attac
 10 charges: Cure Wounds (1 per level, up to 4), Lesser Restoration (2), Mass Cure Wounds (5).
 
 **Where to find it:**
-- Given by The end of the jetty, over deep water in [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) ([The Bell Under the Lake](https://curseofstrahd.app/wiki/quests/the-bell-under-the-lake.md))
+- Given by the end of the jetty, over deep water in [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) ([The Bell Under the Lake](https://curseofstrahd.app/wiki/quests/the-bell-under-the-lake.md))
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of Swarming Insects
@@ -3119,9 +3122,9 @@ Ten charges (1d10 back at dawn): 1 to 3 charges spray a 30-ft Cone of teeth, 1d8
 - +2 Greatsword: In the roc's nest, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The roc's shelf)
 - +2 Hand Crossbow: Hidden: a stave in the founder's cask that opens, [The Winery Cellars](https://curseofstrahd.app/wiki/locations/the-winery-cellars.md) (The foot of the stair) (found with Search, Investigation DC 14)
 - +2 Longbow: In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
-- +2 Scimitar: Given by Bones and rusted harness across the road in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) ([The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md))
+- +2 Scimitar: Given by bones and rusted harness across the road in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) ([The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md))
 - +2 Trident: Hidden: something behind the fishers' shrine, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The landing) (found with Search, Perception DC 13)
-- Given by The beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
+- Given by the beacon's cradle in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) or [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Given by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) or [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) in [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) ([A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md))
 - Sold by [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -3271,7 +3274,7 @@ A Undead it hits makes a DC 17 Con save: 6d10 extra Piercing, half on a success;
 +3 to your Cleric and Paladin spell attacks and save DC; once a day, a use of Channel Divinity back.
 
 **Where to find it:**
-- Given by The altar step in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) ([Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md))
+- Given by the altar step in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) ([Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md))
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Amulet of the Planes
@@ -3500,7 +3503,7 @@ Toss it as a Bonus Action and it fights on its own: up to four attacks, one per 
 +1 AC, Resistance to Cold damage, Advantage on saves against dragons' Frightful Presence and breath.
 
 **Where to find it:**
-- Given by The hoard in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md))
+- Given by the hoard in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Dragon Scale Mail (White)
@@ -3570,7 +3573,7 @@ An extra 1d6 Cold on every hit, Resistance to Fire while you hold it, and it can
 +1 AC while attuned; Augury once a day, trade goods into coin, and Globe of Invulnerability once a day.
 
 **Where to find it:**
-- Given by The tithe chest in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md) ([The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md))
+- Given by the tithe chest in [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md) ([The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md))
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Helm of Brilliance
@@ -3753,7 +3756,7 @@ A creature that sees its reflection may be pulled into one of the mirror's twelv
 Swear an enemy: Advantage against it, no long-range Disadvantage, cover doesn't help it, an extra 3d6; Disadvantage with other weapons meanwhile.
 
 **Where to find it:**
-- Given by The Huntsman's saddlebag in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md))
+- Given by the Huntsman's saddlebag in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil of Sharpness
@@ -3892,7 +3895,7 @@ Cast Telekinesis at will.
 Absorbs spells aimed only at you and stores their levels to power your own spell slots.
 
 **Where to find it:**
-- Given by A crypt with no name in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) ([The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md))
+- Given by a crypt with no name in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) ([The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md))
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Rod of Alertness
@@ -3951,7 +3954,7 @@ Druidcraft, Overgrowth and Insect Plague, plant mending, and once a day a 30-ft 
 Advantage on saves against spells and magical effects; spell attacks against you have Disadvantage.
 
 **Where to find it:**
-- Given by A heap of things in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md))
+- Given by a heap of things in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md))
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of Fire
@@ -3969,7 +3972,7 @@ Resistance to Fire; 10 charges: Burning Hands (1), Fireball (3), Wall of Fire (4
 Resistance to Cold; 10 charges: Cone of Cold (5), Fog Cloud (1), Ice Storm (4), Wall of Ice (4) at your DC.
 
 **Where to find it:**
-- Given by Shapes in the ice in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) ([The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md))
+- Given by shapes in the ice in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) ([The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md))
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Staff of Power
@@ -4255,7 +4258,7 @@ Absorbs a spell of level 8 or lower aimed only at you (50 levels, then it burns 
 +1 Proficiency Bonus.
 
 **Where to find it:**
-- Given by The hoard in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md))
+- Given by the hoard in [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md))
 - Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ioun Stone (Regeneration)
@@ -4352,7 +4355,7 @@ A Magic action makes you Invisible until you attack, cast a spell, or choose to 
 Advantage on saves against spells; a level 7 or lower spell aimed only at you that you save against rebounds on its caster.
 
 **Where to find it:**
-- Given by A heap of things in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md))
+- Given by a heap of things in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md))
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 10 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Robe of the Archmagi

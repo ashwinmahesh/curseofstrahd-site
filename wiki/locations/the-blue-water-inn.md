@@ -8,7 +8,7 @@
 > **Resting:** Safe
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
-> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) and 13 more
+> **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) and 15 more
 
 ## Overview
 
@@ -99,6 +99,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
 - [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md): Daciana gives out yellow festival ribbons in Vallaki's square and writes down everyone who won't wear one. It isn't her who wants to know.
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md): Ireena asked us to lay a sprig of pressed rosemary on her father's grave in the Village of Barovia.
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md): Someone has stolen the bones of St. Andral from the crypt of Vallaki's church, and with them the only thing that kept the dead out of it.
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
@@ -111,6 +112,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md): Arabelle, the young daughter of the Vistani headman Luvash, vanished from the camp outside Vallaki in the night.
 - [The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md): Urwin and Danika Martikov's younger boy flew out of the inn's window after dark to look at the castle, and didn't come home.
 - [The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md): Druids from Yester Hill have driven the Martikov family out of their winery and taken the magic gems, the family's three vine stones, that…
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md): Ireena wants to know the truth about the woman whose face she wears, from the vampire's own book and from any monument made in her likeness.
 
 > [!quote]- A battered journal
 > A hunter's journal, in a small, exact hand. Lists of weaknesses: running water, a threshold not crossed without leave, sunlight, a stake through the heart. A page of notes on 'the lord of this valley' that stops halfway down. Inside the cover, a bookplate: from the library of Dr. R. van Richten. Below it, in fresher ink: Never again by that name. Never again.

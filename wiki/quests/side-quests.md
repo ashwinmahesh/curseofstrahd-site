@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/quests/side-quests.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-103 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
+105 side quests, by region and the party level they're built for. Most start from a rumour: ask the townsfolk *Heard anything interesting?*
 
 ## Into the Mists (level 1)
 
@@ -24,6 +24,7 @@
 | [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md) | [Grigore](https://curseofstrahd.app/wiki/people/grigore.md) | The woodcutters of Barovia cut what they need by noon and go home. Grigore's son stayed late, and brought something back. |
 | [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md) | [Old Florin](https://curseofstrahd.app/wiki/people/old-florin.md) | Old Florin prays every day that his grandson, who went up the castle road for work two winters ago, doesn't come back. |
 | [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md) | [Mad Mary](https://curseofstrahd.app/wiki/people/mad-mary.md) | Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped out of the house a few nights ago and hasn't come back. |
+| [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md) | [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) | Ireena asked us to lay a sprig of pressed rosemary on her father's grave in the Village of Barovia. |
 | [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md) | [Old Mihail](https://curseofstrahd.app/wiki/people/old-mihail.md) | Old Mihail the sexton digs graves before anybody has died. There's always somebody by the end of the week. |
 | [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md) | [Lupu](https://curseofstrahd.app/wiki/people/lupu.md) | The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves. |
 | [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md) | [Vasile](https://curseofstrahd.app/wiki/people/vasile.md) | Vasile and Petre have traded the same three rumours since the mist came down. They might take a fourth, if somebody made one. |
@@ -32,6 +33,7 @@
 | [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md) | [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) | Somebody is stealing four sacks of oats a week from Bildrath's back room, and the lock is never touched. |
 | [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md) | [Widow Ileana](https://curseofstrahd.app/wiki/people/widow-ileana.md) | Widow Ileana's husband Teodor died three winters ago and still knocks at her shutter every night. He has never once asked to be let in. |
 | [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md) | [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) | Screams rise from beneath the village church. Father Donavich's son Doru came back from Castle Ravenloft as something else, and his father keeps him locked below. |
+| [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md) | [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) | Ireena wants to know the truth about the woman whose face she wears, from the vampire's own book and from any monument made in her likeness. |
 
 ## The Old Svalich Road (level 4)
 

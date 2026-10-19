@@ -81,9 +81,11 @@ There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** an
 > *Hint:* At Tser Falls after dark, deal with the lights in the gorge, then search the gorge's edge for Nelu.
 >
 > **Nelu Found**: Nelu is alive, on a shelf of wet rock in the gorge, three days hungry. The lights had been calling his father in his voice.
-> *Hint:* Take Nelu back to Big Tobar at the Tser Pool camp.
+> *Hint:* Take Nelu back to Big Tobar at the Tser Pool camp. If the camp has turned on you, take him to the Vistani camp by the lake outside Vallaki's west gate.
 >
 > **Home** (the end: success): Nelu is home. Big Tobar dropped a wheel on his own foot and didn't notice. Nelu sits with his back to the falls now, and sings over anything that calls.
+>
+> **No Fire** (the end: failure): The Tser Pool camp has turned on us, and Big Tobar's fire is out. Nelu is alive, but we could not bring him home: he is with the Vistani by the lake outside Vallaki, and nobody will tell him why the road to the pool is shut.
 
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 12: (Does he think the boy is alive?)
@@ -94,5 +96,5 @@ There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** an
 ## Related
 
 - **People:** [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md), [Nelu](https://curseofstrahd.app/wiki/people/nelu.md), [Zora](https://curseofstrahd.app/wiki/people/zora.md)
-- **Places:** [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)
+- **Places:** [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md), [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md)
 - **More in The Old Svalich Road:** [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md), [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md)

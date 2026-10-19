@@ -53,8 +53,8 @@ Worth a look while you're on the mountain:
 
 - **Ring of glass on the trail:** a wand fused into it (search DC 15: [Wand of Lightning Bolts](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-lightning-bolts)).
 - **Summit:** a stone that isn't part of the cairn (search DC 16: [Ioun Stone (Intellect)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-intellect)), and a cleft in the rock with 15 gp and a potion of healing.
-- **Frost garden:** a page blown into the snow (search DC 13: [Spell Scroll](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll)).
-- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations, a component pouch and a [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll).
+- **Frost garden:** a page blown into the snow (search DC 13: [Level 2 scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls)).
+- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations, a component pouch and a [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls).
 
 ### Choices and endings
 

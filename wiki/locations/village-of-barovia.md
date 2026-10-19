@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim, outdoors
 > **Getting here:** the travel map (Village of Barovia)
-> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md) and 12 more
+> **Quests:** [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md), [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md) and 14 more
 
 ## Overview
 
@@ -167,6 +167,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md): Ilse Varga's mercenary company marched into the mists a year ago at the invitation of someone who signed himself S. She was meant to march…
 - [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md): The woodcutters of Barovia cut what they need by noon and go home. Grigore's son stayed late, and brought something back.
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md): Ireena asked us to lay a sprig of pressed rosemary on her father's grave in the Village of Barovia.
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md): Old Mihail the sexton digs graves before anybody has died. There's always somebody by the end of the week.
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md): The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves.
@@ -180,6 +181,7 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 - [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md): Somebody is stealing four sacks of oats a week from Bildrath's back room, and the lock is never touched.
 - [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md): Widow Ileana's husband Teodor died three winters ago and still knocks at her shutter every night. He has never once asked to be let in.
 - [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md): Screams rise from beneath the village church. Father Donavich's son Doru came back from Castle Ravenloft as something else, and his father…
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md): Ireena wants to know the truth about the woman whose face she wears, from the vampire's own book and from any monument made in her likeness.
 
 > [!quote]- Notice board
 > By order of the burgomaster, Kolyan Indirovich: no one is to be abroad after dusk. Doors barred, shutters closed, lamps out by the second bell. Do not answer a knock you were not expecting, whoever it claims to be. Do not go to the castle. Do not go to the mists. Do not go into the house at the end of the lane. Below, in another hand, smaller: he is not coming back to read this.

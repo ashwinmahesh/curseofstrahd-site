@@ -72,6 +72,8 @@ Whichever you pick, Thistle (+1) and Kip (+1) approve when Radu pays. Dinte is g
 > *Hint:* Tell Radu at the horse pen in the Tser Pool camp that Dinte has a home.
 >
 > **Sold** (the end: success): Dinte has a home. Radu is stunned and delighted, has paid his fifteen gold, and says he will tell this story for the rest of his life, and in it we are very tall.
+>
+> **Unpaid** (the end: failure): Dinte has a home, but the Tser Pool camp has turned on us and Radu is gone with it. There is nobody left to pay the fifteen gold, or to tell the story.
 
 > [!abstract]- Every skill check in its conversations
 > - Animal Handling DC 12: (Hold out a flat palm and speak quietly.)

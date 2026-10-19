@@ -119,9 +119,11 @@ Only a kill strikes a name. Morgantha and Lysaga can still be killed after a bar
 > *Hint:* Ask Ezmerelda about her ledger again, wherever she is, for the next three names, and for payment on the ones that are dead.
 >
 > **Half Struck**: Seven names are struck from Ezmerelda's ledger, and she has stopped calling us lucky beginners. The hardest names are all that is left.
-> *Hint:* Ask Ezmerelda about her ledger: at Van Richten's Tower, at the abbey switchback, in the Blue Water Inn's stable yard, or on the road beside her.
+> *Hint:* Ask Ezmerelda about her ledger: at Van Richten's Tower, at the abbey switchback, in the Blue Water Inn's stable yard, or by clicking on her if she travels with the party.
 >
 > **Ledger Struck** (the end: success): Every name in Ezmerelda's ledger is struck through. She closed the book herself and, for once, was not in a hurry.
+>
+> **Ledger Closed** (the end: failure): Every name we were willing to strike is struck. The rest of Ezmerelda's ledger stays unmarked: names we spared, or made terms with. She closed the book at what was done and said she would open it again if one of them needed silver after all.
 
 ## Related
 

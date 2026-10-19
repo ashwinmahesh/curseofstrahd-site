@@ -16,7 +16,9 @@ Old Florin's grandson, who went up the castle road two winters ago to ask for wo
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
+> [!note]- At points in the story (3)
+> - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), Town square: when festival over and vallaki backed isn't “wachter” and (wachter fate is “stocks” or wachter fate is “exposed” or wachter fate is “exiled”)
+> - [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), Great hall: when vallaki backed is “wachter”
 > - [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md), Parlour: when not (festival begun and not festival over) and vallaki backed isn't “wachter” and wachter fate isn't “stocks” and wachter fate isn't “exposed” and wachter fate isn't “exiled”
 
 ## Quests

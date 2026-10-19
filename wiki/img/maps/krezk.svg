@@ -327,8 +327,12 @@
 <text x="152.0" y="268.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">35</text>
 <circle cx="344.0" cy="200.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
 <text x="344.0" y="204.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">36</text>
+<circle cx="216.0" cy="376.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
+<text x="216.0" y="380.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">37</text>
 <circle cx="24.0" cy="424.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
-<text x="24.0" y="428.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">37</text>
+<text x="24.0" y="428.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">38</text>
 <circle cx="344.0" cy="184.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
-<text x="344.0" y="188.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">38</text>
+<text x="344.0" y="188.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">39</text>
+<circle cx="232.0" cy="376.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
+<text x="232.0" y="380.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">40</text>
 </svg>

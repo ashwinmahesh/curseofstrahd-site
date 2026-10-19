@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** Risky
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md), [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
+> **Getting here:** [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md), [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md), [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)
 > **Quests:** [Aurel's Last Chapter](https://curseofstrahd.app/wiki/quests/aurels-last-chapter.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md) and 1 more
 
 ## Overview
@@ -25,6 +25,7 @@ A long hall of black stone hung with old banners runs the width of the keep. Tal
 
 ### Ways in
 
+- **From [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md):** Back up to the study hearth
 - **From [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md):** Secret stair up to the King's Hall
 - **From [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md):** Stairs down to the Court of the Count
 - **From [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md):** The grand stairs up
@@ -78,8 +79,8 @@ A long hall of black stone hung with old banners runs the width of the keep. Tal
 | 16 | Trophy cabinet | [Spear](https://curseofstrahd.app/wiki/items/equipment.md#spear), [Longbow](https://curseofstrahd.app/wiki/items/equipment.md#longbow), 60 gp | open it |
 | 17 | an iron strongbox | 220 gp | lock DC 15 |
 | 18 | Weapon rack | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Light Crossbow](https://curseofstrahd.app/wiki/items/equipment.md#light-crossbow), [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20 | open it |
-| 21 | a hidden drawer in the count's desk (hidden) | [Efreeti Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#efreeti-bottle) | Search: Investigation DC 17 |
-| 22 | a sword hung high among the trophies (hidden) | [Scimitar of Sharpness](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-sharpness) | Search: Perception DC 15 |
+| 22 | a hidden drawer in the count's desk (hidden) | [Efreeti Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#efreeti-bottle) | Search: Investigation DC 17 |
+| 23 | a sword hung high among the trophies (hidden) | [Scimitar of Sharpness](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-sharpness) | Search: Perception DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Audience Hall (court_throne); Castle Ravenloft Study (court_study_portrait)
 
@@ -90,13 +91,16 @@ The containers here also get random magic items and potions, rolled for a party 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
 | 19 | the study fireplace | Investigation 15 | Pace out the study's walls | reveals court_study_bookcase |
-| 20 | a chained desk | Deception 15 | Tell the clerk you're the count's auditor | unlocks court tax strongbox |
+| 20 | the hearth's grate | Investigation 14 | Look at the back of the hearth | court hearth found |
+| 20 | the hearth's grate | Perception 16 | Feel for a draught behind the fire | court hearth found |
+| 20 | the hearth's grate | Dex 12 | Beat the fire out with a cloak | court hearth out; on a failure: 2d6 fire damage |
+| 21 | a chained desk | Deception 15 | Tell the clerk you're the count's auditor | unlocks court tax strongbox |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 23 | a tripwire to a hunting crossbow | 14 | 14 | DEX 14 | 3d10 piercing |
+| 24 | a tripwire to a hunting crossbow | 14 | 14 | DEX 14 | 3d10 piercing |
 
 ### Locked and secret doors
 

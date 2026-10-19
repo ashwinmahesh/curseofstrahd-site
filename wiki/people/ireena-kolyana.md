@@ -31,6 +31,7 @@ The burgomaster's adopted daughter, red-haired, proud and twice bitten by Strahd
 
 - [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md)
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md)
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md) (gives it)
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md) (gives it)
 - [The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md)
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md)
@@ -38,3 +39,4 @@ The burgomaster's adopted daughter, red-haired, proud and twice bitten by Strahd
 - [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md) (gives it)
 - [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
 - [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md)
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md) (gives it)

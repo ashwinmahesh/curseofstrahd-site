@@ -84,6 +84,11 @@ Party members and guests the player runs who stand next to each other in the ini
 
 *Why:* The rules give every creature its own turn in order; sharing adjacent turns lets the party plan together, the owner's pick from Baldur's Gate 3
 
+### A guest who keeps out of fights
+A story ally whose NPC says `guest_fights: false` is never in the encounter: she takes no turn, can't be targeted or caught in an area spell of either side, and can't fall. Her figure stays on the board as a bystander whose square blocks like any bystander's, and she steps to the nearest free square away from the foes if the fight starts on one someone will stand on. The Narrator says so once and now and then after
+
+*Why:* Ireena is a CR 1/8 noble with about 9 Hit Points, which made players leave her behind and so lose her story; the field is per NPC and can be turned back on in data
+
 ### Flanking
 The 2024 DMG's optional Flanking rule is on: a creature has Advantage on melee attack rolls against a foe when it and an ally are both next to that foe on opposite sides or corners of its space (for a bigger creature, on sides across from each other). The ally must be able to act and see the foe, and so must the attacker. Heroes and foes alike; the odds on hover name it. Foes on Tactician and Honour move to flank; on Story and Balanced they fight as before and take the Advantage only when it falls their way. Settings, Game, Flanking: Off plays without it
 
@@ -240,7 +245,7 @@ Brings the hero back within 10 days with all their Hit Points, in a new body of 
 *Why:* Rolling a new species would rebuild the hero's traits and choices mid-campaign; there's no oils item to carry
 
 ### Wards and rests
-Spells that ward a place or a rest are cast while exploring and remember where (story/wards.gd). Leomund's Tiny Hut (8 hours, where cast) and Guards and Wards (a day, its whole building) let a Long Rest start with enemies still in the building and keep it from being interrupted; Hallow (for good), Forbiddance and Mordenkainen's Private Sanctum (a day each, where cast) keep it from being interrupted too, and with Nondetection (8 hours) keep Strahd's visits that can wait away (story/strahd_presence.gd; the urgent ones still come). Under Alarm, an interruption still leaves a Long Rest. Magic Circle cast within the hour before a fight in the same place stands around its caster as the fight starts: Celestials, Elementals, Fey, Fiends and Undead can't step in and attack anyone inside at Disadvantage (not the charm, fright and possession rules, nor keeping a creature in). Heroes' Feast's 1,000 gp bowl comes from the party's purse
+Spells that ward a place or a rest are cast while exploring and remember where (story/wards.gd). Leomund's Tiny Hut (8 hours, where cast) and Guards and Wards (a day, its whole building) let a Long Rest start with enemies still in the building and keep it from being interrupted; Hallow (for good), Forbiddance and Mordenkainen's Private Sanctum (a day each, where cast) keep it from being interrupted too, and with Nondetection (8 hours) keep Strahd's visits that can wait away (story/strahd_presence.gd; the urgent ones still come). Under Alarm, an interruption still leaves a Long Rest. Magic Circle cast within the hour before a fight in the same place stands around its caster as the fight starts: Celestials, Elementals, Fey, Fiends and Undead can't step in and attack anyone inside at Disadvantage (not the charm, fright and possession rules, nor keeping a creature in). Heroes' Feast's 1,000 gp bowl comes from the party's purse, its benefits start at once on the casting (the book: when the hour-long meal ends) and include the 2014 spell's Advantage on Wisdom saving throws, which the 2024 text lacks (the owner kept both, 2026-10-18; its poison is Resistance, as the book has it)
 
 *Why:* The spells' areas, triggers and creature-type choices have nothing in the game to work on outside a fight; these are what they mean for a party resting and travelling in Barovia (Ashwin's answer to the spell audit, 2026-10-12)
 

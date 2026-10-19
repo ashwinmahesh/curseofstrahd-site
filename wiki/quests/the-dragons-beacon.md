@@ -134,6 +134,8 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 >
 > **Waiting**: The beacon stays dark for now. The dragon's fire still sleeps in the frost on his bones, in the mausoleum on Argynvostholt's grounds; kindled and carried up the tower, it would light the beacon again.
 > *Hint:* Kindle the dragon's fire at his bones in the mausoleum on Argynvostholt's grounds, then carry it to the beacon at the top of the tower.
+>
+> **Kept Dark** (the end: failure): We kept the oath sworn at Vladimir's table and lowered the silver flame before it touched the cradle. It went out in our hands, and with it the last of Argynvost. The beacon stays dark, and the Order still keeps its watch.
 
 > [!abstract]- Every skill check in its conversations
 > - History DC 15: (Answer the challenge as a knight of the Order would have.)

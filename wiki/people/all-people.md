@@ -248,7 +248,7 @@
 | | Who | Title |
 |---|---|---|
 | ![argynvost](https://curseofstrahd.app/wiki/img/portraits/argynvost.webp) | [Argynvost](https://curseofstrahd.app/wiki/people/argynvost.md) | The Silver Dragon's Echo |
-| ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md) | A Cooper's Boy from Vallaki |
+| ![cosmin](https://curseofstrahd.app/wiki/img/portraits/cosmin.webp) | [Cosmin](https://curseofstrahd.app/wiki/people/cosmin.md) | A Cooper's Boy from Vallaki |
 | ![order knight](https://curseofstrahd.app/wiki/img/portraits/order-knight.webp) | [Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md) | Knight of the Silver Dragon |
 | ![phantom warden](https://curseofstrahd.app/wiki/img/portraits/phantom-warden.webp) | [Phantom Warden](https://curseofstrahd.app/wiki/people/phantom-warden.md) | Ghost of the Gate |
 | ![sir godfrey gwilym](https://curseofstrahd.app/wiki/img/portraits/sir-godfrey-gwilym.webp) | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) | Knight of the Silver Dragon |

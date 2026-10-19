@@ -73,7 +73,7 @@ Outside: the end of the road, the shut gate and its watchman, and a switchback t
 > - **[Goodwife Rodica](https://curseofstrahd.app/wiki/people/goodwife-rodica.md)**, The well square (#17): when not weather is storm
 > - **[Goodwife Sanda](https://curseofstrahd.app/wiki/people/goodwife-sanda.md)**, The well square (#18): when not weather is storm
 > - **[Dumitru](https://curseofstrahd.app/wiki/people/dumitru.md)**, Inside the gate (#19): when not weather is storm
-> - **[Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)**, Inside the gate (#20): when krezk gate open and fennimore to krezk and quest dumitrus visitor at fennimore
+> - **[Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)**, Inside the gate (#20): when krezk gate open and fennimore to krezk and quest dumitrus visitor at fennimore and not weather is storm
 > - **[Madam Profira](https://curseofstrahd.app/wiki/people/madam-profira.md)**, The well square (#21): when not weather is storm
 > - **[Old Pavel](https://curseofstrahd.app/wiki/people/old-pavel.md)**, The south row (#22): when not weather is storm
 > - **[Dragos](https://curseofstrahd.app/wiki/people/dragos.md)**, The goat pens (#24): when dragos freed
@@ -88,8 +88,9 @@ Outside: the end of the road, the shut gate and its watchman, and a switchback t
 | 33 | something under the cairn by the track (hidden) | [Ring of Warmth](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-warmth) | Search: Perception DC 14 |
 | 34 | a shield under the watch's woodpile (hidden) | [Sentinel Shield (Shield)](https://curseofstrahd.app/wiki/items/magic-items.md#sentinel-shield) | Search: Perception DC 14 |
 | 35 | something deep in the hay rick (hidden) | [Pan Flute](https://curseofstrahd.app/wiki/items/equipment.md#pan-flute) | Search: Perception DC 13 |
-| 37 | a loose stone low in the wall (hidden) | [Belt of Dwarvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-dwarvenkind) | Search: Perception DC 14 |
-| 38 | a tin behind the wayside shrine (hidden) | [Potion of Invulnerability](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-invulnerability) | Search: Perception DC 13 |
+| 38 | a loose stone low in the wall (hidden) | [Belt of Dwarvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#belt-of-dwarvenkind) | Search: Perception DC 14 |
+| 39 | a tin behind the wayside shrine (hidden) | [Potion of Invulnerability](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-invulnerability) | Search: Perception DC 13 |
+| 40 | a glove wedged in the stones above the cheeses (hidden) | [Potion of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-climbing) | Search: Perception DC 14 |
 
 The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -103,6 +104,7 @@ The containers here also get random magic items and potions, rolled for a party 
 | 31 | the burgomaster's house | Stealth 13 | Listen at the Krezkovs' shutters unseen | lore: The Krezkovs' grief |
 | 32 | the abbey above | History 15 | Recall what's told of the abbey | lore: The abbey above Krezk |
 | 36 | a wayside shrine | Religion 13 | Pray at the wayside shrine | finds Potion of Invulnerability |
+| 37 | Goat cheeses | Athletics 8 | Lift one | finds Potion of Climbing; 30 gp; eggs cheese stair found |
 
 ## Fights
 

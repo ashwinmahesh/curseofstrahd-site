@@ -62,7 +62,7 @@ Later, Strahd greets him at dinner as "Sir Godrick, of the Order of the Silver D
 
 **What your companions think**
 
-- **Godrick Pendlebrook:** +4 you lit Argynvost's beacon and let the Order go home; +8 you stood with me while I was knighted, and I named you my fellowship; +8 you stood with me while I was knighted; +3 you came with me to put Sir Aldric's sword in the Order's hands; +4 you read me what Sir Godfrey wrote on his wall
+- **Godrick Pendlebrook:** +4 you lit Argynvost's beacon and let the Order go home; +8 you stood with me while I was knighted, and I named you my fellowship; +8 you stood with me while I was knighted; +3 you told me my oath was still mine; +2 you let me keep my sword tied to my wrist; +10 you asked me to tell you when we're wrong
 - **Liriel Dawnsong:** +3 you lit Argynvost's beacon and let the Order go home
 - **Kip Smudgewick:** +1 you lit Argynvost's beacon and let the Order go home
 - **Thistle:** +1 you lit Argynvost's beacon and let the Order go home
@@ -83,6 +83,8 @@ Later, Strahd greets him at dinner as "Sir Godrick, of the Order of the Silver D
 >
 > **Kept Faith**: Low on Sir Godfrey's wall, in his own hand, older than most of it: 'ALDRIC ASHGROVE RODE FOR HELP. THE DRAGON SENT HIM. HE DID NOT RUN. DO NOT LET VLADIMIR TELL YOU OTHERWISE.' Aldric was sent out through the mists to call for aid that never came, and the mists closed behind him. An Ashgrove kept faith.
 > *Hint:* Help Sir Godfrey remember the Order's oath (the stone in the chapel, or his own wall), then ask him at Argynvostholt to knight Godrick.
+>
+> **Unknighted** (the end: failure): We lit the beacon at the top of Argynvostholt, and the Order of the Silver Dragon laid down its swords and went home. Sir Godfrey Gwilym went with them before he could knight Godrick, so Sir Aldric's sword stays in its cloth, and the ladle is the only accolade Godrick has.
 >
 > **Knighted** (the end: success): In the dragon's house, by the light of whatever the Order had left, Sir Godfrey Gwilym knighted Godrick Pendlebrook with Sir Aldric's sword. He asked who had knighted him first. 'Sir Pellam. With a ladle.' Sir Godfrey laughed until his armour rang. 'Then you were already a knight, lad. I'm only the witness.'
 

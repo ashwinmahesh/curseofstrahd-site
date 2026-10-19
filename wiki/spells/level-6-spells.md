@@ -85,7 +85,7 @@ The healing grows by 10 for each slot level above 6.
 ## Heroes' Feast
 *Level 6 conjuration* · 10 minute · self · VS M · instantaneous · Bard, Cleric, Druid
 
-Eating takes an hour. For 24 hours afterwards each diner has Resistance to Poison damage, immunity to the Poisoned and Frightened conditions, and a Hit Point maximum raised by 2d10, gaining that many Hit Points too.
+The feast takes an hour to eat; in the game the benefits start at once. For 24 hours each diner has Resistance to Poison damage, immunity to the Poisoned and Frightened conditions and Advantage on Wisdom saving throws, and a Hit Point maximum raised by 2d10, gaining that many Hit Points too.
 
 ## Mass Suggestion
 *Level 6 enchantment* · action · 60 ft · V M · hours 24 · Bard, Sorcerer, Warlock, Wizard

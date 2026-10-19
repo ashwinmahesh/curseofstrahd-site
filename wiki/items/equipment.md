@@ -955,6 +955,7 @@ Advantage on Strength checks where its leverage helps.
 A cut diamond worth 100 gp: what Revivify, Raise Dead and Chromatic Orb ask for. Diamonds count together toward a spell's cost.
 
 **Where to find it:**
+- 8 × In a casket of gems, [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) (The treasury vault)
 - 3 × In the lamplighters' cupboard, [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) (The lamplighters' closet)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
@@ -1142,6 +1143,7 @@ One sheet; holds about 250 handwritten words.
 A pearl worth 100 gp: Identify needs one in hand.
 
 **Where to find it:**
+- 7 × In a casket of gems, [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) (The treasury vault)
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Pole
@@ -1260,6 +1262,14 @@ Light a torch, candle, lamp or lantern as a Bonus Action; other fires take 1 min
 - In a travel trunk, [Death House, Attic](https://curseofstrahd.app/wiki/locations/death-house-attic.md) (Storage Room)
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
+### Tiny Brass Spectacles
+*gear* · 15 gp · **Cheat code:** `1A5AB7`
+
+A pair of very small brass spectacles, bent at the bridge but whole.
+
+**Where to find it:**
+- Hidden: something caught in the sail lashings, [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) (The mill yard) (found with Search, Perception DC 14)
+
 ## Light
 
 ### Bullseye Lantern
@@ -1323,6 +1333,7 @@ Burns 1 hour: Bright Light 20 ft, Dim Light 20 ft beyond; can hit for 1 Fire dam
 
 **Where to find it:**
 - 2 × In the lamp-keeper's locker, [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) (The lantern room)
+- Hidden: a dead adventurer, [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md) (The false treasury) (found with Search, search)
 - 3 × In an abandoned cart, [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Svalich Woods)
 - 3 × In a crate by the woodpile, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The south row)
 - 2 × In a rain-soaked pack, [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) (The east glade)
@@ -1631,7 +1642,7 @@ One day of travel food; going without food risks malnutrition.
 - 3 × In pantry shelves, [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md) (Pantry)
 - 2 × In a footlocker, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Servants' Quarters)
 - 2 × In an abandoned cart, [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md) (The Svalich Woods)
-- 4 × A Animal Handling check (DC 13) at The goat pens, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)
+- 4 × An Animal Handling check (DC 13) at The goat pens, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)
 - 4 × In the larder, [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md) (The hall) (belongs to Dmitri Krezkov: taking it is theft)
 - 2 × In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study)
 - …and 8 more places
@@ -1683,6 +1694,8 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 
 Magic scroll holding one cantrip; cast it if it is on your class's spell list (DC 13, +5).
 
+Every spell's scroll, who sells it and where it's found: [Spell Scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md).
+
 **Where to find it:** no fixed place. It can turn up as random treasure ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)); or give it with its cheat code.
 
 ### Spell Scroll (Level 1)
@@ -1690,13 +1703,15 @@ Magic scroll holding one cantrip; cast it if it is on your class's spell list (D
 
 Magic scroll holding one level 1 spell; cast it if it is on your class's spell list (DC 13, +5).
 
+Every spell's scroll, who sells it and where it's found: [Spell Scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md).
+
 **Where to find it:**
 - 2 × In a warden's locker, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells) (locked, DC 14)
 - In the commander's strongbox, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The commander's room) (locked, DC 18)
 - 2 × In a sealed reliquary with a slot in its lid, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The conjurer's crypt) (locked, DC 22; key: Arcane Focus (Wand))
 - In a chest under the straw, [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) (The nest) (locked, DC 15)
 - In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
-- 2 × Given by A cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
+- 2 × Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
 - Given by [Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md) in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) ([The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md))
 
 ## Pack
@@ -1808,7 +1823,7 @@ A plain iron key from the drawer of the Dursts' library desk.
 A brass wind-up key as long as a hand, its bow shaped like a jester's cap with a tiny bell on every point.
 
 **Where to find it:**
-- Given by A glint of brass in a nest in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) ([The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md))
+- Given by a glint of brass in a nest in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) ([The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md))
 
 ### Silviu's Wedding Cask
 *quest* · 60 lb · **Cheat code:** `476A61`

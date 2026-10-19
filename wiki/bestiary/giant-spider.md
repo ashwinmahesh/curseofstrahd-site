@@ -38,6 +38,7 @@ A horse-sized hunting spider: climbs walls, binds prey in webs and bites with ve
 
 ## Where you meet it
 
+- [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md): *An iron clang shakes the stone overhead, raining grey dust and torn webbing down upon your shoulders. High in…*
 - [The Webbed Gully](https://curseofstrahd.app/wiki/locations/the-webbed-gully.md): [The Spiders' Gully](https://curseofstrahd.app/wiki/quests/the-spiders-gully.md) · *Things come out of the cracks in the gully walls on long legs, very quickly, down their own threads.*
 
 On the road: [Baratok Slopes](https://curseofstrahd.app/wiki/world/random-encounters.md)

@@ -79,6 +79,8 @@ At the bedside, *Medicine DC 13* ("Let us look at him") only tells you what will
 > *Hint:* A healer's prayer, or the Abbot's hands, could finish it. Talk to Anna Krezkova or the Abbot.
 >
 > **Healed** (the end: success): Ilya Krezkov is well. He is out at the well shouting his own name down it, and threatening to climb the wall.
+>
+> **Recovering** (the end: success): The White Sun's water broke Ilya's fever, and no cleric and no Abbot came to finish it. He is mending slowly in Krezk under Anna's hands, a spoonful of broth at a time.
 
 > [!abstract]- Every skill check in its conversations
 > - Religion DC 15: (Something about him is holy, and wrong. What is he?)

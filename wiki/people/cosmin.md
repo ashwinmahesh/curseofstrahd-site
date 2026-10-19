@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/cosmin.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp)
+> ![cosmin](https://curseofstrahd.app/wiki/img/portraits/cosmin.webp)
 > **Title:** A Cooper's Boy from Vallaki
 > **Region:** [Argynvostholt](https://curseofstrahd.app/wiki/regions/argynvostholt.md)
 > **Starting attitude:** friendly

@@ -18,7 +18,7 @@ A travel writer from beyond the mists who has spent eleven years in the valley w
 
 > [!note]- At points in the story (3)
 > - [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), The road below the gates: when quest fennimores guide at done and level ≥ 10
-> - [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), Inside the gate: when krezk gate open and fennimore to krezk and quest dumitrus visitor at fennimore
+> - [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), Inside the gate, 09:00–17:00: when krezk gate open and fennimore to krezk and quest dumitrus visitor at fennimore and not weather is storm
 > - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), The crossroads, 07:00–19:00: when not (fennimore to krezk and quest.dumitrus visitor isn't done)
 
 ## Quests

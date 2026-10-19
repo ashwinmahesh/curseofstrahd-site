@@ -66,7 +66,7 @@ Afterwards the coin keeps coming. After the truth or the half-truth, Florin sits
 
 > [!quote]- Every journal entry and hint
 > **Asked**: Old Florin's grandson Tudorel went up the castle road to ask for work two winters ago and never came back. Florin says he prays the boy doesn't. A coin comes by the carter every month, with no name on it.
-> *Hint:* Look for Tudorel among the servants of Vallaki: Lady Wachter's household at Wachterhaus keeps footmen in grey-and-black livery.
+> *Hint:* Look for Tudorel among the servants of Vallaki: Lady Wachter's household keeps footmen in grey-and-black livery. If her house has fallen, he waits in the market square; if she rules the town, he is with her in the burgomaster's mansion.
 >
 > **Found**: Tudorel is alive: a footman in Lady Wachter's house in Vallaki, in the count's livery, warm and fed and ashamed. He sends his grandfather a coin a month by the carter. He asked us to tell Florin whatever will be kindest.
 > *Hint:* Go back to Old Florin, praying in the church in the Village of Barovia, and tell him what became of his grandson.
@@ -79,5 +79,5 @@ Afterwards the coin keeps coming. After the truth or the half-truth, Florin sits
 ## Related
 
 - **People:** [Old Florin](https://curseofstrahd.app/wiki/people/old-florin.md), [Tudorel](https://curseofstrahd.app/wiki/people/tudorel.md)
-- **Places:** [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)
-- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md), [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
+- **Places:** [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
+- **More in The Village of Barovia:** [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md), [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md), [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md), [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md), [The Fourth Rumour](https://curseofstrahd.app/wiki/quests/the-fourth-rumour.md), [The Goatherd's Count](https://curseofstrahd.app/wiki/quests/the-goatherds-count.md), [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md)

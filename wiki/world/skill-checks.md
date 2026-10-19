@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/world/skill-checks.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 Skill checks you can try out in the world, by place. Walk up to the thing and pick the check from its menu; the hero you have selected rolls. Most can be tried once: a failed check is final. A check that finds a hiding place shows where it is, and the spot glows until you use it: what's hidden there comes out when you do.
-140 checks in all.
+148 checks in all.
 
 ## Into the Mists
 
@@ -92,6 +92,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
+| [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md) | A floury receipt book | Investigation 12 | Read the back pages | lore: A letter from the river |
 | [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) | A dead oak full of ravens | Animal Handling 14 | Win the ravens' trust | finds Figurine of Wondrous Power (Silver Raven) |
 | [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) | Ravens | Intimidation 12 | Scatter the ravens from the bone heap | finds Holy Symbol (Amulet); on a failure: 1d4 piercing damage |
 | [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) | A kitchen garden | Nature 14 | Pick through the hags' garden | Antitoxin ×2; lore: The hags' garden |
@@ -126,6 +127,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The burgomaster's house | Stealth 13 | Listen at the Krezkovs' shutters unseen | lore: The Krezkovs' grief |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | The abbey above | History 15 | Recall what's told of the abbey | lore: The abbey above Krezk |
 | [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | A wayside shrine | Religion 13 | Pray at the wayside shrine | finds Potion of Invulnerability |
+| [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) | Goat cheeses | Athletics 8 | Lift one | finds Potion of Climbing; 30 gp; eggs cheese stair found |
 
 ## The Abbey of St. Markovia
 
@@ -233,6 +235,9 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md) | A carved family | History 15 | Name the carved family | lore: King Barov and Queen Ravenovia |
 | [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) | The pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
 | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | The study fireplace | Investigation 15 | Pace out the study's walls | reveals court_study_bookcase |
+| [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | The hearth's grate | Investigation 14 | Look at the back of the hearth | court hearth found |
+| [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | The hearth's grate | Perception 16 | Feel for a draught behind the fire | court hearth found |
+| [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | The hearth's grate | Dex 12 | Beat the fire out with a cloak | court hearth out; on a failure: 2d6 fire damage |
 | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) | A chained desk | Deception 15 | Tell the clerk you're the count's auditor | unlocks court tax strongbox |
 | [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) | A chair on the hoard | Arcana 17 | Read the glyph on the bottom step | reveals court_vault_glyph; disarms court vault glyph; on a failure: 3d8 thunder damage |
 | [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) | A card table | Stealth 15 | Listen to the brides' gossip unseen | lore: The brides' gossip |
@@ -241,6 +246,9 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
 | [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
 | [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) | The organ | Performance 16 | Play the count's organ | finds Staff of Striking (Quarterstaff) |
+| [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) | A knight in stone | Investigation 13 | Study the visor | lore: The Watching Stone Knights |
 | [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) | A faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
 | [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md) | Ravens on the ridge | Acrobatics 14 | Walk the roof ridge | reveals spires_slick_slates; on a failure: 2d6 bludgeoning damage |
+| [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md) | The smokestack | Athletics 12 | Climb down the cold smokestack | court stack climbed; on a failure: 1d6 bludgeoning damage |
+| [Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md) | The smokestack | Athletics 12 | Climb down the smokestack through the smoke | court stack climbed; on a failure: 2d6 poison damage |
 | [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md) | Small bones | Acrobatics 16 | Climb the rafters to the high nests | finds Ring of Evasion; on a failure: 2d6 bludgeoning damage |

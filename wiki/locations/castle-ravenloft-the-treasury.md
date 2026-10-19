@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** No sleeping here
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)
+> **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md), [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md)
 
 ## Overview
 
@@ -25,12 +25,15 @@ A low vault at the foot of a narrow stair. Coin lies on the floor in drifts, wit
 ### Ways in
 
 - **From [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md):** Secret stair down behind the portrait
+- **From [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md):** Stairs down to the treasury
+- **From [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md):** A black door in the tower, shut
 
 ### Ways out
 
 | # | Exit | Leads to | Only when |
 |---|---|---|---|
 | 1 | Secret stair up to the King's Hall | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) |  |
+| 2 | A black door in the tower, shut | [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) | false |
 
 ## Map
 
@@ -47,9 +50,9 @@ A low vault at the foot of a narrow stair. Coin lies on the floor in drifts, wit
 
 | # | Where | What | How |
 |---|---|---|---|
-| 2 | Heaps of coin | 1200 gp | open it |
-| 3 | an iron strongbox | [Manual of Gainful Exercise](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-gainful-exercise), [Rod of Lordly Might (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-lordly-might), 600 gp | lock DC 18 |
-| 4 | a casket of gems | [Ioun Stone (Absorption)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-absorption), 400 gp | open it |
+| 3 | Heaps of coin | 5400 gp | open it |
+| 4 | an iron strongbox | [Manual of Gainful Exercise](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-gainful-exercise), [Rod of Lordly Might (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-lordly-might), 600 gp | lock DC 18 |
+| 5 | a casket of gems | [Ioun Stone (Absorption)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-absorption), [Diamond](https://curseofstrahd.app/wiki/items/equipment.md#diamond) ×8, [Pearl](https://curseofstrahd.app/wiki/items/equipment.md#pearl) ×7, 1000 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Treasury (court_treasury_hoard)
 
@@ -59,13 +62,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 5 | a chair on the hoard | Arcana 17 | Read the glyph on the bottom step | reveals court_vault_glyph; disarms court vault glyph; on a failure: 3d8 thunder damage |
+| 6 | a chair on the hoard | Arcana 17 | Read the glyph on the bottom step | reveals court_vault_glyph; disarms court vault glyph; on a failure: 3d8 thunder damage |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 6 | a glyph on the bottom step | 16 | 15 | DEX 15 | 5d8 lightning |
+| 7 | a glyph on the bottom step | 16 | 15 | DEX 15 | 5d8 lightning |
 
 ## Fights
 

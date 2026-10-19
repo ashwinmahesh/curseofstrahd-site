@@ -96,7 +96,7 @@ There's one ending: Bray home and himself. You get the Elven Chain, 200 gp, and 
 > **Home**: Bray is home at the Blue Water Inn.
 > *Hint:* Talk to Bray at the Blue Water Inn and watch where he keeps looking (Insight), then talk to Urwin.
 >
-> **Done** (the end: success): Bray is home and himself, and the castle still doesn't know about the Martikovs' cellar. Urwin gave us the mail his grandfather flew in, and money Danika told him not to argue about.
+> **Done** (the end: success): Bray is home and himself, and the castle still doesn't know about the Martikovs' cellar. We were given the mail his grandfather flew in, and money Danika told Urwin not to argue about.
 
 > [!abstract]- Every skill check in its conversations
 > - Perception DC 13: (Look at the branches before you go any closer.)

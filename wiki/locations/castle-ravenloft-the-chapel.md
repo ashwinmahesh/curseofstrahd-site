@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** Risky
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
+> **Getting here:** [Castle Ravenloft, the King's Balcony](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-kings-balcony.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
 > **Quests:** [Carry the Dawn](https://curseofstrahd.app/wiki/quests/carry-the-dawn.md), [Cold Prayers](https://curseofstrahd.app/wiki/quests/cold-prayers.md)
 
 ## Overview
@@ -25,6 +25,7 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 
 ### Ways in
 
+- **From [Castle Ravenloft, the King's Balcony](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-kings-balcony.md):** The narrow stair down to the chapel
 - **From [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md):** The church doors of the chapel
 
 ### Ways out
@@ -33,6 +34,8 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 |---|---|---|---|
 | 1 | Back to the chapel passage | [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) |  |
 | 2 | Back to the chapel passage | [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) |  |
+| 3 | The narrow stair up to the king's balcony | [Castle Ravenloft, the King's Balcony](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-kings-balcony.md) |  |
+| 4 | The narrow stair up to the king's balcony | [Castle Ravenloft, the King's Balcony](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-kings-balcony.md) |  |
 
 ## Map
 
@@ -51,15 +54,15 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 ## People
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, The chancel (#3): when ireena held by strahd and not ireena with the party and not (final room:castle ravenloft chapel and quest strahds lair at or past foretold and not strahd destroyed and not strahd in coffin)
+> - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, The chancel (#5): when ireena held by strahd and not ireena with the party and not (final room:castle ravenloft chapel and quest strahds lair at or past foretold and not strahd destroyed and not strahd in coffin)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | the altar, under its dust | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Holy Symbol (Reliquary)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-reliquary) | open it |
-| 5 | the poor box | 7 gp | open it |
-| 7 | something under the altar's dust (hidden) | [Ioun Stone (Fortitude)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-fortitude) | Search: Investigation DC 17 |
+| 6 | the altar, under its dust | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Holy Symbol (Reliquary)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-reliquary) | open it |
+| 7 | the poor box | 7 gp | open it |
+| 9 | something under the altar's dust (hidden) | [Ioun Stone (Fortitude)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-fortitude) | Search: Investigation DC 17 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Chapel (crg_chapel_altar)
 
@@ -69,7 +72,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 6 | the pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
+| 8 | the pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
 
 ## Fights
 

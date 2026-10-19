@@ -23,6 +23,7 @@ Built for a party of about level 3: random treasure here is rolled for that leve
 - [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md)
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md) (main)
 - [Mary's Daughter](https://curseofstrahd.app/wiki/quests/marys-daughter.md)
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md)
 - [Six Feet](https://curseofstrahd.app/wiki/quests/six-feet.md)
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md) (main)
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md)
@@ -32,6 +33,7 @@ Built for a party of about level 3: random treasure here is rolled for that leve
 - [The Oat Thief](https://curseofstrahd.app/wiki/quests/the-oat-thief.md)
 - [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md)
 - [The Priest's Son](https://curseofstrahd.app/wiki/quests/the-priests-son.md)
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md)
 
 ## People
 

@@ -20,5 +20,6 @@ A lean, cool-eyed Vistana who runs the camp outside Vallaki's walls while his br
 
 ## Quests
 
+- [The Hanged Man at the Crossroads](https://curseofstrahd.app/wiki/quests/the-hanged-man-at-the-crossroads.md)
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md)
 - [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md)

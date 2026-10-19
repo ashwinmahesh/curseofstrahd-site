@@ -92,3 +92,6 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 
 > [!quote]- A letter pinned with a thorn
 > Kostin. The last stone is in that house. Pull up every board, empty every cask. The Lord-in-the-Land has been patient with the bird-people long enough. When the effigy wakes it will walk east to the vines and finish what you could not. Be gone from there by then. R.
+
+> [!quote]- A notice nailed to the wall
+> TO WHOEVER KEEPS STACKING THE LAMP-OIL BARRELS AGAINST THE PRESS "FOR LATER". This house is dry oak, old straw and a hundred casks of spirit. The blights on the hill are not that stupid, and neither am I. Clear them by dusk. Those are the terms. Hm.

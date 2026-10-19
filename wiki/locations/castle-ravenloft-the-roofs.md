@@ -70,12 +70,14 @@ The containers here also get random magic items and potions, rolled for a party 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
 | 6 | Ravens on the ridge | Acrobatics 14 | Walk the roof ridge | reveals spires_slick_slates; on a failure: 2d6 bludgeoning damage |
+| 7 | the smokestack | Athletics 12 | Climb down the cold smokestack | court stack climbed; on a failure: 1d6 bludgeoning damage |
+| 7 | the smokestack | Athletics 12 | Climb down the smokestack through the smoke | court stack climbed; on a failure: 2d6 poison damage |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 7 | slick slates | 13 | 20 | DEX 14 | 3d6 bludgeoning |
+| 8 | slick slates | 13 | 20 | DEX 14 | 3d6 bludgeoning |
 
 ## Fights
 

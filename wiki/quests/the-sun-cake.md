@@ -72,6 +72,8 @@ There are two endings, and both end the quest at **Done**. Either way the Baron 
 > *Hint:* Take the eggs, the honey and the saffron to Leontina in the burgomaster's mansion in Vallaki and bake the cake.
 >
 > **Done** (the end: success): The cake is baked and the Baron has declared it a triumph. Leontina has made something that isn't round, or very nearly, and has a scar on her thumb to prove she once trained somewhere good.
+>
+> **Failed** (the end: failure): Vadoma shut her painted box on us after the Tser Pool, and there is no other saffron in the valley. Leontina baked the four hundred and fourteenth sun, round as ever, and paid us nothing.
 
 > [!abstract]- Every skill check in its conversations
 > - Persuasion DC 11: (Ask for them for the Baron's cook.)
@@ -82,6 +84,6 @@ There are two endings, and both end the quest at **Done**. Either way the Baron 
 
 ## Related
 
-- **People:** [Leontina](https://curseofstrahd.app/wiki/people/leontina.md), [Goodwife Marta](https://curseofstrahd.app/wiki/people/goodwife-marta.md), [Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md)
+- **People:** [Leontina](https://curseofstrahd.app/wiki/people/leontina.md), [Goodwife Marta](https://curseofstrahd.app/wiki/people/goodwife-marta.md), [Old Paraschiva](https://curseofstrahd.app/wiki/people/old-paraschiva.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md), [Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md)
 - **Places:** [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
 - **More in Vallaki:** [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md), [Emanoil Wants to Be Bitten](https://curseofstrahd.app/wiki/quests/emanoil-wants-to-be-bitten.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md), [Ribbons](https://curseofstrahd.app/wiki/quests/ribbons.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md), [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md)

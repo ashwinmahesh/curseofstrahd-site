@@ -552,7 +552,6 @@ From [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.
 
 ## The Mirror Behind Him
 Escher's suite at the first meeting: Escher lounges in his armchair while the tall mirror behind him shows the same armchair empty (castle_ravenloft/spires_escher, ~ first).
-From [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
 
 ![escher mirror](https://curseofstrahd.app/wiki/img/cutscenes/escher-mirror.webp)
 

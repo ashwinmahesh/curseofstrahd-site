@@ -59,7 +59,7 @@ The goat track comes up from the south through switchbacks of pine. The hut stan
 | 4 | a cleft in the rock | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 15 gp | open it |
 | 6 | a wand fused into the ring of glass (hidden) | [Wand of Lightning Bolts](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-lightning-bolts) | Search: Perception DC 15 |
 | 7 | a stone that isn't part of the cairn (hidden) | [Ioun Stone (Intellect)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-intellect) | Search: Perception DC 16 |
-| 8 | a page blown into the snow (hidden) | [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll) | Search: Perception DC 13 |
+| 8 | a page blown into the snow (hidden) | [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 

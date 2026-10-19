@@ -54,7 +54,9 @@ There's one ending: 10 gp, and none of your companions react. Afterwards Fennimo
 > **Known**: Old Dorina's stew is plum, onion and hare, over a base that has never been emptied in sixty years. Her wedding spoon is somewhere at the bottom. Fennimore will want to hear it.
 > *Hint:* Tell Ambrose Fennimore, near the signpost at the Old Svalich crossroads, what is in Old Dorina's stew.
 >
-> **Done** (the end: success): Fennimore has rewritten the Tser Pool entry: three stars, and the stew is plum, onion, hare and sixty years. Ask for the bottom. He has paid ten gold and is off to Vallaki next.
+> **Done** (the end: success): Fennimore has rewritten the Tser Pool entry: three stars, and the stew is plum, onion, hare and sixty years. Ask for the bottom. He has paid ten gold and is starting the next chapter at his signpost.
+>
+> **Unverified** (the end: failure): The Tser Pool camp turned on us before we could ask Old Dorina what is in the pot. Fennimore will print his guess, "plum?", paid nothing, and has noted that the camp is closed to inquiries.
 
 > [!abstract]- Every skill check in its conversations
 > - Persuasion DC 12: (Ask her, gently, about the bottom of the pot.)

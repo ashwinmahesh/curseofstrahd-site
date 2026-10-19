@@ -72,7 +72,7 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 **What your companions think**
 
 - **Godrick Pendlebrook:** +1 you brought Steaua home to Radu; +1 you broke the castle's brand on a stolen horse; +1 you tricked the castle out of a mare with a play horse
-- **Thistle:** +2 you brought Steaua home to Radu; +2 you gave Steaua to Luminita, who loved her best; +2 you broke the castle's brand on a stolen horse; +2 you tricked the castle out of a mare with a play horse
+- **Thistle:** +2 you brought Steaua home to Radu; +2 you gave Steaua to Luminita, who loved her best; +2 you broke the castle's brand on a stolen horse; +1 you found Steaua grey in an empty pen; +2 you tricked the castle out of a mare with a play horse
 - **Liriel Dawnsong:** +1 you gave Steaua to Luminita, who loved her best; +1 you broke the castle's brand on a stolen horse; +1 you tricked the castle out of a mare with a play horse
 - **Wren Featherfoot:** +1 you gave Steaua to Luminita, who loved her best; +1 you tricked the castle out of a mare with a play horse
 
@@ -106,11 +106,13 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 > *Hint:* Wait at the crossroads milestone for the carriage at midnight.
 >
 > **Carriage Beaten**: The carriage came up the castle road with one black horse in the traces and an empty harness beside it. Its escort is broken, and it went back up the castle road with nothing in the empty harness.
-> *Hint:* Radu keeps the horses at the Tser Pool camp, west of the crossroads on the Old Svalich Road. Tell him what happened.
+> *Hint:* Radu keeps the horses at the Tser Pool camp, west of the crossroads on the Old Svalich Road. Tell him what happened. If the camp has turned on you, look in its empty horse pen.
 >
 > **Home** (the end: success): Steaua is back in the pen at Tser Pool, grey and cross and eating everything. Whoever owns her now, nobody will be selling her to anyone again.
 >
 > **Mourned** (the end: success): We told Radu what the castle made of his mare. He tied a black ribbon to the pen gate and would not say anything else.
+>
+> **Empty Pen** (the end: failure): The Tser Pool camp turned on us before we could tell Radu what the castle made of his mare. The pen is empty, the carriage has its black horse, and nobody is left to tell.
 
 > [!abstract]- Every skill check in its conversations
 > - Insight DC 14: It isn't the money, is it?

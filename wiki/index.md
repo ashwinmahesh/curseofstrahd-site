@@ -10,15 +10,15 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## Walkthroughs
 
 - [Main Story](https://curseofstrahd.app/wiki/quests/main-story.md): the 13 quests of the story, in order
-- [Side Quests](https://curseofstrahd.app/wiki/quests/side-quests.md): all 103, by region and level
+- [Side Quests](https://curseofstrahd.app/wiki/quests/side-quests.md): all 105, by region and level
 - [The Tarokka Reading](https://curseofstrahd.app/wiki/story/tarokka-reading.md): every card, and where it hides the treasures
 - [Endings](https://curseofstrahd.app/wiki/story/endings.md): how the game can end
 
 ## The world
 
-- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 116 places, each with a map and screenshots
+- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 118 places, each with a map and screenshots
 - [People](https://curseofstrahd.app/wiki/people/all-people.md): all 291, with where to find them
-- [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 148 creatures and their stat blocks
+- [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 149 creatures and their stat blocks
 - [World Skill Checks](https://curseofstrahd.app/wiki/world/skill-checks.md): everything in the world you can try a check on
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
 - [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md): what the roads can throw at you
@@ -33,6 +33,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Equipment](https://curseofstrahd.app/wiki/items/equipment.md): weapons, armor and gear
 - [Cheat Codes](https://curseofstrahd.app/wiki/items/cheat-codes.md): every item's code, and how to use one
 - [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md): who sells what, and for how much
+- [Spell Scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md): every spell's scroll, who sells it and where it's found
 - [Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md): how chests are filled
 
 ## Heroes and magic
@@ -52,4 +53,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `4dcc13ef7` on 2026-10-18 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `8c292eafc` on 2026-10-19 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

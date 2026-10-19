@@ -34,3 +34,4 @@ A widowed noblewoman who pours excellent tea, holds a book club that is not a bo
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md)
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md)
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md)
+- [The Sun-Cake](https://curseofstrahd.app/wiki/quests/the-sun-cake.md)

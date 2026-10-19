@@ -37,16 +37,19 @@
 <rect x="0" y="192" width="256" height="16" fill="#2b2326"/>
 <text x="128.0" y="32.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The vault stair</text>
 <text x="128.0" y="120.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The treasury vault</text>
+<text x="128.0" y="120.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The domed vault</text>
 <circle cx="120.0" cy="24.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
 <text x="120.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">1</text>
+<circle cx="216.0" cy="56.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
+<text x="216.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">2</text>
 <circle cx="120.0" cy="136.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
-<text x="120.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">2</text>
+<text x="120.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">3</text>
 <circle cx="40.0" cy="88.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
-<text x="40.0" y="92.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">3</text>
+<text x="40.0" y="92.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">4</text>
 <circle cx="216.0" cy="168.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
-<text x="216.0" y="172.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">4</text>
+<text x="216.0" y="172.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">5</text>
 <circle cx="120.0" cy="88.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
-<text x="120.0" y="92.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">5</text>
+<text x="120.0" y="92.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">6</text>
 <circle cx="120.0" cy="56.0" r="9.92" fill="#ff8c1a" stroke="#120709" stroke-width="2"/>
-<text x="120.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">6</text>
+<text x="120.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">7</text>
 </svg>

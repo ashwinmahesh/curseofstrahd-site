@@ -42,6 +42,7 @@ Lurches in for a bite and two claws; cutting it apart only spawns crawling limbs
 ## Where you meet it
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *Past midnight the boards over the windows begin to creak, then to split. Wolves throw themselves at the front…*
+- [Castle Ravenloft, the King's Balcony](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-kings-balcony.md): *As you step toward the rail, the two slumped corpses stiffen, wet cloth peeling away from the wood of the…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
 - [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): *The lanterns drop into the mud, still burning. The mourners come on without them.*

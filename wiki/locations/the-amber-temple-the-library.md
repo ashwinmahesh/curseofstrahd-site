@@ -57,7 +57,7 @@ It is very quiet, and very cold, and the books smell of ice instead of dust.
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | a chained case | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll), [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll), 150 gp | open it |
+| 4 | a chained case | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), 150 gp | open it |
 | 5 | the warden's cabinet | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink) ×2, [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×10, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×5 | open it |
 | 6 | a lectern cupboard | [Map or Scroll Case](https://curseofstrahd.app/wiki/items/equipment.md#map-or-scroll-case), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×5, 15 gp | open it |
 | 8 | a chained book that isn't what its spine says (hidden) | [Tome of Clear Thought](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-clear-thought) | Search: Investigation DC 18 |

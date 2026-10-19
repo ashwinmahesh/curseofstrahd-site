@@ -79,9 +79,11 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 > *Hint:* Go to Bujor in the clearing at the old den, up the deer path from the Tser Pool camp.
 >
 > **Found**: The cub is out of the trap. Lavinia will want to know where her bear is.
-> *Hint:* Find Lavinia on the plank stage at the Tser Pool camp, in the daytime or the evening.
+> *Hint:* Find Lavinia on the plank stage at the Tser Pool camp, in the daytime or the evening. If the camp has turned on you, the plank stage will be bare.
 >
 > **Done** (the end: success): Lavinia has her answer about Bujor, and we have her grandmother's fan, the one she danced for a prince with.
+>
+> **No Stage** (the end: failure): The Tser Pool camp turned on us before we could tell Lavinia about her bear. Bujor and the cub are in the woods, the plank stage is bare, and there is nobody left to dance his part or to give us her grandmother's fan.
 
 > [!abstract]- Every skill check in its conversations
 > - Investigation DC 10: (Look at the broken chain.)

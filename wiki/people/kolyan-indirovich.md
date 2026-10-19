@@ -17,4 +17,6 @@ Ireena and Ismark's father, burgomaster of the village of Barovia for twenty yea
 
 ## Quests
 
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md)
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md)
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md)

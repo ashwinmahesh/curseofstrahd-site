@@ -98,10 +98,12 @@ The containers here also get random magic items and potions, rolled for a party 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
 | 26 | the organ | Performance 16 | Play the count's organ | finds Staff of Striking (Quarterstaff) |
+| 28 | a knight in stone | Investigation 13 | Study the visor | lore: The Watching Stone Knights |
 
 ### Locked and secret doors
 
 - a seam beside the firebox: secret, found at DC 13
+- a panel set into the wall: secret, found at DC 14
 
 ## Fights
 
@@ -127,6 +129,12 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when kestrel merrow called: Captain Merrow ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 162 HP), Private Hale ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 162 HP), Private Dosh ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 162 HP), Lance-Corporal Brannock ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 162 HP), Private Lind ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 162 HP) (9000 XP)
 > - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when not kestrel jory forgiven: Captain Merrow ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 110 HP), Private Hale ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), Private Dosh ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5400 XP)
 > - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**: Captain Merrow ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 110 HP) (1800 XP)
+
+- *Four pairs of stone eyes turn to you, and the little dragons drop from their perches.*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Red Dragon Wyrmling](https://curseofstrahd.app/wiki/bestiary/red-dragon-wyrmling.md). Scales with your level. Starts from a conversation.
+> [!example]- Every version (the first whose condition holds is the fight you get)
+> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when level ≥ 11: 4 × [Red Dragon Wyrmling](https://curseofstrahd.app/wiki/bestiary/red-dragon-wyrmling.md) (65 HP) (4400 XP)
+> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**, when level ≥ 10: 4 × [Red Dragon Wyrmling](https://curseofstrahd.app/wiki/bestiary/red-dragon-wyrmling.md) (52 HP) (4400 XP)
+> - **[Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)**: 4 × [Red Dragon Wyrmling](https://curseofstrahd.app/wiki/bestiary/red-dragon-wyrmling.md) (47 HP) (4400 XP)
 
 ### At camp here
 

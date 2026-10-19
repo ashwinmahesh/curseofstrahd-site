@@ -64,7 +64,7 @@ The quest always ends at "told". What changes is how you got there:
 
 **What your companions think**
 
-- **Wren Featherfoot:** +1 you took the hanged Vistana's earring home for his people; +1 you cut down the hanged Vistana and gave him a grave; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words; +1 you put the hanged boy's earring in Stanimir's hand
+- **Wren Featherfoot:** +1 you took the hanged Vistana's earring home for his people; +1 you cut down the hanged Vistana and gave him a grave; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words; +1 you put the hanged boy's earring in Stanimir's hand; +1 you brought word of Nicu to the Vistani by the lake
 - **Liriel Dawnsong:** +1 you took the hanged Vistana's earring home for his people; -1 you left a hanged man turning on the gallows; +2 you cut down the hanged Vistana and gave him a grave; +2 you buried the hanged Vistana by the road; +1 you gave Luminita the earring of the brother she lost; +1 you brought Luminita her brother's last words
 - **Godrick Pendlebrook:** -1 you left a hanged man turning on the gallows; +1 you cut down the hanged Vistana and gave him a grave; +1 you buried the hanged Vistana by the road; +1 you gave Luminita the earring of the brother she lost
 - **Kip Smudgewick:** +1 you cut down the hanged Vistana and gave him a grave
@@ -83,23 +83,24 @@ The quest always ends at "told". What changes is how you got there:
 > *Hint:* Look for Nicu on the road: the gallows at the River Ivlis crossroads.
 >
 > **Buried**: We cut the hanged man down at the crossroads and buried him in the soft earth beside the road, where he will not rise.
-> *Hint:* Go back to the Tser Pool camp and tell Luminita, or Stanimir.
+> *Hint:* Go back to the Tser Pool camp and tell Luminita, or Stanimir. If the camp has turned on you, tell Arrigal at the Vistani camp outside Vallaki's west gate.
 >
 > **Risen**: The hanged man at the crossroads would not stay dead, and nor would the field of old hanged men behind the gallows. We put them all down again.
-> *Hint:* Go back to the Tser Pool camp and tell Luminita, or Stanimir.
+> *Hint:* Go back to the Tser Pool camp and tell Luminita, or Stanimir. If the camp has turned on you, tell Arrigal at the Vistani camp outside Vallaki's west gate.
 >
-> **Told** (the end: success): We told Luminita and Stanimir what became of Nicu at the crossroads. The Tser Pool camp will remember who brought him home.
+> **Told** (the end: success): We told Nicu's people what became of him at the crossroads. They will remember who brought the news.
 
 > [!abstract]- Every skill check in its conversations
 > - Medicine DC 12: Look at the body.
 > - Religion DC 12: Say what words you can remember.
 > - Animal Handling DC 12: Help her with the horse.
 > - Insight DC 14: Who do your people answer to?
+> - Insight DC 15: What does he want with Ireena?
 
 ## Related
 
-- **People:** [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Radu](https://curseofstrahd.app/wiki/people/radu.md), [A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md)
-- **Places:** [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md)
+- **People:** [Luminita](https://curseofstrahd.app/wiki/people/luminita.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Radu](https://curseofstrahd.app/wiki/people/radu.md), [A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md), [Arrigal](https://curseofstrahd.app/wiki/people/arrigal.md)
+- **Places:** [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
 - **More in The Old Svalich Road:** [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md), [Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md), [Radu's Unsellable Horse](https://curseofstrahd.app/wiki/quests/radus-unsellable-horse.md), [Stanimir's Fire](https://curseofstrahd.app/wiki/quests/stanimirs-fire.md), [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md), [The Dancing Bear](https://curseofstrahd.app/wiki/quests/the-dancing-bear.md), [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), [The Lantern in the Roadhouse](https://curseofstrahd.app/wiki/quests/the-lantern-in-the-roadhouse.md)
 
 > [!example]- Cutscenes

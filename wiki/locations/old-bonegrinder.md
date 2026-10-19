@@ -66,13 +66,19 @@ Warm, floury and close. Everything is dusted white: the tables, the sacks, the f
 | 8 | a rack of cooling pastries | [Dream Pastry](https://curseofstrahd.app/wiki/items/equipment.md#dream-pastry) ×6 | open it |
 | 9 | a pantry cupboard | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), [Herbalism Kit](https://curseofstrahd.app/wiki/items/equipment.md#herbalism-kit), [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×3, [Basic Poison](https://curseofstrahd.app/wiki/items/equipment.md#basic-poison) | open it |
 | 10 | a flour bin | [Sack](https://curseofstrahd.app/wiki/items/equipment.md#sack) ×2, 22 gp | open it |
-| 11 | Shelves of jars (hidden) | [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) | Search: Perception DC 12 |
-| 12 | a sack of "flour" that isn't (hidden) | [Dust of Sneezing and Choking](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-sneezing-and-choking) | Search: Investigation DC 15 |
-| 13 | something cooling in the oven's ash (hidden) | [Brazier of Commanding Fire Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#brazier-of-commanding-fire-elementals) | Search: Investigation DC 15 |
+| 12 | Shelves of jars (hidden) | [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) | Search: Perception DC 12 |
+| 13 | a sack of "flour" that isn't (hidden) | [Dust of Sneezing and Choking](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-sneezing-and-choking) | Search: Investigation DC 15 |
+| 14 | something cooling in the oven's ash (hidden) | [Brazier of Commanding Fire Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#brazier-of-commanding-fire-elementals) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Old Bonegrinder (hag_oven)
 
 The containers here also get random magic items and potions, rolled for a party of level 6 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+
+### Skill checks
+
+| # | Where | Check | Try | What it does |
+|---|---|---|---|---|
+| 11 | a floury receipt book | Investigation 12 | Read the back pages | lore: A letter from the river |
 
 ## Fights
 

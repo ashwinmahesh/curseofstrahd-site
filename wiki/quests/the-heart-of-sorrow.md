@@ -71,8 +71,6 @@ You don't need any of them, though. Climbing to the top of the tower and looking
 
 ## Fights
 
-- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
-
 - *The heart rings like a struck bell. Below, armour comes clanking up the last turn of the stair, and something…*, in [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md)**, when not heart guardians beaten and level ≥ 11: 3 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 3 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md) (10200 XP)
@@ -91,8 +89,6 @@ You don't need any of them, though. Climbing to the top of the tower and looking
 > **Shattered** (the end: success): We broke the heart at the top of the high tower. Whatever wounds it used to take for Strahd, he takes himself now. He felt it break.
 
 > [!abstract]- Every skill check in its conversations
-> - Persuasion DC 15: You hate him more than we do. Tell us for the pleasure of it.
-> - Intimidation DC 14: Tell us, or we open your curtains at dawn.
 > - Arcana DC 15: Study the magic in it.
 
 ## Related
@@ -102,9 +98,6 @@ You don't need any of them, though. Climbing to the top of the tower and looking
 - **More in Castle Ravenloft:** [Escher's Petition](https://curseofstrahd.app/wiki/quests/eschers-petition.md), [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Jester's Key](https://curseofstrahd.app/wiki/quests/the-jesters-key.md), [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)
 
 > [!example]- Cutscenes
-> **The Mirror Behind Him**: Escher's suite at the first meeting: Escher lounges in his armchair while the tall mirror behind him shows the same armchair empty (castle_ravenloft/spires_escher, ~ first).
-> ![escher mirror](https://curseofstrahd.app/wiki/img/cutscenes/escher-mirror.webp)
->
 > **The Heart of Sorrow**: A heart of red crystal taller than a man beats at the top of the tower.
 > ![heart beats](https://curseofstrahd.app/wiki/img/cutscenes/heart-beats.webp)
 >

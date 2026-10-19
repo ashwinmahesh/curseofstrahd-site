@@ -65,11 +65,11 @@ Arabelle, the young daughter of the Vistani headman Luvash, vanished from the ca
 
 **What your companions think**
 
+- **Wren Featherfoot:** +1 you brought word of Nicu to the Vistani by the lake; +1 you pulled Arabelle out of the lake
+- **Liriel Dawnsong:** +1 you brought word of Nicu to the Vistani by the lake; +2 you pulled Arabelle out of the lake
 - **Kip Smudgewick:** +2 you promised Luvash you'd find his daughter; +1 you left Arabelle with her father; +3 you pulled Arabelle out of the lake
 - **Godrick Pendlebrook:** +2 you promised Luvash you'd find his daughter; +2 you pulled Arabelle out of the lake
 - **Thistle:** +1 you promised Luvash you'd find his daughter; +2 you pulled Arabelle out of the lake
-- **Liriel Dawnsong:** +2 you pulled Arabelle out of the lake
-- **Wren Featherfoot:** +1 you pulled Arabelle out of the lake
 - **Ratatouille:** +1 you pulled Arabelle out of the lake
 
 ## Journal

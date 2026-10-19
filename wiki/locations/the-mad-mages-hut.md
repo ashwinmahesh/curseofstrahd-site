@@ -57,7 +57,7 @@ One room with a sleeping corner and a study divided off by a half wall. The hear
 
 | # | Where | What | How |
 |---|---|---|---|
-| 3 | a travelling satchel | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, [Component Pouch](https://curseofstrahd.app/wiki/items/equipment.md#component-pouch), [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll) | open it |
+| 3 | a travelling satchel | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, [Component Pouch](https://curseofstrahd.app/wiki/items/equipment.md#component-pouch), [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | open it |
 | 4 | a chess piece that isn't a piece (hidden) | [Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl) | Search: Investigation DC 17 |
 | 5 | one book on the shelf that isn't blank (hidden) | [Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding) | Search: Investigation DC 17 |
 

@@ -77,6 +77,8 @@ Either way, Strahd greets Wren at dinner as "the little monk" whose teacher's ma
 > **Learned** (the end: success): Wren told Rahadin that Master Sorrel never hated him, only pitied him, and that Wren did too. For a moment every voice around the chamberlain went quiet. Wren walked away from him on his own two feet. It was the last lesson; Sorrel had left it in the letter after all.
 >
 > **Unlearned** (the end: failure): Wren went for Rahadin's throat with every lesson he had, and none of them were Sorrel's. Whatever happens now, Wren knows which lesson he skipped.
+>
+> **Unsaid** (the end: failure): Rahadin died before Wren could say Master Sorrel's name to his face. Whatever Sorrel meant his boy to learn at the end went into the ground with the chamberlain, like a letter dropped in the mud and never opened. Wren stood very still at the edge of the firelight that night, and didn't make a joke of it.
 
 ## Related
 

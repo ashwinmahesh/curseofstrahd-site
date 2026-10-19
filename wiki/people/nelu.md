@@ -16,8 +16,9 @@ Big Tobar's son, sixteen, who followed his dead mother's voice to the gorge unde
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
+> [!note]- At points in the story (2)
 > - [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md), The Vistani camp: when nelu home and not tser pool brawl won and not vistani turned hostile
+> - [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md), Campfire: when (quest called by name at nelu found or quest called by name at no fire) and (tser pool brawl won or vistani turned hostile)
 
 ## Quests
 

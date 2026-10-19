@@ -8,7 +8,7 @@
 > **Resting:** No sleeping here
 > **Light:** dim
 > **Getting here:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)
-> **Quests:** [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md) and 2 more
+> **Quests:** [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md), [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md), [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md) and 3 more
 
 ## Overview
 
@@ -56,25 +56,26 @@ Bunting on every banister, portraits of the Baron in every pose a man can strike
 
 ## People
 
-- **[Leontina](https://curseofstrahd.app/wiki/people/leontina.md)**, The Baron's Cook: Dining hall (#10)
+- **[Leontina](https://curseofstrahd.app/wiki/people/leontina.md)**, The Baron's Cook: Dining hall (#11)
 
-> [!note]- Who turns up at points in the story (6)
+> [!note]- Who turns up at points in the story (7)
 > - **[Baron Vargas Vallakovich](https://curseofstrahd.app/wiki/people/baron-vargas-vallakovich.md)**, Great hall, The Baron's study (#4, #5): when not festival begun; or when vallaki backed is “baron”; or when vallaki backed is “neither”
 > - **[Lady Wachter](https://curseofstrahd.app/wiki/people/lady-wachter.md)**, Great hall (#4): when vallaki backed is “wachter”
-> - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Lady Lydia's parlour (#6): when not festival begun or vallaki backed is “baron” or vallaki backed is “neither”
-> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Izek's room (#7): when night and not izek dead and not izek told truth and (not festival begun or vallaki backed is “baron”)
-> - **[Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md)**, Victor's attic (#8): when not victor vanished and vallaki backed isn't “wachter” and not victor vallakovich with the party
-> - **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, Foyer (#9): when vallaki backed isn't “neither”
+> - **[Tudorel](https://curseofstrahd.app/wiki/people/tudorel.md)**, Great hall (#6): when vallaki backed is “wachter”
+> - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Lady Lydia's parlour (#7): when not festival begun or vallaki backed is “baron” or vallaki backed is “neither”
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Izek's room (#8): when night and not izek dead and not izek told truth and (not festival begun or vallaki backed is “baron”)
+> - **[Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md)**, Victor's attic (#9): when not victor vanished and vallaki backed isn't “wachter” and not victor vallakovich with the party
+> - **[Town Guard](https://curseofstrahd.app/wiki/people/town-guard.md)**, Foyer (#10): when vallaki backed isn't “neither”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 11 | the Baron's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 60 gp | lock DC 16; Baron Vargas Vallakovich's, so taking is theft |
-| 12 | Old trunk | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 3 gp | open it; Baron Vargas Vallakovich's, so taking is theft |
-| 13 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant) | open it; Izek Strazni's, so taking is theft |
-| 15 | a loose board under the chalk circle (hidden) | [Tentacle Rod](https://curseofstrahd.app/wiki/items/magic-items.md#tentacle-rod) | Search: Investigation DC 15 |
-| 16 | something behind the festival ledger (hidden) | [Necklace of Fireballs](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-fireballs) | Search: Investigation DC 15 |
+| 12 | the Baron's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 60 gp | lock DC 16; Baron Vargas Vallakovich's, so taking is theft |
+| 13 | Old trunk | [Fine Clothes](https://curseofstrahd.app/wiki/items/equipment.md#fine-clothes), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, 3 gp | open it; Baron Vargas Vallakovich's, so taking is theft |
+| 14 | Izek's chest | [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant), [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant) | open it; Izek Strazni's, so taking is theft |
+| 16 | a loose board under the chalk circle (hidden) | [Tentacle Rod](https://curseofstrahd.app/wiki/items/magic-items.md#tentacle-rod) | Search: Investigation DC 15 |
+| 17 | something behind the festival ledger (hidden) | [Necklace of Fireballs](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-fireballs) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Vallaki Burgomaster Mansion:izek Quarters (izek_doll_chest)
 
@@ -84,13 +85,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 14 | a circle chalked on the floor | Arcana 14 | Read the chalk circle | reveals victor_circle_trap; lore: Victor's circle |
+| 15 | a circle chalked on the floor | Arcana 14 | Read the chalk circle | reveals victor_circle_trap; lore: Victor's circle |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 17 | Teleportation circle | 10 | 15 | CON 14 | 4d6 force |
+| 18 | Teleportation circle | 10 | 15 | CON 14 | 4d6 force |
 
 ## Fights
 
@@ -102,6 +103,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Quests and lore
 
+- [Florin's Grandson](https://curseofstrahd.app/wiki/quests/florins-grandson.md): Old Florin prays every day that his grandson, who went up the castle road for work two winters ago, doesn't come back.
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
 - [The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md): The Baron's son Victor is trying to leave Barovia by magic, and it is not going well for the servants.
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.

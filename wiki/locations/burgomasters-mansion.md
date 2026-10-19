@@ -8,7 +8,7 @@
 > **Resting:** Risky
 > **Light:** dim
 > **Getting here:** [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)
-> **Quests:** [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md), [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md), [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md) and 2 more
+> **Quests:** [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md), [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md), [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md), [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md) and 4 more
 
 ## Overview
 
@@ -99,11 +99,13 @@ A Long Rest here makes camp, and 1 night in 6 is interrupted (never on Story dif
 ## Quests and lore
 
 - [Ireena's Escort](https://curseofstrahd.app/wiki/quests/ireenas-escort.md): Strahd has fed on Ireena Kolyana twice. Her brother Ismark believes she'll be safer behind the walls of Vallaki, to the west.
+- [Rosemary for Kolyan](https://curseofstrahd.app/wiki/quests/rosemary-for-kolyan.md): Ireena asked us to lay a sprig of pressed rosemary on her father's grave in the Village of Barovia.
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md): Ismark wanted Ireena behind walls. Vallaki has walls. Whether it has anywhere safe inside them is another question.
 - [The Burgomaster's Burial](https://curseofstrahd.app/wiki/quests/the-burgomasters-burial.md): Kolyan Indirovich, burgomaster of the village of Barovia, died three nights ago. His children want him buried in the churchyard, and no…
 - [The Burgomaster's Hound](https://curseofstrahd.app/wiki/quests/the-burgomasters-hound.md): The dead burgomaster's wolfhound howls every night at the mansion's study wall, not at the wolves.
 - [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md): Izek Strazni, the Baron's enforcer, has dreamed of a red-haired woman all his life, and has had her face carved over and over.
 - [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md): Tamsin Tealeaf lifted a silver locket from a coach with no driver and no horses he could hear. The woman painted inside it has called his…
+- [What He Wants With Me](https://curseofstrahd.app/wiki/quests/what-he-wants-with-me.md): Ireena wants to know the truth about the woman whose face she wears, from the vampire's own book and from any monument made in her likeness.
 
 > [!quote]- Unsent letter
 > To any soul with a sword and a conscience: I am the burgomaster of a village you have never heard of, and I am writing because no one else will. My daughter is hunted by the lord of this land. My house is attacked each night by his creatures. I am old and my heart is failing. If you come, come soon; there is little I can offer but my thanks and my house. Ask for my son at the tavern. [The rest is crossed out. A later line, shakier:] Ismark, if I don't finish this, finish it for me.
