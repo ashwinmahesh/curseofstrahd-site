@@ -89,6 +89,7 @@ Come by day. Once you've met Godfrey, crossing the courtyard between the drive a
 ### If you're stuck
 
 - **Ask the echo everything before you light the beacon.** He vanishes from the chapel window once it burns, and his last words to Vladimir are what make the climax a conversation instead of a fight.
+- **The chapel after dark.** Until the Order has a fate, knights of the Order kneel at the chapel altar at night. If you know the oath, have Godfrey's word, or bring Sir Godfrey along, they keep to their prayers and let you pass. If not, four of them rise as [Revenants](https://curseofstrahd.app/wiki/bestiary/revenant.md) once you're well into the nave (120 to 180 HP each, by your level). Visit the echo by day, or learn the oath first.
 - **The bones won't light.** You need either to have met the echo, or to pass Arcana DC 15 at the bones.
 - **The Warden won't let you pass.** History and Religion share one try. The free answers are the oath (from the echo or the stone by the chapel door) and Godfrey's word once he remembers it. Reading him his own wall of names in his room upstairs is one way to help him remember.
 - **Vladimir only comes up the stair** when you use the cradle while carrying the flame. Without the flame the cradle only tells you where the fire waits.

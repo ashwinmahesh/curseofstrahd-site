@@ -135,7 +135,7 @@ Creatures already in the Emanation when it's cast make the save then (Radiant or
 *Why:* The 2024 text has the save when the Emanation enters a creature's space, when one enters it and when one ends its turn there; whether its appearing counts is left to the DM. Owner's reading (playtest, 2026-10-08): it does
 
 ### Divine Smite
-The 2014 rule, not the 2024 spell (owner decision 2026-10-08): no Bonus Action and not a spell cast (it doesn't count as the turn's one spell with a slot, can't be countered and breaks no Invisibility), on any number of melee hits a turn while slots last. By default the paladin is asked after each melee hit, Opportunity Attacks included (Critical Hits double its dice); armed on the Spells tab it smites every melee hit that turn without asking; the class tab's rule can make it Automatic (every hit) or Off. 2d8 Radiant plus 1d8 a slot level above 1st, at most 5d8, and 1d8 more against Fiends and Undead. Paladin's Smite's free use still comes first
+The 2014 rule, not the 2024 spell (owner decision 2026-10-08): no Bonus Action and not a spell cast (it doesn't count as the turn's one spell with a slot, can't be countered and breaks no Invisibility), on any number of melee hits a turn while slots last. By default the paladin is asked after each melee hit, Opportunity Attacks included (Critical Hits double its dice); armed on the Spells tab it smites every melee hit that turn without asking; the class tab's rule can make it Automatic (every hit) or Off. 2d8 Radiant plus 1d8 a slot level above 1st, at most 5d8, and 1d8 more against Fiends and Undead. Paladin's Smite's free use still comes first. It goes off beside a smite spell armed for the same hit (Shining Smite's extra damage is automatic; Divine Smite is still asked, or armed, on that hit, and the answer is for that hit alone)
 
 *Why:* The owner prefers the 2014 paladin: smiting every attack with the slots to spend
 
@@ -1029,6 +1029,26 @@ Attuning and ending attunement are instant, from the inventory; still three item
 
 *Why:* Owner house rule, 2026-10-07: "we can deviate from the rules here, no need for the 1 hour time"
 
+### Attunement itself (Settings, Game, Attunement)
+An option, off by default: "Unlimited" drops attunement altogether. There is no limit of three and no "by a Wizard" to meet, and a magic item takes effect whenever it is worn, held or equipped. Items that promised their bonus "while attuned" or "on your person" (a Berserker Axe's Hit Points, a Luck Blade's saves) give it while the item is in use, and taking up a disguised item shows what it is, as attuning did. A curse no longer holds on through attunement. Kept in the settings file, never in a save; "Three at most" restores the book's rule at once. Switching never silently turns an effect off: Unlimited only adds (an item already attuned to keeps its pack effects), the page's note names the worn items that began to work, and going back to "Three at most" attunes what works now, three at most for each hero and worn things first, and names what could not be kept. A worn magic item that needs attunement and has none shows a "Not attuned" tag in the pack and a line on its card
+
+*Why:* Ashwin, 2026-10-17: remove the attuned item limit, which in effect removes attunement
+
+### Ioun Stones
+Outside a fight a stone is put into orbit from the pack at once (Toss into orbit) and taken out of it at once (Stow). In a fight a Magic action tosses one into orbit, one Utilize action seizes and stows every orbiting stone, and three orbit at most (2024 DMG). A stone whose attunement ends falls back into the pack. A stone tossed without attunement orbits and gives nothing
+
+*Why:* The pack has no clock outside fights, and the hotbar already keeps one Magic action a turn
+
+### Flame Tongue is always ignited
+A Flame Tongue burns whenever it is equipped and its wielder is attuned (or, with the option above, wielding it): 2d6 Fire on every hit and Bright Light out to 40 feet with Dim Light 40 feet beyond, from the start of a fight and when it is swapped in; put away, the fire goes out. No command word, no Bonus Action to light it or douse it
+
+*Why:* Ashwin, 2026-10-17: the sword should always be ignited, with no Bonus Action to activate
+
+### Rod of Lordly Might
+Taken from the 2024 DMG as aidedd.org prints it: a +3 Mace; the first button a Longsword or Shortsword with 2d6 Fire and light but no +3, the second a +3 Battleaxe, the third a +3 Spear; each form is that weapon, so its properties, Weapon Mastery and weapon proficiency (Martial for the Longsword, Shortsword and Battleaxe) are the form's. Paralyze and Drain Life are Constitution saves, DC 17, on a melee hit. Paralyze, Drain Life and Terrify are once per dawn each. The climbing pole, battering ram and compass buttons aren't built. Paralyze and Drain Life are armed from the hotbar before the hit, and Terrify frightens only the enemies within 30 ft (an area spell's reach), not allies too
+
+*Why:* The book lets the wielder decide after the hit and Terrify takes "each creature you can see"; the hotbar arms a rider before the swing like every other on-hit power, and nothing in the game would have the player scare their own party; no climbing, ram or compass rules
+
 ### Faerûn and Arcana Unleashed spells and feats that are switched on
 "Designate" or "choose" which creatures an area ignores (Cacophonic Shield, Lightning Ring, Laeral's Silver Lance): the caster's allies are spared and everyone else is hit, as with Spirit Guardians. A Reaction spent on a failed save (Arcane Omens' Helpful Premonition, Transmuted Anatomy's Resilient Anatomy) is asked about where the save can pause (the D20 Test choices row) and elsewhere used only on Automatic; one spent on damage from a spell or hazard (Bladesinger's Song of Defense; against a weapon attack it asks) is used only when its setting in the class abilities tab is Automatic: on Ask it doesn't come up, because spell damage resolves without pausing. A background's "same Artisan's Tools as above" gives the tools named in its gear, as the PHB's Artisan does
 
@@ -1123,3 +1143,13 @@ When a fight ends, Restrained and Grappled (a web, a net, a grapple, an area's g
 They last until their creature's (or, for an exploring spell, the party's) next Long Rest instead of 8 hours on the clock, and are cast again after it; Dispel Magic and a spell's own ends still end them. Concentration on one (Suggestion, Control Weather, or a spell a higher slot makes last 8 hours: Hex or Hunter's Mark with a level 3-4 slot, Dominate Person with 8+) has no clock either and ends at the Long Rest, even for a caster whose Trance keeps it conscious. Spells of 24 hours or longer keep the clock
 
 *Why:* Owner's house rule (2026-10-12): the clock rarely matters between rests, and one recast a day is simpler to keep track of
+
+### Ending Concentration at will (2024 glossary "Concentration": you can end it at any time, no action required)
+A Drop Concentration slot (free) on the Common tab of the creature holding a spell, on its own turn only, asks "Stop concentrating on ...?" first (Enter or A yes, Esc or B keep) and then ends the spell with everything it keeps going, spending nothing. The engine call (`Encounter.drop_concentration`) works at any time
+
+*Why:* The hotbar only acts for the creature whose turn it is; letting go of a spell can't be taken back, so it asks (Ashwin, 2026-10-17: "end concentration at will")
+
+### Abjure Foes (Paladin 9): "choose a number of creatures equal to your Charisma modifier that you can see within 60 feet"
+The game chooses: up to that many foes in sight, nearest first, those that can be Frightened before those immune to it, none already under an Abjure Foes. A foe that takes Frightened can move, take an action or take a Bonus Action, one of the three (the AI never spends its Bonus Action then, and a Dazed foe strikes from where it stands or only closes in)
+
+*Why:* A feature on the hotbar has no way yet to pick several targets; the nearest threats are the usual pick, and a foe immune to Frightened is never worth a use

@@ -37,6 +37,7 @@ A crawling, biting cloud of insects that pours over a victim; resists weapon dam
 
 ## Where you meet it
 
+- [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md): *The high webs split with a sound like tearing linen, and dark, many-legged shapes pour down the silk ropes…*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *The scarecrows in the reeds turn their sacking heads all at once, and climb down off their poles.*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *Lights bob up out of the flooded houses, pale and friendly, and drift toward you at the speed of a walk. They…*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *A bowl of yellow bone comes skimming over the reeds, low and fast, with a tiny furious woman standing in it.…*

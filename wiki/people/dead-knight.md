@@ -16,10 +16,13 @@ One of the revenant knights who sit at Vladimir's table and keep the watch he se
 
 ## Where to find them
 
-> [!note]- At points in the story (6)
+> [!note]- At points in the story (9)
 > - [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md), The courtyard, walking a round: when order fate is “ride” or order fate is “grudge”
 > - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The great hall: when order fate isn't “rest” and not beacon stand begun
 > - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The great hall: when order fate isn't “rest” and not beacon stand begun
 > - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The great hall: when order fate isn't “rest” and not beacon stand begun
 > - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The great hall: when order fate isn't “rest” and not beacon stand begun
 > - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The great hall: when order fate isn't “rest” and not beacon stand begun
+> - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The chapel: when night and not order fate and not chapel revenants cleared and (order oath learned or godfrey remembers or sir godfrey gwilym with the party)
+> - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The chapel: when night and not order fate and not chapel revenants cleared and (order oath learned or godfrey remembers or sir godfrey gwilym with the party)
+> - [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), The chapel: when night and not order fate and not chapel revenants cleared and (order oath learned or godfrey remembers or sir godfrey gwilym with the party)

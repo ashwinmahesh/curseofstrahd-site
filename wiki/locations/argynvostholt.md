@@ -81,6 +81,12 @@ The containers here also get random magic items and potions, rolled for a party 
 | 13 | Small headstones | History 14 | Read the squires' headstones | finds Holy Symbol (Emblem) |
 | 14 | a well | Athletics 15 | Climb down to the ledge in the well | finds Cube of Force; on a failure: 2d6 bludgeoning damage |
 
+### Traps
+
+| # | Trap | Find DC | Disarm DC | Save | Damage |
+|---|---|---|---|---|---|
+| 18 | The front steps | 14 | 14 | DEX 14 | 3d8 cold |
+
 ## Fights
 
 - *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level. Starts when you reach the courtyard.

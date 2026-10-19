@@ -66,7 +66,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Shield of Expression](https://curseofstrahd.app/wiki/items/magic-items.md#shield-of-expression) | `3F1BDB` | shield | pick a shield |
 | [Smoldering Armor](https://curseofstrahd.app/wiki/items/magic-items.md#smoldering-armor) | `F08972` | armor | pick an armor |
 | [Spell Component Ring](https://curseofstrahd.app/wiki/items/magic-items.md#spell-component-ring) | `A71B97` | ring |  |
-| [Level 2 scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | `51DB70` | scroll | pick a spell |
+| [Spell Scroll](https://curseofstrahd.app/wiki/items/magic-items.md#spell-scroll) | `51DB70` | scroll | pick a spell |
 | [Staff of Adornment](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-adornment) | `0F2613` | staff |  |
 | [Staff of Birdcalls](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-birdcalls) | `FC37D7` | staff |  |
 | [Staff of Flowers](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-flowers) | `8FA7D7` | staff |  |

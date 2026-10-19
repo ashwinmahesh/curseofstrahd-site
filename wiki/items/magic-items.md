@@ -2231,7 +2231,7 @@ Becomes a Giant Owl that serves you for up to 8 hours (once every 2 days).
 ### Flame Tongue
 *rare, weapon, needs attunement* · **Cheat code:** `EF90A9` (pick a weapon)
 
-A Bonus Action sets it ablaze: an extra 2d6 Fire on every hit, and it lights the area.
+Always ablaze while you hold it: an extra 2d6 Fire on every hit, and it lights the area.
 
 **Where to find it:**
 - Flame Tongue Longsword: Hidden: a sword behind the armour stands, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The armory) (found with Search, Perception DC 15)
@@ -4370,7 +4370,7 @@ AC 15 + Dex without armor, Advantage on saves against spells, and +2 to your spe
 ### Rod of Lordly Might
 *legendary, rod, needs attunement* · **Cheat code:** `E24751`
 
-+3 mace that becomes a flaming blade, axe or spear; once a day each: Paralyze, Terrify and Drain Life.
++3 mace that becomes a fiery sword, a +3 axe or a +3 spear; once a day each: Paralyze, Terrify and Drain Life.
 
 **Where to find it:**
 - Rod of Lordly Might (Mace): In an iron strongbox, [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md) (The treasury vault) (locked, DC 18)

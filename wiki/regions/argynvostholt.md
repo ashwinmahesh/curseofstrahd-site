@@ -14,6 +14,7 @@ Built for a party of about level 8: random treasure here is rolled for that leve
 - [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md): The stone tomb the Order's squires raised for the silver dragon Argynvost: his bones laid out on a long bier, all but the skull, guarded by the ghost of the man who kept the gate.
 - [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): The vaulted cellar under Argynvostholt's servants' hall, where the Order counted the dragon's winter tithe: drifts of old silver against the pillars, the empty harness of the tithe escort round the walls, and the tithe-keeper on the chest at the far end (The Silver Hoard, docs/story/side_quests.md).
 - [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md): The upper floor of the dragon's house: the knights' dormitory, the dragon's study and the Order's chronicle, the hall of heroes, Sir Godfrey's room, Vladimir's bare quarters, and the door to the beacon tower.
+- [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md): The household west wing opens off a central passage into a spider-choked ballroom, a laid dining hall, a parlour, a wine store, a cold kitchen with a rattling pot, and the dragon's own vaulted den.
 
 ## Quests
 

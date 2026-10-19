@@ -28,6 +28,7 @@ A burned entry hall with a broken statue at its heart; through tall doors north,
 - **From [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md):** The mansion's front doors
 - **From [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md):** The stair up to the servants' hall
 - **From [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md):** Down to the great hall
+- **From [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md):** Back to the west gallery
 
 ### Ways out
 
@@ -37,6 +38,7 @@ A burned entry hall with a broken statue at its heart; through tall doors north,
 | 2 | Out to the courtyard | [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) |  |
 | 3 | Up the great stair | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) |  |
 | 4 | A stair down to the undercroft | [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md) | tithe told |
+| 5 | A passage into the west wing | [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) |  |
 
 ## Map
 
@@ -58,20 +60,20 @@ A burned entry hall with a broken statue at its heart; through tall doors north,
 ## People
 
 > [!note]- Who turns up at points in the story (3)
-> - **[Argynvost](https://curseofstrahd.app/wiki/people/argynvost.md)**, The chapel (#5): when not argynvost beacon lit
-> - **[Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)**, The great hall (#6): when vladimir duel won and not vladimir yielded; or when order fate isn't “rest” and not beacon stand begun
-> - **[Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md)**, The great hall (#7, #8, #9, #10, #11): when order fate isn't “rest” and not beacon stand begun
+> - **[Argynvost](https://curseofstrahd.app/wiki/people/argynvost.md)**, The chapel (#6): when not argynvost beacon lit
+> - **[Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)**, The great hall (#7): when vladimir duel won and not vladimir yielded; or when order fate isn't “rest” and not beacon stand begun
+> - **[Dead Knight](https://curseofstrahd.app/wiki/people/dead-knight.md)**, The great hall, The chapel (#8, #9, #10, #11, #12, #13, #14, #15): when order fate isn't “rest” and not beacon stand begun; or when night and not order fate and not chapel revenants cleared and (order oath learned or godfrey remembers or sir godfrey gwilym with the party)
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 12 | Weapon rack | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Lance](https://curseofstrahd.app/wiki/items/equipment.md#lance) | open it |
-| 13 | Iron-bound chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, 60 gp | lock DC 15 |
-| 14 | Pantry cupboard | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) | open it |
-| 17 | a loose hearthstone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
-| 18 | a sword behind the armour stands (hidden) | [Flame Tongue Longsword](https://curseofstrahd.app/wiki/items/magic-items.md#flame-tongue) | Search: Perception DC 15 |
-| 19 | a reliquary behind the chapel altar (hidden) | [Bowl of Commanding Water Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#bowl-of-commanding-water-elementals) | Search: Investigation DC 15 |
+| 16 | Weapon rack | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), [Shield](https://curseofstrahd.app/wiki/items/equipment.md#shield), [Lance](https://curseofstrahd.app/wiki/items/equipment.md#lance) | open it |
+| 17 | Iron-bound chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, 60 gp | lock DC 15 |
+| 18 | Pantry cupboard | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) | open it |
+| 21 | a loose hearthstone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
+| 22 | a sword behind the armour stands (hidden) | [Flame Tongue Longsword](https://curseofstrahd.app/wiki/items/magic-items.md#flame-tongue) | Search: Perception DC 15 |
+| 23 | a reliquary behind the chapel altar (hidden) | [Bowl of Commanding Water Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#bowl-of-commanding-water-elementals) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Argynvostholt Vladimir ()
 
@@ -81,8 +83,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 15 | the chapel altar | Religion 15 | Pray at the dragon's altar | finds Bowl of Commanding Water Elementals |
-| 16 | Armour stands | Athletics 14 | Shift the armour stands | finds Flame Tongue Longsword |
+| 19 | the chapel altar | Religion 15 | Pray at the dragon's altar | finds Bowl of Commanding Water Elementals |
+| 20 | Armour stands | Athletics 14 | Shift the armour stands | finds Flame Tongue Longsword |
 
 ## Fights
 
@@ -91,6 +93,12 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (290 HP), 3 × Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 190 HP), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 80 HP) (10100 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (140 HP) (2900 XP)
+
+- *The kneeling figures rise together in scorched black plate, lifting their helms from the stone without a…*, in [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level. Starts when you reach the chapel.
+> [!example]- Every version (the first whose condition holds is the fight you get)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when night and not order fate and not chapel revenants cleared and not order oath learned and not godfrey remembers and not sir godfrey gwilym with the party and level ≥ 8: 4 × A Knight at Prayer ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 180 HP) (7200 XP; waiting)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when night and not order fate and not chapel revenants cleared and not order oath learned and not godfrey remembers and not sir godfrey gwilym with the party and level ≥ 7: 4 × A Knight at Prayer ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 120 HP) (7200 XP; waiting)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when night and not order fate and not chapel revenants cleared and not order oath learned and not godfrey remembers and not sir godfrey gwilym with the party: 4 × A Knight at Prayer ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 135 HP) (7200 XP; waiting)
 
 ### At camp here
 

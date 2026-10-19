@@ -1167,6 +1167,7 @@ Utilize: tie a knot (DC 10 Sleight of Hand); can bind a Grappled, Incapacitated 
 **Where to find it:**
 - In Clovin's handcart, [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md) (The courtyard)
 - In the tool shed, [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md) (By the tool shed)
+- In a cocooned satchel, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The ballroom)
 - In a chest in the flood, [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (The drowned lane)
 - Hidden: something caught in the reeds, [The Marsh Track](https://curseofstrahd.app/wiki/locations/the-marsh-track.md) (The marsh track) (found with Search, Perception DC 12)
 - In a gate guard's locker, [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md) (The servants' courtyard) (locked, DC 14)
@@ -1192,6 +1193,7 @@ A vial of ruby dust worth 50 gp, used up by Continual Flame.
 Salt and powdered silver worth 25 gp a pouch, used up by Magic Circle.
 
 **Where to find it:**
+- Hidden: silver glitter in the dust, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The dragon's den) (found with Search, Perception DC 13)
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Shovel
@@ -1293,12 +1295,12 @@ Burns 1 hour: Bright Light 5 ft, Dim Light 5 ft beyond.
 - 5 × In the warden's cabinet, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The warden's study)
 - 6 × In Pantry cupboard, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The servants' hall)
 - 4 × In Offering niches, [The Dragon's Mausoleum](https://curseofstrahd.app/wiki/locations/the-dragons-mausoleum.md) (The dragon's rest)
+- 4 × In a sideboard, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The dining hall)
+- 6 × In a pantry cupboard, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The kitchen)
 - 4 × In Larder, [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) (Kitchen) (locked, with nothing to pick)
 - 3 × In an iron chest at the foot of the dais, [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md) (Strahd's tomb)
 - 4 × In the altar, under its dust, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel)
-- 3 × In a painted box under the bed, [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md) (The cook's quarters)
-- 6 × In a servery cupboard, [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) (The servery)
-- …and 12 more places
+- …and 14 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Hooded Lantern
@@ -1569,14 +1571,14 @@ Thrown flask: a Fiend or Undead within 20 ft makes a Dex save or takes 2d8 Radia
 - In the watch's strongbox, [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md) (The east guardroom) (locked, DC 15)
 - 2 × In Sealed urns, [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md) (The vault of offerings)
 - 2 × In Iron-bound chest, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The armory) (locked, DC 15)
+- In a cocooned satchel, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The ballroom)
 - 2 × In the altar, under its dust, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel)
 - 3 × In Iron-bound lockbox, [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) (Stable yard) (locked, DC 18; belongs to Rictavio: taking it is theft)
 - In Vestry chest, [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md) (Vestry) (belongs to Father Lucian: taking it is theft)
 - 2 × In Ezmerelda's wagon, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) (Ezmerelda's camp) (locked, DC 16)
 - 2 × In a crate of supplies, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The hunter's storeroom)
 - 3 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
-- 2 × In Vestry chest, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Vestry) (locked, with nothing to pick)
-- …and 14 more places
+- …and 15 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil
@@ -1587,6 +1589,7 @@ Flask: throw to douse a target, pour as a burnable puddle, or fuel a lamp for 6 
 **Where to find it:**
 - 2 × In the lamp-keeper's locker, [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) (The lantern room)
 - 2 × In Pantry cupboard, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The servants' hall)
+- 2 × In a pantry cupboard, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The kitchen)
 - In the carriage's driver box, [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md) (The carriage house)
 - 2 × In the larder shelves, [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md) (The larder)
 - 3 × In the lamplighters' cupboard, [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md) (The lamplighters' closet)
@@ -1596,7 +1599,7 @@ Flask: throw to douse a target, pour as a burnable puddle, or fuel a lamp for 6 
 - In Bluto's sea chest, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (Bluto's shack) (locked, DC 10)
 - 2 × In a locker left behind, [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) (The empty huts)
 - 2 × In a crate of supplies, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The hunter's storeroom)
-- 2 × In a shelf of bottling supplies, [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md) (The bottling room)
+- …and 1 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Perfume
@@ -1677,14 +1680,14 @@ Bonus Action to drink or give to a creature within 5 ft: regain 2d4 + 2 Hit Poin
 - In a warden's locker, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells) (locked, DC 14)
 - 3 × In a heap of offerings, [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md) (The vault of offerings)
 - Hidden: a loose hearthstone, [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) (The servants' hall) (found with Search, Perception DC 14)
+- In a cocooned satchel, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The ballroom)
+- In the steward's strongbox, [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) (The wine store) (locked, DC 14)
 - In the burgomaster's strongbox, [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) (The burgomaster's house) (locked, DC 15)
 - In Burgomaster's strongbox, [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) (Study) (locked, DC 12)
 - 2 × In an iron-bound chest under the bones, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The forgotten ossuary)
 - 2 × In a glass cabinet, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (The portrait gallery)
 - In a satchel on the straw, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The north cells)
-- 2 × In a stoker's pouch, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The stoker's crawl)
-- Hidden: a loose stone, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The south cells) (found with Search, Perception DC 14)
-- …and 43 more places
+- …and 45 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Vadoma](https://curseofstrahd.app/wiki/people/vadoma.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ## Scroll

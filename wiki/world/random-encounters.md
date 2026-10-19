@@ -4,7 +4,7 @@
 
 Travelling between places on the map can be interrupted. Each leg of a journey (one road between two places) rolls its road's chance, by day or by night; if something comes, a weighted pick among the entries whose condition holds decides what.
 
-The **By day** and **By night** columns are the chance of meeting that entry on one leg the first time, counting every entry that can happen at that time. A story condition that rules some out, or a one-time meeting you've already had, makes the rest more likely; what raises and lowers the odds is at the end of the page. A road you already know is quieter: its legs roll only 40% of these.
+The **By day** and **By night** columns are the chance of meeting that entry on one leg the first time, counting every entry that can happen at that time. A story condition that rules some out, or a one-time meeting you've already had, makes the rest more likely; what raises and lowers the odds is at the end of the page. A road you already know is quieter: its legs roll only 10% of these.
 
 ## Amber Temple Road
 The ice stair between the Tsolenka Pass and the Amber Temple: whiteouts, a dead expedition, gargoyles off the cliffs, and the frozen dead who climb at night.
@@ -13,7 +13,7 @@ The ice stair between the Tsolenka Pass and the Amber Temple: whiteouts, a dead 
 
 **Fought on:** [The Ice Stair](https://curseofstrahd.app/wiki/locations/the-ice-stair.md), [A Narrow Pass](https://curseofstrahd.app/wiki/locations/a-narrow-pass.md), [A Frozen Tarn](https://curseofstrahd.app/wiki/locations/a-frozen-tarn.md).
 
-Something happens on 25% of legs by day and 45% by night (10% and 18% on ground you know).
+Something happens on 25% of legs by day and 45% by night (2.5% and 4.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ The knights' road: a narrow track that leaves the Svalich Woods and climbs throu
 
 **Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
 
-Something happens on 15% of legs by day and 40% by night (6% and 16% on ground you know).
+Something happens on 15% of legs by day and 40% by night (1.5% and 4% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ The mountain roads north of Vallaki: up Mount Baratok, along the high ridges and
 
 **Fought on:** [A Mountain Ledge](https://curseofstrahd.app/wiki/locations/a-mountain-ledge.md), [A Narrow Pass](https://curseofstrahd.app/wiki/locations/a-narrow-pass.md), [A Frozen Tarn](https://curseofstrahd.app/wiki/locations/a-frozen-tarn.md).
 
-Something happens on 20% of legs by day and 40% by night (8% and 16% on ground you know).
+Something happens on 20% of legs by day and 40% by night (2% and 4% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ The marsh track between Vallaki and the drowned village of Berez: Baba Lysaga's 
 
 **Fought on:** [The Marsh Track](https://curseofstrahd.app/wiki/locations/the-marsh-track.md), [The Sunken Causeway](https://curseofstrahd.app/wiki/locations/the-sunken-causeway.md), [The Barrow Moor](https://curseofstrahd.app/wiki/locations/the-barrow-moor.md).
 
-Something happens on 20% of legs by day and 45% by night (8% and 18% on ground you know).
+Something happens on 20% of legs by day and 45% by night (2% and 4.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ The miller's lane between the Old Svalich Road and Old Bonegrinder: close pines 
 
 **Fought on:** [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md).
 
-Something happens on 20% of legs by day and 45% by night (8% and 18% on ground you know).
+Something happens on 20% of legs by day and 45% by night (2% and 4.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ The Old Svalich Road west of Vallaki, climbing through pine and rock to Krezk at
 
 **Fought on:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md), [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
 
-Something happens on 20% of legs by day and 45% by night (8% and 18% on ground you know).
+Something happens on 20% of legs by day and 45% by night (2% and 4.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -122,7 +122,7 @@ The Old Svalich Road between the Gates, the village, the crossroads and Tser Poo
 
 **Fought on:** [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md).
 
-Something happens on 15% of legs by day and 40% by night (6% and 16% on ground you know).
+Something happens on 15% of legs by day and 40% by night (1.5% and 4% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ The Old Svalich Road through the Svalich Woods, between Tser Pool, Tser Falls an
 
 **Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [Graves by the Road](https://curseofstrahd.app/wiki/locations/graves-by-the-road.md).
 
-Something happens on 20% of legs by day and 50% by night (8% and 20% on ground you know).
+Something happens on 20% of legs by day and 50% by night (2% and 5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -169,7 +169,7 @@ The lake road west of Vallaki and the barrow track to Yester Hill: hedgerows, mo
 
 **Fought on:** [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [A Ruined Wayside Shrine](https://curseofstrahd.app/wiki/locations/a-ruined-wayside-shrine.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md).
 
-Something happens on 15% of legs by day and 40% by night (6% and 16% on ground you know).
+Something happens on 15% of legs by day and 40% by night (1.5% and 4% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -188,7 +188,7 @@ The trails through the hills between Vallaki, Lake Zarovich, the werewolves' den
 
 **Fought on:** [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md), [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md), [The Ravine Road](https://curseofstrahd.app/wiki/locations/the-ravine-road.md), [A Fork in the Road](https://curseofstrahd.app/wiki/locations/a-fork-in-the-road.md).
 
-Something happens on 20% of legs by day and 45% by night (8% and 18% on ground you know).
+Something happens on 20% of legs by day and 45% by night (2% and 4.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -208,7 +208,7 @@ The lake path between Vallaki's west gate and the fishers' landing: reeds, shing
 
 **Fought on:** [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md), [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md), [The Ford](https://curseofstrahd.app/wiki/locations/the-ford.md), [A Clearing in the Pines](https://curseofstrahd.app/wiki/locations/a-clearing-in-the-pines.md).
 
-Something happens on 10% of legs by day and 35% by night (4% and 14% on ground you know).
+Something happens on 10% of legs by day and 35% by night (1% and 3.5% on ground you know).
 
 | What | When | By day | By night | XP |
 |---|---|---|---|---|
@@ -287,4 +287,4 @@ When a night at camp in a risky place is interrupted, one of these comes out of 
 
 ## What lowers the odds
 
-- **Ground you know.** A leg rolls only 40% of its road's chance when you have walked that road before, or when the journey is bound for a place you have already been to: a road's 15% by day becomes 6% and its 40% by night 16%. Strahd's attention and the weather are added after the cut, so his patrols and a storm still find you. A first visit, and any fight the story starts, are never made quieter.
+- **Ground you know.** A leg rolls only 10% of its road's chance when you have walked that road before, or when the journey is bound for a place you have already been to: a road's 15% by day becomes 1.5% and its 40% by night 4%. Strahd's attention and the weather are added after the cut, so his patrols and a storm still find you. A first visit, and any fight the story starts, are never made quieter.

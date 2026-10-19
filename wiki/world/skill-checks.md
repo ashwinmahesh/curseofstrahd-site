@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/world/skill-checks.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 Skill checks you can try out in the world, by place. Walk up to the thing and pick the check from its menu; the hero you have selected rolls. Most can be tried once: a failed check is final. A check that finds a hiding place shows where it is, and the spot glows until you use it: what's hidden there comes out when you do.
-148 checks in all.
+149 checks in all.
 
 ## Into the Mists
 
@@ -151,6 +151,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) | The chapel altar | Religion 15 | Pray at the dragon's altar | finds Bowl of Commanding Water Elementals |
 | [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) | Armour stands | Athletics 14 | Shift the armour stands | finds Flame Tongue Longsword |
 | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) | Burned bookcases | Arcana 15 | Search the burned books for a spell | Spell Scroll (Dispel Magic) |
+| [Argynvostholt, West Wing](https://curseofstrahd.app/wiki/locations/argynvostholt-west-wing.md) | A rattling iron pot | Investigation 13 | Lift the pot's lid | 25 gp; on a failure: text The iron lid refuses to budge, stinging your fingers with a fierce heat that a dead stove has no business keeping. |
 
 ## Van Richten's Tower
 
