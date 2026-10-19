@@ -143,6 +143,8 @@ Barovia is crossed on the travel map (M): pick a place you know of and the party
 
 - [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): The high road over the mountains to the Amber Temple: a cliff road, a stone bridge over a gorge where the roc of Mount Ghakis hunts, and a guard tower whose portcullis has been down for centuries.
 - [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): The watch tower over the Tsolenka gate: a guardroom where dead soldiers still stand their posts, bunks nobody sleeps in, the winch that raises the portcullis, and the captain's room.
+- [The Tsolenka Guard Tower, Roof](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-roof.md): The open roof of the tower in the cloud, with a gilded stone knight at each corner and the whole pass below.
+- [The Tsolenka Guard Tower, Lookout](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-lookout.md): The tower's upper floor: a bare lookout under the roof where the watch kept an eye on the road, with a spyglass at the slit window and a hatch to the roof.
 
 ## [Mount Ghakis](https://curseofstrahd.app/wiki/regions/mount-ghakis.md) (level 10)
 
@@ -162,6 +164,7 @@ Barovia is crossed on the travel map (M): pick a place you know of and the party
 
 ## [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) (level 10)
 
+- [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md): Far below the dungeon, a stair that was never on the household's plans: a landing guarded by a warding glyph, a vault with a cold white brazier, a floating hourglass and two iron knights, and a long low tunnel through the black rock to the catacombs.
 - [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): The crypts under the castle where the house of von Zarovich keeps its dead in rows: generals, servants, a conjurer, a jester, a champion watched by stone, and the black horse's stall. Stairs lead up to the castle and down to the oldest tombs.
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): The tomb at the bottom of the castle where Strahd von Zarovich keeps his coffin and sleeps away the day. The only place in the valley where he can be ended for good.
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): The oldest tombs under the castle: Sergei von Zarovich's white tomb, a hall of stone guardians, and the vault where King Barov and Queen Ravenovia lie side by side.

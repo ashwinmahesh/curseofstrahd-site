@@ -23,7 +23,7 @@ Two ways in:
 - **The well-head.** From party level 9, an old mossy well-head appears on the shore of Lake Baratok at [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md), a little east of where the path comes up (Ezmerelda's camp is to the west). Lean over it and something far below whispers "Don't come down. Don't read anything. Please. Don't touch the desk." The quest starts at Asked.
 - **Mordenkainen.** Once you've destroyed Khazan ([The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)) and brought him Corvina's letters, [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md)'s next answer to "Heard anything interesting?" in [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) is a dream of a small voice coming up a well. The quest starts at Rumored.
 
-Either way, once the quest has started, the well-head has a way down: "Down the old well-shaft".
+Either way, once the quest has started, the well-head has a way down. Click the well-head and choose "Climb down the well-shaft.", or walk onto the shaft beside it. The climb takes a few minutes, and going down either way moves a Rumored quest to Asked.
 
 ### Step by step
 

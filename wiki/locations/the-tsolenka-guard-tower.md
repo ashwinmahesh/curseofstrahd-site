@@ -7,7 +7,7 @@
 > **Region:** [The Tsolenka Pass](https://curseofstrahd.app/wiki/regions/the-tsolenka-pass.md) · level 9
 > **Resting:** Risky
 > **Light:** dim
-> **Getting here:** [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)
+> **Getting here:** [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md), [The Tsolenka Guard Tower, Lookout](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-lookout.md)
 > **Quests:** [The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md), [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md), [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md), [The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md)
 
 ## Overview
@@ -26,12 +26,14 @@ The door from the road opens into a vestibule and the guardroom. The gatehouse w
 ### Ways in
 
 - **From [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md):** The guard tower's door
+- **From [The Tsolenka Guard Tower, Lookout](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-lookout.md):** Stairs down to the guardroom
 
 ### Ways out
 
 | # | Exit | Leads to | Only when |
 |---|---|---|---|
 | 1 | Out to the road | [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) |  |
+| 2 | Stairs up to the lookout | [The Tsolenka Guard Tower, Lookout](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-lookout.md) |  |
 
 ## Map
 
@@ -53,17 +55,17 @@ The door from the road opens into a vestibule and the guardroom. The gatehouse w
 ## People
 
 > [!note]- Who turns up at points in the story (2)
-> - **[Sergeant Dorin Valcu](https://curseofstrahd.app/wiki/people/sergeant-dorin-valcu.md)**, The guardroom (#2): when not tsolenka watch released and not tsolenka watch fought
-> - **[Phantom Watchman](https://curseofstrahd.app/wiki/people/phantom-watchman.md)**, The guardroom (#3): when not tsolenka watch released and not tsolenka watch fought
+> - **[Sergeant Dorin Valcu](https://curseofstrahd.app/wiki/people/sergeant-dorin-valcu.md)**, The guardroom (#3): when not tsolenka watch released and not tsolenka watch fought
+> - **[Phantom Watchman](https://curseofstrahd.app/wiki/people/phantom-watchman.md)**, The guardroom (#4): when not tsolenka watch released and not tsolenka watch fought
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | a footlocker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), 20 gp | open it |
-| 5 | the captain's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 90 gp | lock DC 15 |
-| 8 | armour that never rusted (hidden) | [+2 Half Plate Armor](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2) | Search: Investigation DC 16 |
-| 9 | the watch horn behind the winch (hidden) | [Horn of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-blasting) | Search: Perception DC 14 |
+| 5 | a footlocker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), 20 gp | open it |
+| 6 | the captain's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 90 gp | lock DC 15 |
+| 9 | armour that never rusted (hidden) | [+2 Half Plate Armor](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2) | Search: Investigation DC 16 |
+| 10 | the watch horn behind the winch (hidden) | [Horn of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-blasting) | Search: Perception DC 14 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Tsolenka Pass Guard Tower (captains_strongbox)
 
@@ -73,8 +75,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 6 | a table with dice | Sleight of Hand 15 | Win a hand at the watch's dice | 40 gp |
-| 7 | the watch roster | Deception 15 | Sign the roster as the relief watch | Heroic Inspiration; unlocks captains strongbox; on a failure: 1d6 cold damage |
+| 7 | a table with dice | Sleight of Hand 15 | Win a hand at the watch's dice | 40 gp |
+| 8 | the watch roster | Deception 15 | Sign the roster as the relief watch | Heroic Inspiration; unlocks captains strongbox; on a failure: 1d6 cold damage |
 
 ## Fights
 

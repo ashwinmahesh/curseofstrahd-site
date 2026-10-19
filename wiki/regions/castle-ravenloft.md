@@ -8,6 +8,7 @@ Built for a party of about level 10: random treasure here is rolled for that lev
 
 ## Places
 
+- [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md): Far below the dungeon, a stair that was never on the household's plans: a landing guarded by a warding glyph, a vault with a cold white brazier, a floating hourglass and two iron knights, and a long low tunnel through the black rock to the catacombs.
 - [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): The crypts under the castle where the house of von Zarovich keeps its dead in rows: generals, servants, a conjurer, a jester, a champion watched by stone, and the black horse's stall. Stairs lead up to the castle and down to the oldest tombs.
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): The tomb at the bottom of the castle where Strahd von Zarovich keeps his coffin and sleeps away the day. The only place in the valley where he can be ended for good.
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): The oldest tombs under the castle: Sergei von Zarovich's white tomb, a hall of stone guardians, and the vault where King Barov and Queen Ravenovia lie side by side.

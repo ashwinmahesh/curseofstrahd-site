@@ -65,6 +65,9 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 
 5. **Raise the gate.** The winch is in the gatehouse, the room at the north-west corner. Until the watch is passed, released or beaten, a grey hand closes over the crank. After that, "Haul on the winch." lifts the portcullis. The quest ends at Open, and the road up to the Amber Temple (3 hours) appears on your travel map.
 
+6. **Through the gate.** Behind the raised portcullis a curtain of green fire hangs across the passage. Walk into it and the first of you takes 4d10 fire (Dexterity DC 15 for half), and then it's gone. To put it out first, click it: Arcana DC 15, "Study the weave for the knot that holds it." (one try for the party), or cast Dispel Magic on it if anyone has it prepared. "Step back from it." always works.
+   - **The stone demons.** Two stone demons stand against the wall either side of the gate. If you fought the watch, they wake as you step out of the tower: two [Vrocks](https://curseofstrahd.app/wiki/bestiary/vrock.md), 200 HP each below level 8, 280 at 8, 380 at 9 and 420 at 10. Get past the watch any other way and they stay stone.
+
 ### Choices and endings
 
 - **Open** (success) is the only ending. How you got past the watch matters afterwards:
@@ -76,6 +79,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 - **Releasing or fighting the watch removes the sergeant.** You lose his news, but not the quests: read the watch log in the captain's room for The Warm Snow and, with the gate open and from level 10, The Guide to the Temple.
 - **No watchword option?** Mordenkainen gives you the word once he's restored, and the watch log in the captain's room has it too. Read the log, then talk to the sergeant again.
 - **Persuasion and Religion share one attempt,** and the lie gets one try of its own. The cleric's rites and the fight always work.
+- **The tower climbs higher.** A stair niche in the guardroom's south wall leads up to the lookout, and its hatch to the roof. Neither holds anything you need.
 
 ## Rewards
 
@@ -103,6 +107,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 > **Open** (the end: success): The Tsolenka portcullis is up. The road climbs on into the cloud, toward the Amber Temple.
 
 > [!abstract]- Every skill check in its conversations
+> - Arcana DC 15: Study the weave for the knot that holds it.
 > - Deception DC 15: We're the relief. Your watch is over.
 > - Persuasion DC 15: Sergeant, the crown that gave you your orders is gone, and so are you.
 > - Religion DC 13: Let us say the words for your lads, and stand the watch while they rest.

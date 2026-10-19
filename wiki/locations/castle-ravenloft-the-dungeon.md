@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** No sleeping here
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)
+> **Getting here:** [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md), [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md)
 > **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Cook's Guests](https://curseofstrahd.app/wiki/quests/the-cooks-guests.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md)
 
 ## Overview
@@ -25,6 +25,7 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 
 ### Ways in
 
+- **From [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md):** Stairs up to the dungeon hall
 - **From [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md):** Stairs down to the dungeon
 - **From [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md):** The lift cage, down to the cells
 
@@ -34,6 +35,7 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 |---|---|---|---|
 | 1 | Stairs up to the larders | [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md) |  |
 | 2 | The lift cage, up to the larders | [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md) |  |
+| 3 | Stairs down to the brazier room | [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md) |  |
 
 ## Map
 
@@ -54,24 +56,24 @@ Cold stone, dripping vaults and the sound of chains settling. Far off, a furnace
 
 ## People
 
-- **[The Dead Turnkey](https://curseofstrahd.app/wiki/people/the-dead-turnkey.md)**, Of the Castle Watch: The passage between the cells (#6)
+- **[The Dead Turnkey](https://curseofstrahd.app/wiki/people/the-dead-turnkey.md)**, Of the Castle Watch: The passage between the cells (#7)
 
 > [!note]- Who turns up at points in the story (3)
-> - **[Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md)**, The north cells (#3): when not larders nadia fate or larders nadia fate is “waits”
-> - **[Doru](https://curseofstrahd.app/wiki/people/doru.md)**, The north cells (#4): when doru freed and not larders doru destroyed and larders doru fate isn't “rest” and larders doru fate isn't “freed”
-> - **[Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md)**, The south cells (#5): when not larders anatol destroyed and larders anatol fate isn't “freed”
+> - **[Nadia Boteanu](https://curseofstrahd.app/wiki/people/nadia-boteanu.md)**, The north cells (#4): when not larders nadia fate or larders nadia fate is “waits”
+> - **[Doru](https://curseofstrahd.app/wiki/people/doru.md)**, The north cells (#5): when doru freed and not larders doru destroyed and larders doru fate isn't “rest” and larders doru fate isn't “freed”
+> - **[Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md)**, The south cells (#6): when not larders anatol destroyed and larders anatol fate isn't “freed”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 7 | the jailers' chest | [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet), 26 gp | open it |
-| 8 | a satchel on the straw | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 12 gp | open it |
-| 9 | a chest of instruments | [Thieves' Tools](https://curseofstrahd.app/wiki/items/equipment.md#thieves-tools), [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, 18 gp | open it |
-| 10 | a stoker's pouch | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 15 gp | open it |
-| 11 | a drawer at the head of the table of bones | 60 gp | open it |
-| 14 | a loose stone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
-| 15 | a stone set into the throne of bones (hidden) | [Ioun Stone (Strength)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-strength) | Search: Perception DC 16 |
+| 8 | the jailers' chest | [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet), 26 gp | open it |
+| 9 | a satchel on the straw | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 12 gp | open it |
+| 10 | a chest of instruments | [Thieves' Tools](https://curseofstrahd.app/wiki/items/equipment.md#thieves-tools), [Manacles](https://curseofstrahd.app/wiki/items/equipment.md#manacles) ×2, 18 gp | open it |
+| 11 | a stoker's pouch | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 15 gp | open it |
+| 12 | a drawer at the head of the table of bones | 60 gp | open it |
+| 15 | a loose stone (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 14 |
+| 16 | a stone set into the throne of bones (hidden) | [Ioun Stone (Strength)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-strength) | Search: Perception DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Hall of Bones (larders_bone_table)
 
@@ -81,15 +83,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 12 | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
-| 13 | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
+| 13 | great gears turning by themselves | Investigation 15 | Work out where the gears' draught comes from | reveals larders_crawl_furnace |
+| 14 | a skeleton in shackles | Insight 14 | Read the dead prisoner's tally | reveals larders_open_cell_pit |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 16 | the lamp over the table | 14 | 15 | DEX 15 | 4d10 fire |
-| 17 | a false floor | 15 | 15 | DEX 14 | 4d6 bludgeoning |
+| 17 | the lamp over the table | 14 | 15 | DEX 15 | 4d10 fire |
+| 18 | a false floor | 15 | 15 | DEX 14 | 4d6 bludgeoning |
 
 ### Locked and secret doors
 

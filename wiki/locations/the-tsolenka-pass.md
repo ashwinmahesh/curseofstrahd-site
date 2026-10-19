@@ -79,6 +79,12 @@ The containers here also get random magic items and potions, rolled for a party 
 | 10 | Bones on the shelf | Medicine 15 | Examine the roc's leavings | finds Wings of Flying |
 | 11 | Carved faces | History 15 | Read the carved faces | lore: The watch at Tsolenka |
 
+### Traps
+
+| # | Trap | Find DC | Disarm DC | Save | Damage |
+|---|---|---|---|---|---|
+| 15 | the curtain of green fire | 40 | — | DEX 15 | 4d10 fire |
+
 ## Fights
 
 - *A shadow the size of a barn roof slides across the bridge. Then the wind comes, and the scream, and the…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md). Scales with your level. Starts when you reach the bridge.
@@ -95,6 +101,13 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (170 HP), 3 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (8550 XP)
 
 - *The stone birds come down on the shelf with a sound like a quarry falling, and the falconer lands among them,…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): The Falconer ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 150 HP), 2 × The Falconer's Hand ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 6 × A Stone Bird ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)). Starts from a conversation. Part of [The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md).
+
+- *Grey stone cracks like old ice along the two carved beasts beside the gate, flaking off wet flesh. They…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md). Scales with your level. Starts when you come under the tower.
+> [!example]- Every version (the first whose condition holds is the fight you get)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when tsolenka gate open and tsolenka watch fate is “fought” and not tsolenka vrocks woke and level ≥ 10: 2 × A Stone Demon ([Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md), 420 HP) (4600 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when tsolenka gate open and tsolenka watch fate is “fought” and not tsolenka vrocks woke and level ≥ 9: 2 × A Stone Demon ([Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md), 380 HP) (4600 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when tsolenka gate open and tsolenka watch fate is “fought” and not tsolenka vrocks woke and level ≥ 8: 2 × A Stone Demon ([Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md), 280 HP) (4600 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when tsolenka gate open and tsolenka watch fate is “fought” and not tsolenka vrocks woke: 2 × A Stone Demon ([Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md), 200 HP) (4600 XP)
 
 ### At camp here
 

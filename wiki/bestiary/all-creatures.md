@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/all-creatures.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every creature the party can fight: 149 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
+Every creature the party can fight: 151 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
 
 | | Creature | Type | Size | CR | XP | AC | HP | Speed | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -118,6 +118,7 @@ Every creature the party can fight: 149 of them, with their stat blocks' numbers
 | ![wraith](https://curseofstrahd.app/wiki/img/portraits/wraith.webp) | [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) | undead | medium | 5 | 1800 | 13 | 67 | 5 ft, fly 60 ft, hover True ft | 6 | 16 | 16 | 12 | 14 | 15 |
 | ![mage](https://curseofstrahd.app/wiki/img/portraits/mage.webp) | [Mage](https://curseofstrahd.app/wiki/bestiary/mage.md) | humanoid | medium | 6 | 2300 | 15 | 81 | 30 ft | 9 | 14 | 11 | 17 | 12 | 11 |
 | ![strahds animated armor](https://curseofstrahd.app/wiki/img/portraits/strahds-animated-armor.webp) | [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) | construct | medium | 6 | 2300 | 21 | 112 | 30 ft | 17 | 13 | 16 | 9 | 10 | 9 |
+| ![vrock](https://curseofstrahd.app/wiki/img/portraits/vrock.webp) | [Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md) | fiend | large | 6 | 2300 | 15 | 152 | 40 ft, fly 60 ft | 17 | 15 | 18 | 8 | 13 | 8 |
 | ![mimic](https://curseofstrahd.app/wiki/img/portraits/mimic.webp) | [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) | monstrosity | huge | 7 | 2900 | 14 | 171 | 30 ft | 20 | 12 | 17 | 6 | 13 | 8 |
 | ![tree blight](https://curseofstrahd.app/wiki/img/portraits/tree-blight.webp) | [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) | plant | huge | 7 | 2900 | 15 | 115 | 30 ft | 23 | 10 | 20 | 6 | 10 | 3 |
 | ![vladimir horngaard](https://curseofstrahd.app/wiki/img/portraits/vladimir-horngaard.webp) | [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) | undead | medium | 7 | 2900 | 17 | 195 | 30 ft | 18 | 14 | 18 | 13 | 16 | 18 |
@@ -155,3 +156,4 @@ Every creature the party can fight: 149 of them, with their stat blocks' numbers
 | ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Vampire](https://curseofstrahd.app/wiki/bestiary/vampire.md) | undead | medium | 13 | 10000 | 16 | 195 | 40 ft, climb 40 ft | 18 | 18 | 18 | 17 | 15 | 18 |
 | ![exethanter](https://curseofstrahd.app/wiki/img/portraits/exethanter.webp) | [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) | undead | medium | 14 | 11500 | 18 | 190 | 30 ft | 11 | 16 | 20 | 21 | 14 | 16 |
 | ![strahd](https://curseofstrahd.app/wiki/img/portraits/strahd.webp) | [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) | undead | medium | 15 | 13000 | 16 | 144 | 30 ft | 18 | 18 | 18 | 20 | 15 | 18 |
+| ![helmed horror](https://curseofstrahd.app/wiki/img/portraits/helmed-horror.webp) | [Iron Golem](https://curseofstrahd.app/wiki/bestiary/iron-golem.md) | construct | large | 16 | 15000 | 20 | 252 | 30 ft | 24 | 9 | 20 | 3 | 11 | 1 |

@@ -25,7 +25,7 @@
   <url><loc>https://curseofstrahd.app/wiki/bestiary/boar.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/boar.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/broom-of-animated-attack.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/brown-bear.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/brown-bear.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/bestiary/commoner.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/commoner.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/bestiary/commoner.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/commoner.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/vampire.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/crawling-claw.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/crawling-claw.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/cultist.html</loc><lastmod>2026-10-14</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/cultist.webp</image:loc></image:image></url>
@@ -65,6 +65,7 @@
   <url><loc>https://curseofstrahd.app/wiki/bestiary/griffon.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/griffon.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/guardian-portrait.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/guardian-portrait.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/helmed-horror.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/helmed-horror.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/bestiary/iron-golem.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/helmed-horror.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/izek-strazni.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/izek.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/jackal.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/jackal.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/kasimir-velikov.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/kasimir-velikov.webp</image:loc></image:image></url>
@@ -141,6 +142,7 @@
   <url><loc>https://curseofstrahd.app/wiki/bestiary/vampire.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/vampire.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/vine-blight.html</loc><lastmod>2026-10-14</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/vine-blight.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/vladimir-horngaard.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/bestiary/vrock.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/vrock.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/warrior-veteran.html</loc><lastmod>2026-10-14</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/warrior-veteran.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/water-elemental.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/water-elemental.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/bestiary/weasel.html</loc><lastmod>2026-10-12</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/portraits/weasel.webp</image:loc></image:image></url>
@@ -195,10 +197,11 @@
   <url><loc>https://curseofstrahd.app/wiki/locations/burgomasters-mansion.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-burgomaster-mansion-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-strahd-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.html</loc><lastmod>2026-10-19</lastmod></url>
-  <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-overview.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-chapel-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-court-overview.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-overview.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-larders-dungeon-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-gates-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-heart-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-overview.webp</image:loc></image:image></url>
@@ -272,8 +275,10 @@
   <url><loc>https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-berez-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/the-sunken-causeway.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-bog-causeway-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/the-svalich-woods.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-road-forest-overview.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-overview.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-overview.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-lookout.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower-roof.html</loc><lastmod>2026-10-19</lastmod></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-guard-tower-overview.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-tsolenka-pass-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/the-undercroft.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-undercroft-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/the-vistani-camp.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-vallaki-vistani-camp-overview.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/loc-abbey-of-st-markovia-wards-overview.webp</image:loc></image:image></url>
@@ -647,7 +652,7 @@
   <url><loc>https://curseofstrahd.app/wiki/quests/the-destined-ally.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-find-the-ally.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-doll-collector.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-izek-obsession.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-dragons-beacon.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-dark-beacon.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/quests/the-drowned-library.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-drowned-library.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/quests/the-drowned-library.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-drowned-library.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-druid-who-came-back.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-druid-who-came-back.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-festival-of-the-blazing-sun.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-fine-print.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-fine-print.webp</image:loc></image:image></url>
@@ -697,7 +702,7 @@
   <url><loc>https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-tinkers-wagon.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-tome-of-strahd.html</loc><lastmod>2026-10-15</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-find-the-tome.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-toymakers-masterpiece.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-toymakers-masterpiece.webp</image:loc></image:image></url>
-  <url><loc>https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-tsolenka-gate.webp</image:loc></image:image></url>
+  <url><loc>https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.html</loc><lastmod>2026-10-19</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-tsolenka-gate.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-unnamed-crypt.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-wailing-hall.html</loc><lastmod>2026-10-18</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-patrinas-wail.webp</image:loc></image:image></url>
   <url><loc>https://curseofstrahd.app/wiki/quests/the-warm-snow.html</loc><lastmod>2026-10-17</lastmod><image:image><image:loc>https://curseofstrahd.app/wiki/img/shots/quest-the-warm-snow.webp</image:loc></image:image></url>
@@ -721,7 +726,7 @@
   <url><loc>https://curseofstrahd.app/wiki/regions/the-abbey-of-st-markovia.html</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://curseofstrahd.app/wiki/regions/the-amber-temple.html</loc><lastmod>2026-10-18</lastmod></url>
   <url><loc>https://curseofstrahd.app/wiki/regions/the-old-svalich-road.html</loc><lastmod>2026-10-18</lastmod></url>
-  <url><loc>https://curseofstrahd.app/wiki/regions/the-tsolenka-pass.html</loc><lastmod>2026-10-11</lastmod></url>
+  <url><loc>https://curseofstrahd.app/wiki/regions/the-tsolenka-pass.html</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://curseofstrahd.app/wiki/regions/the-village-of-barovia.html</loc><lastmod>2026-10-19</lastmod></url>
   <url><loc>https://curseofstrahd.app/wiki/regions/the-werewolf-den.html</loc><lastmod>2026-10-14</lastmod></url>
   <url><loc>https://curseofstrahd.app/wiki/regions/the-wizard-of-wines.html</loc><lastmod>2026-10-18</lastmod></url>

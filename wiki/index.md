@@ -16,9 +16,9 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 
 ## The world
 
-- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 119 places, each with a map and screenshots
+- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 122 places, each with a map and screenshots
 - [People](https://curseofstrahd.app/wiki/people/all-people.md): all 291, with where to find them
-- [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 149 creatures and their stat blocks
+- [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 151 creatures and their stat blocks
 - [World Skill Checks](https://curseofstrahd.app/wiki/world/skill-checks.md): everything in the world you can try a check on
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
 - [Random Encounters](https://curseofstrahd.app/wiki/world/random-encounters.md): what the roads can throw at you
@@ -53,4 +53,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `ee02f903f` on 2026-10-19 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `0a2f346c2` on 2026-10-19 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

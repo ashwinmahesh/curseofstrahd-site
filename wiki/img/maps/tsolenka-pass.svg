@@ -162,4 +162,6 @@
 <text x="136.0" y="316.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">13</text>
 <circle cx="136.0" cy="440.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
 <text x="136.0" y="444.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">14</text>
+<circle cx="488.0" cy="104.0" r="9.92" fill="#ff8c1a" stroke="#120709" stroke-width="2"/>
+<text x="488.0" y="108.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">15</text>
 </svg>

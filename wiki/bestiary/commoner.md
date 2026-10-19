@@ -32,3 +32,7 @@ An ordinary villager who fights only when cornered and flees at the first chance
 ### Actions
 
 - **Club.** Swings a club.
+
+## Where you meet it
+
+- [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md): *The pale figure of the count comes at you in silence, one gloved hand raised to strike.*
