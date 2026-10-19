@@ -49,7 +49,7 @@ If Madam Eva's cards named him and he joins you before you've asked, he tells yo
 ### If you're stuck
 
 - The letters don't exist until he has asked for them. Talk to him first.
-- He has to be restored first. If he joins you as your Tarokka ally, he starts the quest as he joins (if he hasn't already) and reads the letters out on the mountain, so you never need to go back to the hut.
+- He has to be restored first. If he joins you as your Tarokka ally, he starts the quest as he joins (if he hasn't already) and reads the letters out on the mountain, so you never need to go back to the hut. While he travels with you, you can hand them over anywhere: click him and choose "We found three letters that belong to you.", or use **Give...** with the three lost letters. If you already hold all three when he joins, he asks for them before you set off.
 - You can do this before or after you lay Corvina to rest in the castle ([The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)). The slip of paper in her coat gives you her name, but until you've brought him the letters his news in the hut stays on them, and travelling with you he still reads them where you find the last one. His thanks for Corvina, and his news about Khazan, only come after.
 
 ## Rewards
@@ -79,6 +79,6 @@ If Madam Eva's cards named him and he joins you before you've asked, he tells yo
 
 ## Related
 
-- **People:** [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md), [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md)
+- **People:** [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md), [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md)
 - **Places:** [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md), [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)
 - **More in Mount Baratok:** [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md), [The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)

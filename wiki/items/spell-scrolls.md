@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/items/spell-scrolls.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every one of the game's 389 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 9 lie somewhere in the world. Of the rest, 259 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
+Every one of the game's 389 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 13 lie somewhere in the world. Of the rest, 259 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
 
 ## Reading a scroll
 
@@ -57,7 +57,6 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 - 2 × In a sealed reliquary with a slot in its lid, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The conjurer's crypt) (locked, DC 22; key: Arcane Focus (Wand)): a level 1 spell
 - In a chest under the straw, [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) (The nest) (locked, DC 15): a level 1 spell
 - In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room): a level 1 spell
-- 2 × Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)): a level 1 spell
 - Given by [Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md) in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) ([The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md)): a level 1 spell
 
 ## Scrolls the story asks for
@@ -420,12 +419,12 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 | Spell | Read by | Sold by | Found |
 |---|---|---|---|
 | [Blade Barrier](https://curseofstrahd.app/wiki/spells/level-6-spells.md#blade-barrier) | Cleric | [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) 6,250 gp (from party level 9) | — |
-| [Chain Lightning](https://curseofstrahd.app/wiki/spells/level-6-spells.md#chain-lightning) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |
+| [Chain Lightning](https://curseofstrahd.app/wiki/spells/level-6-spells.md#chain-lightning) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) |
 | [Circle of Death](https://curseofstrahd.app/wiki/spells/level-6-spells.md#circle-of-death) | Sorcerer, Warlock, Wizard | — | In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove) |
 | [Conjure Fey](https://curseofstrahd.app/wiki/spells/level-6-spells.md#conjure-fey) | Druid | — | random finds only |
 | [Create Undead](https://curseofstrahd.app/wiki/spells/level-6-spells.md#create-undead) | Cleric, Warlock, Wizard | — | random finds only |
 | [Dirge](https://curseofstrahd.app/wiki/spells/level-6-spells.md#dirge) | Bard, Cleric | — | random finds only |
-| [Disintegrate](https://curseofstrahd.app/wiki/spells/level-6-spells.md#disintegrate) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |
+| [Disintegrate](https://curseofstrahd.app/wiki/spells/level-6-spells.md#disintegrate) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) |
 | [Elminster’s Effulgent Spheres](https://curseofstrahd.app/wiki/spells/level-6-spells.md#elminsters-effulgent-spheres) | Druid, Sorcerer, Wizard | — | random finds only |
 | [Eyebite](https://curseofstrahd.app/wiki/spells/level-6-spells.md#eyebite) | Bard, Sorcerer, Warlock, Wizard | — | random finds only |
 | [Find the Path](https://curseofstrahd.app/wiki/spells/level-6-spells.md#find-the-path) | Bard, Cleric, Druid | — | random finds only |
@@ -455,12 +454,12 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 |---|---|---|---|
 | [Aura of Evasion](https://curseofstrahd.app/wiki/spells/level-7-spells.md#aura-of-evasion) | Sorcerer, Warlock, Wizard | — | random finds only |
 | [Conjure Celestial](https://curseofstrahd.app/wiki/spells/level-7-spells.md#conjure-celestial) | Cleric | — | random finds only |
-| [Delayed Blast Fireball](https://curseofstrahd.app/wiki/spells/level-7-spells.md#delayed-blast-fireball) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |
+| [Delayed Blast Fireball](https://curseofstrahd.app/wiki/spells/level-7-spells.md#delayed-blast-fireball) | Sorcerer, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) |
 | [Divine Word](https://curseofstrahd.app/wiki/spells/level-7-spells.md#divine-word) | Cleric | [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) 6,250 gp (from party level 9) | — |
 | [Etherealness](https://curseofstrahd.app/wiki/spells/level-7-spells.md#etherealness) | Bard, Cleric, Sorcerer, Warlock, Wizard | — | random finds only |
 | [Finger of Death](https://curseofstrahd.app/wiki/spells/level-7-spells.md#finger-of-death) | Sorcerer, Warlock, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |
 | [Fire Storm](https://curseofstrahd.app/wiki/spells/level-7-spells.md#fire-storm) | Cleric, Druid, Sorcerer | [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) 6,250 gp (from party level 9) | — |
-| [Forcecage](https://curseofstrahd.app/wiki/spells/level-7-spells.md#forcecage) | Bard, Warlock, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |
+| [Forcecage](https://curseofstrahd.app/wiki/spells/level-7-spells.md#forcecage) | Bard, Warlock, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) |
 | [Fractured Awareness](https://curseofstrahd.app/wiki/spells/level-7-spells.md#fractured-awareness) | Bard, Sorcerer, Warlock, Wizard | — | random finds only |
 | [Mordenkainen's Sword](https://curseofstrahd.app/wiki/spells/level-7-spells.md#mordenkainens-sword) | Bard, Wizard | — | In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study) |
 | [Plane Shift](https://curseofstrahd.app/wiki/spells/level-7-spells.md#plane-shift) | Cleric, Druid, Sorcerer, Warlock, Wizard | [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 6,250 gp (from party level 9) | — |

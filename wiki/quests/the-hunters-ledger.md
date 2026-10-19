@@ -7,11 +7,11 @@
 > **Region:** [Van Richten's Tower](https://curseofstrahd.app/wiki/regions/van-richtens-tower.md) · level 8
 > **Given by:** [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md)
 > **Starts at:** [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md)
-> **Rewards:** [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×10, [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior) ×2, [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×3, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×3, [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) ×3, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×4, [Scroll of Protection (Plant)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-plant), [Scroll of Protection (Fiend)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-fiend), [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) ×2, [+1 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-1) ×10, [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead), [Potion of Resistance (Necrotic)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-necrotic), [+2 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-2) ×8, [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire) ×2, [Scroll of Protection (Aberration)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-aberration), [+1 Light Crossbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1), [Mage Breaker (Dagger)](https://curseofstrahd.app/wiki/items/magic-items.md#mage-breaker)
+> **Rewards:** [+1 Ring Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1), [+2 Battleaxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), [+2 Spear](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), [Sun Blade (Longsword)](https://curseofstrahd.app/wiki/items/magic-items.md#sun-blade), [+2 Greataxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), [+2 Scale Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2), [+3 Maul](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-3), [+1 Light Crossbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1), [Mage Breaker (Dagger)](https://curseofstrahd.app/wiki/items/magic-items.md#mage-breaker), 1000 gp or 1250 gp or 1500 gp or 1750 gp or 2000 gp or 2500 gp, depending on how it goes
 
 ## Summary
 
-Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in a hunter's goods for proof that one is dead.
+Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in gold or in kit from her wagon for proof that one is dead.
 
 ## Walkthrough
 
@@ -48,29 +48,30 @@ In the book's order, which is also the order she pays them in:
 
 | # | Name | Where it dies | She names it from level | She pays |
 |---|---|---|---|---|
-| 1 | Dragan, one of Kiril's werewolves | At night, at the lip of [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (71 HP, AC 15, a bite that can curse you), a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), four wolves and a rat, and you're surprised | 3 | 10 [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) |
-| 2 | [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) | [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.md)) | 4 | 3 [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire), 10 [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) |
-| 3 | The count's fowlers ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and bats) | By the silver cage on [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md) ([The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md)) | 5 | 3 [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water), 10 [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) |
-| 4 | [The Vine Mother](https://curseofstrahd.app/wiki/bestiary/the-vine-mother.md) | The Seventh Row at [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) ([The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md)) | 5 | [Scroll of Protection (Plant)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-plant), 3 [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) |
-| 5 | [Morgantha](https://curseofstrahd.app/wiki/people/morgantha.md) | [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) ([The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md)) | 5 | [Scroll of Protection (Fiend)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-fiend), 2 [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water), 2 [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) |
-| 6 | Wintersplinter, a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) | Destroyed on [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md) ([The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)) | 6 | 3 [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire), 6 [+1 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-1) |
-| 7 | [The Count's Huntsman](https://curseofstrahd.app/wiki/people/the-huntsman.md) | Under the gallows at [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md)) | 7 | [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead), [Potion of Resistance (Necrotic)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-necrotic), 3 [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) |
-| 8 | [The Grandsire](https://curseofstrahd.app/wiki/people/the-grandsire.md) | In [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)'s square at the full moon ([The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md)) | 7 | 10 [+1 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-1) |
-| 9 | [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md) | The challenge fight in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) ([The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md)) | 7 | 10 [+1 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-1) |
-| 10 | [Khazan](https://curseofstrahd.app/wiki/people/khazan.md) | Destroyed for good [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md) ([The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)) | 7 | [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead), [Potion of Resistance (Necrotic)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-necrotic), 4 [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) |
-| 11 | [Baba Lysaga](https://curseofstrahd.app/wiki/people/baba-lysaga.md) | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) ([The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)) | 8 | 6 [+2 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-2), 3 [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) |
-| 12 | [Sarkhaza](https://curseofstrahd.app/wiki/people/sarkhaza.md) | [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md)) | 9 | 2 [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire), 8 [+2 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-2) |
-| 13 | [The Eye Below](https://curseofstrahd.app/wiki/people/the-eye-below.md) | [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) of the Amber Temple ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md)) | 9 | [Scroll of Protection (Aberration)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-aberration), 8 [+2 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-2) |
+| 1 | Dragan, one of Kiril's werewolves | At night, at the lip of [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (71 HP, AC 15, a bite that can curse you), a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), four wolves and a rat, and you're surprised | 3 | 1,000 gp |
+| 2 | [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) | [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Tinker's Wagon](https://curseofstrahd.app/wiki/quests/the-tinkers-wagon.md)) | 4 | 1,250 gp |
+| 3 | The count's fowlers ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and bats) | By the silver cage on [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md) ([The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md)) | 5 | 1,500 gp |
+| 4 | [The Vine Mother](https://curseofstrahd.app/wiki/bestiary/the-vine-mother.md) | The Seventh Row at [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) ([The Black Row](https://curseofstrahd.app/wiki/quests/the-black-row.md)) | 5 | 1,750 gp |
+| 5 | [Morgantha](https://curseofstrahd.app/wiki/people/morgantha.md) | [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) ([The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md)) | 5 | 2,000 gp |
+| 6 | Wintersplinter, a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) | Destroyed on [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md) ([The Wizard of Wines](https://curseofstrahd.app/wiki/quests/the-wizard-of-wines.md)) | 6 | 2,500 gp |
+| 7 | [The Count's Huntsman](https://curseofstrahd.app/wiki/people/the-huntsman.md) | Under the gallows at [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md)) | 7 | [+1 Ring Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1) |
+| 8 | [The Grandsire](https://curseofstrahd.app/wiki/people/the-grandsire.md) | In [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)'s square at the full moon ([The Pack's Runt](https://curseofstrahd.app/wiki/quests/the-packs-runt.md)) | 7 | [+2 Battleaxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) |
+| 9 | [Kiril Stoyanovich](https://curseofstrahd.app/wiki/people/kiril-stoyanovich.md) | The challenge fight, or the den's reckoning, in [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) ([The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md)) | 7 | [+2 Spear](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) |
+| 10 | [Khazan](https://curseofstrahd.app/wiki/people/khazan.md) | Destroyed for good [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md) ([The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md)) | 7 | [Sun Blade](https://curseofstrahd.app/wiki/items/magic-items.md#sun-blade) |
+| 11 | [Baba Lysaga](https://curseofstrahd.app/wiki/people/baba-lysaga.md) | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) ([The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)) | 8 | [+2 Greataxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) |
+| 12 | [Sarkhaza](https://curseofstrahd.app/wiki/people/sarkhaza.md) | [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) ([The Warm Snow](https://curseofstrahd.app/wiki/quests/the-warm-snow.md)) | 9 | [+2 Scale Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2) |
+| 13 | [The Eye Below](https://curseofstrahd.app/wiki/people/the-eye-below.md) | [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) of the Amber Temple ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md)) | 9 | [+3 Maul](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-3) |
 
-Every payment also carries healing, set by your lowest-level hero at the moment she pays:
-
-- **Below level 7:** 3 [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing).
-- **Level 7 or 8:** 2 [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), or 3 for Lysaga, Sarkhaza and the Eye Below.
-- **Level 9 and up:** 1 [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior), or 2 for the Huntsman and every name after him.
+The first six names pay gold; the seven hardest pay a magic item from her wagon.
 
 ### Choices and endings
 
-There's one ending, **Ledger Struck** (success), when all thirteen names are paid. She closes the book herself and, for once, isn't in a hurry. There's no deadline, no penalty and no companion approval either way. Each name's own quest carries what changes in the world; the ledger only pays.
+There are two endings:
+
+- **Ledger Struck** (success), when all thirteen names are paid. She closes the book herself and, for once, isn't in a hurry.
+- **Ledger Closed** (failure). If you've spared any of the four names she won't brief (below), then from level 9, once every other name in reach is struck, opening the ledger offers "Close the book at what we've struck." The option is marked as ending the quest. Closing it fails the quest; "Leave the ledger open for now." changes nothing. Even after the book is closed, she pays for a spared name you kill later, and paying the last one still brings Ledger Struck.
+
+There's no deadline and no companion approval either way. Each name's own quest carries what changes in the world; the ledger only pays.
 
 Your choices elsewhere change which names she'll still brief as hunts:
 
@@ -91,31 +92,24 @@ Only a kill strikes a name. Morgantha and Lysaga can still be killed after a bar
 
 ## Rewards
 
-- [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×10
-- [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior) ×2
-- [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×3
-- [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×3
-- [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) ×3
-- [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×4
-- [Scroll of Protection (Plant)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-plant)
-- [Scroll of Protection (Fiend)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-fiend)
-- [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) ×2
-- [+1 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-1) ×10
-- [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead)
-- [Potion of Resistance (Necrotic)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-necrotic)
-- [+2 Crossbow Bolt](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-2) ×8
-- [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire) ×2
-- [Scroll of Protection (Aberration)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-aberration)
+- [+1 Ring Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-1)
+- [+2 Battleaxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2)
+- [+2 Spear](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2)
+- [Sun Blade (Longsword)](https://curseofstrahd.app/wiki/items/magic-items.md#sun-blade)
+- [+2 Greataxe](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2)
+- [+2 Scale Mail](https://curseofstrahd.app/wiki/items/magic-items.md#armor-2)
+- [+3 Maul](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-3)
 - [+1 Light Crossbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1)
 - [Mage Breaker (Dagger)](https://curseofstrahd.app/wiki/items/magic-items.md#mage-breaker)
+- 1000 gp or 1250 gp or 1500 gp or 1750 gp or 2000 gp or 2500 gp, depending on how it goes
 
 ## Journal
 
 > [!quote]- Every journal entry and hint
-> **Heard**: Ezmerelda d'Avenir keeps a Hunter's Ledger: a battered book of the valley's killers, each with a price beside the name. She names three at a time and pays, in a hunter's goods, for every one the party kills.
+> **Heard**: Ezmerelda d'Avenir keeps a Hunter's Ledger: a battered book of the valley's killers, each with a price beside the name. She names three at a time and pays, in gold or in kit from her wagon, for every one the party kills.
 > *Hint:* Ask Ezmerelda about her ledger: at Van Richten's Tower, at the abbey switchback, in the Blue Water Inn's stable yard, or by clicking on her if she travels with the party.
 >
-> **Paying**: Ezmerelda has paid for a name struck from her ledger: silver-headed bolts, holy water, remedies, and later scrolls and better bolts. She will name the next three whenever we ask.
+> **Paying**: Ezmerelda has paid for a name struck from her ledger: gold for the easier names, and kit from her wagon for the hardest. She will name the next three whenever we ask.
 > *Hint:* Ask Ezmerelda about her ledger again, wherever she is, for the next three names, and for payment on the ones that are dead.
 >
 > **Half Struck**: Seven names are struck from Ezmerelda's ledger, and she has stopped calling us lucky beginners. The hardest names are all that is left.

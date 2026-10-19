@@ -144,7 +144,7 @@
 | Quest | Given by | What it's about |
 |---|---|---|
 | [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md) | [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md) | Something whispers up the old well on the shore of Lake Baratok, from the archmage Khazan's library under the lake: don't come down. |
-| [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in a hunter's goods for proof that one is dead. |
+| [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in gold or in kit from her wagon for proof that one is dead. |
 | [The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) | A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Richten and warded against one person in particular. |
 | [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md) | [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md) | Mordenkainen says the archmage who built the tower on the tarn never died: he moved downstairs, and he's waking. |
 
@@ -213,3 +213,9 @@
 | [The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md) |  | Kip Smudgewick signed a devil's contract to save his family's apricot orchard. The devil has offered him one way out: a signature from the lord of a land of mists. |
 | [The Last Lesson](https://curseofstrahd.app/wiki/quests/the-last-lesson.md) |  | Wren Featherfoot's old master, a dusk elf called Sorrel, died before Wren's training was finished, and left him one errand: a sealed letter for a brother named Kasimir, in the valley where the sun does not rise. |
 | [The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md) |  | Tamsin Tealeaf lifted a silver locket from a coach with no driver and no horses he could hear. The woman painted inside it has called his name in his dreams ever since. |
+
+## How a quest ends
+
+- **Options that end a quest are marked.** In a conversation, an option that closes a side or companion quest shows a broken seal, with "Ends" and the quest's name in its tooltip (or in a line under the menu on a controller). Choosing it closes the quest, for good or ill.
+- **A failed quest stays failed.** A few can still turn around later, and their pages say how: [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md), [The Children in the Pen](https://curseofstrahd.app/wiki/quests/the-children-in-the-pen.md), [Rest for Rose and Thorn](https://curseofstrahd.app/wiki/quests/rest-for-rose-and-thorn.md), [A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md), [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md) and [The Hunter's Ledger](https://curseofstrahd.app/wiki/quests/the-hunters-ledger.md).
+- **A notice says which way it went:** "Quest complete" (with its XP in Experience mode), "Quest failed", with a bell, or "Journal updated" for any other step.

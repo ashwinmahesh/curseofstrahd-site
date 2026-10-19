@@ -8,7 +8,7 @@
 > **Region:** [Mount Baratok](https://curseofstrahd.app/wiki/regions/mount-baratok.md) · level 9
 > **Given by:** [The Mad Mage](https://curseofstrahd.app/wiki/people/the-mad-mage.md)
 > **Starts at:** [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md)
-> **Rewards:** [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Ring of Spell Storing](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-spell-storing)
+> **Rewards:** [Spell Scroll (Chain Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), [Spell Scroll (Disintegrate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), [Spell Scroll (Delayed Blast Fireball)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls), [Spell Scroll (Forcecage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls), [Ring of Spell Storing](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-spell-storing)
 
 ## Summary
 
@@ -32,7 +32,7 @@ A powerful wizard lives alone on Mount Baratok with his memory gone. Someone too
    - **The cards:** if Madam Eva named him as your ally, he cheerfully agrees to come and then forgets who you are mid-sentence. He can't join until he's himself again.
 
 2. **Give him back his mind.** Any one of these works.
-   - **The spellbook in the cairn.** Climb to the summit in the north-west corner of the mountain. The cairn is ringed by his own ward, a thunder trap (spot DC 15, disarm DC 15, or Dexterity DC 15 against 4d6 thunder). Instead of disarming it, you can try Arcana DC 16 on the cairn to unpick it (one try; a miss costs 2d8 lightning). "Unstack the stones." finds his spellbook and two [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), and the quest moves to Book Found. Back in the hut, "Show him the spellbook from the cairn." gives him his name, then "Read him the last page." brings him back. No rolls needed.
+   - **The spellbook in the cairn.** Climb to the summit in the north-west corner of the mountain. The cairn is ringed by his own ward, a thunder trap (spot DC 15, disarm DC 15, or Dexterity DC 15 against 4d6 thunder). Instead of disarming it, you can try Arcana DC 16 on the cairn to unpick it (one try; a miss costs 2d8 lightning). "Unstack the stones." finds his spellbook and four spell scrolls ([Chain Lightning](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), [Disintegrate](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls), [Delayed Blast Fireball](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) and [Forcecage](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls)), and the quest moves to Book Found. Back in the hut, "Show him the spellbook from the cairn." gives him his name, then "Read him the last page." brings him back. No rolls needed.
    - **The witch's jar.** [Baba Lysaga](https://curseofstrahd.app/wiki/people/baba-lysaga.md) in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) keeps his memory in a jar on her shelf. You get it either by winning Intimidation DC 15 when you blackmail her, or by taking the labelled jar from her shelf once she's dead or broken ([The Witch of Berez](https://curseofstrahd.app/wiki/quests/the-witch-of-berez.md)). The quest moves to Jar Found. "Uncork the witch's jar for him." brings him back.
    - **Greater Restoration.** If the party is level 9 or higher and has a cleric, druid or bard, that character can cast [Greater Restoration](https://curseofstrahd.app/wiki/spells/level-5-spells.md#greater-restoration) on him from the menu.
    - **Talk him back.** Arcana DC 16, one try only. A miss fills the hut with a short, furious snowfall and the option is gone.
@@ -53,8 +53,8 @@ Worth a look while you're on the mountain:
 
 - **Ring of glass on the trail:** a wand fused into it (search DC 15: [Wand of Lightning Bolts](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-lightning-bolts)).
 - **Summit:** a stone that isn't part of the cairn (search DC 16: [Ioun Stone (Intellect)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-intellect)), and a cleft in the rock with 15 gp and a potion of healing.
-- **Frost garden:** a page blown into the snow (search DC 13: [Level 2 scrolls](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls)).
-- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations, a component pouch and a [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls).
+- **Frost garden:** a page blown into the snow (search DC 13: [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls)).
+- **Inside the hut** (Investigation DC 17 each): a chess piece that isn't a piece ([Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl)) and one book on the shelf that isn't blank ([Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding)). His travelling satchel holds rations, a component pouch and a [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls).
 
 ### Choices and endings
 
@@ -70,7 +70,10 @@ Worth a look while you're on the mountain:
 
 ## Rewards
 
-- [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2
+- [Spell Scroll (Chain Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls)
+- [Spell Scroll (Disintegrate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls)
+- [Spell Scroll (Delayed Blast Fireball)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls)
+- [Spell Scroll (Forcecage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls)
 - [Ring of Spell Storing](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-spell-storing)
 
 **What your companions think**
@@ -112,7 +115,7 @@ Worth a look while you're on the mountain:
 - **More in Mount Baratok:** [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md), [The Mage's Lost Pages](https://curseofstrahd.app/wiki/quests/the-mages-lost-pages.md)
 
 > [!example]- Cutscenes
-> **Under the Last Stone**: At the warded cairn on the summit, the last stone lifted away, an oilcloth bundle holds a grey spellbook and two scrolls.
+> **Under the Last Stone**: At the warded cairn on the summit, the last stone lifted away, an oilcloth bundle holds a grey spellbook and scrolls.
 > ![cairn open](https://curseofstrahd.app/wiki/img/cutscenes/cairn-open.webp)
 >
 > **Lightning on the Ridge**: One small cloud strikes the same ring of black glass every evening.

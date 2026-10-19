@@ -259,7 +259,7 @@ From [Count Off](https://curseofstrahd.app/wiki/quests/count-off.md)
 ![burial strahd](https://curseofstrahd.app/wiki/img/cutscenes/burial-strahd.webp)
 
 ## Under the Last Stone
-At the warded cairn on the summit, the last stone lifted away, an oilcloth bundle holds a grey spellbook and two scrolls.
+At the warded cairn on the summit, the last stone lifted away, an oilcloth bundle holds a grey spellbook and scrolls.
 From [The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)
 
 ![cairn open](https://curseofstrahd.app/wiki/img/cutscenes/cairn-open.webp)

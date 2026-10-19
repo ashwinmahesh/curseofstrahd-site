@@ -204,6 +204,16 @@ A location's traps are armed in its fights: any creature, friend or foe, that wa
 
 *Why:* The owner's call (2026-10-08) that traps fire in fights too; a pit fight with its bottom modelled would need depths on the grid
 
+### Standing from Prone outside a fight
+A hero knocked Prone outside a fight (a trap, a slip) gets up on their own, free: a couple of seconds after the fall, or at once when the party moves or acts, or when a fight starts. A hero at the bottom of a pit climbs out first; one at 0 Hit Points waits for healing
+
+*Why:* Standing costs half your Speed, and nothing outside a fight counts Speed or turns; making the player click "stand" after every trap would only be a chore
+
+### Conditions a trap gives
+A trap's condition other than Prone is a lasting effect that runs out with the clock, in a fight as outside one: its `condition_minutes` (Death House's soot Poisons for 10 minutes, the faceless statue's gaze Frightens for 1), else a minute for Frightened and ten for any other. It showed on the hero for good before
+
+*Why:* The rules leave a trap's durations to its text, and ours say none
+
 ### Merchants' prices (U11)
 A friendly merchant charges ×0.9 and pays ×1.1, a hostile one ×1.25 and ×0.75. One Persuasion check (DC 15 unless the shop says) wins ×0.9 and ×1.1 more with that merchant for good; a failure is final with that merchant (the owner's rule for failed social checks). Every price, buying or selling, at a shop, the trader, a temple or an inn, is rounded up to a whole gold piece after those factors (owner, 2026-10-08), so nothing with a price goes for less than 1 gp; free things stay free
 
