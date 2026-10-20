@@ -11,7 +11,7 @@
 
 ## Summary
 
-Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, and pays in gold or in kit from her wagon for proof that one is dead.
+Ezmerelda d'Avenir keeps a book of the valley's killers with a price beside each name, paying gold for the easier names and kit from her wagon for the hardest.
 
 ## Walkthrough
 
@@ -106,10 +106,10 @@ Only a kill strikes a name. Morgantha and Lysaga can still be killed after a bar
 ## Journal
 
 > [!quote]- Every journal entry and hint
-> **Heard**: Ezmerelda d'Avenir keeps a Hunter's Ledger: a battered book of the valley's killers, each with a price beside the name. She names three at a time and pays, in gold or in kit from her wagon, for every one the party kills.
+> **Heard**: Ezmerelda d'Avenir keeps a Hunter's Ledger: a battered book of the valley's killers, each with a price beside the name. She names three at a time and pays in gold for the easier names, and in good kit from her wagon for the hardest, for every one we kill.
 > *Hint:* Ask Ezmerelda about her ledger: at Van Richten's Tower, at the abbey switchback, in the Blue Water Inn's stable yard, or by clicking on her if she travels with the party.
 >
-> **Paying**: Ezmerelda has paid for a name struck from her ledger: gold for the easier names, and kit from her wagon for the hardest. She will name the next three whenever we ask.
+> **Paying**: Ezmerelda has paid in gold for a name struck from her ledger, and the harder names will pay in kit from her wagon. She will name the next three whenever we ask.
 > *Hint:* Ask Ezmerelda about her ledger again, wherever she is, for the next three names, and for payment on the ones that are dead.
 >
 > **Half Struck**: Seven names are struck from Ezmerelda's ledger, and she has stopped calling us lucky beginners. The hardest names are all that is left.
