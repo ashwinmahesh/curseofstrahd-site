@@ -16,6 +16,7 @@ The default keys. Every one can be changed in Settings, Keys, except **Esc** (me
 | Turn the camera right | E |  |
 | Tactical camera (from above) | O |  |
 | Next party member | Tab |  |
+| Show the battle grid (hold) | B |  |
 
 ## Exploring
 

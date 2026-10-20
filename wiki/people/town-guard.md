@@ -31,5 +31,6 @@ One of the Baron's watchmen: a spear, a festival ribbon pinned to the breastplat
 - [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md)
 - [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md)
 - [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md)
+- [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md)
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md)
 - [The Missing Girl](https://curseofstrahd.app/wiki/quests/the-missing-girl.md)

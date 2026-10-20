@@ -29,17 +29,17 @@ On a night road, once the party is level 7, he steps out of the fog with wolves 
 ## Ireena At the Inn
 Ireena left at the Blue Water Inn: on a night in Vallaki from the fourth day on, he is at her window and she is going to him.
 
-*When:* strahd watcher seen and ireena sanctuary is “inn” and not ireena with the party (once)
+*When:* strahd watcher seen and ireena sanctuary is “inn” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth) (once)
 
 ## Ireena In Krezk
 Ireena left with the Krezkovs: on a night in Krezk from the fourth day on, the wall has not kept him out of her window.
 
-*When:* strahd watcher seen and ireena in krezk and not ireena with the party (once)
+*When:* strahd watcher seen and ireena in krezk and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth) (once)
 
 ## Ireena At the Church
 Ireena in sanctuary at St. Andral's: on a night in Vallaki the bell tolls by itself and he calls her from the churchyard gate. Holy ground holds.
 
-*When:* strahd watcher seen and ireena sanctuary is “st andrals” and not ireena with the party (once)
+*When:* strahd watcher seen and ireena sanctuary is “st andrals” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth) (once)
 
 ## Invitation
 Once the party is level 9, his driverless black carriage waits on the road with a dinner invitation. Getting in takes the party to the castle's front door; refused, it comes back (up to three times).

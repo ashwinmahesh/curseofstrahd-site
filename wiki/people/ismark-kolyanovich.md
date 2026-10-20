@@ -21,8 +21,8 @@ The late burgomaster's son, a capable swordsman the village calls 'the Lesser'. 
 > - [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md), Common room: when not ismark met
 > - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), Hall: when (ismark met and not burial procession) or ireena escort is “later” or ireena escort is “declined”
 > - [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), The hall: when ismark in krezk and not ismark with the party
-> - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Guest rooms: when ismark guards ireena and ireena sanctuary is “inn” and not ismark with the party
-> - [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), Nave: when ismark guards ireena and ireena sanctuary is “st andrals” and not ismark with the party
+> - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Guest rooms: when ismark guards ireena and ireena sanctuary is “inn” and not ismark with the party and not (izek holds ireena and not izek dead and not izek told truth)
+> - [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), Nave: when ismark guards ireena and ireena sanctuary is “st andrals” and not ismark with the party and not (izek holds ireena and not izek dead and not izek told truth)
 > - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Churchyard: when burial procession and not burgomaster buried
 > - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Churchyard: when burgomaster buried and not ireena escort
 

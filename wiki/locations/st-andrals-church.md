@@ -61,8 +61,8 @@ A long nave of pews under a sunburst window, an altar on its step, a vestry and 
 
 > [!note]- Who turns up at points in the story (6)
 > - **[Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)**, Chancel (#5): when not (festival begun and not festival over)
-> - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Nave (#6): when ireena sanctuary is “st andrals” and not ireena with the party
-> - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Nave (#7): when ismark guards ireena and ireena sanctuary is “st andrals” and not ismark with the party
+> - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Nave (#6): when ireena sanctuary is “st andrals” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth)
+> - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Nave (#7): when ismark guards ireena and ireena sanctuary is “st andrals” and not ismark with the party and not (izek holds ireena and not izek dead and not izek told truth)
 > - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Nave (#8): when vallaki backed is “wachter”
 > - **[Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md)**, Nave (#9): when vallaki backed is “wachter” and not victor vanished and not victor vallakovich with the party
 > - **[Stella Wachter](https://curseofstrahd.app/wiki/people/stella-wachter.md)**, Vestry (#11): when stella at church

@@ -17,13 +17,15 @@ The burgomaster's adopted daughter, red-haired, proud and twice bitten by Strahd
 
 ## Where to find them
 
-> [!note]- At points in the story (8)
+> [!note]- At points in the story (10)
 > - [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md), The courtyard: when ireena waits in courtyard and not ireena with the party
 > - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md), Parlor: when not burial procession or ireena escort is “later” or ireena escort is “declined”
 > - [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md), The chancel: when ireena held by strahd and not ireena with the party and not (final room:castle ravenloft chapel and quest strahds lair at or past foretold and not strahd destroyed and not strahd in coffin)
 > - [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), The hall: when ireena in krezk and not ireena with the party
-> - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Guest rooms: when ireena sanctuary is “inn” and not ireena with the party
-> - [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), Nave: when ireena sanctuary is “st andrals” and not ireena with the party
+> - [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), Guest rooms: when ireena sanctuary is “inn” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth)
+> - [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), Izek's room: when day and izek holds ireena and not izek dead and not izek told truth and not ireena with the party
+> - [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md), Izek's room: when izek holds ireena and not izek dead and not izek told truth and not ireena with the party
+> - [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), Nave: when ireena sanctuary is “st andrals” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth)
 > - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Churchyard: when burial procession and not burgomaster buried
 > - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), Churchyard: when burgomaster buried and not ireena escort
 
