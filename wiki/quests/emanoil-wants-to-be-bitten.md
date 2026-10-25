@@ -7,6 +7,7 @@
 > **Region:** [Vallaki](https://curseofstrahd.app/wiki/regions/vallaki.md) · level 5
 > **Given by:** [Emanoil](https://curseofstrahd.app/wiki/people/emanoil.md)
 > **Starts at:** [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)
+> **Rewards:** 12 gp
 
 ## Summary
 
@@ -44,6 +45,8 @@ Either way, talk to him again afterwards and he has given up the seventeenth can
 - There's no fight and nothing to fetch. If you want the warmer ending, don't pick the letter first: it ends the quest straight away.
 
 ## Rewards
+
+- 12 gp
 
 **What your companions think**
 

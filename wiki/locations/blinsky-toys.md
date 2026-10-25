@@ -55,6 +55,12 @@ A crowded little shop: puppets, dolls, music boxes and wind-up creatures on ever
 
 The containers here also get random magic items and potions, rolled for a party of level 5 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
+### Skill checks
+
+| # | Where | Check | Try | What it does |
+|---|---|---|---|---|
+| 4 | Shelves of toys | Perception 12 | Look along the top shelf | eggs puppet seen |
+
 ## Quests and lore
 
 - [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md): Madam Eva's fourth card named the one who will stand with us against the devil.

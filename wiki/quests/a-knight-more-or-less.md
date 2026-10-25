@@ -24,7 +24,7 @@ There's no level or approval gate on starting it, but everything happens at [Arg
 ### Step by step
 
 1. **Optional, at [Madam Eva's Tent](https://curseofstrahd.app/wiki/locations/madam-evas-tent.md).** If Godrick pays [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md) with his truth (that he can't read), he gains +3 approval and Heroic Inspiration, but the camp talk about learning to read won't come later. If you spend her one question on "Is the Order of the Silver Dragon still in this land?" you get +3, and she tells you to look low on the wall.
-2. **Show the Order the sword.** Travel to Argynvostholt. The first time you walk up the drive, [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) is waiting on the front steps. Pick **Present Sir Aldric Ashgrove's sword**. He knows the name but can't remember why it hurts. The quest moves to *The Order Found* (+3). After this, Godfrey is in his room on [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md). Heed his warning about the courtyard: at night, until the Order's fate is settled, two [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s attack anyone who crosses it (three at level 7, four at level 8).
+2. **Show the Order the sword.** Travel to Argynvostholt. The first time you walk up the drive, [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md) is waiting on the front steps. Pick **Present Sir Aldric Ashgrove's sword**. He knows the name but can't remember why it hurts. The quest moves to *The Order Found* (+3). After this, Godfrey is in his room on [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md). Heed his warning about the courtyard: at night, until the Order's fate is settled, fourteen [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s (45 HP each) attack anyone who crosses it. At level 8 or higher it's twelve of them and two [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)s (127 HP each).
    ![loc argynvostholt 1](https://curseofstrahd.app/wiki/img/shots/loc-argynvostholt-1.webp)
 3. **Read the wall.** In Godfrey's menu, pick **Ask what his wall says about Aldric Ashgrove**. He kneels by the oldest charcoal, and Ratatouille, Liriel or Wren reads it out if one of them is with you: "Aldric Ashgrove rode for help. The dragon sent him. He did not run." The quest moves to *Kept Faith* (+4).
 4. **Optional: ask the commander.** In the great hall on [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), pick **Ask the commander to knight Godrick with Sir Aldric's sword**. [Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md) calls Aldric a deserter and refuses. If you've already read the wall, Godrick quotes it back at him and the journal skips *The Deserter*. You have to meet Vladimir either way, because the next step needs it.
@@ -40,12 +40,17 @@ There's no level or approval gate on starting it, but everything happens at [Arg
 
 ### Choices and endings
 
-There's one ending, *Knighted*, and Godrick's approval decides how it plays:
+The good ending is *Knighted*, and Godrick's approval decides how it plays:
 
 - **Strained or worse (approval -25 or lower):** Godrick won't kneel. He says he's been riding with people who don't keep the oath, and Godfrey tells him to come back when he can say it. Nothing is lost. Mend his approval (his Strained camp talk can give up to +10) and ask again.
 - **Otherwise:** Godfrey gives Godrick Sir Aldric's sword as a [Weapon, +1](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1), and Godrick gains +8 approval.
 - **Close or better (25 or more):** Godfrey asks Godrick to name his fellowship, and Godrick names the party. The sword becomes a [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2), the whole party gains Heroic Inspiration, and Godrick gains +8.
 - **At the beacon:** if you light the beacon before the knighting, Godfrey knights Godrick at the top of the tower instead (see below). It's Godfrey's last moment, so Godrick kneels there even at Strained. At Close or better he still names his fellowship, for the Weapon, +2, the party's Heroic Inspiration and +8; otherwise he gets the Weapon, +1 and +8.
+
+Two endings are failures:
+
+- **Unknighted:** the beacon burns and Godfrey goes to his rest before he can knight Godrick ("If you're stuck" says when he knights him at the beacon instead).
+- **Lost:** Godrick is lost for good before he's knighted: he gives his life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes him. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 Later, Strahd greets him at dinner as "Sir Godrick, of the Order of the Silver Dragon" instead of "the large young man who calls himself Sir". A camp talk after the knighting follows, in which Godrick gives the ladle to Ratatouille if he's in the party, and Godrick and Wren get a banter exchange about it.
 
@@ -63,11 +68,11 @@ Later, Strahd greets him at dinner as "Sir Godrick, of the Order of the Silver D
 **What your companions think**
 
 - **Godrick Pendlebrook:** +4 you lit Argynvost's beacon and let the Order go home; +8 you stood with me while I was knighted, and I named you my fellowship; +8 you stood with me while I was knighted; +3 you told me my oath was still mine; +2 you let me keep my sword tied to my wrist; +10 you asked me to tell you when we're wrong
-- **Liriel Dawnsong:** +3 you lit Argynvost's beacon and let the Order go home
-- **Kip Smudgewick:** +1 you lit Argynvost's beacon and let the Order go home
-- **Thistle:** +1 you lit Argynvost's beacon and let the Order go home
-- **Wren Featherfoot:** +1 you lit Argynvost's beacon and let the Order go home
-- **Ratatouille:** +1 you lit Argynvost's beacon and let the Order go home
+- **Liriel Dawnsong:** +3 you lit Argynvost's beacon and let the Order go home; +1 you drank the Martikovs' cask with us at the fire
+- **Kip Smudgewick:** +1 you lit Argynvost's beacon and let the Order go home; +1 you drank the Martikovs' cask with us at the fire
+- **Thistle:** +1 you lit Argynvost's beacon and let the Order go home; +1 you drank the Martikovs' cask with us at the fire
+- **Wren Featherfoot:** +1 you lit Argynvost's beacon and let the Order go home; +1 you drank the Martikovs' cask with us at the fire
+- **Ratatouille:** +1 you lit Argynvost's beacon and let the Order go home; +1 you drank the Martikovs' cask with us at the fire
 
 ## Journal
 
@@ -83,6 +88,8 @@ Later, Strahd greets him at dinner as "Sir Godrick, of the Order of the Silver D
 >
 > **Kept Faith**: Low on Sir Godfrey's wall, in his own hand, older than most of it: 'ALDRIC ASHGROVE RODE FOR HELP. THE DRAGON SENT HIM. HE DID NOT RUN. DO NOT LET VLADIMIR TELL YOU OTHERWISE.' Aldric was sent out through the mists to call for aid that never came, and the mists closed behind him. An Ashgrove kept faith.
 > *Hint:* Help Sir Godfrey remember the Order's oath (the stone in the chapel, or his own wall), then ask him at Argynvostholt to knight Godrick.
+>
+> **Lost** (the end: failure): We lost Godrick Pendlebrook still carrying Sir Aldric's sword, and he will never be knighted properly. A soup ladle on a deathbed is the only knighthood he will have.
 >
 > **Unknighted** (the end: failure): We lit the beacon at the top of Argynvostholt, and the Order of the Silver Dragon laid down its swords and went home. Sir Godfrey Gwilym went with them before he could knight Godrick, so Sir Aldric's sword stays in its cloth, and the ladle is the only accolade Godrick has.
 >

@@ -50,7 +50,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), 90 HP), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), 110 HP), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md), 100 HP). Starts from a conversation. Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
+- *The Baron's boatmen come up the shingle with clubs and a lantern, looking for the smoke, and the reeds behind…*, in [The Reed Isle](https://curseofstrahd.app/wiki/locations/the-reed-isle.md): The Boatmaster ([Bandit Captain](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md)), 2 × A Boatman ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 4 × A Boatman ([Tough](https://curseofstrahd.app/wiki/bestiary/tough.md)), Something in the Reeds ([Giant Constrictor Snake](https://curseofstrahd.app/wiki/bestiary/giant-constrictor-snake.md)). Starts from a conversation. Part of [The Baron's Island](https://curseofstrahd.app/wiki/quests/the-barons-island.md).
 
 ### At camp here
 

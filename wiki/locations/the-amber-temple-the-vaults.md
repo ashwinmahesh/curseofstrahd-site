@@ -7,7 +7,7 @@
 > **Region:** [The Amber Temple](https://curseofstrahd.app/wiki/regions/the-amber-temple.md) · level 10
 > **Resting:** No sleeping here
 > **Light:** dark
-> **Getting here:** [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md), [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)
+> **Getting here:** [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md), [The Amber Temple, the Breached Vault](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-breached-vault.md), [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)
 > **Quests:** [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md), [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md), [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md)
 
 ## Overview
@@ -26,6 +26,7 @@ The amber in the walls glows here, faintly, like honey held up to a candle. It i
 ### Ways in
 
 - **From [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md):** Up into the vaults
+- **From [The Amber Temple, the Breached Vault](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-breached-vault.md):** Back through the breach
 - **From [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md):** Stairs down to the vaults
 
 ### Ways out
@@ -34,6 +35,7 @@ The amber in the walls glows here, faintly, like honey held up to a candle. It i
 |---|---|---|---|
 | 1 | Stairs up to the great hall | [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) |  |
 | 2 | Down under the vault floor | [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) | deep stair open |
+| 3 | A breach broken through the wall | [The Amber Temple, the Breached Vault](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-breached-vault.md) |  |
 
 ## Map
 
@@ -55,16 +57,16 @@ The amber in the walls glows here, faintly, like honey held up to a candle. It i
 ## People
 
 > [!note]- Who turns up at points in the story (2)
-> - **[Master Vosk](https://curseofstrahd.app/wiki/people/master-vosk.md)**, The sanctum of the hollow (#3): when not vosk fate and not vosk destroyed
-> - **[Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md)**, The sanctum of the hollow (#4): when (vosk fate or vosk destroyed) and not amber seal decided and exethanter met and not exethanter destroyed and not exethanter hostile and exethanter phylactery isn't “smashed”
+> - **[Master Vosk](https://curseofstrahd.app/wiki/people/master-vosk.md)**, The sanctum of the hollow (#4): when not vosk fate and not vosk destroyed
+> - **[Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md)**, The sanctum of the hollow (#5): when (vosk fate or vosk destroyed) and not amber seal decided and exethanter met and not exethanter destroyed and not exethanter hostile and exethanter phylactery isn't “smashed”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 5 | a heap of offerings | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×3, [Jeweler's Tools](https://curseofstrahd.app/wiki/items/equipment.md#jewelers-tools), [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2, [Spyglass](https://curseofstrahd.app/wiki/items/equipment.md#spyglass), 640 gp | open it |
-| 6 | Sealed urns | [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) ×2, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, 120 gp | open it |
-| 7 | a staff under the heap of offerings (hidden) | [Staff of Power (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-power) | Search: Perception DC 16 |
+| 6 | a heap of offerings | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×3, [Jeweler's Tools](https://curseofstrahd.app/wiki/items/equipment.md#jewelers-tools), [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror), [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume) ×2, [Spyglass](https://curseofstrahd.app/wiki/items/equipment.md#spyglass), 640 gp | open it |
+| 7 | Sealed urns | [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) ×2, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, 120 gp | open it |
+| 8 | a staff under the heap of offerings (hidden) | [Staff of Power (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-power) | Search: Perception DC 16 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Amber Temple Vault (gift_heap)
 
@@ -74,9 +76,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 8 | A line of glyphs across the floor | 16 | 17 | WIS 16 | 4d8 psychic |
-| 9 | Cracked amber in the vault ceiling | 14 | 0 | DEX 15 | 4d10 piercing |
-| 10 | Black ice on the steps | 12 | 0 | DEX 13 | 2d6 bludgeoning |
+| 9 | A line of glyphs across the floor | 16 | 17 | WIS 16 | 4d8 psychic |
+| 10 | Cracked amber in the vault ceiling | 14 | 0 | DEX 15 | 4d10 piercing |
+| 11 | Black ice on the steps | 12 | 0 | DEX 13 | 2d6 bludgeoning |
 
 ## Fights
 

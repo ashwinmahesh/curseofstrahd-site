@@ -42,7 +42,7 @@ Below the crypts the stone changes: older, paler, cut with more care. Somebody l
 ### Close up
 
 ![loc castle ravenloft catacombs tombs spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-tombs-spot1.webp)
-*Queen Ravenovia's sarcophagus*
+*Queen Ravenovia's sarcophagus, a carved family*
 
 ![loc castle ravenloft catacombs tombs spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-tombs-spot2.webp)
 *Sergei's sarcophagus, a basin of still water*
@@ -69,8 +69,6 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin and carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (455 HP), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 7 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (26300 XP; lair)
 > - **[Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md)**, when not strahd in coffin: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (19100 XP; lair)
-
-- *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): 2 × [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md), 4 × [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Starts when you reach the guardians' hall.
 
 - *He is sitting on the edge of the dais between his mother and his father, and the shadows of the vault stand…*, in [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the tomb of King Barov and Queen Ravenovia.
 > [!example]- Every version (the first whose condition holds is the fight you get)

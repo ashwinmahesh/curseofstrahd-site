@@ -54,19 +54,20 @@ The burgomaster's house: a long hall with a hearth and a table older than the vi
 - **[Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md)**, Burgomaster of Krezk: The hall (#3)
 - **[Anna Krezkova](https://curseofstrahd.app/wiki/people/anna-krezkova.md)**, The Burgomaster's Wife: Ilya's room (#4)
 
-> [!note]- Who turns up at points in the story (4)
+> [!note]- Who turns up at points in the story (5)
 > - **[Ilya Krezkov](https://curseofstrahd.app/wiki/people/ilya-krezkov.md)**, Ilya's room (#5): when not ilya fate
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, The hall (#6): when ireena in krezk and not ireena with the party
 > - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, The hall (#7): when ismark in krezk and not ismark with the party
 > - **[Sorin](https://curseofstrahd.app/wiki/people/sorin.md)**, The hall (#8, #9): when sorin brought and not sorin fate; or when sorin fate is “home”
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, The hall (#10): when not izek dead and izek told truth and not izek with the party and izek guards ireena and not ireena with the party and not ireena held by strahd and ireena in krezk
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 10 | Anna's chest | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), 15 gp | lock DC 15; Anna Krezkova's, so taking is theft |
-| 11 | the larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Jug](https://curseofstrahd.app/wiki/items/equipment.md#jug) | open it; Dmitri Krezkov's, so taking is theft |
-| 12 | a box under the eldest son's bed (hidden) | [Ioun Stone (Awareness)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-awareness) | Search: Investigation DC 15 |
+| 11 | Anna's chest | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), 15 gp | lock DC 15; Anna Krezkova's, so taking is theft |
+| 12 | the larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4, [Jug](https://curseofstrahd.app/wiki/items/equipment.md#jug) | open it; Dmitri Krezkov's, so taking is theft |
+| 13 | a box under the eldest son's bed (hidden) | [Ioun Stone (Awareness)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-awareness) | Search: Investigation DC 15 |
 
 The containers here also get random magic items and potions, rolled for a party of level 7 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 

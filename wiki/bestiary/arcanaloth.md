@@ -54,4 +54,5 @@ A jackal-headed yugoloth scholar that hoards secrets and sells them dear.
 
 ## Where you meet it
 
+- [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): *The dark at the god's head shifts, and two tall pointed ears lift against the stone. Green fire spits from…*
 - [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md): [The Amber Temple](https://curseofstrahd.app/wiki/quests/the-amber-temple.md) · *Vosk's shape slips like a badly hung coat. Under it: a jackal's head, a scholar's robe, and claws that shake.*

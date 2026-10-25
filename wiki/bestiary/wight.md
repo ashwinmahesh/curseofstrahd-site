@@ -45,6 +45,7 @@ An undead warrior with sword and bow that drains the life of anyone it holds clo
 
 - [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*
 - [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*
+- [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md): *Wood groans against dry wood as the lids shift all at once. Gaunt hands take the rims from within, and old…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
 - [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md): *The cracks in the floor flare white. Something climbs out of the biggest of them, shaped like a man made of a…*

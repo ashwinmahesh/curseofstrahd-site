@@ -7,7 +7,7 @@
 > **Region:** [Argynvostholt](https://curseofstrahd.app/wiki/regions/argynvostholt.md) · level 8
 > **Resting:** No sleeping here
 > **Light:** dark
-> **Getting here:** [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md), [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
+> **Getting here:** [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md), [Argynvostholt, the Roof](https://curseofstrahd.app/wiki/locations/argynvostholt-the-roof.md)
 > **Quests:** [A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Dragon's Beacon](https://curseofstrahd.app/wiki/quests/the-dragons-beacon.md), [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md)
 
 ## Overview
@@ -27,6 +27,7 @@ A stair spirals up inside thick walls, its steps worn into hollows by boots. At 
 
 - **From [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md):** Up to the lantern room
 - **From [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md):** Down to the turns of the stair
+- **From [Argynvostholt, the Roof](https://curseofstrahd.app/wiki/locations/argynvostholt-the-roof.md):** The beacon tower door
 - **From [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md):** Up the beacon tower stair
 
 ### Ways out
@@ -36,6 +37,7 @@ A stair spirals up inside thick walls, its steps worn into hollows by boots. At 
 | 1 | Down to the hall of heroes | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) |  |
 | 2 | Up to the lantern room | [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) |  |
 | 3 | Down to the turns of the stair | [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) |  |
+| 4 | Out onto the roof | [Argynvostholt, the Roof](https://curseofstrahd.app/wiki/locations/argynvostholt-the-roof.md) |  |
 
 ## Map
 
@@ -51,14 +53,14 @@ A stair spirals up inside thick walls, its steps worn into hollows by boots. At 
 ## People
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)**, The lantern room (#4): when beacon stand won and not argynvost beacon lit
+> - **[Vladimir Horngaard](https://curseofstrahd.app/wiki/people/vladimir-horngaard.md)**, The lantern room (#5): when beacon stand won and not argynvost beacon lit
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 5 | the lamp-keeper's locker | [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Tinderbox](https://curseofstrahd.app/wiki/items/equipment.md#tinderbox), 15 gp | open it |
-| 7 | the lamp-keeper's niche (hidden) | [Lantern of Revealing](https://curseofstrahd.app/wiki/items/magic-items.md#lantern-of-revealing) | Search: Perception DC 14 |
+| 6 | the lamp-keeper's locker | [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Tinderbox](https://curseofstrahd.app/wiki/items/equipment.md#tinderbox), 15 gp | open it |
+| 8 | the lamp-keeper's niche (hidden) | [Lantern of Revealing](https://curseofstrahd.app/wiki/items/magic-items.md#lantern-of-revealing) | Search: Perception DC 14 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Argynvostholt Beacon (holt_lampkeeper_locker)
 
@@ -68,7 +70,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 6 | the parapet, facing the valley | Perception 15 | Look out over the valley | reveals lake_zarovich:jetty_boards |
+| 7 | the parapet, facing the valley | Perception 15 | Look out over the valley | reveals lake_zarovich:jetty_boards |
 
 ## Fights
 
@@ -76,12 +78,12 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 8: 5 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 4 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (9800 XP)
 > - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared and level ≥ 7: 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 5 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (6400 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared: [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (50 HP), 6 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (8400 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not lamp dark cleared: 4 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 6 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (8400 XP)
 
 - *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*, in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (340 HP), 3 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 220 HP), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (9700 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (170 HP), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 110 HP) (4700 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (340 HP), 3 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md) (9700 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (170 HP), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
 > - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (150 HP) (2900 XP)
 
 ## Quests and lore

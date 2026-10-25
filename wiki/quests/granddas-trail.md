@@ -26,7 +26,7 @@ There's no level or approval gate on starting it, but Fen is in the werewolves' 
 1. **The first blaze.** At [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md), examine **Notches in a dead tree** by the signpost: three notches and a crow feather. Thistle presses a fresh feather into the cut. The quest moves to *The Blazes* (+2). Once you've been to [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md), this also puts The Hill Trail on your travel map.
    ![loc svalich crossroads 1](https://curseofstrahd.app/wiki/img/shots/loc-svalich-crossroads-1.webp)
 2. **The second blaze.** On [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md), examine **A blazed pine**. It's cut left-handed, with RUN scratched under it, and it points up into the hills. The quest moves to *The Wolf Road* (+2), and the blaze puts The Werewolf Den on your travel map. While you're there, searching under a stump (DC 13) finds a hunting trap.
-3. **Find the den.** Travel to [The Hills above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hills-above-lake-zarovich.md) and go down into [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md). If you walk into the cave mouth before [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md) has vouched for you on the hillside (and before Emil is free), the guards attack: five [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) and three [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), or seven werewolves and three dire wolves at level 8. Werewolves have Pack Tactics, so don't let two of them gang up on one hero. [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md) covers the den itself.
+3. **Find the den.** Travel to [The Hills above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hills-above-lake-zarovich.md) and go down into [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md). If you walk into the cave mouth before [Zuleika Toranescu](https://curseofstrahd.app/wiki/people/zuleika-toranescu.md) has vouched for you on the hillside (and before Emil is free), the guards attack: five [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (71 HP each) and three [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (22 HP each), or seven werewolves and three dire wolves at level 8. Werewolves have Pack Tactics, so don't let two of them gang up on one hero. [The Pack in the Hills](https://curseofstrahd.app/wiki/quests/the-pack-in-the-hills.md) covers the den itself.
 4. **Grandda.** Fen hangs in silver chains in the west alcove, beside [Emil Toranescu](https://curseofstrahd.app/wiki/people/emil-toranescu.md). He's half wolf now. Talk to him and the quest moves to *Found Him* (+3).
    ![fen chains](https://curseofstrahd.app/wiki/img/cutscenes/fen-chains.webp)
 5. **Decide what to do for him.** His menu offers:
@@ -42,11 +42,12 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Thist
 
 ### Choices and endings
 
-All three endings count as success:
+Three endings count as success, and one is a failure:
 
 - **Fen Cured** (Remove Curse, +10): the wolf goes out of him and leaves an old trapper, who says he'll wait for Thistle in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md). If Thistle is **Close or better** (approval 25 or more), he gives her his trapper's cloak, a [Cloak of Elvenkind](https://curseofstrahd.app/wiki/items/magic-items.md#cloak-of-elvenkind). If she's **Strained or worse** (-25 or lower), she stands between you and Fen and won't let the party's magic near him. The key and the two checks still work, and the spell comes back once her approval recovers.
 - **Fen Freed** (key, Athletics or Sleight of Hand, +5): he leaves on four legs for the high woods. "Don't follow my blazes this time. Make your own."
 - **Fen Rests** (mercy, +2): Thistle does it the way he taught her and buries him under a rowan.
+- **Lost** (failure): Thistle is lost for good before Fen's fate is settled: she gives her life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes her. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)). After that the Hill Trail is on your travel map only if [The Ravens' Ransom](https://curseofstrahd.app/wiki/quests/the-ravens-ransom.md) has put it there.
 
 Fen doesn't appear anywhere after this, not even in Krezk. What changes is Thistle's camp talk afterwards: she braids feathers for him, answers his howl, or sits silent by the fire.
 
@@ -78,6 +79,8 @@ Fen doesn't appear anywhere after this, not even in Krezk. What changes is Thist
 >
 > **Found Him**: In the werewolves' den, chained in silver beside the pack's old leader: Fen Burley. Kiril's pack bit him beyond the mists and dragged him home, and he refused to hunt children for them, so they hung him up to wait for the moon to change his mind. It hasn't yet.
 > *Hint:* Decide with Thistle what to do for Fen in the den's caves: lift the curse (Remove Curse), free him, or give him rest.
+>
+> **Lost** (the end: failure): Thistle is gone, and she will not follow Fen Burley's old blazes any farther into the fog. Whatever mark Fen left in the deep woods, nobody will read it for her now.
 >
 > **Fen Cured** (the end: success): The curse came out of Fen Burley like a splinter, and left an old man sitting in the straw, crying and laughing and patting Thistle's face to be sure of it. He'll wait for her in Krezk, where they have walls she can climb.
 >

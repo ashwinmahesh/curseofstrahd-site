@@ -60,18 +60,19 @@ A chasm with no bottom you can see, a drawbridge already lowered, a gatehouse wi
 - **[The Dead Halberdier](https://curseofstrahd.app/wiki/people/the-dead-halberdier.md)**, Of the Castle Watch: The front courtyard (#9)
 - **[The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md)**, Of the Castle Watch: The front courtyard (#10)
 
-> [!note]- Who turns up at points in the story (2)
+> [!note]- Who turns up at points in the story (3)
 > - **[Gogu](https://curseofstrahd.app/wiki/people/gogu.md)**, The front courtyard (#7): when gogu lowered
 > - **[Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)**, The road below the gates (#8): when quest fennimores guide at done and level ≥ 10
+> - **[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)**, The road below the gates (#11): when kasimir at gates and not kasimir velikov with the party
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 11 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
-| 12 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
-| 15 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
-| 16 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
+| 12 | the carriage's driver box | [Blanket](https://curseofstrahd.app/wiki/items/equipment.md#blanket), [Hooded Lantern](https://curseofstrahd.app/wiki/items/equipment.md#hooded-lantern), [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) | open it |
+| 13 | a gate guard's locker | [Crossbow Bolt](https://curseofstrahd.app/wiki/items/equipment.md#crossbow-bolt) ×20, [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), 12 gp | lock DC 14 |
+| 16 | something tangled at the bottom of the dry well (hidden) | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | Search: Perception DC 15 |
+| 17 | something wedged between the flagstones (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -79,15 +80,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 13 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
-| 14 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
+| 14 | a carved crest over the doors | History 15 | Read the crest over the doors | lore: The arms of the house |
+| 15 | a dry well | Athletics 15 | Climb down the dry well | finds Rope of Entanglement; on a failure: 2d6 bludgeoning damage |
 
 ## Fights
 
 - *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the front courtyard.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (64 HP) (7200 XP; waiting)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (68 HP) (6300 XP; waiting)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (7200 XP; waiting)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (6300 XP; waiting)
 
 ### At camp here
 

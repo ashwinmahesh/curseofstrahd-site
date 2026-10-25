@@ -40,7 +40,9 @@ It starts the first time you walk into the mist at the east end of [The Old Sval
 
 ### Choices and endings
 
-There's one ending, *The Last Page* (success). Silvain gives Aurel back the good pen they've had for twelve years. Aurel goes down the servants' stair to wait in the tavern's back room, and the lamp in the window goes out. The only choice is how you wake him; sitting with him or using the Tome are the sure ways.
+The good ending is *The Last Page* (success). Silvain gives Aurel back the good pen they've had for twelve years. Aurel goes down the servants' stair to wait in the tavern's back room, and the lamp in the window goes out. The only choice is how you wake him; sitting with him or using the Tome are the sure ways.
+
+The quest fails at *Lost* if Silvain is lost for good first: they give their life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes them. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Silvain's truth is that they came for Aurel, not the book. Spending Eva's question on "Is Aurel Mirescu alive?" gets a near-answer, and Silvain quotes it later when reading the Tome.
 
@@ -71,9 +73,12 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Silva
 > **Still Reading**: Inside the Tome of Strahd, in its author's hand, a note written last winter: 'My reader Mirescu asks again to be allowed to sleep. Denied. He has not finished the chapter.' Aurel is alive in the castle, in the room with the light that never goes out, reading still.
 > *Hint:* In Castle Ravenloft, look for the room with the lit window in the Court of the Count, with Silvain in the party.
 >
+> **Lost** (the end: failure): We went on without Silvain Aster. He will never find Aurel Mirescu, and whatever Aurel walked into the mists to read stays unread.
+>
 > **The Last Page** (the end: success): Silvain found Aurel by the fire in the devil's study, behind the window that never goes dark, and closed the book for him. However the chapter ended, Aurel did not finish it alone. Silvain finally gave him back his good pen. They intend to argue about who owed whom for a very long time.
 
 > [!abstract]- Every skill check in its conversations
+> - Medicine DC 10: (Look under the lid.)
 > - Arcana DC 15: (Find the charm on him and cut its thread.)
 > - Persuasion DC 15: Talk to him. Say Silvain's name until he hears it.
 

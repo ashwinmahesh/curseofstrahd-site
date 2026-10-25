@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/all-people.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-291 people you can meet in Barovia, by region.
+299 people you can meet in Barovia, by region.
 
 ## Into the Mists
 
@@ -69,15 +69,16 @@
 
 | | Who | Title |
 |---|---|---|
+| ![owl](https://curseofstrahd.app/wiki/img/portraits/owl.webp) | [A Barn Owl](https://curseofstrahd.app/wiki/people/a-barn-owl.md) | In a Bearskin Cap |
 | ![mastiff](https://curseofstrahd.app/wiki/img/portraits/mastiff.webp) | [A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md) | Of the Vistani |
-| ![noble](https://curseofstrahd.app/wiki/img/portraits/noble.webp) | [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md) | Travel Writer |
+| ![fennimore](https://curseofstrahd.app/wiki/img/portraits/fennimore.webp) | [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md) | Travel Writer |
 | ![tough](https://curseofstrahd.app/wiki/img/portraits/tough.webp) | [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md) | Wheelwright of the Tser Pool Camp |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Bogdan](https://curseofstrahd.app/wiki/people/bogdan.md) | A Farmer on the Road |
 | ![brown bear](https://curseofstrahd.app/wiki/img/portraits/brown-bear.webp) | [Bujor](https://curseofstrahd.app/wiki/people/bujor.md) | Lavinia's Dancing Bear |
 | ![bandit](https://curseofstrahd.app/wiki/img/portraits/bandit.webp) | [Costica](https://curseofstrahd.app/wiki/people/costica.md) | Highwayman of the Old Svalich Road |
 | ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Grigor](https://curseofstrahd.app/wiki/people/grigor.md) | Wolf Hunter of the Svalich Woods |
 | ![bandit](https://curseofstrahd.app/wiki/img/portraits/bandit.webp) | [Iancu](https://curseofstrahd.app/wiki/people/iancu.md) | Knife-Thrower |
-| ![vistana](https://curseofstrahd.app/wiki/img/portraits/vistana.webp) | [Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md) | A Vistani Tinker |
+| ![tinker iosif](https://curseofstrahd.app/wiki/img/portraits/tinker-iosif.webp) | [Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md) | A Vistani Tinker |
 | ![druid](https://curseofstrahd.app/wiki/img/portraits/druid.webp) | [Lavinia](https://curseofstrahd.app/wiki/people/lavinia.md) | Dancer of the Tser Pool Camp |
 | ![vistana](https://curseofstrahd.app/wiki/img/portraits/vistana.webp) | [Luminita](https://curseofstrahd.app/wiki/people/luminita.md) | Horse-tender of the Tser Pool Camp |
 | ![madam eva](https://curseofstrahd.app/wiki/img/portraits/madam-eva.webp) | [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md) | Seer of the Tser Pool Vistani |
@@ -337,6 +338,8 @@
 | ![pidlwick ii](https://curseofstrahd.app/wiki/img/portraits/pidlwick-ii.webp) | [Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md) | Clockwork Jester |
 | ![fiendish spirit](https://curseofstrahd.app/wiki/img/portraits/fiendish-spirit.webp) | [Querreth](https://curseofstrahd.app/wiki/people/querreth.md) | Gaoler of the Roofs |
 | ![rahadin](https://curseofstrahd.app/wiki/img/portraits/rahadin.webp) | [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md) | Chamberlain of Castle Ravenloft |
+| ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Sasha Ivliskova](https://curseofstrahd.app/wiki/people/sasha-ivliskova.md) | A Bride in Webs |
+| ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Sir Klutz Tripalotsky](https://curseofstrahd.app/wiki/people/sir-klutz-tripalotsky.md) | Knight Errant, Deceased |
 | ![vampire spawn](https://curseofstrahd.app/wiki/img/portraits/vampire-spawn.webp) | [Sir Lothar Brandt](https://curseofstrahd.app/wiki/people/sir-lothar-brandt.md) | Of the Count's Court |
 | ![sunsword](https://curseofstrahd.app/wiki/img/portraits/sunsword.webp) | [Sunsword](https://curseofstrahd.app/wiki/people/sunsword.md) | The Sentient Blade of Prince Sergei |
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Archer](https://curseofstrahd.app/wiki/people/the-dead-archer.md) | Of the Castle Watch |
@@ -348,6 +351,8 @@
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Turnkey](https://curseofstrahd.app/wiki/people/the-dead-turnkey.md) | Of the Castle Watch |
 | ![strahd zombie](https://curseofstrahd.app/wiki/img/portraits/strahd-zombie.webp) | [The Dead Watchman](https://curseofstrahd.app/wiki/people/the-dead-watchman.md) | Of the King's Hall |
 | ![broom of animated attack](https://curseofstrahd.app/wiki/img/portraits/broom-of-animated-attack.webp) | [The Hall Broom](https://curseofstrahd.app/wiki/people/the-hall-broom.md) | Of the Guests' Hall |
+| ![flameskull](https://curseofstrahd.app/wiki/img/portraits/flameskull.webp) | [The Skull of Intree Sik-Valoo](https://curseofstrahd.app/wiki/people/the-skull-of-intree-sik-valoo.md) | Scholar of Strange Tongues |
+| ![flameskull](https://curseofstrahd.app/wiki/img/portraits/flameskull.webp) | [The Skull of Stefan Gregorovich](https://curseofstrahd.app/wiki/people/the-skull-of-stefan-gregorovich.md) | Counsellor to King Barov |
 | ![castle steward](https://curseofstrahd.app/wiki/img/portraits/castle-steward.webp) | [The Steward](https://curseofstrahd.app/wiki/people/the-steward.md) | Ghost of the Dining Hall |
 | ![ghost](https://curseofstrahd.app/wiki/img/portraits/ghost.webp) | [Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md) | Of the Household |
 | ![volenta popofsky](https://curseofstrahd.app/wiki/img/portraits/volenta-popofsky.webp) | [Volenta Popofsky](https://curseofstrahd.app/wiki/people/volenta-popofsky.md) | Bride of Strahd |
@@ -367,6 +372,7 @@
 | | Who | Title |
 |---|---|---|
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Dahlver-Nar](https://curseofstrahd.app/wiki/people/dahlver-nar.md) | A Voice in the Amber |
+| ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Delban](https://curseofstrahd.app/wiki/people/delban.md) | A Voice in the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Drizlash](https://curseofstrahd.app/wiki/people/drizlash.md) | A Voice in the Amber |
 | ![exethanter](https://curseofstrahd.app/wiki/img/portraits/exethanter.webp) | [Exethanter](https://curseofstrahd.app/wiki/people/exethanter.md) | The Last Warden of the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Fekre](https://curseofstrahd.app/wiki/people/fekre.md) | A Voice in the Amber |
@@ -386,10 +392,12 @@
 | ![amber sentinel](https://curseofstrahd.app/wiki/img/portraits/amber-sentinel.webp) | [The Amber Sentinel](https://curseofstrahd.app/wiki/people/the-amber-sentinel.md) | Guardian of the Temple Doors |
 | ![beholder](https://curseofstrahd.app/wiki/img/portraits/beholder.webp) | [The Eye Below](https://curseofstrahd.app/wiki/people/the-eye-below.md) | What the Wardens Sealed |
 | ![scout](https://curseofstrahd.app/wiki/img/portraits/scout.webp) | [The Guide](https://curseofstrahd.app/wiki/people/the-guide.md) | Of the Goat Path |
+| ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Vaund](https://curseofstrahd.app/wiki/people/vaund.md) | A Voice in the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Yog](https://curseofstrahd.app/wiki/people/yog.md) | A Voice in the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Yrrga](https://curseofstrahd.app/wiki/people/yrrga.md) | A Voice in the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Zantras](https://curseofstrahd.app/wiki/people/zantras.md) | A Voice in the Amber |
 | ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Zhudun](https://curseofstrahd.app/wiki/people/zhudun.md) | A Voice in the Amber |
+| ![vestige amber](https://curseofstrahd.app/wiki/img/portraits/vestige-amber.webp) | [Zrin-Hala](https://curseofstrahd.app/wiki/people/zrin-hala.md) | A Voice in the Amber |
 
 ## Companions
 

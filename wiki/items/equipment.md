@@ -561,6 +561,7 @@ Spellcasting Focus for Clerics and Paladins.
 
 **Where to find it:**
 - In Offerings at the statue's feet, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The great hall)
+- Hidden: a silver holy symbol under her folded hands, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (Tasha Petrovna's crypt) (found with Search, Investigation DC 13)
 - In the jailers' chest, [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md) (The jailers' guardroom)
 - Hidden: a heap of bones, [Old Bonegrinder, the Hill](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-hill.md) (Behind the mill) (found with Search, Perception DC 13)
 - In Heap of rags, [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md) (Undercroft) (locked, with nothing to pick)
@@ -633,6 +634,7 @@ Artisan's Tools (Wisdom): make food taste better (DC 10), or spot food that is s
 Gaming Set (Wisdom): spot whether someone is cheating (DC 10), or win a game (DC 20).
 
 **Where to find it:**
+- In a footlocker, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The knights' quarters)
 - In Footlocker, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (The knights' dormitory)
 - In Kiril's hoard, [The Werewolf Den](https://curseofstrahd.app/wiki/locations/the-werewolf-den.md) (Kiril's lair) (locked, DC 15)
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
@@ -825,6 +827,30 @@ Artisan's Tools (Dexterity): carve a pattern into wood (DC 10).
 - Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md), [Henrik van der Voort](https://curseofstrahd.app/wiki/people/henrik-van-der-voort.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ## Gear
+
+### A Gentleman's Compendium of Amiable Beasts
+*gear* · 2 gp · 2 lb · **Cheat code:** `7F19EA`
+
+A best-selling guide to monsters by an author with one glass eye, annotated throughout in a furious pencil.
+
+**Where to find it:**
+- Given by [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md) in [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md) ([Fennimore's Guide: The Tser Pool](https://curseofstrahd.app/wiki/quests/fennimores-guide-the-tser-pool.md))
+
+### A Pedlar's Spade-Head
+*gear* · 25 gp · 3 lb · **Cheat code:** `D51E22`
+
+The iron blade of an old spade, no haft, worn paper-thin by forty winters of honest digging.
+
+**Where to find it:**
+- An Athletics check (DC 12) at A slab of old road-stone, scratched with a spade, [The Marsh Track](https://curseofstrahd.app/wiki/locations/the-marsh-track.md)
+
+### A Puppet with No Reflection
+*gear* · 6 gp · 1 lb · **Cheat code:** `8A24DD`
+
+A pale wooden puppet with silver-white hair and a red-lined coat, posed before a little toy mirror.
+
+**Where to find it:**
+- Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### A Warden's Spellbook
 *gear* · 50 gp · 3 lb · **Cheat code:** `F008E7`
@@ -1040,6 +1066,14 @@ A pinch of jade dust worth 10 gp, used up by Magic Mouth.
 
 **Where to find it:**
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+
+### Jeweled Electrum Spork
+*gear* · 250 gp · **Cheat code:** `60960F`
+
+A spoon with a fork's ambitions, in electrum and garnets. A curio worth 250 gp.
+
+**Where to find it:**
+- In the chef's last tool, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The chef's crypt)
 
 ### Ladder
 *gear* · 1 sp · 25 lb · **Cheat code:** `825345`
@@ -1297,7 +1331,7 @@ Burns 1 hour: Bright Light 5 ft, Dim Light 5 ft beyond.
 - 4 × In Larder, [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) (Kitchen) (locked, with nothing to pick)
 - 3 × In an iron chest at the foot of the dais, [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md) (Strahd's tomb)
 - 4 × In the altar, under its dust, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel)
-- …and 14 more places
+- …and 15 more places
 - Sold by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Hooded Lantern
@@ -1570,7 +1604,7 @@ Thrown flask: a Fiend or Undead within 20 ft makes a Dex save or takes 2d8 Radia
 - 2 × In Ezmerelda's wagon, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) (Ezmerelda's camp) (locked, DC 16)
 - 2 × In a crate of supplies, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The hunter's storeroom)
 - 3 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
-- …and 11 more places
+- …and 12 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Oil
@@ -1602,7 +1636,7 @@ For 1 hour, Advantage on Persuasion to influence an Indifferent Humanoid within 
 **Where to find it:**
 - In the matron's trunk, [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md) (The matron's room)
 - 2 × In a heap of offerings, [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md) (The vault of offerings)
-- In a noble's crypt, its lid ajar, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)
+- In a noble's crypt, its lid ajar, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The crypt with no name)
 - In Queen Ravenovia's sarcophagus, [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md) (The tomb of King Barov and Queen Ravenovia)
 - 2 × In a small cabinet, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (The bath)
 - In Ludmilla's books, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Ludmilla's room)
@@ -1707,6 +1741,7 @@ Every spell's scroll, who sells it and where it's found: [Spell Scrolls](https:/
 - In a chest under the straw, [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) (The nest) (locked, DC 15)
 - In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - Given by [Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md) in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) ([The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md))
+- Given by the fallen doorway in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or the carved lintel and the door in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 
 ## Pack
 
@@ -1764,6 +1799,7 @@ Expensive, detailed clothing; some places and events admit only those wearing it
 - In the matron's trunk, [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md) (The matron's room)
 - 2 × In a black wardrobe, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (The count's bedroom)
 - 3 × In a wardrobe of gowns, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (The guest bedroom)
+- 2 × In a chest of formal clothes, [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md) (The closet of capes)
 - In a guest wardrobe, [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) (The guests' hall)
 - In Escher's dressing table, [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md) (Escher's suite)
 - In the wardrobe, [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md) (Master Suite)

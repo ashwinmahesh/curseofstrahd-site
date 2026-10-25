@@ -43,6 +43,7 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Kip's
 
 - **Free (success):** the contract burns, and the apricots start to rot. If Kip is **Close or better** (approval 25 or more), he carves the first pit off a free tree into a charm that actually works, a [Stone of Good Luck (Luckstone)](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-good-luck-luckstone). If he's **Strained or worse** (-25 or lower), he won't call Quillon with the party watching, and the talk isn't offered until his approval recovers. His Strained camp talk can give up to +10.
 - **Strahd's Debtor (failure):** at dinner, **(Let him buy the contract.)** hands it to Strahd. That's -6, and it's final.
+- **Lost (failure):** Kip is lost for good before he's free: he gives his life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes him. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 **What it changes later:** if you settled up with the first letter, Strahd's invitation laughs about the letter you gave to a devil. If you're free before dinner, Strahd greets Kip as "the merchant who paid his devil with my name"; otherwise he smells "ink on his soul". After *Free*, Kip has a camp talk about the letter to his dad.
 
@@ -74,6 +75,8 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): Kip's
 >
 > **Signed**: Kip has it: Strahd von Zarovich's own signature, freely given, in his own hand. He keeps checking his pocket.
 > *Hint:* Take a Long Rest with Kip in the party and call Mister Quillon to the fire.
+>
+> **Lost** (the end: failure): Kip Smudgewick is gone, and he will never bring the lord's signature back to Mister Quillon. Every word of the fine print still binds him, wherever he is.
 >
 > **Free** (the end: success): Kip called Mister Quillon to the fire and handed him Strahd's signature, and Mister Quillon read his own contract three times and went a colour Kip says he'll treasure. The contract burned in his hand. Kip's apricots are going brown. He has never been so happy to see fruit spoil.
 >

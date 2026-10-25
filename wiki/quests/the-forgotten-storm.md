@@ -40,7 +40,7 @@ You may already have seen the storm strike if the lightning-ridge event came up 
    - **"In the count's castle, in a crypt with no name."** The storm tears off east toward the castle, hits a wall in the sky, and comes back smaller and furious: "AND HIM." You fight it weakened, at 110 hit points.
    - **"(Stand your ground.)"** You fight it at full strength, at 430 hit points.
 
-4. **The fight.** [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) and a Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md) at 60 hit points), 6800 XP, on the storm's own ground (it has lair actions).
+4. **The fight.** [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) and a Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md) at 90 hit points), 6800 XP, on the storm's own ground (it has lair actions).
    - **Its attacks:** two thunderous slams, Lightning on two of you (Dexterity DC 16, 6d8, half on a save), and a Whirlwind that throws whoever is in its space 20 feet and knocks them prone (Strength DC 16, 4d10+2 thunder).
    - **Its defences:** it resists weapon damage and lightning, is immune to thunder, and has Legendary Resistance once a day.
 
@@ -79,8 +79,8 @@ You may already have seen the storm strike if the lightning-ridge event came up 
 
 - *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md), 60 HP) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
 
 ## Journal
 

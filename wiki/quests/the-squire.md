@@ -34,7 +34,7 @@ Start it before the Order is put to rest. If the beacon is lit before you've hea
    - level 9: the Gate Warden and 3 Knights Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)s) with 11 Men-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)s), 14,900 XP;
    - level 8: the Warden and 4 Knights with 4 Men-at-Arms, 11,800 XP;
    - level 7: the Warden, one Knight and 8 Men-at-Arms, 9,200 XP;
-   - below that: the Warden at 90 HP, one Knight and 7 Men-at-Arms.
+   - below that: the Warden, one Knight and 7 Men-at-Arms, 8,500 XP.
 
    This is a hard fight. Rest first. Radiant damage is the answer to both kinds of enemy: the revenants regenerate 10 HP a turn unless fire or radiant hit them, and the phantom warriors halve weapon damage.
 5. **Talk to Cosmin again** once the last man-at-arms falls. Godfrey comes down with the Order's book, writes Ioan's name right and Cosmin's under it, and gives you Ioan's [Arrow-Catching Shield](https://curseofstrahd.app/wiki/items/magic-items.md#arrow-catching-shield) and 150 gp. The quest is **Done**. Godrick +3, Liriel +2, Thistle, Wren and Ratatouille +1.
@@ -72,7 +72,7 @@ There are two endings, and both count as a success.
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 9: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 3 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 11 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (14900 XP)
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 8: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 4 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (11800 XP)
 > - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when level ≥ 7: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 8 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (9200 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), 90 HP), 7 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (8500 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**: The Gate Warden ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), 7 × Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), A Knight Who Forgot ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (8500 XP)
 
 ## Journal
 

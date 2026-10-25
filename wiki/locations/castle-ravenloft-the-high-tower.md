@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** Risky
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md), [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md)
+> **Getting here:** [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md), [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md), [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md)
 > **Quests:** [The Boyar's Petition](https://curseofstrahd.app/wiki/quests/the-boyars-petition.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md), [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md) and 3 more
 
 ## Overview
@@ -26,6 +26,7 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 ### Ways in
 
 - **From [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md):** Tower stairs up to the spires
+- **From [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md):** The ladder down into the high tower
 - **From [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md):** The high tower stairway, up
 - **From [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md):** Down to the high landing
 - **From [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md):** The door to the high tower
@@ -38,6 +39,7 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 | 2 | The arch to the count's floor | [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) |  |
 | 3 | Up to the top of the tower | [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md) |  |
 | 4 | The door to the tower rooms | [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md) |  |
+| 5 | A ladder up behind a panel | [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md) | court servants ladder found |
 
 ## Map
 
@@ -52,16 +54,16 @@ A stair without a rail climbs the inside of a tower so tall its top is lost in t
 
 ## People
 
-- **[Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md)**, Of the Household: The foot of the high tower (#6)
+- **[Vlaicu the Lamplighter](https://curseofstrahd.app/wiki/people/vlaicu-the-lamplighter.md)**, Of the Household: The foot of the high tower (#7)
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)**, The grand landing (#5): when not pidlwick ii with the party and not pidlwick with blinsky
+> - **[Pidlwick II](https://curseofstrahd.app/wiki/people/pidlwick-ii.md)**, The grand landing (#6): when not pidlwick ii with the party and not pidlwick with blinsky
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 7 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), [Staff of Fire (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-fire), [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme), [Diamond](https://curseofstrahd.app/wiki/items/equipment.md#diamond) ×3, 450 gp | open it |
+| 8 | the lamplighters' cupboard | [Lamp](https://curseofstrahd.app/wiki/items/equipment.md#lamp) ×2, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), [Staff of Fire (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-fire), [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme), [Diamond](https://curseofstrahd.app/wiki/items/equipment.md#diamond) ×3, 450 gp | open it |
 
 The containers here also get random magic items and potions, rolled for a party of level 10 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -69,13 +71,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 8 | a faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
+| 9 | a faded tapestry | Investigation 14 | Study the tower plan woven into the tapestry | reveals spires_closet_panel |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 9 | a broken step | 14 | 15 | DEX 15 | 4d6 bludgeoning |
+| 10 | a broken step | 14 | 15 | DEX 15 | 4d6 bludgeoning |
 
 ### Locked and secret doors
 

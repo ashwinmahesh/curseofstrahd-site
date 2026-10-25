@@ -18,8 +18,9 @@ A grave, soft-spoken dusk elf who lodges with the Vistani outside Vallaki, mourn
 
 ## Where to find them
 
-> [!note]- At points in the story (1)
-> - [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md), Camp edge: when not kasimir velikov with the party
+> [!note]- At points in the story (2)
+> - [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), The road below the gates: when kasimir at gates and not kasimir velikov with the party
+> - [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md), Camp edge: when not kasimir velikov with the party and not kasimir at gates
 
 ## Shop and services
 

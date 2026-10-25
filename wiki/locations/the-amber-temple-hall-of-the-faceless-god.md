@@ -67,8 +67,9 @@ Every sound you make comes back to you a moment later, slightly changed.
 | 6 | a warden's chest | [A Warden's Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#a-wardens-spellbook), [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Robe](https://curseofstrahd.app/wiki/items/equipment.md#robe), 20 gp | open it |
 | 7 | a warden's locker | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 35 gp | lock DC 14 |
 | 8 | a student's desk | [Paper](https://curseofstrahd.app/wiki/items/equipment.md#paper) ×5, [Magnifying Glass](https://curseofstrahd.app/wiki/items/equipment.md#magnifying-glass) | open it |
-| 10 | a loose stone in a warden's cell (hidden) | [Ioun Stone (Insight)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-insight) | Search: Investigation DC 17 |
-| 11 | a drawer in the desk kept clear of frost (hidden) | [Tome of Leadership and Influence](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-leadership-and-influence) | Search: Investigation DC 17 |
+| 9 | a rack of the wardens' staves | [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls), [Potion of Resistance (Fire)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-resistance-fire) | open it |
+| 11 | a loose stone in a warden's cell (hidden) | [Ioun Stone (Insight)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-insight) | Search: Investigation DC 17 |
+| 12 | a drawer in the desk kept clear of frost (hidden) | [Tome of Leadership and Influence](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-leadership-and-influence) | Search: Investigation DC 17 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Amber Temple Faceless God (statue_offerings)
 
@@ -78,14 +79,14 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 9 | the faceless god | Religion 16 | Read the faceless god's rite | reveals faceless_gaze; disarms faceless gaze; on a failure: 2d8 psychic damage |
+| 10 | the faceless god | Religion 16 | Read the faceless god's rite | reveals faceless_gaze; disarms faceless gaze; on a failure: 2d8 psychic damage |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 12 | A crack in the floor, breathing | 15 | 16 | CON 15 | 4d8 cold |
-| 13 | Where the statue's blank face looks | 16 | 0 | WIS 15 | 3d8 psychic |
+| 13 | A crack in the floor, breathing | 15 | 16 | CON 15 | 4d8 cold |
+| 14 | Where the statue's blank face looks | 16 | 0 | WIS 15 | 3d8 psychic |
 
 ## Fights
 
@@ -96,6 +97,11 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not hollow eyed cleared: 5 × Hollow-eyed seeker ([Nothic](https://curseofstrahd.app/wiki/bestiary/nothic.md)), Warden's wraith ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (5850 XP)
 
 - *Patrina screams, and the frozen students at their desks lift their heads to scream with her.*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): Patrina Velikovna ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 110 HP), 11 × Frozen student ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 7 × [Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md). Starts from a conversation. Part of [The Wailing Hall](https://curseofstrahd.app/wiki/quests/the-wailing-hall.md).
+
+- *The dark at the god's head shifts, and two tall pointed ears lift against the stone. Green fire spits from…*, in [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md): [Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md), [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md). Scales with your level. Starts when you reach the great hall.
+> [!example]- Every version (the first whose condition holds is the fight you get)
+> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not statue ambush fought and not vosk met and not vosk fate and not vosk destroyed and level ≥ 10: The shape in the dark ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)), 3 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (11700 XP; surprise: party)
+> - **[The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md)**, when not statue ambush fought and not vosk met and not vosk fate and not vosk destroyed: The shape in the dark ([Arcanaloth](https://curseofstrahd.app/wiki/bestiary/arcanaloth.md)), 3 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (11700 XP; surprise: party)
 
 ### At camp here
 

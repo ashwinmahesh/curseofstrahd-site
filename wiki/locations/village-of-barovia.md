@@ -64,7 +64,7 @@ The Old Svalich Road runs through the village from the gates and the mists in th
 - **[Widow Ileana](https://curseofstrahd.app/wiki/people/widow-ileana.md)**, Mourner in the Churchyard: Churchyard, 09:00–16:00 (#22)
 - **[A Goat](https://curseofstrahd.app/wiki/people/a-goat.md)**, Of the Back Lanes: Back lanes; Death House lot (#27, #37)
 
-> [!note]- Who turns up at points in the story (19)
+> [!note]- Who turns up at points in the story (20)
 > - **[Morgantha](https://curseofstrahd.app/wiki/people/morgantha.md)**, Village square (#10): when not burgomaster buried and not morgantha driven off
 > - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Churchyard (#11, #16): when burial procession and not burgomaster buried; or when burgomaster buried and not ireena escort
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Churchyard (#12, #15): when burial procession and not burgomaster buried; or when burgomaster buried and not ireena escort
@@ -84,19 +84,20 @@ The Old Svalich Road runs through the village from the gates and the mists in th
 > - **[Lupu](https://curseofstrahd.app/wiki/people/lupu.md)**, Burgomaster's yard (#33): when not lupu with the party and night and quest.the burgomasters hound isn't done and quest.the burgomasters hound isn't sealed; or when not lupu with the party
 > - **[Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md)**, Village square (#34): when quest the last traveller at home; or when ilarion home and not weather is storm
 > - **[The Nursemaid](https://curseofstrahd.app/wiki/people/the-nursemaid.md)**, East road (#35): when quest.the nursemaids grave and quest.the nursemaids grave isn't laid and quest.the nursemaids grave isn't done
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Churchyard (#38): when not izek dead and izek told truth and not izek with the party and not izek guards ireena and izek woods met and days since.izek woods met ≥ 1
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 38 | a loose grave slab | empty | open it |
-| 39 | Teodor's empty grave | [Shield, +1](https://curseofstrahd.app/wiki/items/magic-items.md#shield-1), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 90 gp | locked, with nothing to pick; only when teodor cache known |
-| 40 | Well rope (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 12 |
-| 47 | a stash under the fallen beams (hidden) | [Javelin of Lightning (Javelin)](https://curseofstrahd.app/wiki/items/magic-items.md#javelin-of-lightning) | Search: Perception DC 13 |
-| 48 | a grave dug up and filled in again (hidden) | [Wand of Secrets](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-secrets) | Search: Perception DC 14 |
-| 50 | Something kept dry behind the rain barrel (hidden) | [Oil of Slipperiness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-slipperiness) | Search: Perception DC 12 |
-| 51 | a crack in the lych-gate post (hidden) | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) | Search: Perception DC 14 |
-| 53 | Something hung low on a door (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
+| 39 | a loose grave slab | empty | open it |
+| 40 | Teodor's empty grave | [Shield, +1](https://curseofstrahd.app/wiki/items/magic-items.md#shield-1), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 90 gp | locked, with nothing to pick; only when teodor cache known |
+| 41 | Well rope (hidden) | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) | Search: Perception DC 12 |
+| 48 | a stash under the fallen beams (hidden) | [Javelin of Lightning (Javelin)](https://curseofstrahd.app/wiki/items/magic-items.md#javelin-of-lightning) | Search: Perception DC 13 |
+| 49 | a grave dug up and filled in again (hidden) | [Wand of Secrets](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-secrets) | Search: Perception DC 14 |
+| 51 | Something kept dry behind the rain barrel (hidden) | [Oil of Slipperiness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-slipperiness) | Search: Perception DC 12 |
+| 52 | a crack in the lych-gate post (hidden) | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) | Search: Perception DC 14 |
+| 54 | Something hung low on a door (hidden) | [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) | Search: Perception DC 13 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Village of Barovia:churchyard (churchyard_loose_slab)
 
@@ -106,15 +107,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 41 | Castle on the cliff | History 14 | Recall what's told of the castle | lore: The castle on the pillar of rock |
-| 42 | the road east | Arcana 14 | Study the mists | lore: The mists |
-| 43 | Clawed walls | Survival 13 | Read the claw marks | lore: Claw marks on the burgomaster's house |
-| 44 | Old graves | History 13 | Read the oldest names | finds Wand of Secrets; lore: The oldest graves in Barovia |
-| 45 | Pastry cart | Medicine 13 | Sniff the pastries | lore: The pastry cart; on a failure: minutes 60 |
-| 46 | Collapsed barn | Athletics 14 | Heave the fallen beams aside | finds Javelin of Lightning (Javelin); on a failure: 1d4 bludgeoning damage |
-| 49 | a rain barrel | Survival 12 | Read the tracks by the barrel | finds Oil of Slipperiness |
-| 52 | a roadside shrine | Religion 12 | Pray to the Morninglord | Heroic Inspiration |
-| 54 | a raven on the lych-gate | Animal Handling 13 | Coax the raven down | finds Holy Water |
+| 42 | Castle on the cliff | History 14 | Recall what's told of the castle | lore: The castle on the pillar of rock |
+| 43 | the road east | Arcana 14 | Study the mists | lore: The mists |
+| 44 | Clawed walls | Survival 13 | Read the claw marks | lore: Claw marks on the burgomaster's house |
+| 45 | Old graves | History 13 | Read the oldest names | finds Wand of Secrets; lore: The oldest graves in Barovia |
+| 46 | Pastry cart | Medicine 13 | Sniff the pastries | lore: The pastry cart; on a failure: minutes 60 |
+| 47 | Collapsed barn | Athletics 14 | Heave the fallen beams aside | finds Javelin of Lightning (Javelin); on a failure: 1d4 bludgeoning damage |
+| 50 | a rain barrel | Survival 12 | Read the tracks by the barrel | finds Oil of Slipperiness |
+| 53 | a roadside shrine | Religion 12 | Pray to the Morninglord | Heroic Inspiration |
+| 55 | a raven on the lych-gate | Animal Handling 13 | Coax the raven down | finds Holy Water |
 
 ## Fights
 
@@ -132,12 +133,12 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 4: The Coachman ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (3300 XP)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 3: The Coachman ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md), 4 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3000 XP)
-> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**: The Coachman ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 45 HP), 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (2650 XP)
+> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**: The Coachman ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (2650 XP)
 
 - *The woodpile stands up. It is taller than Grigore's house, logs for ribs and roots for fingers, and the…*, in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md). Scales with your level. Starts from a conversation. Part of [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 4: The Woodpile ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), 2 × [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (2010 XP)
-> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 3: The Woodpile ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md), 85 HP), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (1875 XP)
+> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 3: The Woodpile ([Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md)), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md) (1875 XP)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**: [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 3 × [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 × [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (335 XP)
 
 - *The logs split in the fire, and things crawl out of the splits: pale, thorned, too many legs, and very angry…*, in [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md). Scales with your level. Starts from a conversation. Part of [Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md).
@@ -150,7 +151,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 4: Zinaida ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 3 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) (2050 XP)
 > - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**, when level ≥ 3: Zinaida ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), 3 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) (1650 XP)
-> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**: Zinaida ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md), 40 HP), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (1220 XP)
+> - **[Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md)**: Zinaida ([Banshee](https://curseofstrahd.app/wiki/bestiary/banshee.md)), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) (1220 XP)
 
 ### At camp here
 

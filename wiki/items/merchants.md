@@ -19,7 +19,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 |---|---|---|
 | [Arik](https://curseofstrahd.app/wiki/items/merchants.md#arik) | [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md) | 3 always for sale |
 | [Bildrath Cantemir](https://curseofstrahd.app/wiki/items/merchants.md#bildrath-cantemir) | [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md) | 87 always for sale |
-| [Gadof Blinsky](https://curseofstrahd.app/wiki/items/merchants.md#gadof-blinsky) | [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md) | 16 always for sale, 64 magic items |
+| [Gadof Blinsky](https://curseofstrahd.app/wiki/items/merchants.md#gadof-blinsky) | [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md) | 17 always for sale, 64 magic items |
 | [Davian Martikov](https://curseofstrahd.app/wiki/items/merchants.md#davian-martikov) | [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) | 3 always for sale, 27 magic items |
 | [Dmitri Krezkov](https://curseofstrahd.app/wiki/items/merchants.md#dmitri-krezkov) | [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md) | 53 always for sale, 72 magic items |
 | [Father Donavich](https://curseofstrahd.app/wiki/items/merchants.md#father-donavich) | [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | 22 always for sale, 19 magic items |
@@ -27,7 +27,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Gunther Arasek](https://curseofstrahd.app/wiki/items/merchants.md#gunther-arasek) | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 63 always for sale, 77 magic items |
 | [Henrik van der Voort](https://curseofstrahd.app/wiki/items/merchants.md#henrik-van-der-voort) | [The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md) | 10 always for sale |
 | [Kasha Varo](https://curseofstrahd.app/wiki/items/merchants.md#kasha-varo) | [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) | 22 always for sale, 49 magic items |
-| [Kasimir Velikov](https://curseofstrahd.app/wiki/items/merchants.md#kasimir-velikov) | [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 22 always for sale, 61 magic items |
+| [Kasimir Velikov](https://curseofstrahd.app/wiki/items/merchants.md#kasimir-velikov) | [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 22 always for sale, 61 magic items |
 | [Xaver](https://curseofstrahd.app/wiki/items/merchants.md#xaver) | [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md) | 147 magic items |
 | [Rictavio](https://curseofstrahd.app/wiki/items/merchants.md#rictavio) | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) | 23 always for sale, 12 magic items |
 | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/items/merchants.md#sir-godfrey-gwilym) | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md), [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) | 20 always for sale |
@@ -154,7 +154,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 
 *markup ×1.5; pays 40% of value; buys tool, treasure, gear; closed when night; buys magic items at 50% of their price*
 
-**Always for sale (16):**
+**Always for sale (17):**
 
 | Item | Price | Stock | Only when |
 |---|---|---|---|
@@ -174,6 +174,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Tinker's Tools](https://curseofstrahd.app/wiki/items/equipment.md#tinkers-tools) | 75 gp | 1 |  |
 | [Woodcarver's Tools](https://curseofstrahd.app/wiki/items/equipment.md#woodcarvers-tools) | 2 gp | 1 |  |
 | [Painter's Supplies](https://curseofstrahd.app/wiki/items/equipment.md#painters-supplies) | 15 gp | 1 |  |
+| [A Puppet with No Reflection](https://curseofstrahd.app/wiki/items/equipment.md#a-puppet-with-no-reflection) | 9 gp | 1 | eggs puppet seen |
 
 **Magic items (64):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
@@ -850,7 +851,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 
 ## Kasimir Velikov
 ![kasimir velikov](https://curseofstrahd.app/wiki/img/portraits/kasimir-velikov.webp)
-[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), Dusk Elf of the Lakeside Camp, in [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
+[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md), Dusk Elf of the Lakeside Camp, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md)
 
 *markup ×1; pays 40% of value; buys scroll; buys magic items at 50% of their price; ×1.25 on what you buy after kasimir's warmth toward the party is gone, after he heard the party destroyed his sister. His camp greeting and hub opening turn curt, and his scrolls cost a quarter more (price_flags in data/npcs/kasimir_velikov.json). Nothing else changes*
 

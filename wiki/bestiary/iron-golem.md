@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/iron-golem.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![helmed horror](https://curseofstrahd.app/wiki/img/portraits/helmed-horror.webp)
+> ![iron golem](https://curseofstrahd.app/wiki/img/portraits/iron-golem.webp)
 > **Type:** Large construct
 > **Alignment:** unaligned
 > **Challenge:** 16 (15000 XP)

@@ -28,18 +28,20 @@ Aisles of crypts run away into the dark in straight lines, each behind an iron g
 - **From [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md):** Stairs up to the catacombs
 - **From [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md):** The black stair up
 - **From [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md):** Stairs up to the catacombs
+- **From [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md):** Stairs up to the lower gallery
 - **From [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md):** The long stair, down to the crypts
-- **From [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md):** The stairs down to the crypts
+- **From [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md):** The stair to the crypts, bricked up
 
 ### Ways out
 
 | # | Exit | Leads to | Only when |
 |---|---|---|---|
-| 1 | Stairs up to the chapel side | [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) |  |
+| 1 | The stair up to the chapel side, bricked up | [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md) | false |
 | 2 | Stairs up to the dungeon | [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md) |  |
 | 3 | Stairs down to the old tombs | [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md) |  |
 | 4 | The black stair down | [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md) |  |
 | 5 | Stairs down to the tunnel through the Pillarstone | [Castle Ravenloft, the Brazier Room](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-brazier-room.md) |  |
+| 6 | Stairs down to the lesser vaults | [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md) |  |
 
 ## Map
 
@@ -62,15 +64,20 @@ Aisles of crypts run away into the dark in straight lines, each behind an iron g
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | the Mad Dog's sarcophagus | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), 45 gp | open it |
-| 7 | a sealed reliquary with a slot in its lid | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), 30 gp | lock DC 22; or the [Arcane Focus (Wand)](https://curseofstrahd.app/wiki/items/equipment.md#arcane-focus-wand) |
-| 8 | a painted box | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), 7 gp | open it |
-| 9 | an iron-bound chest under the bones | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 120 gp | open it |
-| 10 | a noble's crypt, its lid ajar | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), 25 gp | open it |
-| 11 | the champion's slab | [Greatsword](https://curseofstrahd.app/wiki/items/equipment.md#greatsword), 20 gp | open it |
-| 14 | the conjurer's bier (hidden) | [Arcane Focus (Wand)](https://curseofstrahd.app/wiki/items/equipment.md#arcane-focus-wand) | Search |
-| 17 | a staff hidden in the conjurer's bier (hidden) | [Staff of Thunder and Lightning (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-thunder-and-lightning) | Search: Investigation DC 16 |
-| 18 | a false bottom in the jester's sarcophagus (hidden) | [Cape of the Mountebank](https://curseofstrahd.app/wiki/items/magic-items.md#cape-of-the-mountebank) | Search: Investigation DC 15 |
+| 7 | the Mad Dog's sarcophagus | [Longsword](https://curseofstrahd.app/wiki/items/equipment.md#longsword), 45 gp | open it |
+| 8 | a sealed reliquary with a slot in its lid | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1) ×2, [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), 30 gp | lock DC 22; or the [Arcane Focus (Wand)](https://curseofstrahd.app/wiki/items/equipment.md#arcane-focus-wand) |
+| 9 | a painted box | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), 7 gp | open it |
+| 10 | an iron-bound chest under the bones | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, 120 gp | open it |
+| 11 | a noble's crypt, its lid ajar | [Perfume](https://curseofstrahd.app/wiki/items/equipment.md#perfume), 25 gp | open it |
+| 12 | the champion's slab | [Greatsword](https://curseofstrahd.app/wiki/items/equipment.md#greatsword), 20 gp | open it |
+| 13 | a coffer at the king's feet | 120 gp | open it |
+| 14 | Gold flaked from the knight | 180 gp | open it |
+| 15 | the chef's last tool | [Jeweled Electrum Spork](https://curseofstrahd.app/wiki/items/equipment.md#jeweled-electrum-spork) | open it |
+| 18 | the conjurer's bier (hidden) | [Arcane Focus (Wand)](https://curseofstrahd.app/wiki/items/equipment.md#arcane-focus-wand) | Search |
+| 21 | a staff hidden in the conjurer's bier (hidden) | [Staff of Thunder and Lightning (Quarterstaff)](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-thunder-and-lightning) | Search: Investigation DC 16 |
+| 22 | a false bottom in the jester's sarcophagus (hidden) | [Cape of the Mountebank](https://curseofstrahd.app/wiki/items/magic-items.md#cape-of-the-mountebank) | Search: Investigation DC 15 |
+| 23 | a silver holy symbol under her folded hands (hidden) | [Holy Symbol (Amulet)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-amulet) | Search: Investigation DC 13 |
+| 24 | a longsword under the mold (hidden) | [Longsword Giant Slayer](https://curseofstrahd.app/wiki/items/magic-items.md#giant-slayer) | Search: Investigation DC 12 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Crypt of the Mad Dog (cat_mad_dog_sarcophagus); Castle Ravenloft Crypt of the Wizard (cat_conjurer_reliquary); Castle Ravenloft Gargoyle Tomb (cat_champion_slab)
 
@@ -80,17 +87,21 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 12 | Torn regimental banners | History 15 | Read the regiment's banners | reveals cat_mad_dog_blade |
-| 13 | a small sarcophagus | Performance 15 | Tell the jester's crypt a joke | finds Cape of the Mountebank |
-| 15 | Sigils on the wall | Arcana 16 | Read the sigils on the wall | reveals cat_conjurer_glyph; disarms cat conjurer glyph |
-| 16 | Bones stacked to the ceiling | Investigation 16 | Work out why the bones are stacked so | reveals cat_ossuary_secret |
+| 16 | Torn regimental banners | History 15 | Read the regiment's banners | reveals cat_mad_dog_blade |
+| 17 | a small sarcophagus | Performance 15 | Tell the jester's crypt a joke | finds Cape of the Mountebank |
+| 19 | Sigils on the wall | Arcana 16 | Read the sigils on the wall | reveals cat_conjurer_glyph; disarms cat conjurer glyph |
+| 20 | Bones stacked to the ceiling | Investigation 16 | Work out why the bones are stacked so | reveals cat_ossuary_secret |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 19 | a scything blade under the flagstones | 15 | 15 | DEX 15 | 4d10 slashing |
-| 20 | a glyph cut into the threshold | 16 | 16 | DEX 15 | 4d8 lightning |
+| 25 | a scything blade under the flagstones | 15 | 15 | DEX 15 | 4d10 slashing |
+| 26 | a glyph cut into the threshold | 16 | 16 | DEX 15 | 4d8 lightning |
+| 27 | a loose step before the king's feet | 15 | 15 | CON 16 | 5d10 poison |
+| 28 | a cord strung to the bell | 14 | 15 | DEX 16 | 6d6 fire |
+| 29 | a patch of brown mold | 13 | 18 | CON 15 | 5d8 cold |
+| 30 | a painted false floor | 16 | 16 | DEX 15 | 2d10 piercing |
 
 ### Locked and secret doors
 
@@ -109,7 +120,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when night: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; waiting)
 > - **[Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)**, when day: 10 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (18000 XP; surprise: enemies)
 
-- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (110 HP). Starts when you reach the champion's tomb.
+- *The winged figures at the corners of the slab unfold, stone grinding on stone, and drop to the floor.*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Starts when you reach the champion's tomb.
 
 - *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*, in [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md), [Helmed Horror](https://curseofstrahd.app/wiki/bestiary/helmed-horror.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)

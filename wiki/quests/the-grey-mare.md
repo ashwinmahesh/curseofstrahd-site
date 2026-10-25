@@ -40,28 +40,31 @@ If you reach the crossroads first and find the mare tied there, examining her al
    - **Religion DC 15**, one try only. Remember she hates priests: **if it fails, she turns black.**
 
    The safe order is spells or holy water first and the rolls only as a last resort. When the brand breaks she bolts home, and the carriage arrives early.
+
+   **Or trick the carriage.** Back at the camp, Radu's menu has **(Ask if the camp has anything shaped like a horse.)** while the quest is under way, and he lends you the troupe's Winter Horse, blackened with lamp soot. At the milestone, pick **(Swap the Winter Horse in for her.)** (she doesn't need calming first), then **Sleight of Hand DC 13** or **Stealth DC 13**. On a pass the carriage takes the straw horse and drives off: Steaua runs home saved, there's no fight (you still get its XP), and Thistle +2, Godrick +1, Liriel +1 and Wren +1 approve. On a fail, or with **(Switch them in plain sight and hope.)**, Steaua still gets away, but the escort attacks (step 5).
 5. **Fight the carriage's escort.** Whether you saved her or chose "Wait here for the carriage", the black carriage comes and its escort attacks:
    - Level 5+: the Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), two [Wights](https://curseofstrahd.app/wiki/bestiary/wight.md), three [Specters](https://curseofstrahd.app/wiki/bestiary/specter.md) and two [Zombies](https://curseofstrahd.app/wiki/bestiary/zombie.md).
    - Level 4: the Lead Horse, one Wight, two Specters, one Zombie.
-   - Below 4: the Lead Horse (only 50 HP), two Specters, two Zombies and a [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
-   - If Steaua wasn't saved she fights for the carriage as a second nightmare (also 50 HP below level 4), and the rest of the escort is one Wight, three Specters and four Zombies at level 5+, two Specters and two Zombies at level 4, and one Specter and one Zombie below 4.
+   - Below 4: the Lead Horse, two Specters, two Zombies and a [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md).
+   - If Steaua wasn't saved she fights for the carriage as a second nightmare, and the rest of the escort is one Wight, three Specters and four Zombies at level 5+, two Specters and two Zombies at level 4, and one Specter and one Zombie below 4.
 
-   The nightmares are immune to fire and kick with burning hooves. The specters resist weapon damage and most elements and their touch lowers your maximum hit points, so radiant, force and psychic damage are what to use on them; radiant also stops the zombies from getting back up.
+   The nightmares have 68 HP each, the wights 82, the specters 22 and the zombies 15. The nightmares are immune to fire and kick with burning hooves. The specters resist weapon damage and most elements and their touch lowers your maximum hit points, so radiant, force and psychic damage are what to use on them; radiant also stops the zombies from getting back up.
 6. **Go back to Radu** at the camp.
 
 ### Choices and endings
 
-Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the Pact Keeper, +1](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-the-pact-keeper-1). Breaking the brand earns Thistle +2, Godrick +1 and Liriel +1 when you do it. Beating the escort adds 1 point to Strahd's attention.
+Whatever became of her, Radu pays you **120 gp** of the castle's gold. The [Rod of the Pact Keeper, +1](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-the-pact-keeper-1), Steaua's old bride price, comes only with a saved Steaua. Breaking the brand earns Thistle +2, Godrick +1 and Liriel +1 when you do it. Beating the escort adds 1 point to Strahd's attention.
 
-- **Steaua saved (home):** she's back in the pen, and Radu asks whose she is now.
+- **Steaua saved (Home, success):** she's back in the pen, and Radu asks whose she is now. He gives you the gold and the rod.
   - *Radu's* ("Never sell her again"): Godrick +1, Thistle +2.
   - *Luminita's*: [Luminita](https://curseofstrahd.app/wiki/people/luminita.md) becomes friendly toward you; Thistle +2, Liriel +1, Wren +1.
-- **Steaua lost (mourned):** you had to put her down in the fight. Radu ties a black ribbon to the gate.
+- **Steaua lost (Mourned, failure):** you had to put her down in the fight. Radu ties a black ribbon to the gate and pays the gold, but the rod stays tied to the gatepost with her ribbon.
+- **The camp turned on you:** Radu is gone, and the empty pen closes the quest. A saved Steaua stands there alone with the castle's purse still on the gatepost (120 gp, no rod; Thistle +1). A lost one leaves only an empty place (Empty Pen, failure).
 
 ### If you're stuck
 
 - **Radu just talks about his horses?** You need Zora's rumour first.
-- **Both one-try rolls can lose the horse.** If you have no Ranger, Druid or calming spell, bring Holy Water or someone with Remove Curse or Protection from Evil and Good, so that at most one roll is riding on luck.
+- **Both one-try rolls can lose the horse.** If you have no Ranger, Druid or calming spell, bring Holy Water or someone with Remove Curse or Protection from Evil and Good, so that at most one roll is riding on luck. Radu's Winter Horse needs no calming and no brand-breaking, and even a fumbled swap saves her.
 - The grey horse in the camp's pen is gone while she's sold; it comes back only if you save her.
 
 ## Rewards
@@ -84,8 +87,8 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when not mare saved and level ≥ 5: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), The Footman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 4 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), Steaua ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)) (2900 XP)
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when mare saved and level ≥ 4: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), The Footman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md) (1850 XP)
 > - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when not mare saved and level ≥ 4: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), Steaua ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)) (1900 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when mare saved: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), 50 HP), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1225 XP)
-> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when not mare saved: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), 50 HP), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), Steaua ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md), 50 HP) (1650 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when mare saved: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), 2 × [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (1225 XP)
+> - **[The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)**, when not mare saved: The Lead Horse ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), Steaua ([Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md)) (1650 XP)
 
 ## Journal
 
@@ -110,7 +113,7 @@ Radu pays the same either way: **120 gp** of the castle's gold and a [Rod of the
 >
 > **Home** (the end: success): Steaua is back in the pen at Tser Pool, grey and cross and eating everything. Whoever owns her now, nobody will be selling her to anyone again.
 >
-> **Mourned** (the end: success): We told Radu what the castle made of his mare. He tied a black ribbon to the pen gate and would not say anything else.
+> **Mourned** (the end: failure): We told Radu what the castle made of his mare. He tied a black ribbon to the pen gate and would not say anything else.
 >
 > **Empty Pen** (the end: failure): The Tser Pool camp turned on us before we could tell Radu what the castle made of his mare. The pen is empty, the carriage has its black horse, and nobody is left to tell.
 

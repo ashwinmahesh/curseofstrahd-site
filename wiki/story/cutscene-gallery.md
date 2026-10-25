@@ -1358,7 +1358,7 @@ The Tome's second picture: on a summer terrace Sergei gives Tatyana a flower whi
 ![tome brothers](https://curseofstrahd.app/wiki/img/cutscenes/tome-brothers.webp)
 
 ## The Conqueror
-The Tome of Strahd, first pictures of the book: young, living Strahd alone on a ridge at dawn above the valley his army has just taken, his back to the cheering soldiers. Plays the first time the Tome is read.
+The Tome of Strahd, first pictures of the book: young, living Strahd alone on a ridge at dawn above the valley his army has just taken, his back to the cheering soldiers. The first of the six pictures the Tome's reading plays under its conversation (narrative/strahd/tome.dialogue), every time it is read.
 
 ![tome conqueror](https://curseofstrahd.app/wiki/img/cutscenes/tome-conqueror.webp)
 

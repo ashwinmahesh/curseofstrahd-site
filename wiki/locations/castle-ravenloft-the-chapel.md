@@ -46,7 +46,7 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 ### Close up
 
 ![loc castle ravenloft chapel spot1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-chapel-spot1.webp)
-*the altar, under its dust, something under the altar's dust*
+*the altar, under its dust, Silver icon on the altar, something under the altar's dust*
 
 ![loc castle ravenloft chapel spot2](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-chapel-spot2.webp)
 *the poor box*
@@ -62,7 +62,8 @@ Pews in rows, some split, some fallen. A tall window of coloured glass, black no
 |---|---|---|---|
 | 6 | the altar, under its dust | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4, [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Holy Symbol (Reliquary)](https://curseofstrahd.app/wiki/items/equipment.md#holy-symbol-reliquary) | open it |
 | 7 | the poor box | 7 gp | open it |
-| 9 | something under the altar's dust (hidden) | [Ioun Stone (Fortitude)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-fortitude) | Search: Investigation DC 17 |
+| 8 | Silver icon on the altar | [Icon of Ravenloft](https://curseofstrahd.app/wiki/items/magic-items.md#icon-of-ravenloft) | open it |
+| 10 | something under the altar's dust (hidden) | [Ioun Stone (Fortitude)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-fortitude) | Search: Investigation DC 17 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Chapel (crg_chapel_altar)
 
@@ -72,7 +73,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 8 | the pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
+| 9 | the pews | Religion 16 | Pray in the count's chapel | finds Ioun Stone (Fortitude); on a failure: 2d6 necrotic damage |
 
 ## Fights
 

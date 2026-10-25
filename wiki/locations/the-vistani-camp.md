@@ -66,7 +66,7 @@ Wagons in a ring around a fire, horses on a line, the lake at the camp's back wi
 > [!note]- Who turns up at points in the story (4)
 > - **[Arabelle](https://curseofstrahd.app/wiki/people/arabelle.md)**, Luvash's wagon (#6): when arabelle rescued and not arabelle with the party
 > - **[Nelu](https://curseofstrahd.app/wiki/people/nelu.md)**, Campfire (#7): when (quest called by name at nelu found or quest called by name at no fire) and (tser pool brawl won or vistani turned hostile)
-> - **[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)**, Camp edge (#8): when not kasimir velikov with the party
+> - **[Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)**, Camp edge (#8): when not kasimir velikov with the party and not kasimir at gates
 > - **[Bluto Krogarov](https://curseofstrahd.app/wiki/people/bluto-krogarov.md)**, Lakeshore (#9): when quest missing arabelle at clue or (quest missing arabelle at asked and arabelle tracks found)
 
 ## What to find

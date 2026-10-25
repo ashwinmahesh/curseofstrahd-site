@@ -55,7 +55,7 @@ The Old Svalich Road runs past a clearing on the edge of the Svalich Woods. In i
 
 ## People
 
-> [!note]- Who turns up at points in the story (14)
+> [!note]- Who turns up at points in the story (15)
 > - **[Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)**, The Vistani camp (#5): when not tser pool brawl won
 > - **[Luminita](https://curseofstrahd.app/wiki/people/luminita.md)**, The Vistani camp (#6): when not tser pool brawl won
 > - **[Old Dorina](https://curseofstrahd.app/wiki/people/old-dorina.md)**, The Vistani camp (#7): when not tser pool brawl won and not vistani turned hostile
@@ -67,22 +67,23 @@ The Old Svalich Road runs past a clearing on the edge of the Svalich Woods. In i
 > - **[Iancu](https://curseofstrahd.app/wiki/people/iancu.md)**, The Vistani camp (#13): when not tser pool brawl won and not vistani turned hostile
 > - **[Old Marin](https://curseofstrahd.app/wiki/people/old-marin.md)**, The Vistani camp (#14): when not tser pool brawl won and not vistani turned hostile
 > - **[A Camp Dog](https://curseofstrahd.app/wiki/people/a-camp-dog-of-the-vistani.md)**, The Vistani camp (#15): when not tser pool brawl won and not vistani turned hostile
-> - **[Nelu](https://curseofstrahd.app/wiki/people/nelu.md)**, The Vistani camp (#16): when nelu home and not tser pool brawl won and not vistani turned hostile
-> - **[Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md)**, The Vistani camp (#17): when quest the tinkers wagon at done
-> - **[Bujor](https://curseofstrahd.app/wiki/people/bujor.md)**, The Vistani camp (#18): when bujor home and not tser pool brawl won and not vistani turned hostile
+> - **[A Barn Owl](https://curseofstrahd.app/wiki/people/a-barn-owl.md)**, The Vistani camp (#16): when not tser pool brawl won and not vistani turned hostile
+> - **[Nelu](https://curseofstrahd.app/wiki/people/nelu.md)**, The Vistani camp (#17): when nelu home and not tser pool brawl won and not vistani turned hostile
+> - **[Iosif the Tinker](https://curseofstrahd.app/wiki/people/iosif-the-tinker.md)**, The Vistani camp (#18): when quest the tinkers wagon at done
+> - **[Bujor](https://curseofstrahd.app/wiki/people/bujor.md)**, The Vistani camp (#19): when bujor home and not tser pool brawl won and not vistani turned hostile
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 19 | a strongbox under a wagon | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), 40 gp | lock DC 15 |
-| 25 | Something in the reeds (hidden) | [Elemental Gem (Yellow Diamond)](https://curseofstrahd.app/wiki/items/magic-items.md#elemental-gem-yellow-diamond) | Search: Perception DC 12 |
-| 26 | Something trodden into the mud by the pen (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 13 |
-| 27 | a hollow stump (hidden) | [Potion of Fire Breath](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-fire-breath) | Search: Perception DC 14 |
-| 28 | Something under the wagon's step (hidden) | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set) | Search: Perception DC 15 |
-| 29 | a Vistani cache under the ribbon tree (hidden) | [+1 Shortbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Investigation DC 14 |
-| 30 | something dropped behind the stage (hidden) | [Bell](https://curseofstrahd.app/wiki/items/equipment.md#bell) | Search: Perception DC 12 |
-| 32 | a false floor in the broken cart (hidden) | [Bag of Holding](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-holding) | Search: Investigation DC 12 |
+| 20 | a strongbox under a wagon | [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger), 40 gp | lock DC 15 |
+| 26 | Something in the reeds (hidden) | [Elemental Gem (Yellow Diamond)](https://curseofstrahd.app/wiki/items/magic-items.md#elemental-gem-yellow-diamond) | Search: Perception DC 12 |
+| 27 | Something trodden into the mud by the pen (hidden) | [Signal Whistle](https://curseofstrahd.app/wiki/items/equipment.md#signal-whistle) | Search: Perception DC 13 |
+| 28 | a hollow stump (hidden) | [Potion of Fire Breath](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-fire-breath) | Search: Perception DC 14 |
+| 29 | Something under the wagon's step (hidden) | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set) | Search: Perception DC 15 |
+| 30 | a Vistani cache under the ribbon tree (hidden) | [+1 Shortbow](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1) | Search: Investigation DC 14 |
+| 31 | something dropped behind the stage (hidden) | [Bell](https://curseofstrahd.app/wiki/items/equipment.md#bell) | Search: Perception DC 12 |
+| 33 | a false floor in the broken cart (hidden) | [Bag of Holding](https://curseofstrahd.app/wiki/items/magic-items.md#bag-of-holding) | Search: Investigation DC 12 |
 
 The containers here also get random magic items and potions, rolled for a party of level 4 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -90,12 +91,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 20 | the bonfire | Performance 12 | Dance at the bonfire | Heroic Inspiration |
-| 21 | Horses | Animal Handling 12 | Calm the skittish horses | finds Elemental Gem (Yellow Diamond) |
-| 22 | a tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds +1 Shortbow |
-| 23 | a cart with a cracked wheel | Athletics 13 | Lift the cart off its cracked wheel | finds Bag of Holding |
-| 24 | a cairn by the water | History 13 | Read the cairn's oldest marks | lore: The cairn at Tser Pool |
-| 31 | a stump stuck with knives | Sleight of Hand 13 | Play the knife game for coin | 12 gp; on a failure: 1d4 slashing damage |
+| 21 | the bonfire | Performance 12 | Dance at the bonfire | Heroic Inspiration |
+| 22 | Horses | Animal Handling 12 | Calm the skittish horses | finds Elemental Gem (Yellow Diamond) |
+| 23 | a tree hung with ribbons | Insight 13 | Read the knots on the ribbons | finds +1 Shortbow |
+| 24 | a cart with a cracked wheel | Athletics 13 | Lift the cart off its cracked wheel | finds Bag of Holding |
+| 25 | a cairn by the water | History 13 | Read the cairn's oldest marks | lore: The cairn at Tser Pool |
+| 32 | a stump stuck with knives | Sleight of Hand 13 | Play the knife game for coin | 12 gp; on a failure: 1d4 slashing damage |
 
 ## Fights
 

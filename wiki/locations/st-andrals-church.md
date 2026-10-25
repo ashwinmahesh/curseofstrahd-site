@@ -59,20 +59,21 @@ A long nave of pews under a sunburst window, an altar on its step, a vestry and 
 
 - **[Old Varvara](https://curseofstrahd.app/wiki/people/old-varvara.md)**, Praying at St. Andral's: Nave, 08:00–18:00 (#10)
 
-> [!note]- Who turns up at points in the story (6)
+> [!note]- Who turns up at points in the story (7)
 > - **[Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)**, Chancel (#5): when not (festival begun and not festival over)
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Nave (#6): when ireena sanctuary is “st andrals” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth)
 > - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Nave (#7): when ismark guards ireena and ireena sanctuary is “st andrals” and not ismark with the party and not (izek holds ireena and not izek dead and not izek told truth)
 > - **[Lydia Petrovna](https://curseofstrahd.app/wiki/people/lydia-petrovna.md)**, Nave (#8): when vallaki backed is “wachter”
 > - **[Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md)**, Nave (#9): when vallaki backed is “wachter” and not victor vanished and not victor vallakovich with the party
 > - **[Stella Wachter](https://curseofstrahd.app/wiki/people/stella-wachter.md)**, Vestry (#11): when stella at church
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Nave (#12): when not izek dead and izek told truth and not izek with the party and izek guards ireena and not ireena with the party and not ireena held by strahd and ireena sanctuary is “st andrals”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 12 | Vestry chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it; Father Lucian's, so taking is theft |
-| 13 | the saint's niche | [Mace of Disruption (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-disruption) | open it; only when bones returned |
+| 13 | Vestry chest | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water), [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×6 | open it; Father Lucian's, so taking is theft |
+| 14 | the saint's niche | [Mace of Disruption (Mace)](https://curseofstrahd.app/wiki/items/magic-items.md#mace-of-disruption) | open it; only when bones returned |
 
 The containers here also get random magic items and potions, rolled for a party of level 5 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -80,7 +81,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 14 | the altar | Religion 13 | Pray at the saint's altar | 1d8 temporary HP |
+| 15 | the altar | Religion 13 | Pray at the saint's altar | 1d8 temporary HP |
 
 ## Fights
 
@@ -88,7 +89,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 5: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (5650 XP)
 > - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (2100 XP)
-> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (55 HP), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (3650 XP)
+> - **[St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md)**, when night and not coffin spawn destroyed and not church siege survived and not bones returned: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (3650 XP)
 
 ### At camp here
 

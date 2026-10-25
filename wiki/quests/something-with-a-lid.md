@@ -38,7 +38,7 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 
 - **Returned (success).** He tucks the jar inside his robe and gives you the robe he sewed the stars on himself: a [Robe of Stars](https://curseofstrahd.app/wiki/items/magic-items.md#robe-of-stars). He also gives you the wardens' word, which quiets the colossus at the doors and opens the honey-glow doors in the vaults. He turns friendly. Wren +1, Kip +1, Liriel -1.
 - **Kept (success).** He understands exactly what you mean and becomes "cooperative": you get the wardens' word and, later, the jackal's name, but no robe.
-- **Smashed (failure).** A grey stone inside cracks in two. If you do it in front of him, he thanks you, quietly, and asks you to leave. Either way, in front of him or on the shelf, Liriel approves (+2) and so does Thistle (+1). Afterwards he sits sorting his notes and will still hand over the wardens' word, but he won't come down to the sanctum after Vosk is dealt with, so there is no sealing rite for the temple.
+- **Smashed (failure).** A grey stone inside cracks in two. If you do it in front of him, he thanks you, quietly, and asks you to leave. Either way, in front of him or on the shelf, Liriel approves (+2) and so does Thistle (+1). Afterwards he sits sorting his notes and will still hand over the wardens' word, but he won't come down to the sanctum after Vosk is dealt with, so there is no sealing rite for the temple. If his loose notes still aren't in order ([Exethanter's Notes](https://curseofstrahd.app/wiki/quests/exethanters-notes.md)), that quest fails too.
 
 ### If you're stuck
 
@@ -61,7 +61,7 @@ You don't have to be asked first. If you find the jar before he mentions it, the
 
 ## Fights
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (85 HP).
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md).
 
 ## Journal
 

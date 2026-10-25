@@ -32,14 +32,14 @@ A wrong pick costs nothing. He corrects you mildly ("Otherwise the kettle is qui
 
 ### Choices and endings
 
-There's one ending. The notes say he was making tea. He shuffles to the cold hearth, speaks a quiet word that smells of cedar, and the copper kettle gives a thin whistle. He pours everyone a cup: each member of the party gains Heroic Inspiration. Wren (+1), Liriel (+1) and Kip (+1) approve. There's no gold or item.
-
-Afterwards, ask "Is the kettle still warm?" He has pinned the five notes to his left cuff, in order, with two pins each.
+- **Done (success).** The notes say he was making tea. He shuffles to the cold hearth, speaks a quiet word that smells of cedar, and the copper kettle gives a thin whistle. He pours everyone a cup: each member of the party gains Heroic Inspiration. Wren (+1), Liriel (+1) and Kip (+1) approve. There's no gold or item. Afterwards, ask "Is the kettle still warm?" He has pinned the five notes to his left cuff, in order, with two pins each.
+- **Lost (failure).** If you smash his phylactery ([Something with a Lid](https://curseofstrahd.app/wiki/quests/something-with-a-lid.md)) while the notes are still out of order, the five scraps slide off his lap onto the floor and he never picks them up. It doesn't matter where you smash it: "(Smash it on the floor.)" in his study, or "(Smash it.)" at the jar on the library shelf. Talk to him afterwards and he tells you to leave them on the stones.
 
 ### If you're stuck
 
 - **He isn't in his study?** Once [Master Vosk](https://curseofstrahd.app/wiki/people/master-vosk.md) has been dealt with, Exethanter goes down to the sanctum in [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md) and waits there to ask about the wardens' last rite. Down there he only talks about the rite. Answer "Seal it. Nobody should ever bargain here again." or "Leave it open. We may need what's here." and he goes back to his study ("Not yet." leaves him waiting in the vaults).
-- Don't attack him. Choosing "(Attack the lich.)" starts a very hard fight, and there's no tea after it.
+- Don't attack him. Choosing "(Attack the lich.)" starts a very hard fight, and there's no tea after it: the quest can never be finished.
+- **Finish the notes before you decide about the phylactery.** Smashing it first fails this quest.
 
 ## Rewards
 

@@ -33,14 +33,23 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 2. **Open the door.** Cross the causeway to the island and look at the carved lintel and door.
    - "Say the name: Khazan." opens it if you know the name. If you don't, History DC 14 reads it off the lintel (one try; Ratatouille +2).
    - Arcana DC 14 only tells you about the two wards. Knocking gets nothing.
+   - "Study the eight small figures cut into the stone frame." shows eight carved dancers with their arms raised at different angles. Then Performance DC 14, "Copy the eight poses in order from left to right.", opens the door without the name. A miss only sends a thread of blue light round the lintel, and you can try again.
    - If Van Richten is travelling with you, he opens the door himself and lowers the ward upstairs, and the quest moves to Inside.
    - If Ezmerelda is travelling with you instead, the ward snaps at her and she shoulders through anyway, swearing in three languages. If Van Richten is still in Vallaki, she has seen his empty tower for herself, so the quest ends at once at With Her (see Choices and endings). If he has come home, a chair scrapes somewhere above you, the quest moves to Inside as it would without her, and taking her up to him (step 6) turns it into Reunited.
 
    Otherwise the quest moves to Inside. The exception is when Madam Eva's cards named Ezmerelda: unless she walks in with you while Van Richten is away, opening the door doesn't start or move this quest at all.
 
+   **Mind the doorstep.** While the door is shut, the two squares in front of its left-hand leaf carry a lightning ward, unless Van Richten is with you. Only a search shows it (DC 15), and thieves' tools disarm it (DC 17). Work the door from in front of the right-hand leaf. Step on the ward and it does 4d10 lightning (Dexterity DC 15 for half). The first time it goes off, five [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)s (71 HP each) come down off the ridge and ring the island, the same fight at every level. A second firing shakes the tower. A third, unless Van Richten is at home, brings it down (see If you're stuck).
+
+   **The antimagic ring.** The island within 5 feet of the tower's walls, doorstep included, is an antimagic ring. Nobody can cast a spell or read a scroll from the character sheet while your leader stands in it, and in a fight its squares are an Antimagic Field: spells fail there and magic items go quiet. One step further from the wall, magic works again, so your casters should fight the werewolves from outside the ring. Inside the tower, magic works as usual.
+
+   **The back way.** A rotten scaffolding climbs the tower's north-west side. "Climb the rotten scaffolding toward the hole above." takes you in through a broken window to the lantern room (step 5), and moves the quest just as opening the door would. The lightning ward on that floor still lies between you and the strongbox. "Out through the broken window to the scaffolding" takes you back down. Climbing in doesn't open the door.
+
    ![loc van richtens tower overview](https://curseofstrahd.app/wiki/img/shots/loc-van-richtens-tower-overview.webp)
 
-3. **The storeroom (ground floor).** A crate holds 2 holy water, 3 torches, 2 oil and 4 rations. At the back of the hearth a copper rod feeds the lightning ward on the top floor. Pull it once you've read the casebook, or work it out with Arcana DC 13 or Investigation DC 14 (one attempt between the two). Survival DC 15 on the wall of trophies reveals a clip behind one of them (Investigation DC 16: [Wand of Binding](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-binding)). The tower is a safe place for a long rest.
+3. **The storeroom (ground floor).** A crate holds 2 holy water, 3 torches, 2 oil and 4 rations. At the back of the hearth a copper rod feeds the lightning ward in the lantern room. Pull it once you've read the casebook, or work it out with Arcana DC 13 or Investigation DC 14 (one attempt between the two). Survival DC 15 on the wall of trophies reveals a clip behind one of them (Investigation DC 16: [Wand of Binding](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-binding)). The tower is a safe place for a long rest.
+
+   Four faceless clay figures stand at the corners of a platform hung on chains: the tower's lift. Examine the platform or a figure and choose "Order the lift up one floor.", "Order the lift up two floors." or "Order the lift all the way to the top."; on the floors above, examine the platform to call it. Riding to the top and taking the stair down brings you into the lantern room on the far side of its lightning ward.
 
 4. **The workroom (first floor).**
    - The **casebook** on the table has Van Richten's notes on Strahd and the wolves, and underlined in the margin: pull the copper rod before you go up.
@@ -50,7 +59,9 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 
    If Vallaki went to Lady Wachter and Van Richten left town, he's sitting here (see step 6).
 
-5. **The lantern room (top floor).** Unless you pulled the rod or Van Richten is with you, copper nails across the floor carry a lightning trap (spot DC 15, disarm DC 16, Dexterity DC 15 or 4d10 lightning). Beyond it are his strongbox (120 gp, 3 holy water, 2 [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), a [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), 2 [Arrow of Undead Slaying](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-of-slaying-undead), and your Tarokka treasure if it's here) and a sealed letter addressed to Ezmerelda.
+5. **The lantern room (second floor).** Unless you pulled the rod or Van Richten is with you, copper nails across the floor carry a lightning trap (spot DC 15, disarm DC 16, Dexterity DC 15 or 4d10 lightning). Beyond it are his strongbox (120 gp, 3 holy water, 2 [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), a [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), 2 [Arrow of Undead Slaying](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-of-slaying-undead), and your Tarokka treasure if it's here), a sealed letter addressed to Ezmerelda and the stair up to his room.
+
+   **Van Richten's room (top floor).** Take the stair past the ward, or the lift. A suit of old plate stands beside an iron chest. It guards and never fights. If you know the name, "Say the name from the door aloud: Khazan." makes it step aside, and "Order the armour to lift the lid." opens the chest. If you don't, Arcana DC 14 (one try) finds KHAZAN cut inside its gorget. Or open the chest yourselves, with Sleight of Hand DC 15 on the clasp or Athletics DC 15 to force the lid, as often as you like. Inside, a Vistani man's head lies in salt. With Speak with Dead it answers once: ask which Vistani serve the castle and it warns you off Arrigal's camp by Lake Zarovich, which sells strong strangers to the castle's wolves.
 
 6. **Van Richten at home** (only if he left Vallaki). Out of his showman's costume, he talks plainly. "We could use your arsenal, Doctor." opens his shop. "Ezmerelda is outside." lets you send him down to her: "She'll get in eventually. You trained her..." does it with no roll, and the Persuasion DC 14 option does the same pass or fail. If Ezmerelda is with you, "She's right behind us, Doctor." does it too. Either way the ward comes down, the quest ends at Reunited, and her trust rises by 2 (Wren +2, Liriel, Kip and Godrick +1).
 
@@ -83,8 +94,9 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 - The quest won't end on Told while Van Richten is sitting upstairs. Send him down instead.
 - Telling her where he is makes her leave that night, and after that she's gone from the camp. If you want her gift or her company, raise her trust first with the letter and the den news, then tell her.
 - Once Ezmerelda travels with you she's no longer at her camp, so you can't hand her the letter or tell her anything there. If you opened the door without her and Van Richten isn't home, asking her to hunt with you ends the quest at With Her, so give her the letter and anything else you mean to tell her first. If he has come home, the quest waits at Inside until you take her up to him (step 6).
-- If Madam Eva named Ezmerelda, she isn't at the camp, and the door doesn't start this quest without her. Once open, the door stays open, so bring her along as your guest the first time you say the name: the quest ends at With Her, or, if Van Richten has come home, take her up to him for Reunited (step 6). If you've already opened it without her, only a reunion with Van Richten at home (step 6) gives this quest an ending.
-- If both hearth checks are gone, the casebook still lets you pull the rod. Or skip the rod and deal with the trap with a spot and disarm check.
+- If Madam Eva named Ezmerelda, she isn't at the camp, and the door doesn't start this quest without her. Once open, the door stays open, so bring her along as your guest the first time you open the door or climb the scaffolding: the quest ends at With Her, or, if Van Richten has come home, take her up to him for Reunited (step 6). If you've already opened it without her, only a reunion with Van Richten at home (step 6) gives this quest an ending.
+- If both hearth checks are gone, the casebook still lets you pull the rod. Or skip the rod and deal with the trap with a spot and disarm check, or ride the lift to the top and come down the stair behind it.
+- **The tower fell in.** The doorstep ward's third firing brings it down unless Van Richten is at home: the floors drop through one another, rubble fills the doorway and the scaffolding goes, and nobody can get inside again. Dig at the fallen doorway. "Start hauling stone and dig into the rubble." is a two-hour shift and an Athletics DC 14 check, and three good shifts reach his strongbox (its loot, if you hadn't taken it, and your Tarokka treasure if it's in the tower) and loose pages from his papers. Examine the pages and you know what the casebook, the ledger and the map would have told you, so "We know where Van Richten is." opens with Ezmerelda. The letter to her is lost, and so is the stair under the hearth that [The Name Over the Door](https://curseofstrahd.app/wiki/quests/the-name-over-the-door.md) needs.
 
 ## Rewards
 
@@ -110,7 +122,7 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 > **Asked**: Ezmerelda d'Avenir, a Vistani monster hunter, is camped on the shore. Van Richten, her old teacher, keyed a ward on his tower to keep her out. She asked us to go in for her and find out where he has gone.
 > *Hint:* Get into the tower: read the worn letters on the lintel over the door (History) for the name it wants, or knock.
 >
-> **Inside**: The door opened to the old wizard's name. We are inside Van Richten's tower.
+> **Inside**: We have found a way past the walls. We are inside Van Richten's tower.
 > *Hint:* Search Van Richten's tower, then go back down to Ezmerelda on the shore and decide what to tell her.
 >
 > **With Her** (the end: success): Ezmerelda travels with us now. Her teacher wasn't in his tower; she knows he's alive, and as stubborn as ever, and she'll find him in her own time.
@@ -125,6 +137,7 @@ A dead archmage's tower on an island in Lake Baratok, kept now by Rudolph van Ri
 > - Deception DC 15: We were wrong. We don't know where he is.
 > - History DC 14: Read the worn letters on the lintel.
 > - Arcana DC 14: Study the wards on the door.
+> - Performance DC 14: Copy the eight poses in order from left to right.
 > - Arcana DC 13: Where does the copper go?
 > - Investigation DC 14: Look the hearth over properly.
 > - Persuasion DC 14: Then go down and tell her that yourself, while there's still someone to tell.

@@ -16,8 +16,8 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 
 ## The world
 
-- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 122 places, each with a map and screenshots
-- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 291, with where to find them
+- [All Locations](https://curseofstrahd.app/wiki/locations/all-locations.md): 128 places, each with a map and screenshots
+- [People](https://curseofstrahd.app/wiki/people/all-people.md): all 299, with where to find them
 - [Bestiary](https://curseofstrahd.app/wiki/bestiary/all-creatures.md): 151 creatures and their stat blocks
 - [World Skill Checks](https://curseofstrahd.app/wiki/world/skill-checks.md): everything in the world you can try a check on
 - [Talking Creatures](https://curseofstrahd.app/wiki/world/talking-creatures.md): animals, the dead and plants that talk to a spell
@@ -29,7 +29,7 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 ## Items and money
 
 - [Where to Find Items](https://curseofstrahd.app/wiki/items/where-to-find-items.md): every item with a fixed home, A to Z
-- [Magic Items](https://curseofstrahd.app/wiki/items/magic-items.md): all 532, with where they are and their codes
+- [Magic Items](https://curseofstrahd.app/wiki/items/magic-items.md): all 535, with where they are and their codes
 - [Equipment](https://curseofstrahd.app/wiki/items/equipment.md): weapons, armor and gear
 - [Cheat Codes](https://curseofstrahd.app/wiki/items/cheat-codes.md): every item's code, and how to use one
 - [Merchants and Services](https://curseofstrahd.app/wiki/items/merchants.md): who sells what, and for how much
@@ -53,4 +53,4 @@ A guide to the Curse of Strahd game: walkthroughs for every quest, where every i
 - [Conditions](https://curseofstrahd.app/wiki/rules/conditions.md) and the [Glossary](https://curseofstrahd.app/wiki/rules/glossary.md)
 - [Achievements](https://curseofstrahd.app/wiki/world/achievements.md) and the [Cutscene Gallery](https://curseofstrahd.app/wiki/story/cutscene-gallery.md)
 
-*Built from the game's data at `976756e31` on 2026-10-20 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*
+*Built from the game's data at `f595c8e27` on 2026-10-24 by `make wiki` (tools/wiki/build_wiki.py). Generated sections are rewritten each time; anything written outside them stays.*

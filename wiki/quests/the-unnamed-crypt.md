@@ -24,9 +24,9 @@ The name matters. If you have played [The Mage's Lost Pages](https://curseofstra
 
 ### Step by step
 
-1. Go down to [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md), by the stairs off the chapel passage on the main floor or by the long stair from the larders.
+1. Go down to [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) by the long stair from the larders. The old stair off the chapel passage on the main floor is bricked up.
    ![loc castle ravenloft catacombs 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-catacombs-1.webp)
-2. The crypt is the last one in the east row, south of the sleepers' crypt, behind an ordinary iron gate. Be careful along that row: walking into the sleepers' crypt wakes its [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (10 of them, night or day; by day they're surprised in their coffins), and the champion's tomb at the north end of the row has sixteen gargoyles with 134 HP each.
+2. The crypt is the last one in the east row, south of the sleepers' crypt, behind an ordinary iron gate. Be careful along that row: walking into the sleepers' crypt wakes its [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (10 of them, night or day; by day they're surprised in their coffins), and the champion's tomb at the north end of the row has sixteen [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)s. Don't mistake the crypt across the aisle, whose gate has no name over it, for hers: that one only has a noble's crypt with 25 gp, behind a painted false floor over a spiked pit (spot DC 16; Dexterity DC 15 or 2d10 piercing).
 3. Use **A crypt with no name**. The lid has handprints in the dust, from the inside. The quest moves to Found.
 4. Choose one:
    - **Corvina.** (only if you know her name). She sits up, takes her name back, asks you to tell Mordenkainen she'd do it again, and warns you she can't stop herself.

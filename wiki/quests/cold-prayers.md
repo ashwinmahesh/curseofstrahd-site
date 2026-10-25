@@ -38,7 +38,9 @@ It starts the first time you walk into the mist at the east end of [The Old Sval
 
 ### Choices and endings
 
-There's one ending, *Dawn* (success): for the length of her prayer, real dawn comes through the chapel's glass, and the warmth stays in your hands a little longer than it should. If Strahd is lying in his coffin at the time, something far below turns its face to the wall. There are no rolls and no failure ending. Nothing later in the files checks this ending.
+The good ending is *Dawn* (success): for the length of her prayer, real dawn comes through the chapel's glass, and the warmth stays in your hands a little longer than it should. If Strahd is lying in his coffin at the time, something far below turns its face to the wall. There are no rolls. Nothing later in the files checks this ending.
+
+The quest fails at *Lost* if Hedda is lost for good before her prayer: she gives her life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes her. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 ### If you're stuck
 
@@ -79,6 +81,8 @@ There's one ending, *Dawn* (success): for the length of her prayer, real dawn co
 >
 > **Warmth**: Hedda held the Holy Symbol of Ravenkind, and it was warm. Not the sun, not yet. A coal kept alive in a cupped hand. 'Carry it into his house,' Madam Eva said, 'and you will see the difference.'
 > *Hint:* Carry the Holy Symbol into Castle Ravenloft and take Hedda to the chapel's altar step.
+>
+> **Lost** (the end: failure): We lost Hedda Ironvow, and she will never carry the silver raven's sun into the devil's chapel. Her dream of a dying sun ends here with us.
 >
 > **Dawn** (the end: success): Hedda carried the raven's sun into the devil's house, and in his own chapel, for the space of a prayer, dawn arrived. It was warm. She knew it would be.
 

@@ -57,6 +57,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
+| 4 | Earth stamped flat by the old mound | Athletics 8 | Dig here | 15 gp; lore: A pedlar's note, buried; eggs spade first |
 | 3 | Herbs drying | Nature 12 | Name the drying herbs | heals 1d6 |
 
 ## Fights

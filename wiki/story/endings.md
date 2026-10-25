@@ -34,11 +34,19 @@ How the game can end. The first ending whose conditions hold (highest priority f
 
 - **Barovia**: The mists thin through the summer and are gone by the harvest. For the first time in centuries, the road out of the valley leads somewhere.
 - **The Road Out**: The way home is open. Whether you take it at once, or stay to see what a Barovian summer looks like, is yours to decide.
+- **Ireena Kolyana** (when ireena with the party and ireena trust ≥ 4 and ireena kept letter): With the devil gone, Ireena trusted those who stood by her. On the morning the castle fell, she gave his last letter to the fire.
+- **Ireena Kolyana** (when ireena with the party and ireena lessons ≥ 3): With the devil gone, she never set the blade aside. She spars with her brother Ismark before breakfast and wins about half the bouts.
 - **Ireena Kolyana** (when ireena with the party and ireena pool choice is stayed): At the pool, Ireena chose her own life. Now she gets to live it, and she never once looks up at the castle.
 - **Ireena Kolyana** (when ireena with the party): Ireena walks out of the castle's shadow into a morning that belongs to her. For the first time she can remember, nobody is watching her sleep.
 - **Ireena Kolyana** (when ireena in krezk): Behind Krezk's wall, Ireena hears the bells before she hears the news. She is the first one through the gate to see the sun.
 - **Ireena Kolyana**: Wherever Ireena is when the sun comes up, she is free of him. It takes her a long time to believe it.
 - **Ismark**: Ismark goes home and takes up his father's chain of office. Nobody calls him the Lesser any more, and he never has to ask them to stop.
+- **Izek Strazni** (when izek guards ireena and ireena birth name kept is both): In the sunlight after the castle falls, she remains Ireena by day, with Izek on guard beside her. When they are alone, he says Viorela, and she answers.
+- **Izek Strazni** (when izek guards ireena): When the mist lifted from Barovia, Izek walked beside his sister into the sun and never asked her for a memory. He sits by her door still, a quiet guard with a warm right hand.
+- **Izek Strazni** (when izek told truth and not izek dead): Izek left Vallaki behind and built a cabin near the woods past Lake Zarovich, where he lives alone. When Ireena passes the road below, he watches from the trees and lets her go in peace.
+- **Izek Strazni** (when izek spurned and not izek dead): Sunlight returns to Vallaki, though the Baron refuses his captain the only reward he asked for. Izek obeys and waits, sitting quiet over his chest of carved dolls.
+- **Izek Strazni** (when izek dead and izek sister truth): Izek lies dead in Vallaki. Ireena walks out of the valley into the sun knowing she had a brother, and carries that.
+- **Izek Strazni** (when izek dead): Izek Strazni went into the earth with his monstrous arm and his secret unbroken. Ireena walked out of the valley into the sunlight and never knew she had another brother.
 - **The House on the Corner** (when death house children at rest): The old house at the village's edge stands quiet. Children play in its street again, and none of them are made of smoke.
 - **The House on the Corner** (when death house sacrificed): The altar under the old house keeps the name of the one you left there. The house never asks for another.
 - **Vallaki** (when vallaki backed is baron): The Baron declares a festival for the sun, and for once every soul in Vallaki comes without being made to.
@@ -106,8 +114,16 @@ How the game can end. The first ending whose conditions hold (highest priority f
 - **The Fallen Heroes**: Those of you who fell in the castle walk its halls still. They answer to a new name, and they do not remember the sun.
 - **Ireena Kolyana** (when ireena with the party): Ireena becomes the lady of the castle after all. On clear nights the villagers see her at a high window, and they look away.
 - **Ireena Kolyana** (when ireena in krezk): Krezk's wall keeps Ireena safe for one more winter. Then the black carriage stops at the gate one night, and the gate opens.
+- **Ireena Kolyana** (when not ireena with the party and not ireena in krezk and ireena trust ≥ 4 and ireena kept letter): The devil endured, though Ireena trusted the hands that guarded her. She kept his last letter folded in her coat, and keeps it still.
+- **Ireena Kolyana** (when not ireena with the party and not ireena in krezk and ireena lessons ≥ 3): The devil endured, and she never forgot the mornings of practice. She sleeps with a naked sword beside her bed, always within reach.
 - **Ireena Kolyana**: Ireena hides, and runs, and hides again. The valley is very small, and the one hunting her is very patient.
 - **Ismark**: Ismark keeps his father's chair and his father's fear of the castle. He does what a burgomaster can, which in Barovia is not much.
+- **Izek Strazni** (when izek guards ireena and ireena birth name kept is both): Under the mist that never lifts, Izek guards her door while she remains Ireena in daylight. In the quiet between them, he says Viorela, and she answers.
+- **Izek Strazni** (when izek guards ireena): No roof in the valley is safe for long while the castle stands above the mist. Whenever the night grows cold, Izek sits awake across Ireena's threshold with his scaled arm burning like a coal.
+- **Izek Strazni** (when izek told truth and not izek dead): Alone in a cabin near the woods past Lake Zarovich, Izek keeps his axe by the door and sleeps little. On windless nights he hears the castle's black carriage rolling down the road toward the villages.
+- **Izek Strazni** (when izek spurned and not izek dead): Night holds the valley, and the Baron refuses his captain the reward he asked for. Izek obeys and waits in the dark, keeping his chest of carved dolls.
+- **Izek Strazni** (when izek dead and izek sister truth): Izek lies dead in Vallaki. Ireena hides and runs through the long night, carrying a brother she was told of too late.
+- **Izek Strazni** (when izek dead): Izek Strazni died in the fog with a chest of red-haired dolls left behind in his room. The devil still rules the valley, and Ireena never knew the brother who dreamed her face.
 - **The House on the Corner** (when death house children at rest): At least the old house at the village's edge is quiet. Rose and Thorn sleep, whatever else becomes of Barovia.
 - **The House on the Corner** (when death house refused): The old house at the village's edge has learned to wait. Its door still swings open for strangers on foggy nights.
 - **Vallaki** (when vallaki backed is baron): Vallaki holds a festival every week, and every week the castle's shadow is exactly as long.

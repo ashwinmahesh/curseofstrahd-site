@@ -87,7 +87,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 6: 2 × The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 12 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (5200 XP)
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 5: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 12 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md) (3450 XP)
 > - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**, when level ≥ 4: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 3 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 3 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2700 XP)
-> - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md), 45 HP), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2200 XP)
+> - **[Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md)**: The Master's Gaze ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md) (2200 XP)
 
 ## Quests and lore
 
@@ -95,6 +95,10 @@ The containers here also get random magic items and potions, rolled for a party 
 - [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md): Lady Fiona Wachter wants the Baron's chair, and she is not shy about who she would rule for.
 - [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md): Lady Wachter keeps her daughter Stella locked in a bedroom at Wachterhaus. Stella believes she is a cat. Nobody in Vallaki believes she's…
 - [The Festival of the Blazing Sun](https://curseofstrahd.app/wiki/quests/the-festival-of-the-blazing-sun.md): Baron Vallakovich holds a festival every week to prove Vallaki is happy. This one, with its great wicker sun, will decide who rules the…
+
+> [!quote]- A slim black book on a chair
+> A tract to a dark sister-goddess of loss, bound in black and unsigned. "Memory is a splinter the bright sister leaves in the flesh; only the dark sister draws it out. Come into the unlit room and lay your griefs upon her cold palm, for the night keeps what it takes, and in the mercy of forgetting no wound can ache twice."
+> In the margin, in a teacher's hand: "The dark-haired novice keeps forgetting her own name, and will not stop picking the white flowers that open only at night. We have had to take her shears away twice."
 
 > [!quote]- A letter on the shrine
 > Dear Lady Wachter: Your last letter pleased me, as your letters always do. The Baron's festivals amuse me less each year; I leave the timing of his retirement in your capable hands. When the town is yours, keep the church's priest alive. I enjoy his sermons. With the warmest regard of your lord and neighbour, S.

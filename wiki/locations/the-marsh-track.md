@@ -45,6 +45,12 @@ A raised track of old logs across the marsh between Vallaki's lake and the drown
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
+### Skill checks
+
+| # | Where | Check | Try | What it does |
+|---|---|---|---|---|
+| 4 | a slab of old road-stone, scratched with a spade | Athletics 12 | Dig here | 60 gp; A Pedlar's Spade-Head; lore: A pedlar's last note; eggs spade third |
+
 ## Fights
 
 No fights of its own.

@@ -40,11 +40,13 @@ Ireena won't leave until Kolyan is in the ground, so nothing moves until the bur
    - **"Not yet. We have business in the village first."** She goes back to the mansion to wait by the window.
    - **"No. We can't take you."** The quest moves to **Declined**. Ireena turns cool toward you (Godrick -4, Liriel -2, Wren -2, Kip -1).
 
-3. **If you said yes.** The quest moves to **Accepted**. Ireena joins you as a guest: she follows you, appears in the party frames and fights under your control. She also turns friendly (Godrick +4, Liriel +2, Wren +2, Thistle +1, Kip +1, Ratatouille +1). Ismark announces he's coming too:
+3. **If you said yes.** The quest moves to **Accepted**. Ireena joins you as a guest: she follows you and appears in the party frames, but she keeps out of fights. She stands back from the line, takes no turn, and nothing attacks her. She also turns friendly (Godrick +4, Liriel +2, Wren +2, Thistle +1, Kip +1, Ratatouille +1). Ismark announces he's coming too:
    - "Glad to have you, Ismark." adds him as a second guest.
    - "Someone should stay and keep the house standing." leaves him at home. He'll see you off at the edge of the village.
 
    You can finish any other village business first. Ireena stays with you while you do.
+
+   While she travels with you, a Long Rest at camp can bring "Ireena wants a word": one talk by the fire a night, each once, with the latest part of the story first. She talks about what she wants done if the castle takes her (from level 9, before you reach its gates), the Amber Temple's gifts, the Pool of the White Sun, Izek, Strahd at her window, her father's burial, and from level 4 the fights she has to watch from behind the line. Nothing rolls, either answer ends it, and taking her seriously raises her trust.
 
 4. **Leave by the road west.** Walk to the two leaning posts at the far west end of the village, on the west road past Grigore's woodpile, and examine "The road west". With Ireena in the party she stops at the last post and looks back at her home. Ismark either jokes about the adventure or, if he's staying, says goodbye. "Set out west." moves the quest to **Departed** and opens the road west onto the travel map; "Not yet." lets you turn back.
 
@@ -66,8 +68,8 @@ Ireena won't leave until Kolyan is in the ground, so nothing moves until the bur
 
 - **Arrived (success).** Ireena is behind Vallaki's walls, for tonight. Her story goes on in [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md). The milestone level listed for this quest is the one you get when Kolyan is buried; arriving in Vallaki gives none of its own. While Ireena travels with you, Strahd watches you a little more closely (+1).
 - **Vallaki or Krezk.** If you promised [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md), Ireena expects to go on past Vallaki, and when you reach Krezk's wall she has something to say about it. She can still end up heading for Krezk from Vallaki later in Sanctuary.
-- **Ismark along or at home.** With him you have a second guest fighter, and he has lines of his own on the road and at the gates.
-- **Declined.** Ireena stays in the mansion behind barred shutters with Ismark. You can go back at any time, talk to Ireena and say "We'll take you after all. Vallaki." or "We'll take you to Krezk." That puts you on the Accepted path; the approval you lost by refusing doesn't come back.
+- **Ismark along or at home.** With him you have a guest who fights, and he has lines of his own on the road and at the gates.
+- **Declined.** Ireena stays in the mansion behind barred shutters with Ismark. You can go back at any time, talk to Ireena and say "We'll take you after all. Vallaki." or "We'll take you to Krezk." That puts you on the Accepted path; the approval you lost by refusing doesn't come back. While you're away from the village she writes to you after big news, and leaving three letters unanswered costs her trust (see [Sanctuary](https://curseofstrahd.app/wiki/quests/sanctuary.md)).
 - **Not yet.** Ireena waits in the mansion. Talk to her there, or tell Ismark "About Ireena leaving.", to get the question again.
 
 ### If you're stuck

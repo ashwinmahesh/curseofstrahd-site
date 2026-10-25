@@ -293,6 +293,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Giant Slayer](https://curseofstrahd.app/wiki/items/magic-items.md#giant-slayer) | `B09DBB` | weapon | pick a weapon |
 | [Glamoured Studded Leather](https://curseofstrahd.app/wiki/items/magic-items.md#glamoured-studded-leather) | `4665AD` | armor |  |
 | [Golden Harper Pin](https://curseofstrahd.app/wiki/items/magic-items.md#golden-harper-pin) | `34F85F` | wondrous |  |
+| [Gulthias Staff](https://curseofstrahd.app/wiki/items/magic-items.md#gulthias-staff) | `683800` | weapon |  |
 | [Heward's Handy Haversack](https://curseofstrahd.app/wiki/items/magic-items.md#hewards-handy-haversack) | `2BE7C9` | wondrous |  |
 | [Horn of Blasting](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-blasting) | `935AE8` | wondrous |  |
 | [Horn of Valhalla (Brass)](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-valhalla-brass) | `E60FF6` | wondrous |  |
@@ -351,6 +352,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Rod of Rulership](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-rulership) | `0D9B83` | rod |  |
 | [Rod of the Pact Keeper, +2](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-the-pact-keeper-2) | `966EC3` | rod |  |
 | [Rope of Entanglement](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-entanglement) | `D1F355` | wondrous |  |
+| [Saint Markovia's Thighbone](https://curseofstrahd.app/wiki/items/magic-items.md#saint-markovias-thighbone) | `C9A362` | weapon |  |
 | [Scholar’s Anchoring Bangle](https://curseofstrahd.app/wiki/items/magic-items.md#scholars-anchoring-bangle) | `2B5497` | wondrous |  |
 | [Scroll of Protection (Aberration)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-aberration) | `18574E` | scroll |  |
 | [Scroll of Protection (Beast)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-beast) | `8F86CD` | scroll |  |
@@ -529,6 +531,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Holy Avenger](https://curseofstrahd.app/wiki/items/magic-items.md#holy-avenger) | `C469D9` | weapon | pick a weapon |
 | [Holy Symbol of Ravenkind](https://curseofstrahd.app/wiki/items/magic-items.md#holy-symbol-of-ravenkind) | `3F1664` | wondrous |  |
 | [Horn of Valhalla (Iron)](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-valhalla-iron) | `20C63C` | wondrous |  |
+| [Icon of Ravenloft](https://curseofstrahd.app/wiki/items/magic-items.md#icon-of-ravenloft) | `7BEB15` | wondrous |  |
 | [Instrument of the Bards (Ollamh Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-ollamh-harp) | `279BCE` | wondrous |  |
 | [Ioun Stone (Greater Absorption)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-greater-absorption) | `F3E6EA` | wondrous |  |
 | [Ioun Stone (Mastery)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-mastery) | `E2D09D` | wondrous |  |
@@ -584,6 +587,9 @@ Story items such as the Sunsword count as found for the story too, so giving the
 
 | Item | Code | Kind |
 |---|---|---|
+| [A Gentleman's Compendium of Amiable Beasts](https://curseofstrahd.app/wiki/items/equipment.md#a-gentlemans-compendium-of-amiable-beasts) | `7F19EA` | gear |
+| [A Pedlar's Spade-Head](https://curseofstrahd.app/wiki/items/equipment.md#a-pedlars-spade-head) | `D51E22` | gear |
+| [A Puppet with No Reflection](https://curseofstrahd.app/wiki/items/equipment.md#a-puppet-with-no-reflection) | `8A24DD` | gear |
 | [A Warden's Spellbook](https://curseofstrahd.app/wiki/items/equipment.md#a-wardens-spellbook) | `F008E7` | gear |
 | [Acid](https://curseofstrahd.app/wiki/items/equipment.md#acid) | `036754` | consumable |
 | [Alchemist's Fire](https://curseofstrahd.app/wiki/items/equipment.md#alchemists-fire) | `E06CFA` | consumable |
@@ -690,6 +696,7 @@ Story items such as the Sunsword count as found for the story too, so giving the
 | [Iron Spike](https://curseofstrahd.app/wiki/items/equipment.md#iron-spike) | `48E07A` | gear |
 | [Jade Dust](https://curseofstrahd.app/wiki/items/equipment.md#jade-dust) | `D0AF64` | gear |
 | [Javelin](https://curseofstrahd.app/wiki/items/equipment.md#javelin) | `3210E4` | weapon |
+| [Jeweled Electrum Spork](https://curseofstrahd.app/wiki/items/equipment.md#jeweled-electrum-spork) | `60960F` | gear |
 | [Jeweler's Tools](https://curseofstrahd.app/wiki/items/equipment.md#jewelers-tools) | `9FF9E2` | tool |
 | [Jug](https://curseofstrahd.app/wiki/items/equipment.md#jug) | `A9B624` | container |
 | [Ladder](https://curseofstrahd.app/wiki/items/equipment.md#ladder) | `825345` | gear |

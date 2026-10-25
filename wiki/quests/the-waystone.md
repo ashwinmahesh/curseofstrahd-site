@@ -27,7 +27,7 @@ When every character in the party is level 6 or higher, ask [Clovin Belview](htt
 ![loc krezk road waystone 1](https://curseofstrahd.app/wiki/img/shots/loc-krezk-road-waystone-1.webp)
 
 2. **Find out who the candle is for.** Ask *"We're not from the Abbey. Who's the candle for?"*, or try *Insight DC 12* to see where she keeps looking: two eyes low in the trees past the bend. Either way she tells you. Her brother [Yanko](https://curseofstrahd.app/wiki/people/yanko.md) went over the wall two winters ago and the wolves took him; they didn't eat him. He comes to the edge of the light every night to hear her sing their mother's songs. Then howls come down the road. The pack has noticed him going soft.
-3. **Stand by the stone with her.** Choose *"(Stand by the stone with her.)"* to fight **Waystone Wolves**: 4 Pack Hunters ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)s, 55 HP each), 2 [Wolves](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3,100 XP), the same at every level. At level 6 this is a hard fight. The hunters attack twice a turn, and every one of them fights better with a packmate beside you, so don't let one of yours get surrounded. *"(Leave her to it, for now.)"* lets you rest first; talk to her again on a later night to pick it back up. Winning moves the quest to **Defended**.
+3. **Stand by the stone with her.** Choose *"(Stand by the stone with her.)"* to fight **Waystone Wolves**: 4 Pack Hunters ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)s, 71 HP each), 2 [Wolves](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (3,100 XP), the same at every level. At level 6 this is a hard fight. The hunters attack twice a turn, and every one of them fights better with a packmate beside you, so don't let one of yours get surrounded. *"(Leave her to it, for now.)"* lets you rest first; talk to her again on a later night to pick it back up. Winning moves the quest to **Defended**.
 4. **Talk to Lark again** while it's still night. For the first time, Yanko, a young grey wolf with one hound's ear, lies at the edge of the light, bleeding from a bite: he fought the pack too.
    - *Persuasion DC 13* ("Talk to him, low and slow, the way she sings") turns him back into a boy of fifteen.
    - *"(Let her sing to him.)"*, or a failed roll, leaves him a wolf. But he comes into the light and lies down at her feet.
@@ -58,7 +58,7 @@ Both endings close the quest (**Done**) and pay the same: Lark gives you the Abb
 
 ## Fights
 
-- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): 4 × A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 55 HP), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md).
+- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): 4 × A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md).
 
 ## Journal
 

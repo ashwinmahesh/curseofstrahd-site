@@ -36,6 +36,12 @@ The lake path skirts a reedy inlet of Lake Zarovich: a fishing jetty, an upturne
 
 The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
+### Skill checks
+
+| # | Where | Check | Try | What it does |
+|---|---|---|---|---|
+| 3 | a hummock ringed with half-sunk stones | Athletics 10 | Dig here | 40 gp; Potion of Healing (Greater); lore: A pedlar's second note; eggs spade second |
+
 ## Fights
 
 No fights of its own.

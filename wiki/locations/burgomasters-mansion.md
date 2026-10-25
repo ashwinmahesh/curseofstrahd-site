@@ -52,17 +52,18 @@ The burgomaster's house, held for a month against the night. The front door has 
 
 ## People
 
-> [!note]- Who turns up at points in the story (2)
+> [!note]- Who turns up at points in the story (3)
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Parlor (#2): when not burial procession or ireena escort is “later” or ireena escort is “declined”
 > - **[Ismark Kolyanovich](https://curseofstrahd.app/wiki/people/ismark-kolyanovich.md)**, Hall (#3): when (ismark met and not burial procession) or ireena escort is “later” or ireena escort is “declined”
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Parlor (#4): when not izek dead and izek told truth and not izek with the party and izek guards ireena and not ireena with the party and not ireena held by strahd and ireena escort is “declined”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | Burgomaster's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | lock DC 12 |
-| 5 | Larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4 | locked, with nothing to pick |
-| 7 | a loose panel behind the study desk (hidden) | [Brooch of Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#brooch-of-shielding) | Search: Investigation DC 13 |
+| 5 | Burgomaster's strongbox | [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing), 40 gp | lock DC 12 |
+| 6 | Larder | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×3, [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×4 | locked, with nothing to pick |
+| 8 | a loose panel behind the study desk (hidden) | [Brooch of Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#brooch-of-shielding) | Search: Investigation DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 3 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -70,8 +71,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 6 | Portrait of the burgomaster | History 12 | Recall the Indirovich family | lore: The Indirovich family |
-| 8 | a map of the valley | Survival 13 | Study the burgomaster's map | reveals svalich_crossroads:field_wall_cache; lore: The burgomaster's map |
+| 7 | Portrait of the burgomaster | History 12 | Recall the Indirovich family | lore: The Indirovich family |
+| 9 | a map of the valley | Survival 13 | Study the burgomaster's map | reveals svalich_crossroads:field_wall_cache; lore: The burgomaster's map |
 
 ## Fights
 
@@ -82,9 +83,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*, in [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 3: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 55 HP), 5 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 35 HP) (1450 XP)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 2: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 70 HP), 2 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 45 HP), A Siege-Winter Servant ([Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (925 XP)
-> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md), 24 HP), 3 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1050 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 3: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 5 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1450 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**, when level ≥ 2: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 2 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)), A Siege-Winter Servant ([Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md)), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md) (925 XP)
+> - **[Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md)**: The Tenant ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)), 3 × A Siege-Winter Servant ([Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md)) (1050 XP)
 
 ### At camp here
 

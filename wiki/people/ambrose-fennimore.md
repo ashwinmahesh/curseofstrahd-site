@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/ambrose-fennimore.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![noble](https://curseofstrahd.app/wiki/img/portraits/noble.webp)
+> ![fennimore](https://curseofstrahd.app/wiki/img/portraits/fennimore.webp)
 > **Title:** Travel Writer
 > **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md)
 > **Starting attitude:** friendly

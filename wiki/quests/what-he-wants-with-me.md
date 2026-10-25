@@ -14,7 +14,38 @@ Ireena wants to know the truth about the woman whose face she wears, from the va
 
 ## Walkthrough
 
-*No walkthrough written yet.*
+### Getting the quest
+
+[Ireena](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) brings this up herself, during a check-in, once two things are true:
+
+- **She has told you her dream.** In a check-in, choose *"Is something on your mind?"* and then *"Have you had the dream of the lake again?"*. She dreams of standing high above dark water in a white dress she has never owned, and stepping off.
+- **Something has shown that her face is older than she is.** Any one of these will do: you carry the [Tome of Strahd](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-strahd); you've been to [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md); she saw Marina's statue there with you; she remembered a fall at [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md); the Abbot's candles leaned toward her at [The Abbey of St. Markovia](https://curseofstrahd.app/wiki/locations/the-abbey-of-st-markovia.md); she looked into [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md); or Tamsin showed her the locket ([The Woman in the Locket](https://curseofstrahd.app/wiki/quests/the-woman-in-the-locket.md)).
+
+You can check in on her wherever she is: *"How are you holding up under the Martikovs' roof?"* at [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), *"How are you holding up here at the church?"* at [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), *"How are they treating you behind Krezk's wall?"* at [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md), *"How are you holding up in the old house?"* at the [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md) if you didn't take her away, or by talking to her on the road while she travels with you. In the check-in's menu, pick *"There is something we wanted to speak with you about."* and then *"You look as though you have something to ask us."*
+
+Too many people look at her and see a woman who was dead before she was born, and she wants the truth: the vampire's own account, and anything in the valley that wears her face. (If she has looked into the pool, she describes a chapel full of white flowers and asks for his book in particular.) *"If we find his book or your likeness, we'll tell you."* starts the quest at **Asked**, or at **Statue Told** if she has already seen Marina's statue herself. *"Leave that for now. We have other ground to cover first."* puts it off, and she asks again at a later check-in.
+
+### Step by step
+
+The two halves can be done in either order. Both are told at a check-in, after *"There is something we wanted to speak with you about."*
+
+1. **Read her the Tome of Strahd.** You need the [Tome of Strahd](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-strahd) in your pack; Madam Eva's reading decides where it lies ([The Tome of Strahd](https://curseofstrahd.app/wiki/quests/the-tome-of-strahd.md)). Choose *"We have the book he wrote. Sit down and hear it."* The reading takes three hours: the warlord, his brother Sergei, Tatyana, the wedding day and the wall she fell from. Ireena calls him a small, greedy liar. The quest moves to **Tome Read**.
+2. **Tell her about the statue in Berez.** Once you've been to [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md), choose *"We found a white stone statue in the marsh at Berez."* You describe the young woman in white stone on the only dry ground in the marsh, the name MARINA and the line under it, and whose face it wears. If you've also been down [Beneath Marina's Monument](https://curseofstrahd.app/wiki/locations/beneath-marinas-monument.md), you tell her about the sleeping girl on the stone bier, too. The quest moves to **Statue Told**.
+   - Or bring her along. If Ireena is in your party when you examine the statue on the mound, she sees her own face on it, and there's nothing left to tell her: reading her the Tome then finishes the quest.
+3. **She knows.** Whichever half comes second ends the quest at **Knows**, straight after the reading or the telling. If she saw the statue for herself after you'd already read to her, pick *"There is something we wanted to speak with you about."* at your next check-in and she goes straight to it.
+
+### Choices and endings
+
+- **Knows.** There's one ending. Tatyana went over the wall and Marina is under the marsh, she says, and she is neither of them: she is the daughter her father raised. Her trust in you rises by 1.
+- **The pool.** If you've heard the rumour of [The Pool of the White Sun](https://curseofstrahd.app/wiki/quests/the-pool-of-the-white-sun.md) but haven't been there yet, and she isn't travelling with you, she then asks to be taken to Krezk to see it. *"We'll take you to the pool in Krezk."* brings her into your party. *"Not yet. The road to Krezk will have to wait."* leaves her where she is.
+- Nothing in this quest rolls. The same menu also holds Ireena's sword lessons and the letters Strahd writes her, and the checks listed under *Journal* belong to those.
+
+### If you're stuck
+
+- **She never brings it up.** Ask about her dream first, then make sure one of the signs above has happened. The request only comes inside a check-in, after *"There is something we wanted to speak with you about."*, and that line only shows when she has something to say.
+- **No option to read the book.** The Tome of Strahd has to be in your pack.
+- **No option to tell her about the statue.** You have to have set foot in Berez. If she saw the statue with you, there's nothing to tell; read her the Tome instead.
+- **The journal stops at Asked, Tome Read or Statue Told.** The other half is still to do.
 
 ## Journal
 

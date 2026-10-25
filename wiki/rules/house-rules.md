@@ -165,9 +165,9 @@ A component without a cost, and a focus, is assumed carried (every pregen has a 
 *Why:* Owner decisions 2026-10-08 (costly components only, so a 300 gp diamond is a real errand but nobody is refused a spell over what's in their hands: tracking hands made weapon-and-shield casters put their weapons away, PR #3 review; Bladesong has no free-hand rule either) and 2026-10-09 (only the components a spell uses up). Counting worth together saves a gem of every value
 
 ### Monster Hit Points
-Average from the stat block on Balanced (or a fight's own tuned number). Story gives enemies 25% fewer, Tactician and Honour 20% more, never outside what their Hit Dice could roll; Honour puts a boss's lighter version back to its stat block (combat/difficulty.gd)
+Average from the stat block on Balanced: the 2025 Monster Manual's, or Curse of Strahd's for the adventure's own creatures (Ravenloft: The Horrors Within's for the wereraven). A boss (narrative/combat/bosses.json, or a foe with legendary actions) may still carry a fight's own tuned number until the boss pass sets it to its book value too; a creature no book has (`source.book` custom, such as the Amber Temple's amber golems) keeps the game's own numbers. Story gives enemies 25% fewer, Tactician and Honour 20% more, never outside what their Hit Dice could roll; Honour puts a boss's lighter version back to its stat block (combat/difficulty.gd)
 
-*Why:* The 2024 default, with difficulty modes (F1) inside the range a DM rolling Hit Points could get
+*Why:* Owner, 2026-10-24: "for ALL monster HP, just use the Monster Manual values; no custom HP", and fights are made harder by hitting harder, not by Hit Points. The difficulty modes (F1) stay inside the range a DM rolling Hit Points could get
 
 ### Difficulty bonuses (F1)
 Story: +2 to the party's attack rolls and saving throws. Tactician and Honour: +2 to enemies' attack rolls and the DCs of their spells and actions. Each shows in its Breakdown under the mode's name
@@ -649,6 +649,21 @@ The rats are always near enough to answer, and the swarms called arrive beside t
 
 *Why:* The book has swarms run in from up to half a mile by the shortest route, the DM decide whether enough rats are near, and "threaten" left to the table; a fight is over long before a swarm half a mile off arrives
 
+### Icon of Ravenloft (Curse of Strahd)
+Anyone who carries it counts as holding it: its attuned bearer's Augury, Cure Wounds and +2 to Turn Undead's save DC need no free hand. Its protection against fiends and undead (Protection from Evil and Good, within 30 ft, no attunement) reaches the carrier and the carrier's allies in a fight, and is put on and taken off as they move. Cure Wounds works in a fight and out of one; Augury is read between fights only, as the spell is (story/oracles.gd). The `turn_dc` bonus applies to Turn Undead, the only turning the game has (the book's Turn the Unholy is the Oath of Devotion's of 2014)
+
+*Why:* A statuette weighing 10 lb can't be tracked in a hand, and the party shares one march; enemies near the icon are not offered the protection
+
+### Saint Markovia's Thighbone (Curse of Strahd)
+Works as a Mace of Disruption (the game's own numbers). Once it has hit a vampire or a vampire spawn in a fight, it is gone from the pack the moment that fight is over, whether the party won or lost
+
+*Why:* "Once the battle concludes" is the end of the encounter; a hit that kills the vampire spends it too
+
+### Gulthias Staff (Curse of Strahd)
+Vampiric Strike is armed first with a free action, as the Staff of Striking's charges are, and the next melee hit spends the charge and heals the wielder by the damage dealt; the Wisdom save (DC 12) and its madness follow that hit. Short-term madness is 1d10 minutes of Disadvantage on ability checks and Wisdom saves, not the Dungeon Master's Guide's table. Blight Bane: blights and other evil plants that are no boss (Difficulty.is_boss: Challenge 5 or more, or legendary) don't attack the attuned bearer or aim spells at them until the bearer attacks or damages one in that fight. Breaking it (a Utilize action, in a fight only) kills every blight within 300 ft that isn't a boss; a boss blight (Wintersplinter, the Vine Mother, the Ash Effigy) shrugs the scream off, so Yester Hill's climax stands. The staff is destroyed
+
+*Why:* The book picks a charge at the moment of the hit and has the Dungeon Master roll madness; the game has no madness rules or table, and the rule "a boss tree is spared" is the plan's call (Dungeon Expansion Plan I1). Breaking it out of a fight would kill nothing that exists then
+
 ### Wall of Fire
 The burning side is picked after the squares are drawn: along a bent wall each square takes the side of the stretch of wall nearest it ("left" or "right" of the way it was drawn), and squares in line past an end are on neither side. A ring 20 ft across always burns on its inside. Cast without drawn squares (a monster's casting) it is a straight wall through its point along the cast direction, burning on that direction's right-hand side
 
@@ -734,7 +749,7 @@ Shown on the sheet; no game system uses them yet
 
 *Why:* Scouting, swimming and the Domains of Dread aren't in the game
 
-### Alignment in attunement and magic items (Talismans, the Candle of Invocation, Book of Exalted Deeds)
+### Alignment in attunement and magic items (Talismans, the Candle of Invocation, Book of Exalted Deeds, the Icon of Ravenloft)
 Not checked: anyone may attune; a talisman's "good creature" is a Celestial; the candle blesses the party
 
 *Why:* The game doesn't track alignment
@@ -1025,9 +1040,9 @@ The tome isn't an object that can be attacked (the prison holds until the save o
 *Why:* Carried objects with Hit Points and a Reaction that teleports aren't built
 
 ### Counterspell cast by foes, and the chain of Counterspells
-A foe the AI plays (its Spellcasting, a Reaction that casts it such as the mage's Protective Magic, an enemy wizard's slot) counters a levelled spell a hero or guest casts within 60 ft in its sight; cantrips are let through. A hero or guest who sees that foe within 60 ft and can still react (a Reaction, Counterspell and a slot or a free casting) is then asked whether to Counterspell it back, on the usual Reaction prompt (it says each side's save and the odds; the slot is a pick when there are several ways to pay, and Automatic still asks then; the Reactions tab has a Counterspell rule), and the foes answer that Counterspell the same way, and so on until no one answers. The chain resolves from the last Counterspell back (combat/spell_counters.gd): the creature each one targets makes a Constitution save against its caster's DC; on a failure what it was casting dissipates (a Counterspell fizzles, so the one before it stands; the spell is lost with its action spent and its slot kept). A Counterspell spends its Reaction when cast and its slot only if it isn't countered itself. The chain's saves are rolled at once, with no pause for Reactions to them. Heroes and guests don't Counterspell a foe's own spells, only a Counterspell aimed at their side's casting
+A foe the AI plays (its Spellcasting, a Reaction that casts it such as the mage's Protective Magic, an enemy wizard's slot) counters a levelled spell a hero or guest casts within 60 ft in its sight; cantrips are let through. A hero or guest who sees that foe within 60 ft and can still react (a Reaction, Counterspell and a slot or a free casting) is then asked whether to Counterspell it back, on the usual Reaction prompt (it says each side's save and the odds; the slot is a pick when there are several ways to pay, and Automatic still asks then; the Reactions tab has a Counterspell rule), and the foes answer that Counterspell the same way, and so on until no one answers. The chain resolves from the last Counterspell back (combat/spell_counters.gd): the creature each one targets makes a Constitution save against its caster's DC; on a failure what it was casting dissipates (a Counterspell fizzles, so the one before it stands; the spell is lost with its action spent and its slot kept). A Counterspell spends its Reaction when cast and its slot only if it isn't countered itself. The chain's saves are rolled at once, with no pause for Reactions to them. A hero or guest the player runs is asked the same way about any levelled spell a foe casts (a stat block's Spellcasting: a mage's or Baba Lysaga's or Strahd's Fireball), on the usual Reaction prompt, when it sees the caster within 60 ft and can still react; a yes opens the chain, which the foes answer as above (owner, 2026-10-24: "Strahd cast Fireball and the player was not offered Counterspell")
 
-*Why:* The rules leave whether to counter to the caster: a Reaction (and the mage's three uses a day) is worth more than a cantrip. A foe's own casting resolves at once, so a hero's Counterspell of it would have to pause it part way through
+*Why:* The rules leave whether to counter to the caster: a Reaction (and the mage's three uses a day) is worth more than a cantrip, and cantrips are let through. A foe's casting waits for the hero's answer
 
 ### Banshee's Deathly Wail
 Works in sunlight too
@@ -1140,7 +1155,7 @@ Two 2014-rules spells from Xanathar's Guide to Everything in a 2024 game, on the
 *Why:* The owner asked for them (2026-10-15); no 2024 book reprints them
 
 ### Absorb Elements
-A 2014-rules spell from Xanathar's Guide to Everything in a 2024 game, on the Druid, Ranger, Sorcerer and Wizard lists (no Artificer). The book's "first time you hit with a melee attack on your next turn" counts a weapon attack, an Unarmed Strike and a melee spell attack (Shocking Grasp); a miss, a ranged attack and an Opportunity Attack on someone else's turn don't use it, and a charge nobody used ends with that turn. When several types land in one blow it answers the biggest one it doesn't already resist (the book lets the caster name any of its five). Against an attack a hero is asked; a hero on Automatic is asked too when there are several ways to cast it (a slot level or a free casting), as for Hellish Rebuke; against spells and hazards, which can't wait for an answer, it is cast only on Automatic, at the lowest casting (a free casting first unless it waits for the pact slots). Players only: no enemy casts it, and the AI has no rule for when a foe's slot is worth it
+A 2014-rules spell from Xanathar's Guide to Everything in a 2024 game, on the Druid, Ranger, Sorcerer and Wizard lists (no Artificer). The book's "first time you hit with a melee attack on your next turn" counts a weapon attack, an Unarmed Strike and a melee spell attack (Shocking Grasp); a miss, a ranged attack and an Opportunity Attack on someone else's turn don't use it, and a charge nobody used ends with that turn. When several types land in one blow it answers the biggest one it doesn't already resist (the book lets the caster name any of its five). Against an attack, and against the damage of a saving throw (a breath, a Fireball: the blow waits for the answer, a passed save's half included, and nobody is asked when the save leaves no damage; Ashwin, 2026-10-24) a hero is asked; a hero on Automatic is asked too when there are several ways to cast it (a slot level or a free casting), as for Hellish Rebuke; against any other spell or hazard damage, which can't wait for an answer (a spell's attack, a zone, a trap), it is cast only on Automatic, at the lowest casting (a free casting first unless it waits for the pact slots). Players only: no enemy casts it, and the AI has no rule for when a foe's slot is worth it
 
 *Why:* The owner asked for it (2026-10-18); no 2024 book reprints it
 

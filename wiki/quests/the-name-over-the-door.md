@@ -22,7 +22,7 @@ Two ways in, both from party level 10:
 - [Mordenkainen](https://curseofstrahd.app/wiki/people/mordenkainen.md), restored, in [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md): once you've brought him Corvina's letters ([The Mage's Lost Pages](https://curseofstrahd.app/wiki/quests/the-mages-lost-pages.md)) and the party is level 10, "Heard anything interesting?" turns to Khazan, the archmage who built the tower on the tarn and "moved downstairs". He tells you to look under the hearth. Finishing [The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md) gives you Corvina's name too, but it isn't enough here: until he has his letters back, his news is always about them. If you've finished the crypt and he hasn't thanked you yet, he thanks you for Corvina first; ask again.
 - The hearthstone in the ground-floor storeroom of [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), which shows from level 10 (or as soon as Mordenkainen has told you), with frost in its cracks a foot from the fire.
 
-You need to be able to get into the tower first ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md)).
+You need to be able to get into the tower first ([The Hunter's Tower](https://curseofstrahd.app/wiki/quests/the-hunters-tower.md)): by Khazan's name, the eight poses on the door frame, or the scaffolding round the back. If the lightning ward on the doorstep goes off three times and brings the tower down, there's no way back in to the hearthstone, and this quest can't go on.
 
 ### Step by step
 
@@ -40,7 +40,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 
    ![sq khazan](https://curseofstrahd.app/wiki/img/cutscenes/sq-khazan.webp)
 
-   He's courteous: he knows your names because you said his at the door. The quest moves to Met. You can leave him to his books and look round. The book of names on the lectern lists thousands of visitors, ending with Ezmerelda's, Van Richten's (twice) and yours, ink still wet. Then work out what keeps him alive:
+   He's courteous: he says he knows your names because you said his at the door. The quest moves to Met. You can leave him to his books and look round. The book of names on the lectern lists thousands of visitors, ending with Ezmerelda's, Van Richten's (twice) and yours, ink still wet. Then work out what keeps him alive:
    - Read the book, then tell him "You keep yourself alive in that book." He's delighted to correct you: it's the name cut over the tower door, kept alive by everyone who says it to get in.
    - Or ask "Who are you?" and then try Arcana DC 16 (one try) to feel the cold pulling up toward the door.
 

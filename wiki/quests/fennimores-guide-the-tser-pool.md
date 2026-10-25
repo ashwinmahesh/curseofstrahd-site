@@ -7,7 +7,7 @@
 > **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md) · level 4
 > **Given by:** [Ambrose Fennimore](https://curseofstrahd.app/wiki/people/ambrose-fennimore.md)
 > **Starts at:** [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md)
-> **Rewards:** 10 gp
+> **Rewards:** [A Gentleman's Compendium of Amiable Beasts](https://curseofstrahd.app/wiki/items/equipment.md#a-gentlemans-compendium-of-amiable-beasts), 10 gp
 
 ## Summary
 
@@ -32,7 +32,7 @@ Ambrose Fennimore is writing the definitive guidebook to the valley and is not s
 
 ### Choices and endings
 
-There's one ending: 10 gp, and none of your companions react. Afterwards Fennimore stays by the signpost and rates the weather instead (one star). You meet him once more, much later. When every hero in your party has reached level 10, he's on the cliff road outside [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), writing up the castle from outside (two stars). Tell him "We're going in." and he puts you in his appendix: travelling companions, five stars, no notes.
+The good ending pays 10 gp, and none of your companions react. If the camp turns on you while the quest is still at Asked, Fennimore offers **The Tser Pool camp has turned on us; we cannot get near Old Dorina's pot.**, which ends it at Unverified, a failure that pays nothing. Afterwards Fennimore stays by the signpost and rates the weather instead (one star). You meet him once more, much later. When every hero in your party has reached level 10, he's on the cliff road outside [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), writing up the castle from outside (two stars). Tell him "We're going in." and he puts you in his appendix: travelling companions, five stars, no notes.
 
 ### If you're stuck
 
@@ -43,6 +43,7 @@ There's one ending: 10 gp, and none of your companions react. Afterwards Fennimo
 
 ## Rewards
 
+- [A Gentleman's Compendium of Amiable Beasts](https://curseofstrahd.app/wiki/items/equipment.md#a-gentlemans-compendium-of-amiable-beasts)
 - 10 gp
 
 ## Journal

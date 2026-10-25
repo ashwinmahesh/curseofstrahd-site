@@ -26,7 +26,7 @@ You can also skip him: from level 10 a crack weeping amber appears in the vault 
 
 1. Go down to [The Amber Temple: the Vaults](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-vaults.md). At the far east end of the hall of vestiges, near the cracked, silent sarcophagus, is a crack weeping warm amber. Something deep in it blinks.
 2. **Athletics DC 15: (Lever the slab up.)** A failure still gets it open; it just takes half an hour. The quest moves to Found, and a stair goes down through soft amber.
-3. Go down to [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md). Stepping into the hall of sleepers wakes the Eye's dreams: two sleepers in amber ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)s, one at 130 Hit Points and one at 220) and ten [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md)s.
+3. Go down to [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md). Stepping into the hall of sleepers wakes the Eye's dreams: two sleepers in amber ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)s, 220 Hit Points each) and ten [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md)s.
    ![loc amber deep 1](https://curseofstrahd.app/wiki/img/shots/loc-amber-deep-1.webp)
 4. In the wardens' archive, read the wardens' book on the lectern (Read). Choose all three entries:
    - **(Read about the mirrors.)** The Eye's small dreams hate their own kind; the wardens turned great mirrors to face its chamber.

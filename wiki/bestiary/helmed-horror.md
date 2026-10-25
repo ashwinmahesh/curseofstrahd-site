@@ -8,7 +8,7 @@
 > **Alignment:** neutral
 > **Challenge:** 4 (1100 XP)
 > **Armor Class:** 20
-> **Hit Points:** 60 (8d8+24)
+> **Hit Points:** 67 (9d8+27)
 > **Speed:** 30 ft, fly 30 ft
 
 ## Stat block
@@ -17,7 +17,7 @@ An empty, flying suit of plate that fights with a longsword and shrugs off most 
 
 | AC | HP | Speed | CR | XP |
 |---|---|---|---|---|
-| 20 | 60 (8d8+24) | 30 ft, fly 30 ft | 4 | 1100 |
+| 20 | 67 (9d8+27) | 30 ft, fly 30 ft | 4 | 1100 |
 
 | STR | DEX | CON | INT | WIS | CHA |
 |---|---|---|---|---|---|
@@ -43,7 +43,6 @@ An empty, flying suit of plate that fights with a longsword and shrugs off most 
 ## Where you meet it
 
 - [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *Corvina stands up out of her crypt, and the iron gates along the row swing shut by themselves, one after…*
-- [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The armour on its stand turns its helm toward the door. Behind it, more suits step down from the wall pegs…*
 - [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*

@@ -9,6 +9,11 @@ The vestiges sealed in the Amber Temple's vault each offer a gift for a price. A
 
 2 more Hit Points per level, and Advantage on death saving throws. The price: Charisma -2, Disadvantage on Persuasion, and a mouthful of teeth that aren't yours.
 
+## The Winter in the Throat
+*Delban, the star of ice and hate*
+
+Resistance to cold and Cone of Cold once a Long Rest. The price: vulnerability to fire, and Disadvantage on Persuasion checks.
+
 ## The Eyes of Drizlash
 *Drizlash, who spins between the walls*
 
@@ -69,6 +74,11 @@ Darkvision 120 ft, Advantage on Stealth, and Darkness a few times a day. The pri
 
 Strength and Constitution +2, darkvision, necrotic resistance, a draining strike and more Hit Points. The price: radiant vulnerability, sunlight's burn, and the devil's own thirst.
 
+## The Slipped Snare
+*Vaund, the evasive*
+
+Advantage on Dexterity saving throws and Misty Step a few times a Long Rest. The price: one Hit Point lost per level, and Disadvantage on Insight checks.
+
 ## Yog's Hide
 *Yog, the unbroken*
 
@@ -88,3 +98,8 @@ Charisma +4 (up to 22). The price: Disadvantage on Stealth and Insight checks, a
 *Zhudun, the dead star*
 
 Hunger of Hadar once per long rest, and resistance to radiant damage. The price: Constitution -2, vulnerability to fire, and a corpse-light no hood can hide.
+
+## The Howling Hand
+*Zrin-Hala, the howling storm*
+
+Resistance to lightning and thunder, and Lightning Bolt once a Long Rest. The price: Disadvantage on Stealth checks and on Wisdom saving throws.

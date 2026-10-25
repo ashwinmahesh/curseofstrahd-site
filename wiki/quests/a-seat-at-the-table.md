@@ -43,11 +43,13 @@ Optional, [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md): his t
 
 ### Choices and endings
 
-There's one ending, *His Own Table*:
+The good ending is *His Own Table*:
 
 - **Strained or worse (approval -25 or lower):** he doesn't lay the cloth, and the talk isn't offered until his approval recovers. His Strained camp talk can give up to +10.
 - **Otherwise:** the supper and the speech, +8.
 - **Close or better (25 or more):** each pastry has a name piped on it in burnt sugar, and the supper is a feast. The whole party gains Heroic Inspiration.
+
+The quest fails at *Lost* if Ratatouille is lost for good before the supper: he gives his life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes him. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 Nothing later in the game checks the ending.
 
@@ -81,9 +83,12 @@ Nothing later in the game checks the ending.
 > **The Masters Word**: Ratatouille asked Mordenkainen to take him as an apprentice. 'The greatest wizard alive spent a year on a mountain eating raw turnips and arguing with a cat,' Mordenkainen said. 'Status is a coat, boy. Anyone can wear it. Cook. You're a better wizard for it.'
 > *Hint:* Take a Long Rest with Ratatouille in the party; he'll want a word at the fire.
 >
+> **Lost** (the end: failure): Ratatouille is gone, and he will never stand up at our fire and call himself a wizard. The supper he meant to cook for us stays uncooked.
+>
 > **His Own Table** (the end: success): Ratatouille cooked for his friends at the fire, a proper supper out of almost nothing, and when they'd eaten he stood up and announced himself: 'Ratatouille. Cook. And wizard. In that order.' Then he sat down and went pink. Everyone sat with him.
 
 > [!abstract]- Every skill check in its conversations
+> - Medicine DC 10: (Look under the lid.)
 > - Insight DC 14: Watch where his eyes go when he loses a word.
 > - Arcana DC 16: Talk him back to himself, one spell at a time.
 

@@ -7,7 +7,7 @@
 > **Region:** [Castle Ravenloft](https://curseofstrahd.app/wiki/regions/castle-ravenloft.md) · level 10
 > **Resting:** No sleeping here
 > **Light:** dark
-> **Getting here:** [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md)
+> **Getting here:** [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md), [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md)
 > **Quests:** [Where the Devil Waits](https://curseofstrahd.app/wiki/quests/where-the-devil-waits.md)
 
 ## Overview
@@ -26,12 +26,14 @@ A square vault at the foot of a long black stair. In the middle, on a stepped da
 ### Ways in
 
 - **From [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md):** The black stair down
+- **From [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md):** The humming niche
 
 ### Ways out
 
 | # | Exit | Leads to | Only when |
 |---|---|---|---|
 | 1 | The black stair up | [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) |  |
+| 2 | The humming niche | [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md) |  |
 
 ## Map
 
@@ -48,7 +50,7 @@ A square vault at the foot of a long black stair. In the middle, on a stepped da
 
 | # | Where | What | How |
 |---|---|---|---|
-| 2 | an iron chest at the foot of the dais | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2, [Nine Lives Stealer (Longsword)](https://curseofstrahd.app/wiki/items/magic-items.md#nine-lives-stealer), 150 gp | open it |
+| 3 | an iron chest at the foot of the dais | [Candle](https://curseofstrahd.app/wiki/items/equipment.md#candle) ×3, [Potion of Healing (Supreme)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-supreme) ×2, [Nine Lives Stealer (Longsword)](https://curseofstrahd.app/wiki/items/magic-items.md#nine-lives-stealer), 150 gp | open it |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Castle Ravenloft Strahds Tomb (cat_tomb_chest)
 
@@ -65,7 +67,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *He is out of the coffin before the lid stops rocking, and he is not at all sleepy. In the coffin beside his,…*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (270 HP), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 7 × One of Strahd's spawn ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)). Starts from a conversation.
 
-- *Vladimir draws, and his knights come down the black stair behind him with their swords already out.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (275 HP), 4 × [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (180 HP), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (80 HP). Starts from a conversation.
+- *Vladimir draws, and his knights come down the black stair behind him with their swords already out.*, in [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (275 HP), 5 × [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Starts from a conversation.
 
 ## Quests and lore
 

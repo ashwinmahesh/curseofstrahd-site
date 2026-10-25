@@ -38,7 +38,6 @@ Strahd's own war armor, walking on its own: a lightning-charged greatsword and b
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Some of the stone knights were never stone. They step off their plinths into the aisle, visors turning…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The armour on its stand turns its helm toward the door. Behind it, more suits step down from the wall pegs…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *The rug lifts off the floor like a sheet in the wind and comes for you, and from the ledger shelves something…*
@@ -48,5 +47,6 @@ Strahd's own war armor, walking on its own: a lightning-charged greatsword and b
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *Suits of black armour step down from their stands at once, as if someone had called the watch.*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *The fire dies, and every face in the hall turns toward you. Two portraits lean out of their frames; helmed…*
+- [Castle Ravenloft, the Parapets](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-parapets.md): *The empty armour pivots on its heel and raises a rain-slick gauntlet to strike.*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *The heart rings like a struck bell. Below, armour comes clanking up the last turn of the stair, and something…*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *Mist pours up out of the stair and stands up in the shape of a tall man in black. He looks at the shards for…*

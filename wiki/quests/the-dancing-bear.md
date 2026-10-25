@@ -28,6 +28,7 @@ Lavinia's bear Bujor, who has danced on the Tser Pool camp's stage for nine year
    - Blow Lavinia's whistle: it works with no roll.
    - **Animal Handling DC 13**: on a fail he roars but still lets you work round him, so the quest goes on either way.
    - [Speak with Animals](https://curseofstrahd.app/wiki/spells/level-1-spells.md#speak-with-animals) (cast it there, or have it running): he tells you the trap smells of "the skinning man from my camp", which also marks the trap as Marin's.
+   - **(Back away for now.)** lets you leave, but the first time you do, a clock starts: shapes in the underbrush are already creeping toward the cub. Come back and open the trap within a day, or the quest fails (see "Choices and endings").
 4. **Look at the trap (optional).** Before opening it you can try **Investigation DC 12** to spot the mark on the spring plate: an M with a notch, Old Marin's mark. If you miss it, you can still examine the open trap after the fight and see the mark then.
 5. **Open the trap and fight.** The cub screams and blights come out of the trees. If everyone is level 4 or higher you face 4 [Vine Blights](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blights](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), 3 [Twig Blights](https://curseofstrahd.app/wiki/bestiary/twig-blight.md) and a [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md); below level 4 it's 2 vine, 5 needle and 4 twig blights. It's a crowd, not a hard fight: twig blights are weak to fire, the needle blights shoot from up to 60 feet, and vine blights grab and crush from 10 feet away, so free anyone they grip.
 6. **Decide where Bujor goes.** Talk to him again after the fight: lead him home to Lavinia with the cub, or let them go into the den together.
@@ -35,10 +36,15 @@ Lavinia's bear Bujor, who has danced on the Tser Pool camp's stage for nine year
 
 ### Choices and endings
 
-Either way Lavinia gives you her grandmother's [Wind Fan](https://curseofstrahd.app/wiki/items/magic-items.md#wind-fan) and **60 gp**.
+Whichever way Bujor goes, Lavinia gives you her grandmother's [Wind Fan](https://curseofstrahd.app/wiki/items/magic-items.md#wind-fan) and **60 gp**.
 
 - **Home to Lavinia:** Wren +2, Ratatouille +1 and Godrick +1 approve. Bujor dances on the stage from then on, with the cub under the planks.
 - **Into the den:** Thistle +3, Liriel +1 and Wren +1 approve. Lavinia dances the bear's part herself afterwards.
+
+Two endings are failures, with no fan and no gold:
+
+- **Torn:** you backed away from the clearing and a day passed before the trap was opened. The blights have both bears. Bujor is gone from the clearing; the trap shows him dead in the fern beside its empty jaws. Lavinia, who knows what silence sounds like, hangs his chain by the steps and dances alone.
+- **No Stage:** the camp has turned on you, so there's nobody at the stage to tell. Bujor can only go into the den with the cub, and that ends the quest; a bear already led home or let go before the camp turned ends it at the bare plank stage.
 
 If you found out the trap was Marin's (by the check, the spell, or looking at the trap afterwards), you can tell Lavinia, and then take it to [Old Marin](https://curseofstrahd.app/wiki/people/old-marin.md), who skins deer by the trees at the camp from 7 in the morning to 5 in the afternoon. Tell him "Your mark was on the trap" and he confesses that the black carriage pays a gold piece a pound for live young, and pulls all eleven of his traps: Thistle +2, Kip +1 and Godrick +1 approve. You don't need to tell Lavinia first; knowing the mark is enough.
 
@@ -46,7 +52,8 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 
 - **Lavinia just dances?** Someone in the party is still below level 3.
 - **The deer path is "nothing you need, yet"?** You haven't agreed to help Lavinia.
-- **No Bujor at the den?** He's only there while the quest is at "asked" or "defended"; once you've chosen his fate he's gone from the clearing.
+- **No Bujor at the den?** He's only there while the quest is at "asked" or "defended"; once you've chosen his fate he's gone from the clearing. If you backed away and a day went by before you opened the trap, the quest has failed.
+- **Don't leave the cub crying.** Once you've backed away from the clearing, you have a day to come back and open the trap. Opening it stops the clock.
 
 ## Rewards
 
@@ -80,6 +87,8 @@ If you found out the trap was Marin's (by the check, the spell, or looking at th
 >
 > **Found**: The cub is out of the trap. Lavinia will want to know where her bear is.
 > *Hint:* Find Lavinia on the plank stage at the Tser Pool camp, in the daytime or the evening. If the camp has turned on you, the plank stage will be bare.
+>
+> **Torn** (the end: failure): We left Bujor in the clearing with the trapped cub and the creeping brush. When the woods went quiet, neither bear came down the path.
 >
 > **Done** (the end: success): Lavinia has her answer about Bujor, and we have her grandmother's fan, the one she danced for a prince with.
 >

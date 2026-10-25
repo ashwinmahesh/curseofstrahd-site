@@ -62,7 +62,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something blinks inside the nearest block of amber. Then the amber blinks back, everywhere, and the little…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): A Sleeper Woken ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP), 10 × [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md), A Sleeper Woken ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)). Starts when you reach the hall of sleepers.
+- *Something blinks inside the nearest block of amber. Then the amber blinks back, everywhere, and the little…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): 2 × A Sleeper Woken ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)), 10 × [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md). Starts when you reach the hall of sleepers.
 
 - *The Eye Below sinks back into the amber to its middle as the last note of the lullaby goes, and wakes too…*, in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md), [Dream-Gazer](https://curseofstrahd.app/wiki/bestiary/dream-gazer.md). Scales with your level. Starts from a conversation. Part of [The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)

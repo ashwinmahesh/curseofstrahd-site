@@ -48,6 +48,7 @@ It starts the first time you walk into the mist at the east end of [The Old Sval
 - **Given to Sergei** and **Given to Ireena** (success): the dreams stop. At the next Long Rest Tamsin sleeps through the night for once.
 - **Burned** (success): Strahd, for once, has nothing to say.
 - **Given to Strahd** (failure): he thanks Tamsin and means it. That's the worst part.
+- **Lost** (failure): Tamsin is lost for good before the locket is settled: he gives his life on the altar beneath [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), or the Deck of Many Things takes him. A hero who is only dead, waiting to be raised, keeps the quest ([Reviving the Dead](https://curseofstrahd.app/wiki/rules/reviving-the-dead.md)).
 
 Optional, Madam Eva: Tamsin's truth is that somebody put the locket where his hand would find it.
 
@@ -74,6 +75,8 @@ Optional, Madam Eva: Tamsin's truth is that somebody put the locket where his ha
 >
 > **The Coach**: The coach Tamsin robbed was Strahd's own black carriage, the one that goes about Barovia with nobody driving it. Last spring it was sent out through the mists, empty, the door on the latch and the locket on the seat. A thief would come, its master said. A thief always comes. Tamsin carried Tatyana's face home for him, exactly as planned.
 > *Hint:* Take Tamsin to the Pool of the White Sun in Krezk and decide what becomes of the locket.
+>
+> **Lost** (the end: failure): We lost Tamsin Tealeaf before he learned who the woman in the silver locket is. Her face stays shut inside it, and she will not call his name again.
 >
 > **Given To Sergei** (the end: success): At the Pool of the White Sun, Tamsin gave the locket back to the one who gave it first. Sergei's hand closed round it under the water, and the dreams stopped. Whatever Strahd meant the locket to do, it is out of his reach now, and the thief kept nothing for himself.
 >

@@ -38,6 +38,7 @@ Pours over the nearest creature and gnaws it; resists weapon damage and weakens 
 
 ## Where you meet it
 
+- [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md): *The guards spill apart into a boiling tide of rats that surges across the stones toward your boots.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Part of the wall uncoils.*
 - [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md) · *Morgantha stands, and keeps standing, taller than the rafters should allow. In the corner Bella lays down her…*
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md) · *Two more girls come over the rooftops at Catalina's call, barefoot, in nightgowns, their arms full of black…*

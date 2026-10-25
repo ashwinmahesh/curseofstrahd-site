@@ -67,7 +67,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 5: 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (4200 XP; surprise: enemies)
 > - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived and level ≥ 4: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 3 × [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) (1950 XP; surprise: enemies)
-> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) (50 HP), 4 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (2600 XP; surprise: enemies)
+> - **[The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md)**, when not coffin spawn destroyed and not church siege survived: [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 4 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md) (2600 XP; surprise: enemies)
 
 ## Quests and lore
 

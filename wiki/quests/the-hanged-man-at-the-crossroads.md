@@ -38,6 +38,7 @@ There are four ways in, and any one of them will do:
 3. **Tell his people at Tser Pool.** Talk to Luminita ("We found a Vistana at the crossroads. Hanged.") or to [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) ("We found a young Vistana hanged at the crossroads."). Either one finishes the quest, and after that the other already knows. It works however you met him: on the rope, cut down and buried, or in the fight with the risen hanged men once he's laid in the ground.
    - **Luminita** admits the mare was hers: she found it loose with a Vallaki brand and told Nicu to sell it back. If you buried him, she gives you a [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing); if you left him hanging, she sends you away angry. If you carry the earring, give it to her: Wren, Liriel and Godrick each +1.
    - **Stanimir** takes the news hard. If you carry the earring, put it in his hand (Wren +1, Liriel +1). He tells you someone in the camp will send word to the castle that you passed, and that he'll make sure it says you went east.
+   - **Don't lie to Luminita.** Once you've seen the gallows, her menu also has **(Tell her you passed no one on the road from the crossroads.)**, marked as ending the quest. It ends at *Unspoken*, a failure, for good: neither she nor Stanimir can be told afterwards. Before you've seen the gallows, "We passed no one." is only the truth and costs nothing.
 
 While you're at the pen, Luminita also offers an **Animal Handling DC 12** check to help with her skittish gelding. Passing makes her friendly; failing costs nothing, and you can try again.
 
@@ -46,7 +47,7 @@ While you're at the pen, Luminita also offers an **Animal Handling DC 12** check
 
 ### Choices and endings
 
-The quest always ends at "told". What changes is how you got there:
+The good ending is *Told*. What changes is how you got there:
 
 - Telling either of them makes Luminita and Stanimir **friendly**, makes Stanimir's wine free from then on, and makes the camp's fiddle play slow when you come back.
 - It also pays for your reading in [The Seer at Tser Pool](https://curseofstrahd.app/wiki/quests/the-seer-at-tser-pool.md): Madam Eva waives her price because you brought Nicu home to his people. The one exception is if you lied to her face about Stanimir's strongbox and were caught.
@@ -54,9 +55,11 @@ The quest always ends at "told". What changes is how you got there:
 - In [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md), having seen the gallows or told the family lets you tell Radu what the castle's promise about Nicu was really worth.
 - The Potion of Healing comes only from Luminita, and only if you cut him down. If you tell Stanimir first, Luminita won't talk about it, so go to her first if you want the potion.
 
+The one failure is *Unspoken*: you told Luminita the road was empty after you'd seen the gallows. She keeps waiting for Nicu, and moves her bedroll into the front wagon by the ditch so she can be the first to tell him how late he is.
+
 ### If you're stuck
 
-- **Don't rob Stanimir.** His strongbox under a wagon (lock DC 15) holds 40 gp and a dagger. Taking it makes him confront you. You can give it back, lie with **Deception DC 16** (on a fail he wants 50 gp, or just the 40 if that's all you have), or refuse. Refusing starts a fight with the whole camp (two [Bandit Captains](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), two [Bandits](https://curseofstrahd.app/wiki/bestiary/bandit.md) and three [Scouts](https://curseofstrahd.app/wiki/bestiary/scout.md)). After that Stanimir, Luminita and everyone else are gone, and nobody is left to tell.
+- **Don't rob Stanimir.** His strongbox under a wagon (lock DC 15) holds 40 gp and a dagger. Taking it makes him confront you. You can give it back, lie with **Deception DC 16** (on a fail he wants 50 gp, or just the 40 if that's all you have), or refuse. Refusing starts a fight with the whole camp (two [Bandit Captains](https://curseofstrahd.app/wiki/bestiary/bandit-captain.md), two [Bandits](https://curseofstrahd.app/wiki/bestiary/bandit.md) and three [Scouts](https://curseofstrahd.app/wiki/bestiary/scout.md)). After that Stanimir, Luminita and everyone else are gone. If you've buried Nicu or put the risen dead down, you can still tell [Arrigal](https://curseofstrahd.app/wiki/people/arrigal.md) at [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) outside Vallaki's west gate (**Tell him what became of Nicu at the crossroads gallows.**). That ends the quest at *Told*, without Luminita's potion.
 
 ## Rewards
 
@@ -87,6 +90,8 @@ The quest always ends at "told". What changes is how you got there:
 >
 > **Risen**: The hanged man at the crossroads would not stay dead, and nor would the field of old hanged men behind the gallows. We put them all down again.
 > *Hint:* Go back to the Tser Pool camp and tell Luminita, or Stanimir. If the camp has turned on you, tell Arrigal at the Vistani camp outside Vallaki's west gate.
+>
+> **Unspoken** (the end: failure): We told Luminita the road behind us was empty and kept the crossroads gallows to ourselves. She is still waiting for Nicu to ride back from Vallaki.
 >
 > **Told** (the end: success): We told Nicu's people what became of him at the crossroads. They will remember who brought the news.
 

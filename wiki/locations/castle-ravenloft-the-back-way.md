@@ -46,4 +46,4 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *An iron clang shakes the stone overhead, raining grey dust and torn webbing down upon your shoulders. High in…*, in [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md): 8 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md) (185 HP). Starts from a conversation.
+- *An iron clang shakes the stone overhead, raining grey dust and torn webbing down upon your shoulders. High in…*, in [Castle Ravenloft, the Back Way](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-back-way.md): 8 × [Giant Spider](https://curseofstrahd.app/wiki/bestiary/giant-spider.md). Starts from a conversation.

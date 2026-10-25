@@ -37,6 +37,7 @@ Hunts in groups: claws to paralyze a victim, then the pack bites the helpless ta
 ## Where you meet it
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*
+- [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md): *In the dark beyond the pit, pale shapes stop gnawing on what the last guest left them and turn their wet…*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *The bones in the passage stand up, and some of them still have meat on.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Supper is served.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *For one moment they are only parents, and grieving.*

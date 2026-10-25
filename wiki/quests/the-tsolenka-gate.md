@@ -33,7 +33,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
    The landing is also where [The Frozen Pilgrims](https://curseofstrahd.app/wiki/quests/the-frozen-pilgrims.md) and [The Last Egg](https://curseofstrahd.app/wiki/quests/the-last-egg.md) begin.
 
 2. **The bridge, and the roc.** The only way to the tower is across the stone bridge over the gorge and past the roc's shelf.
-   - **By day** (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) of Mount Ghakis drops on anyone on the bridge: 160 hit points at level 8, 130 below (7200 XP). From level 9 it has 285 hit points and brings its mate, a second roc with 85 (14,400 XP). Its talons can seize one of you and hold on (escape DC 19).
+   - **By day** (6:00 to 19:00) the [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md) of Mount Ghakis drops on anyone on the bridge: 160 hit points at level 8, 130 below (7200 XP). From level 9 it has 285 hit points and brings its mate, a second roc with 248 (14,400 XP). Its talons can seize one of you and hold on (escape DC 19).
    - **By night** it doesn't hunt, so the simple answer is to cross after dark.
    - **Driving it off** (or saving its chick in The Last Egg) ends the danger for good.
    - **On the shelf beyond:** Medicine DC 15 on the bones reveals a traveller the roc dropped (search DC 15: [Wings of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#wings-of-flying)). The roc's nest holds 140 gp, a chain shirt, a longsword, a [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater), a [Weapon, +2](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-2) and an [Ioun Stone (Agility)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-agility).
@@ -66,7 +66,7 @@ Before you go, it's worth a trip to [Mordenkainen](https://curseofstrahd.app/wik
 5. **Raise the gate.** The winch is in the gatehouse, the room at the north-west corner. Until the watch is passed, released or beaten, a grey hand closes over the crank. After that, "Haul on the winch." lifts the portcullis. The quest ends at Open, and the road up to the Amber Temple (3 hours) appears on your travel map.
 
 6. **Through the gate.** Behind the raised portcullis a curtain of green fire hangs across the passage. Walk into it and the first of you takes 4d10 fire (Dexterity DC 15 for half), and then it's gone. To put it out first, click it: Arcana DC 15, "Study the weave for the knot that holds it." (one try for the party), or cast Dispel Magic on it if anyone has it prepared. "Step back from it." always works.
-   - **The stone demons.** Two stone demons stand against the wall either side of the gate. If you fought the watch, they wake as you step out of the tower: two [Vrocks](https://curseofstrahd.app/wiki/bestiary/vrock.md), 200 HP each below level 8, 280 at 8, 380 at 9 and 420 at 10. Get past the watch any other way and they stay stone.
+   - **The stone demons.** Two stone demons stand against the wall either side of the gate. If you fought the watch, they wake as you step out of the tower: two [Vrocks](https://curseofstrahd.app/wiki/bestiary/vrock.md) with 152 HP each, at any level (4,600 XP). Get past the watch any other way and they stay stone.
 
 ### Choices and endings
 

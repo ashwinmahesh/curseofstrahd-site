@@ -57,7 +57,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): 4 × A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 55 HP), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Starts from a conversation. Part of [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md).
+- *Kiril's hunters come down the road and out of the pines, and the wolves with them, for the girl at the stone…*, in [The Waystone](https://curseofstrahd.app/wiki/locations/the-waystone.md): 4 × A Pack Hunter ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Starts from a conversation. Part of [The Waystone](https://curseofstrahd.app/wiki/quests/the-waystone.md).
 
 ### At camp here
 

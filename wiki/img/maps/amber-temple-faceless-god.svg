@@ -228,19 +228,29 @@
 <rect x="592" y="336" width="16" height="16" fill="#8a6d3b"/>
 <rect x="608" y="336" width="16" height="16" fill="#6f6658"/>
 <rect x="624" y="336" width="16" height="16" fill="#2b2326"/>
-<rect x="0" y="352" width="176" height="16" fill="#2b2326"/>
+<rect x="0" y="352" width="80" height="16" fill="#2b2326"/>
+<rect x="80" y="352" width="16" height="16" fill="#6f6658"/>
+<rect x="96" y="352" width="80" height="16" fill="#2b2326"/>
 <rect x="176" y="352" width="304" height="16" fill="#6f6658"/>
 <rect x="480" y="352" width="160" height="16" fill="#2b2326"/>
-<rect x="0" y="368" width="224" height="16" fill="#2b2326"/>
+<rect x="0" y="368" width="80" height="16" fill="#2b2326"/>
+<rect x="80" y="368" width="16" height="16" fill="#6f6658"/>
+<rect x="96" y="368" width="128" height="16" fill="#2b2326"/>
 <rect x="224" y="368" width="192" height="16" fill="#6f6658"/>
 <rect x="416" y="368" width="224" height="16" fill="#2b2326"/>
-<rect x="0" y="384" width="224" height="16" fill="#2b2326"/>
+<rect x="0" y="384" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="384" width="176" height="16" fill="#6f6658"/>
+<rect x="208" y="384" width="16" height="16" fill="#8a6d3b"/>
 <rect x="224" y="384" width="192" height="16" fill="#6f6658"/>
 <rect x="416" y="384" width="224" height="16" fill="#2b2326"/>
-<rect x="0" y="400" width="224" height="16" fill="#2b2326"/>
+<rect x="0" y="400" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="400" width="176" height="16" fill="#6f6658"/>
+<rect x="208" y="400" width="16" height="16" fill="#2b2326"/>
 <rect x="224" y="400" width="192" height="16" fill="#6f6658"/>
 <rect x="416" y="400" width="224" height="16" fill="#2b2326"/>
-<rect x="0" y="416" width="224" height="16" fill="#2b2326"/>
+<rect x="0" y="416" width="32" height="16" fill="#2b2326"/>
+<rect x="32" y="416" width="176" height="16" fill="#6f6658"/>
+<rect x="208" y="416" width="16" height="16" fill="#8a6d3b"/>
 <rect x="224" y="416" width="192" height="16" fill="#6f6658"/>
 <rect x="416" y="416" width="224" height="16" fill="#2b2326"/>
 <rect x="0" y="432" width="224" height="16" fill="#2b2326"/>
@@ -249,11 +259,14 @@
 <rect x="0" y="448" width="304" height="16" fill="#2b2326"/>
 <rect x="304" y="448" width="32" height="16" fill="#6f6658"/>
 <rect x="336" y="448" width="304" height="16" fill="#2b2326"/>
+<text x="216.0" y="392.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">An arrow slit</text>
+<text x="216.0" y="424.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">An arrow slit</text>
 <text x="336.0" y="408.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The south gallery</text>
 <text x="336.0" y="224.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The great hall</text>
 <text x="568.0" y="224.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The ring of amber</text>
 <text x="88.0" y="224.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The hall of echoes</text>
 <text x="320.0" y="48.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The wardens' cells</text>
+<text x="120.0" y="408.0" font-size="10" text-anchor="middle" fill="#f0e2c0" fill-opacity="0.75" stroke="#120709" stroke-width="2.5" paint-order="stroke" font-style="italic">The arrow-slit gallery</text>
 <circle cx="312.0" cy="456.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
 <text x="312.0" y="460.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">1</text>
 <circle cx="24.0" cy="56.0" r="9.92" fill="#e8e0c8" stroke="#120709" stroke-width="2"/>
@@ -270,14 +283,16 @@
 <text x="520.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">7</text>
 <circle cx="40.0" cy="312.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
 <text x="40.0" y="316.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">8</text>
+<circle cx="40.0" cy="408.0" r="9.92" fill="#c0574a" stroke="#120709" stroke-width="2"/>
+<text x="40.0" y="412.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">9</text>
 <circle cx="312.0" cy="136.0" r="9.92" fill="#4fa3a3" stroke="#120709" stroke-width="2"/>
-<text x="312.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">9</text>
+<text x="312.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">10</text>
 <circle cx="120.0" cy="24.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
-<text x="120.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">10</text>
+<text x="120.0" y="28.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">11</text>
 <circle cx="120.0" cy="136.0" r="9.92" fill="#a06cc0" stroke="#120709" stroke-width="2"/>
-<text x="120.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">11</text>
+<text x="120.0" y="140.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">12</text>
 <circle cx="216.0" cy="56.0" r="9.92" fill="#ff8c1a" stroke="#120709" stroke-width="2"/>
-<text x="216.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">12</text>
+<text x="216.0" y="60.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">13</text>
 <circle cx="312.0" cy="184.0" r="9.92" fill="#ff8c1a" stroke="#120709" stroke-width="2"/>
-<text x="312.0" y="188.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">13</text>
+<text x="312.0" y="188.0" font-size="11" text-anchor="middle" fill="#120709" font-weight="bold">14</text>
 </svg>

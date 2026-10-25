@@ -7,7 +7,7 @@
 > **Region:** [Argynvostholt](https://curseofstrahd.app/wiki/regions/argynvostholt.md) · level 8
 > **Resting:** Risky
 > **Light:** dark
-> **Getting here:** [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md), [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)
+> **Getting here:** [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md), [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md), [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md)
 > **Quests:** [A Knight, More or Less](https://curseofstrahd.app/wiki/quests/a-knight-more-or-less.md), [The Destined Ally](https://curseofstrahd.app/wiki/quests/the-destined-ally.md), [The Dragon's Beacon](https://curseofstrahd.app/wiki/quests/the-dragons-beacon.md), [The Order of the Silver Dragon](https://curseofstrahd.app/wiki/quests/the-order-of-the-silver-dragon.md) and 2 more
 
 ## Overview
@@ -27,6 +27,7 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 
 - **From [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md):** Down to the hall of heroes
 - **From [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md):** Up the great stair
+- **From [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md):** Down the stair to the upper floor
 
 ### Ways out
 
@@ -34,6 +35,7 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 |---|---|---|---|
 | 1 | Down to the great hall | [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md) |  |
 | 2 | Up the beacon tower stair | [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md) |  |
+| 3 | Up the stair to the third floor | [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) |  |
 
 ## Map
 
@@ -55,18 +57,18 @@ A landing at the head of the great stair. North, the dragon's study, its shelves
 ## People
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md)**, Sir Godfrey's room (#3): when godfrey met and not sir godfrey gwilym with the party and order fate isn't “rest”
+> - **[Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md)**, Sir Godfrey's room (#4): when godfrey met and not sir godfrey gwilym with the party and order fate isn't “rest”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 4 | Footlocker | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Dice Set](https://curseofstrahd.app/wiki/items/equipment.md#dice-set), 24 gp | open it |
-| 5 | the dragon's desk | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×3, 35 gp | open it |
-| 6 | a plain chest | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), 9 gp | open it |
-| 7 | the commander's strongbox | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Ioun Stone (Leadership)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-leadership), [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism), 120 gp | lock DC 18 |
-| 9 | a hollow in the empty plinth (hidden) | [Feather Token (Whip)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-whip) | Search: Investigation DC 16 |
-| 10 | a hidden drawer in the dragon's desk (hidden) | [Figurine of Wondrous Power (Bronze Griffon)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-bronze-griffon) | Search: Investigation DC 16 |
+| 5 | Footlocker | [Playing Card Set](https://curseofstrahd.app/wiki/items/equipment.md#playing-card-set), [Dice Set](https://curseofstrahd.app/wiki/items/equipment.md#dice-set), 24 gp | open it |
+| 6 | the dragon's desk | [Ink](https://curseofstrahd.app/wiki/items/equipment.md#ink), [Ink Pen](https://curseofstrahd.app/wiki/items/equipment.md#ink-pen), [Parchment](https://curseofstrahd.app/wiki/items/equipment.md#parchment) ×3, 35 gp | open it |
+| 7 | a plain chest | [Book](https://curseofstrahd.app/wiki/items/equipment.md#book), 9 gp | open it |
+| 8 | the commander's strongbox | [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Ioun Stone (Leadership)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-leadership), [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism), 120 gp | lock DC 18 |
+| 10 | a hollow in the empty plinth (hidden) | [Feather Token (Whip)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-whip) | Search: Investigation DC 16 |
+| 11 | a hidden drawer in the dragon's desk (hidden) | [Figurine of Wondrous Power (Bronze Griffon)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-bronze-griffon) | Search: Investigation DC 16 |
 
 The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -74,13 +76,13 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 8 | Burned bookcases | Arcana 15 | Search the burned books for a spell | Spell Scroll (Dispel Magic) |
+| 9 | Burned bookcases | Arcana 15 | Search the burned books for a spell | Spell Scroll (Dispel Magic) |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 11 | Rotten boards | 13 | 12 | DEX 13 | 2d6 bludgeoning |
+| 12 | Rotten boards | 13 | 12 | DEX 13 | 2d6 bludgeoning |
 
 ## Fights
 

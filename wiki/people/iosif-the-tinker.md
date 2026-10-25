@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/iosif-the-tinker.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![vistana](https://curseofstrahd.app/wiki/img/portraits/vistana.webp)
+> ![tinker iosif](https://curseofstrahd.app/wiki/img/portraits/tinker-iosif.webp)
 > **Title:** A Vistani Tinker
 > **Region:** [The Old Svalich Road](https://curseofstrahd.app/wiki/regions/the-old-svalich-road.md)
 > **Starting attitude:** friendly

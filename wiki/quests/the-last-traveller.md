@@ -36,7 +36,7 @@ A young man in rags and beautiful boots sits at the edge of the mists on the Old
 
 ### Choices and endings
 
-There is one ending. You get [Winged Boots](https://curseofstrahd.app/wiki/items/magic-items.md#winged-boots), and Godrick and Liriel approve (+2 each), and Thistle, Wren and Kip (+1 each). Afterwards:
+There is one ending. You get [Boots of Striding and Springing](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-striding-and-springing), and Godrick and Liriel approve (+2 each), and Thistle, Wren and Kip (+1 each). Afterwards:
 
 - Ilarion lives with Petra and carries the water now. You'll find him by the well from 8:00 to 18:00 (not in a storm).
 - Old Mihail tells you he filled in his father's empty grave and stood on it, and didn't know what he felt.

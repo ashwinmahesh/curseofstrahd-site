@@ -371,16 +371,16 @@ Every spell's scroll, who sells it and where it's found: [Spell Scrolls](https:/
 - Spell Scroll (Bless): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13)
 - Spell Scroll (Chain Lightning): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
 - Spell Scroll (Circle of Death): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
+- Spell Scroll (Cone of Cold): In a rack of the wardens' staves, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The arrow-slit gallery)
 - Spell Scroll (Cone of Cold): Hidden: a page blown into the snow, [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) (The frost garden) (found with Search, Perception DC 13)
 - Spell Scroll (Delayed Blast Fireball): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
 - Spell Scroll (Disintegrate): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
 - Spell Scroll (Dispel Magic): An Arcana check (DC 15) at Burned bookcases, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md)
+- Spell Scroll (Dragon's Breath): Hidden: a loose flagstone at the foot of the wall, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The dragon's vault) (found with Search, Perception DC 14)
 - Spell Scroll (Forcecage): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md))
 - Spell Scroll (Harm): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
 - Spell Scroll (Mordenkainen's Sword): In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study)
-- Spell Scroll (Protection from Poison): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13)
-- Spell Scroll (Remove Curse): Given by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md) ([The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md))
-- …and 1 more places
+- …and 3 more places
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Xaver](https://curseofstrahd.app/wiki/people/xaver.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/people/sir-godfrey-gwilym.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 
@@ -1248,6 +1248,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 4d4 + 4 Hit Poin
 **Where to find it:**
 - 2 × In a shelf of humming jars, [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) (The kitchen) (only when lysaga dead or lysaga bargained or lysaga left broken)
 - In a footlocker, [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md) (Rahadin's room) (locked, DC 17)
+- An Athletics check (DC 10) at A hummock ringed with half-sunk stones, [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md)
 - In the roc's nest, [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md) (The roc's shelf)
 - 2 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
 - 2 × Given by [The Abbot](https://curseofstrahd.app/wiki/people/the-abbot.md) in [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md) ([The Abbot's Bride](https://curseofstrahd.app/wiki/quests/the-abbots-bride.md), [The Burgomaster's Son](https://curseofstrahd.app/wiki/quests/the-burgomasters-son.md))
@@ -1256,6 +1257,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 4d4 + 4 Hit Poin
 - 2 × Given by a random encounter on the road
 - Given by a random encounter on the road
 - Given by [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md) in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
+- 2 × Given by the fallen doorway in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or the carved lintel and the door in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md), [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md), [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md), [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 - Sometimes in the changing stock of Vadoma
 
@@ -1289,6 +1291,7 @@ Resistance to Cold damage for 1 hour.
 Resistance to Fire damage for 1 hour.
 
 **Where to find it:**
+- In a rack of the wardens' staves, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The arrow-slit gallery)
 - 2 × In the keepers' strongbox, [Under Mount Ghakis](https://curseofstrahd.app/wiki/locations/under-mount-ghakis.md) (The keepers' post) (locked, DC 16)
 - In the drivers' box, [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) (Before the gate)
 - Hidden: Something in the slush, [The North Shoulder of Ghakis](https://curseofstrahd.app/wiki/locations/the-north-shoulder-of-ghakis.md) (Before the gate) (found with Search, Perception DC 14)
@@ -1665,7 +1668,7 @@ Cast Gust of Wind (save DC 13); each extra use in a day risks tearing it.
 - Given by [Bildrath Cantemir](https://curseofstrahd.app/wiki/people/bildrath-cantemir.md) in [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md) ([Cut After Noon](https://curseofstrahd.app/wiki/quests/cut-after-noon.md))
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
-## Rare (168)
+## Rare (170)
 
 ### Ammunition, +2
 *rare, ammunition* · **Cheat code:** `DC0B66` (pick ammunition)
@@ -2262,6 +2265,7 @@ A small box that unfolds into a rowboat or a keelboat.
 +1 weapon; an extra 2d6 against Giants, which also make a DC 15 Strength save or fall Prone.
 
 **Where to find it:**
+- Longsword Giant Slayer: Hidden: a longsword under the mold, [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md) (The Baron's crypt) (found with Search, Investigation DC 12)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Glamoured Studded Leather
@@ -2281,6 +2285,14 @@ Divination reports a chosen Harper persona instead of you, and you can cloak you
 
 **Where to find it:**
 - Sold by [Master Costel](https://curseofstrahd.app/wiki/people/master-costel.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+
+### Gulthias Staff
+*rare, weapon, needs attunement* · **Cheat code:** `683800`
+
+A quarterstaff of black wood: spend a charge on a hit to heal by the damage, blights leave its bearer alone, and breaking it kills the blights nearby.
+
+**Where to find it:**
+- In a druid's satchel, dropped in haste, [The Winery](https://curseofstrahd.app/wiki/locations/the-winery.md) (The fermenting hall) (only when winery hall cleared)
 
 ### Heward's Handy Haversack
 *rare, wondrous* · **Cheat code:** `2BE7C9`
@@ -2576,6 +2588,7 @@ Bonus Action to drink or give to a creature within 5 ft: regain 8d4 + 8 Hit Poin
 Resistance to all damage for 1 minute.
 
 **Where to find it:**
+- 2 × In a footlocker, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The knights' quarters)
 - In a shelf of humming jars, [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) (The kitchen) (only when lysaga dead or lysaga bargained or lysaga left broken)
 - Hidden: a tin behind the wayside shrine, [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md) (The well square) (found with Search, Perception DC 13)
 - Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
@@ -2783,6 +2796,14 @@ It lashes out and binds a creature within 20 ft (Dex DC 15; DC 15 to escape).
 **Where to find it:**
 - Hidden: something tangled at the bottom of the dry well, [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md) (The front courtyard) (found with Search, Perception DC 15)
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 5 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+
+### Saint Markovia's Thighbone
+*rare, weapon, needs attunement* · **Cheat code:** `C9A362`
+
+Works as a Mace of Disruption: an extra 2d6 Radiant against Fiends and Undead, and a Wisdom save or be destroyed. It crumbles to dust after a battle in which it hit a vampire.
+
+**Where to find it:**
+- Given by a thighbone in linen in [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md)
 
 ### Scholar’s Anchoring Bangle
 *rare, wondrous, needs attunement* · **Cheat code:** `2B5497`
@@ -3238,6 +3259,7 @@ A Undead it hits makes a DC 17 Con save: 6d10 extra Piercing, half on a success;
 
 **Where to find it:**
 - Arrow of Undead Slaying: 2 × In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room)
+- Arrow of Undead Slaying: 2 × Given by the fallen doorway in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or the carved lintel and the door in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)
 - Sold by [Dmitri Krezkov](https://curseofstrahd.app/wiki/people/dmitri-krezkov.md), [Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
 ### Ammunition, +3
@@ -4072,7 +4094,7 @@ Once a day, a whirlwind of tools batters everyone else in the room for a minute;
 **Where to find it:**
 - Sold by [Gunther Arasek](https://curseofstrahd.app/wiki/people/gunther-arasek.md) from party level 9 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
 
-## Legendary (48)
+## Legendary (49)
 
 ### Apparatus of Kwalish
 *legendary, wondrous* · **Cheat code:** `1D47C0`
@@ -4217,6 +4239,14 @@ Once a week, summons 5 Berserker spirits that fight for you for an hour. If you 
 
 **Where to find it:**
 - Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 10 ([prices](https://curseofstrahd.app/wiki/items/merchants.md))
+
+### Icon of Ravenloft
+*legendary, wondrous, needs attunement* · **Cheat code:** `7BEB15`
+
+Anyone within 30 ft is guarded against fiends and undead. Its attuned bearer gets Augury and Cure Wounds once a day, and +2 to the save DC of Turn Undead.
+
+**Where to find it:**
+- In Silver icon on the altar, [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md) (The chancel)
 
 ### Instrument of the Bards (Ollamh Harp)
 *legendary, wondrous, needs attunement* · **Cheat code:** `279BCE`

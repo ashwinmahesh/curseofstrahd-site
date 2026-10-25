@@ -53,3 +53,8 @@ A true vampire: grappling strikes and a draining bite, charm, bat and mist shape
 
 - **Charm (Recharge 5-6).** The vampire casts Charm Person with no components, using Charisma (spell save DC 17); the spell lasts 24 hours. The charmed target willingly accepts the vampire's Bite, and the Bite's damage doesn't end the spell. When the charm ends, the target doesn't know it was charmed. Text only for the engine for now.
 - **Shape-Shift.** If it isn't in sunlight or running water, the vampire turns into a Tiny bat (Speed 5 ft., Fly 30 ft.) or a Medium cloud of mist (Speed 5 ft., Fly 30 ft., hovering), or back into its vampire form. What it wears changes with it. As a bat it can't speak; otherwise it keeps its statistics apart from size and speed. As mist it can't act, speak or handle objects, weighs nothing, can enter and stay in an enemy's space, passes wherever air can (not through liquid), and has Resistance to all damage except sunlight's. The engine runs this through the block's forms.
+
+## Where you meet it
+
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *His hand closes on the nearest throat, and two more shapes drop from the vault above the passage.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *He laughs, and two more shapes unfold from the vault above the passage.*

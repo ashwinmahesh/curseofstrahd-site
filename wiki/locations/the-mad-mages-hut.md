@@ -45,7 +45,7 @@ One room with a sleeping corner and a study divided off by a half wall. The hear
 *a travelling satchel*
 
 ![loc mount baratok hut spot2](https://curseofstrahd.app/wiki/img/shots/loc-mount-baratok-hut-spot2.webp)
-*a chess piece that isn't a piece*
+*a bed of furs, a chess piece that isn't a piece*
 
 ## People
 
@@ -58,10 +58,16 @@ One room with a sleeping corner and a study divided off by a half wall. The hear
 | # | Where | What | How |
 |---|---|---|---|
 | 3 | a travelling satchel | [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×2, [Component Pouch](https://curseofstrahd.app/wiki/items/equipment.md#component-pouch), [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | open it |
-| 4 | a chess piece that isn't a piece (hidden) | [Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl) | Search: Investigation DC 17 |
-| 5 | one book on the shelf that isn't blank (hidden) | [Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding) | Search: Investigation DC 17 |
+| 5 | a chess piece that isn't a piece (hidden) | [Figurine of Wondrous Power (Serpentine Owl)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-serpentine-owl) | Search: Investigation DC 17 |
+| 6 | one book on the shelf that isn't blank (hidden) | [Tome of Understanding](https://curseofstrahd.app/wiki/items/magic-items.md#tome-of-understanding) | Search: Investigation DC 17 |
 
 The containers here also get random magic items and potions, rolled for a party of level 9 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
+
+### Skill checks
+
+| # | Where | Check | Try | What it does |
+|---|---|---|---|---|
+| 4 | a bed of furs | Investigation 15 | Lift the furs | lore: Chalk on a rag; eggs orb found |
 
 ## Quests and lore
 

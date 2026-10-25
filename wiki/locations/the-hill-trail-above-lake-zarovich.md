@@ -25,7 +25,7 @@ Pines, boulders, a trickle of meltwater across the path, and the lake glinting f
 
 ### Ways in
 
-- **The travel map:** The Hill Trail, in Lake Zarovich, the wolf hills and Lake Baratok. It shows once visited vallaki and (quest.the ravens ransom or quest fens trail at or past the blazes).
+- **The travel map:** The Hill Trail, in Lake Zarovich, the wolf hills and Lake Baratok. It shows once visited vallaki and (quest.the ravens ransom or (quest fens trail at or past the blazes and quest.fens trail isn't lost)).
 
 ### Ways out
 
@@ -51,11 +51,14 @@ Pines, boulders, a trickle of meltwater across the path, and the lake glinting f
 
 - **[Ilarie](https://curseofstrahd.app/wiki/people/ilarie.md)**, A Hunter on the Hill Trail: The hill trail, 07:00–18:00 (#5)
 
+> [!note]- Who turns up at points in the story (1)
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, The hill trail (#6): when not izek dead and izek told truth and not izek with the party and not izek guards ireena and (not izek woods met or days since.izek woods met < 1)
+
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 6 | something hidden under a stump (hidden) | [Hunting Trap](https://curseofstrahd.app/wiki/items/equipment.md#hunting-trap) | Search: Perception DC 13 |
+| 7 | something hidden under a stump (hidden) | [Hunting Trap](https://curseofstrahd.app/wiki/items/equipment.md#hunting-trap) | Search: Perception DC 13 |
 
 The containers here also get random magic items and potions, rolled for a party of level 8 the first time you come ([Random Treasure](https://curseofstrahd.app/wiki/items/random-treasure.md)). Hidden finds need a Search (F) nearby; the party's best roll counts.
 
@@ -63,11 +66,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The count's fowlers drop out of the dead pine, and the bats come down after them like a black sheet shaken…*, in [The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7450 XP; surprise: party)
-> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7350 XP; surprise: party)
+> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 5 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7450 XP; surprise: party)
+> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7350 XP; surprise: party)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when fowlers ready: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5600 XP; surprise: party)
-> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7300 XP)
-> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 120 HP), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7250 XP)
+> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 7: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7300 XP)
+> - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready and level ≥ 6: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 3 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7250 XP)
 > - **[The Hill Trail above Lake Zarovich](https://curseofstrahd.app/wiki/locations/the-hill-trail-above-lake-zarovich.md)**, when not fowlers ready: The Count's Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 2 × A Fowler ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (5500 XP)
 
 ### At camp here

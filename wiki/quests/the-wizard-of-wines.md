@@ -44,9 +44,9 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - At the dead tree full of ravens, at the east end of the foot of the lane, **Persuasion DC 14** ("Ask the ravens for their help") shows you their hoard in the trunk: a [Ring of Feather Falling](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-feather-falling) (search DC 15).
    - With Speak with Animals running, any of the three ravens around the camp and the yard tells you where the druids came from, where Davian hid his stone, where the stolen one went, and where that ring is.
 4. **The lane (`vineyard_ambush`).** When you step onto the lane between the vines, the rows stand up and you're surprised.
-   - Below level 6: a [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s, 6 [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s and a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) at 50 HP.
-   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill and one more needle blight join them, and the tree blight has 160 HP.
-   - Level 7: the druid, 2 vine blights, 6 needle blights, 6 twig blights and the tree blight at 102 HP.
+   - Below level 6: a [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md), 5 [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md)s, 6 [Twig Blight](https://curseofstrahd.app/wiki/bestiary/twig-blight.md)s and a [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) (115 HP at every level).
+   - Level 6: a [Druid](https://curseofstrahd.app/wiki/bestiary/druid.md) of Yester Hill and one more needle blight join them.
+   - Level 7: the druid, 2 vine blights, 6 needle blights, 6 twig blights and the tree blight.
 
    It's between Moderate and High for a level 5 party, just under Moderate at level 6, and between Low and Moderate at level 7. Twig blights are vulnerable to fire and gang up with Pack Tactics, so a fire spell into the clump thins them quickly. Vine blights grab from 10 feet and can cast Entangle. The tree blight stands up in the middle of the lane: it's Huge, the same kind of creature as Wintersplinter on the hill, with 15-foot reach and a Grasping Root (DC 17 Strength save) that pulls a hero in and holds them for its Gnash, so spread out and free whoever it grabs. If you've already burned the tree on Yester Hill, there's no ambush at all.
 
@@ -56,10 +56,10 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - **Athletics DC 13** at the well ("Climb down inside the well"; 1d6 bludgeoning if you fail): you come back up with the [Rope of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#rope-of-climbing) that was tied below the lip. Without the climb, it's a search DC 13.
    - **Search DC 13** behind the casks by the winery door: an [Eversmoking Bottle](https://curseofstrahd.app/wiki/items/magic-items.md#eversmoking-bottle).
 5. **The fermenting hall (`winery_occupation`).** Go through the tasting room. The fight starts as soon as you walk into the fermenting hall.
-   - Below level 6: 2 druids, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) at 40 HP, 3 vine blights and 4 needle blights.
-   - Level 6: 2 druids, the shambling mound at 110 HP, 3 vine, 6 needle and 4 twig blights.
-   - Level 7: 3 druids, the shambling mound at 169 HP, 4 vine, 6 needle and 5 twig blights.
-   - If the tree on the hill has burned: only three druids at 35 HP each, among heaps of dead brush.
+   - Below level 6: 2 druids, a [Shambling Mound](https://curseofstrahd.app/wiki/bestiary/shambling-mound.md) (110 HP at every level), 3 vine blights and 4 needle blights.
+   - Level 6: 2 druids, the shambling mound, 3 vine, 6 needle and 4 twig blights.
+   - Level 7: 3 druids, the shambling mound, 4 vine, 6 needle and 5 twig blights.
+   - If the tree on the hill has burned: only three druids at 44 HP each, among heaps of dead brush.
 
    It's a little over Moderate for a level 5 party and between Low and Moderate at level 6 and 7, and the druids hurt at range: green wisps out to 90 feet, plus Moonbeam and Thunderwave. Close on them and let the slow blights come to you. The shambling mound stands among the vats in the middle of the hall. It's the same creature as the Mash in the press house, so the same warnings apply (see step 7): no lightning, and keep your casters out of its reach.
 
@@ -85,7 +85,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - Below level 6: a druid overseer, one more druid, 2 vine blights and 5 needle blights at the dig, plus 2 druids and 3 vine blights among the casks in the vaults.
    - Level 6: the overseer, 2 more druids, 2 vine blights and 7 needle blights at the dig, and the same group in the vaults.
    - Level 7: the overseer, 2 more druids, 3 vine blights, 9 needle blights and 2 twig blights at the dig, and the same group in the vaults.
-   - After the tree burns: the overseer alone, at 35 HP.
+   - After the tree burns: the overseer alone, at 44 HP.
 
    The vaults' group is hidden among the casks, so you can walk through the vaults (and open the hollow cask) without a fight. The druids at the dig stand in plain view past the broken wall; when you reach the dig door, or they spot you first, the fight starts and the two druids and three vine blights rise from the casks behind you. Expect to fight on two sides: keep a hero or two facing back toward the vaults.
 
@@ -97,9 +97,9 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - "What's on Yester Hill?" (once) tells you about the effigy and the stone it needs for a heart.
 
    The fight depends on your level and on Kostin:
-   - Below level 6: Kostin, one more druid, the Mash (160 HP) and 3 vine blights.
-   - Level 6: Kostin, 3 more druids, the Mash (160 HP) and 6 vine blights.
-   - Level 7: Kostin, 5 more druids, the Mash (160 HP) and 6 vine blights.
+   - Below level 6: Kostin, one more druid, the Mash (110 HP) and 3 vine blights.
+   - Level 6: Kostin, 3 more druids, the Mash (110 HP) and 6 vine blights.
+   - Level 7: Kostin, 5 more druids, the Mash (110 HP) and 6 vine blights.
    - If Kostin left: the Mash (110 HP), 2 vine blights and 3 needle blights instead.
    - If the tree has burned: Kostin and the Mash (110 HP), or the Mash alone if he left.
 
@@ -130,7 +130,7 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
    - **The back gully**, at the west end of the hill foot. At "The mouth of a gully" you get one **Stealth DC 13** roll to find a quiet way up, or DC 16 if Kostin ran to warn them. Success means you reach the crown unseen. Failure means the hill hears you coming.
 
    On the hill's shoulder:
-   - **The wardens' camp**, west of the path, is optional. Walking in starts a fight with painted wild men ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s: 6, 7 or 8 depending on your level) and 8 needle blights, with a twig blight as well below level 7. At level 7 the men have 97 HP each and the blights 23. Elvir's message is on a cage post there (see [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md)). So is the wardens' hoard: a [Berserker Axe](https://curseofstrahd.app/wiki/items/magic-items.md#berserker-axe), 2 handaxes, rations, hide armour and 34 gp.
+   - **The wardens' camp**, west of the path, is optional. Walking in starts a fight with painted wild men ([Berserker](https://curseofstrahd.app/wiki/bestiary/berserker.md)s: 6, 7 or 8 depending on your level) and 8 needle blights, with a twig blight as well below level 7. The men have 67 HP each and the blights 16. Elvir's message is on a cage post there (see [The Son Who Didn't Fly](https://curseofstrahd.app/wiki/quests/the-son-who-didnt-fly.md)). So is the wardens' hoard: a [Berserker Axe](https://curseofstrahd.app/wiki/items/magic-items.md#berserker-axe), 2 handaxes, rations, hide armour and 34 gp.
 
    Searches and checks on the hill:
    - **Search DC 15** under the cage floor: a [Sword of Life Stealing](https://curseofstrahd.app/wiki/items/magic-items.md#sword-of-life-stealing).
@@ -147,14 +147,14 @@ The quest itself comes from [Davian Martikov](https://curseofstrahd.app/wiki/peo
     - **Religion DC 15**: the other druids lose their nerve and leave. Ruxandra stays.
     - "A raven-man died on this hill last spring." (only if Stefania told you about Elvir) and "What is that tree?" cost nothing.
 
-    A failed Intimidation or Religion roll goes straight to the fight. The effigy splits open and **Wintersplinter**, a Huge [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md), walks out of it. Who fights beside it depends on how you got here (the first match wins):
+    A failed Intimidation or Religion roll goes straight to the fight. The effigy splits open and **Wintersplinter**, a Huge [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md), walks out of it. Who fights beside it depends on how you got here (the first match wins). Ruxandra, Kostin and the other druids have 44 HP each, and a warden 67:
     - **They fled:** Wintersplinter and 6 twig blights. Below level 6 it has 135 HP; at level 6, 200 HP, with 2 vine blights and 3 needle blights; at level 7, 200 HP, with 3 vine blights and 3 needle blights.
-    - **You struck first:** a half-made Wintersplinter, Ruxandra, druids and 4 twig blights. *They* are surprised. Below level 6: Wintersplinter 180 HP, Ruxandra 45 HP and one druid; at level 6: 285 HP, Ruxandra 58 HP and 2 druids; at level 7: 285 HP, Ruxandra 55 HP, 2 druids and a warden.
-    - **Circle broken:** Wintersplinter, Ruxandra and twig blights. Below level 6: 135 HP, Ruxandra 90 HP and 4 twig blights; at level 6: 215 HP, Ruxandra 60 HP and 6 twig blights; at level 7: 250 HP, Ruxandra 55 HP, a warden (40 HP) and 4 twig blights.
-    - **Kostin warned them:** Wintersplinter, Ruxandra, Kostin and 4 twig blights. Below level 6: 120 HP, Ruxandra 90 HP, Kostin 30 HP; at level 6: 210 HP, Ruxandra 130 HP, plus 2 druids; at level 7: 220 HP, Ruxandra 60 HP, plus 2 druids.
-    - **Otherwise, level 7:** Wintersplinter (300 HP), Ruxandra (55 HP) and 4 twig blights.
-    - **Otherwise, level 6:** Wintersplinter (200 HP), Ruxandra (60 HP) and 6 twig blights.
-    - **Otherwise, below level 6:** Wintersplinter (155 HP), Ruxandra (50 HP) and 4 twig blights.
+    - **You struck first:** a half-made Wintersplinter, Ruxandra, druids and 4 twig blights. *They* are surprised. Below level 6: Wintersplinter 180 HP and one druid; at level 6: 285 HP and 2 druids; at level 7: 285 HP, 2 druids and a warden.
+    - **Circle broken:** Wintersplinter, Ruxandra and twig blights. Below level 6: 135 HP and 4 twig blights; at level 6: 215 HP and 6 twig blights; at level 7: 250 HP, a warden and 4 twig blights.
+    - **Kostin warned them:** Wintersplinter, Ruxandra, Kostin and 4 twig blights. Below level 6: 120 HP; at level 6: 210 HP, plus 2 druids; at level 7: 220 HP, plus 2 druids.
+    - **Otherwise, level 7:** Wintersplinter (300 HP), Ruxandra and 4 twig blights.
+    - **Otherwise, level 6:** Wintersplinter (200 HP), Ruxandra and 6 twig blights.
+    - **Otherwise, below level 6:** Wintersplinter (155 HP), Ruxandra and 4 twig blights.
 
     This is a Moderate fight and the hardest on the quest's main line below level 6; at level 6 and 7 the press house fight is bigger. Wintersplinter has 15-foot reach. Its Grasping Root (DC 17 Strength save) drags a hero 10 feet and holds them, and the next bite (Gnash) goes into whoever it holds. Spread out, and free grabbed friends quickly. Winning breaks the hill.
 

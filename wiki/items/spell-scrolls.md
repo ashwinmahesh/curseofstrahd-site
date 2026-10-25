@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/items/spell-scrolls.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every one of the game's 390 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 13 lie somewhere in the world. Of the rest, 260 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
+Every one of the game's 390 spells can be had on a Spell Scroll. This page lists each spell's scroll by level: whose list it's on, who sells it and for how much, and every fixed place it's found. 94 are sold by a merchant and 14 lie somewhere in the world. Of the rest, 259 come only from random finds, and 32 cantrips only with a cheat code, since nothing random holds a cantrip.
 
 ## Reading a scroll
 
@@ -35,7 +35,7 @@ The price is the guide price ([Merchants](https://curseofstrahd.app/wiki/items/m
 | [Father Donavich](https://curseofstrahd.app/wiki/items/merchants.md#father-donavich) | [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | 14 | 1, 2 | always |
 | [Father Lucian](https://curseofstrahd.app/wiki/items/merchants.md#father-lucian) | [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 43 | 1, 2, 3, 4, 5, 6, 7, 8, 9 | always |
 | [Kasha Varo](https://curseofstrahd.app/wiki/items/merchants.md#kasha-varo) | [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) | 14 | 1, 2 | always |
-| [Kasimir Velikov](https://curseofstrahd.app/wiki/items/merchants.md#kasimir-velikov) | [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 32 | cantrip, 1, 2, 3, 4, 5 | always |
+| [Kasimir Velikov](https://curseofstrahd.app/wiki/items/merchants.md#kasimir-velikov) | [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 32 | cantrip, 1, 2, 3, 4, 5 | always |
 | [Xaver](https://curseofstrahd.app/wiki/items/merchants.md#xaver) | [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md) | 33 | cantrip, 3, 4, 5, 6, 7, 8, 9 | only when index destroyed |
 | [Rictavio](https://curseofstrahd.app/wiki/items/merchants.md#rictavio) | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) | 8 | 3, 4, 5 | only when rictavio unmasked or van richten met at tower |
 | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/items/merchants.md#sir-godfrey-gwilym) | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md), [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) | 5 | 4, 5 | only when godfrey remembers |
@@ -58,6 +58,7 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 - In a chest under the straw, [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md) (The nest) (locked, DC 15): a level 1 spell
 - In Van Richten's strongbox, [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) (The lantern room): a level 1 spell
 - Given by [Victor Vallakovich](https://curseofstrahd.app/wiki/people/victor-vallakovich.md) in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) ([The Attic Circle](https://curseofstrahd.app/wiki/quests/the-attic-circle.md)): a level 1 spell
+- Given by the fallen doorway in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) or the carved lintel and the door in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): a level 1 spell
 
 ## Scrolls the story asks for
 
@@ -200,7 +201,7 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 | [Darkvision](https://curseofstrahd.app/wiki/spells/level-2-spells.md#darkvision) | Druid, Ranger, Sorcerer, Wizard | — | random finds only |
 | [Death Armor](https://curseofstrahd.app/wiki/spells/level-2-spells.md#death-armor) | Sorcerer, Wizard | — | random finds only |
 | [Disruptive Tune](https://curseofstrahd.app/wiki/spells/level-2-spells.md#disruptive-tune) | Bard, Sorcerer, Wizard | — | random finds only |
-| [Dragon's Breath](https://curseofstrahd.app/wiki/spells/level-2-spells.md#dragons-breath) | Sorcerer, Wizard | — | random finds only |
+| [Dragon's Breath](https://curseofstrahd.app/wiki/spells/level-2-spells.md#dragons-breath) | Sorcerer, Wizard | — | Hidden: a loose flagstone at the foot of the wall, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The dragon's vault) (found with Search, Perception DC 14) |
 | [Elminster’s Elusion](https://curseofstrahd.app/wiki/spells/level-2-spells.md#elminsters-elusion) | Wizard | — | random finds only |
 | [Enhance Ability](https://curseofstrahd.app/wiki/spells/level-2-spells.md#enhance-ability) | Bard, Cleric, Druid, Ranger, Sorcerer, Wizard | — | random finds only |
 | [Enlarge/Reduce](https://curseofstrahd.app/wiki/spells/level-2-spells.md#enlarge-reduce) | Bard, Druid, Sorcerer, Wizard | — | random finds only |
@@ -373,7 +374,7 @@ These scrolls say only their level. Each becomes a scroll of one spell of that l
 | [Cloudkill](https://curseofstrahd.app/wiki/spells/level-5-spells.md#cloudkill) | Sorcerer, Wizard | — | random finds only |
 | [Commune](https://curseofstrahd.app/wiki/spells/level-5-spells.md#commune) | Cleric | — | random finds only |
 | [Commune with Nature](https://curseofstrahd.app/wiki/spells/level-5-spells.md#commune-with-nature) | Druid, Ranger | — | random finds only |
-| [Cone of Cold](https://curseofstrahd.app/wiki/spells/level-5-spells.md#cone-of-cold) | Druid, Sorcerer, Wizard | [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) 640 gp (from party level 5); [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 640 gp (from party level 5) | Hidden: a page blown into the snow, [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) (The frost garden) (found with Search, Perception DC 13) |
+| [Cone of Cold](https://curseofstrahd.app/wiki/spells/level-5-spells.md#cone-of-cold) | Druid, Sorcerer, Wizard | [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) 640 gp (from party level 5); [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) 640 gp (from party level 5) | In a rack of the wardens' staves, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The arrow-slit gallery); Hidden: a page blown into the snow, [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) (The frost garden) (found with Search, Perception DC 13) |
 | [Conjure Elemental](https://curseofstrahd.app/wiki/spells/level-5-spells.md#conjure-elemental) | Druid, Wizard | — | random finds only |
 | [Contact Other Plane](https://curseofstrahd.app/wiki/spells/level-5-spells.md#contact-other-plane) | Warlock, Wizard | — | random finds only |
 | [Contagion](https://curseofstrahd.app/wiki/spells/level-5-spells.md#contagion) | Cleric, Druid | — | random finds only |

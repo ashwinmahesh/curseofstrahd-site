@@ -12,7 +12,7 @@
 
 ## Overview
 
-Three round rooms stacked inside the black tower: the archmage's old hall, now a hunter's storeroom; a workroom of notes and maps; and a lantern room at the top where Van Richten keeps what matters, behind a ward that smells of thunderstorms.
+Four round rooms stacked inside the black tower: the archmage's old hall, now a hunter's storeroom, with the clay figures that work the lift; a workroom of notes and maps; a lantern room where Van Richten keeps what matters, behind a ward that smells of thunderstorms; and above it his own room.
 
 Stone stairs wind up inside the wall. Every room is tidy in the way of a man who expects to leave in a hurry.
 
@@ -31,6 +31,8 @@ Stone stairs wind up inside the wall. Every room is tidy in the way of a man who
 - **From [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md):** Stairs down to the storeroom
 - **From [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md):** Stairs up to the lantern room
 - **From [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md):** Stairs down to the workroom
+- **From [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md):** Stairs up to Van Richten's room
+- **From [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md):** Stairs down to the lantern room
 
 ### Ways out
 
@@ -43,6 +45,9 @@ Stone stairs wind up inside the wall. Every room is tidy in the way of a man who
 | 5 | Stairs up to the lantern room | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) |  |
 | 6 | Stairs down to the workroom | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) |  |
 | 7 | Down under the hearth | [Under Van Richten's Tower](https://curseofstrahd.app/wiki/locations/under-van-richtens-tower.md) | khazan stair open |
+| 8 | Stairs up to Van Richten's room | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) |  |
+| 9 | Stairs down to the lantern room | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) |  |
+| 10 | Out through the broken window to the scaffolding | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) |  |
 
 ## Map
 
@@ -53,7 +58,7 @@ Stone stairs wind up inside the wall. Every room is tidy in the way of a man who
 ### Close up
 
 ![loc van richtens tower interior spot1](https://curseofstrahd.app/wiki/img/shots/loc-van-richtens-tower-interior-spot1.webp)
-*a crate of supplies, the hearth*
+*a crate of supplies, the hearth, a clay figure holding a chain*
 
 ![loc van richtens tower interior spot2](https://curseofstrahd.app/wiki/img/shots/loc-van-richtens-tower-interior-spot2.webp)
 *a medicine cabinet*
@@ -64,17 +69,17 @@ Stone stairs wind up inside the wall. Every room is tidy in the way of a man who
 ## People
 
 > [!note]- Who turns up at points in the story (1)
-> - **[Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md)**, The workroom (#8): when rictavio gone and not rictavio with the party and not van richten reunited
+> - **[Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md)**, The workroom (#11): when rictavio gone and not rictavio with the party and not van richten reunited
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 9 | a crate of supplies | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) ×3, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4 | open it |
-| 10 | a medicine cabinet | [Healer's Kit](https://curseofstrahd.app/wiki/items/equipment.md#healers-kit), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) | open it |
-| 11 | Van Richten's strongbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2, [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Arrow of Undead Slaying](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-of-slaying-undead) ×2, 120 gp | open it |
-| 14 | a clip behind one of the trophies (hidden) | [Wand of Binding](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-binding) | Search: Investigation DC 16 |
-| 15 | a flask among the jars that isn't labelled (hidden) | [Oil of Etherealness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-etherealness) | Search: Investigation DC 15 |
+| 12 | a crate of supplies | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×2, [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) ×3, [Oil](https://curseofstrahd.app/wiki/items/equipment.md#oil) ×2, [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) ×4 | open it |
+| 13 | a medicine cabinet | [Healer's Kit](https://curseofstrahd.app/wiki/items/equipment.md#healers-kit), [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) ×2, [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) | open it |
+| 14 | Van Richten's strongbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Potion of Healing (Greater)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-greater) ×2, [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1), [Arrow of Undead Slaying](https://curseofstrahd.app/wiki/items/magic-items.md#ammunition-of-slaying-undead) ×2, 120 gp | open it |
+| 17 | a clip behind one of the trophies (hidden) | [Wand of Binding](https://curseofstrahd.app/wiki/items/magic-items.md#wand-of-binding) | Search: Investigation DC 16 |
+| 18 | a flask among the jars that isn't labelled (hidden) | [Oil of Etherealness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-etherealness) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Van Richtens Tower (van_richten_strongbox)
 
@@ -84,14 +89,15 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 12 | a wall of trophies | Survival 15 | Read the trophies | finds Wand of Binding; lore: The hunter's trophies |
-| 13 | Jars and bottles | Medicine 15 | Sort the hunter's remedies | finds Oil of Etherealness |
+| 15 | a wall of trophies | Survival 15 | Read the trophies | finds Wand of Binding; lore: The hunter's trophies |
+| 16 | Jars and bottles | Medicine 15 | Sort the hunter's remedies | finds Oil of Etherealness |
+| 16 | Jars and bottles | Arcana 13 | Look at the jar marked DO NOT | lore: The jar marked DO NOT; eggs jar seen |
 
 ### Traps
 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
-| 16 | The lightning ward on the floor nails | 15 | 16 | DEX 15 | 4d10 lightning |
+| 19 | The lightning ward on the floor nails | 15 | 16 | DEX 15 | 4d10 lightning |
 
 ## Quests and lore
 

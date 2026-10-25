@@ -6,7 +6,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Godrick Pendlebrook
 
-**Approves** (257):
+**Approves** (258):
 - +10: You asked me to tell you when we're wrong
 - +8: You stood with me while I was knighted, and I named you my fellowship
 - +8: You stood with me while I was knighted
@@ -22,9 +22,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You sent the dragon's last tithe down to the valley
 - +3: You stood by Cosmin and cleared Ioan's name
 - +3: You told the Order what their dragon really asked of them
-- …and 232 more
+- …and 233 more
 
-**Disapproves** (107):
+**Disapproves** (110):
 - -10: You gave the house one of your own
 - -10: You offered Ireena to Strahd to buy your own way out
 - -6: You left two children in the hags' cage
@@ -44,7 +44,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Kip Smudgewick
 
-**Approves** (152):
+**Approves** (153):
 - +10: You asked me to hold you to account
 - +8: You stood by me while I settled up with Mister Quillon
 - +6: You said we'd be more careful
@@ -60,9 +60,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You asked me about Pip
 - +3: You told me I'm the honest one
 - +3: You told me I decide who I am, not the horns
-- …and 130 more
+- …and 131 more
 
-**Disapproves** (89):
+**Disapproves** (92):
 - -8: You gave the house one of your own
 - -6: You told me nobody asked me
 - -6: You let me sell my contract to Strahd
@@ -82,7 +82,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Liriel Dawnsong
 
-**Approves** (241):
+**Approves** (242):
 - +10: You asked me to show you the way back
 - +8: You let me sing the dawn into his chapel
 - +6: You told me you'd mend it
@@ -98,9 +98,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You lit Argynvost's beacon and let the Order go home
 - +3: You told me I didn't choose to kneel to Strahd
 - +3: You saw through my devotional light, and sat with me anyway
-- …and 219 more
+- …and 220 more
 
-**Disapproves** (98):
+**Disapproves** (101):
 - -10: You gave the house one of your own
 - -8: You offered Ireena to Strahd to buy your own way out
 - -6: You stood back and let the Abbot give Vasilka to the devil
@@ -120,7 +120,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Ratatouille
 
-**Approves** (97):
+**Approves** (99):
 - +10: You asked me to help set it right
 - +8: You sat at my table
 - +6: You asked me to tell you when we're wrong
@@ -136,9 +136,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You told me the kitchen isn't small
 - +3: You told me I can go home a wizard and a cook
 - +3: You promised nothing's going to happen to me
-- …and 80 more
+- …and 82 more
 
-**Disapproves** (46):
+**Disapproves** (49):
 - -6: You told me to suit myself
 - -6: You gave the house one of your own
 - -6: You offered Ireena to Strahd to buy your own way out
@@ -158,7 +158,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Thistle
 
-**Approves** (191):
+**Approves** (195):
 - +10: You asked me to show you what a pack does
 - +10: You lifted the wolf out of Grandda
 - +6: You said we'd fix it
@@ -174,9 +174,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You told me to come and find you, after
 - +3: You told me you'll miss me too
 - +3: You let me name a star for us
-- …and 168 more
+- …and 172 more
 
-**Disapproves** (60):
+**Disapproves** (63):
 - -8: You gave the house one of your own
 - -8: You offered Ireena to Strahd to buy your own way out
 - -6: You told me to go
@@ -196,7 +196,7 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 
 ## Wren Featherfoot
 
-**Approves** (189):
+**Approves** (192):
 - +10: You asked how to earn my trust back
 - +8: You let me feel sorry for Rahadin, and walk away
 - +6: You said we'd watch our hands
@@ -212,9 +212,9 @@ What each companion likes and dislikes, from every reaction in the story. Big sw
 - +3: You told me the jokes are part of me
 - +3: You told me I don't have to be funny with you
 - +3: You told me we'd do the same for you
-- …and 170 more
+- …and 173 more
 
-**Disapproves** (68):
+**Disapproves** (71):
 - -8: You gave the house one of your own
 - -8: You offered Ireena to Strahd to buy your own way out
 - -6: You told me it's my loss

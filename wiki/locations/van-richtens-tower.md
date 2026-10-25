@@ -82,6 +82,9 @@ The containers here also get random magic items and potions, rolled for a party 
 | # | Trap | Find DC | Disarm DC | Save | Damage |
 |---|---|---|---|---|---|
 | 13 | A tripwire at the wagon step | 14 | 14 | DEX 14 | 3d10 fire |
+| 14 | The lightning ward on the door | 15 | 17 | DEX 15 | 4d10 lightning |
+| 14 | The lightning ward on the door | 15 | 17 | DEX 15 | 4d10 lightning |
+| 14 | The lightning ward on the door | 15 | 17 | DEX 15 | 4d10 lightning |
 
 ## Fights
 
@@ -90,6 +93,12 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 8: 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), The castle's huntsman ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (6250 XP; waiting; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten and level ≥ 7: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 4 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7400 XP; waiting; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
 > - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when night and van richten notes read and not tower visitors beaten: 4 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 6 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (7500 XP; waiting; loot: 25 gp, [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing))
+
+- *Gaunt shapes come loping down the ridge and out across the narrow causeway, half man and half wolf. Already…*, in [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md). Scales with your level. Starts when the story sets it off.
+> [!example]- Every version (the first whose condition holds is the fight you get)
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when not tower wolves beaten and level ≥ 8: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (3500 XP)
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when not tower wolves beaten and level ≥ 7: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (3500 XP)
+> - **[Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md)**, when not tower wolves beaten: 5 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (3500 XP)
 
 ### At camp here
 

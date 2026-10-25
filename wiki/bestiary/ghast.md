@@ -42,6 +42,7 @@ Wades into melee so its stench sickens foes, paralyzing one with claws then biti
 ## Where you meet it
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*
+- [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md): *In the dark beyond the pit, pale shapes stop gnawing on what the last guest left them and turn their wet…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
 - [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *The door has teeth.*

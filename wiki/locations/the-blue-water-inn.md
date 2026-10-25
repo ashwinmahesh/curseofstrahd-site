@@ -59,7 +59,7 @@ A taproom with a long bar and a fire that is actually lit. Through the kitchen, 
 - **[Oana](https://curseofstrahd.app/wiki/people/oana.md)**, A drinker at the Blue Water Inn: Taproom, 11:00–22:00 (#11)
 - **[Yevgeni](https://curseofstrahd.app/wiki/people/yevgeni.md)**, Szoldar's Son: Taproom (#13)
 
-> [!note]- Who turns up at points in the story (7)
+> [!note]- Who turns up at points in the story (8)
 > - **[Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md)**, Taproom (#2): when not (festival begun and not festival over)
 > - **[Rictavio](https://curseofstrahd.app/wiki/people/rictavio.md)**, Taproom, Rictavio's room (#4, #5): when day and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio); or when not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)
 > - **[Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md)**, Guest rooms (#6): when ireena sanctuary is “inn” and not ireena with the party and not (izek holds ireena and not izek dead and not izek told truth)
@@ -67,14 +67,15 @@ A taproom with a long bar and a fire that is actually lit. Through the kitchen, 
 > - **[Szoldar](https://curseofstrahd.app/wiki/people/szoldar.md)**, Taproom (#12): when not greytooth beaten or szoldar turned or szoldar stays
 > - **[Bray](https://curseofstrahd.app/wiki/people/bray.md)**, Kitchen (#14): when quest the ravens ransom at home or quest the ravens ransom at done
 > - **[Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/people/ezmerelda-davenir.md)**, Stable yard (#15): when ezmerelda left tower and not ezmerelda with the party and ((not van richten reunited and not ezmerelda back at camp and not rictavio gone and not rictavio with the party and (vallaki backed isn't “wachter” or tarokka.ally.npc is rictavio)) or (ezmerelda reunited in vallaki and not rictavio gone))
+> - **[Izek Strazni](https://curseofstrahd.app/wiki/people/izek-strazni.md)**, Guest rooms (#16): when not izek dead and izek told truth and not izek with the party and izek guards ireena and not ireena with the party and not ireena held by strahd and ireena sanctuary is “inn”
 
 ## What to find
 
 | # | Where | What | How |
 |---|---|---|---|
-| 16 | Iron-bound lockbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) ×2, 25 gp | lock DC 18; Rictavio's, so taking is theft |
-| 19 | a loose board under a guest bed (hidden) | [Gloves of Thievery](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-thievery) | Search: Perception DC 15 |
-| 20 | a loose brick by the hearth (hidden) | [Bead of Force](https://curseofstrahd.app/wiki/items/magic-items.md#bead-of-force) | Search: Investigation DC 15 |
+| 17 | Iron-bound lockbox | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) ×3, [Dagger](https://curseofstrahd.app/wiki/items/equipment.md#dagger) ×2, 25 gp | lock DC 18; Rictavio's, so taking is theft |
+| 21 | a loose board under a guest bed (hidden) | [Gloves of Thievery](https://curseofstrahd.app/wiki/items/magic-items.md#gloves-of-thievery) | Search: Perception DC 15 |
+| 22 | a loose brick by the hearth (hidden) | [Bead of Force](https://curseofstrahd.app/wiki/items/magic-items.md#bead-of-force) | Search: Investigation DC 15 |
 
 **Tarokka treasure spots.** If the reading hid one of the treasures here, it's in: Vallaki Blue Water Inn:rictavio Wagon (wagon_lockbox)
 
@@ -84,8 +85,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 | # | Where | Check | Try | What it does |
 |---|---|---|---|---|
-| 17 | Carving over the door | History 13 | Read the raven over the door | lore: The raven over the door |
-| 18 | a covered cage | Animal Handling 15 | Calm the great cat in the cage | Heroic Inspiration; on a failure: 1d6 slashing damage |
+| 18 | Carving over the door | History 13 | Read the raven over the door | lore: The raven over the door |
+| 19 | Rictavio's sea chest | Investigation 14 | Look at the papers under the straps | lore: A letter under the straps |
+| 20 | a covered cage | Animal Handling 15 | Calm the great cat in the cage | Heroic Inspiration; on a failure: 1d6 slashing damage |
 
 ### Locked and secret doors
 

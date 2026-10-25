@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/world/skill-checks.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 Skill checks you can try out in the world, by place. Walk up to the thing and pick the check from its menu; the hero you have selected rolls. Most can be tried once: a failed check is final. A check that finds a hiding place shows where it is, and the spot glows until you use it: what's hidden there comes out when you do.
-149 checks in all.
+156 checks in all.
 
 ## Into the Mists
 
@@ -49,6 +49,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | A rain barrel | Survival 12 | Read the tracks by the barrel | finds Oil of Slipperiness |
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | A roadside shrine | Religion 12 | Pray to the Morninglord | Heroic Inspiration |
 | [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | A raven on the lych-gate | Animal Handling 13 | Coax the raven down | finds Holy Water |
+| [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md) | Earth stamped flat by the old mound | Athletics 8 | Dig here | 15 gp; lore: A pedlar's note, buried; eggs spade first |
 | [The Charcoal-Burners' Hollow](https://curseofstrahd.app/wiki/locations/the-charcoal-burners-hollow.md) | Herbs drying | Nature 12 | Name the drying herbs | heals 1d6 |
 
 ## The Old Svalich Road
@@ -81,7 +82,9 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | The Lake Gate | History 12 | Read the Lake Gate's carvings | lore: The founding of Vallaki |
 | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | Churchyard graves | Religion 13 | Read the epitaphs | lore: Saint Andral |
 | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | Old Smaranda's herb stall | Nature 15 | Pick the real herbs from the dross | Keoghtom's Ointment |
+| [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md) | Shelves of toys | Perception 12 | Look along the top shelf | eggs puppet seen |
 | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) | Carving over the door | History 13 | Read the raven over the door | lore: The raven over the door |
+| [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) | Rictavio's sea chest | Investigation 14 | Look at the papers under the straps | lore: A letter under the straps |
 | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md) | A covered cage | Animal Handling 15 | Calm the great cat in the cage | Heroic Inspiration; on a failure: 1d6 slashing damage |
 | [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md) | A circle chalked on the floor | Arcana 14 | Read the chalk circle | reveals victor_circle_trap; lore: Victor's circle |
 | [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md) | The altar | Religion 13 | Pray at the saint's altar | 1d8 temporary HP |
@@ -161,6 +164,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) | A lookout rock | Perception 14 | Watch the lake from the lookout rock | finds Eyes of the Eagle |
 | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) | A wall of trophies | Survival 15 | Read the trophies | finds Wand of Binding; lore: The hunter's trophies |
 | [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) | Jars and bottles | Medicine 15 | Sort the hunter's remedies | finds Oil of Etherealness |
+| [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md) | Jars and bottles | Arcana 13 | Look at the jar marked DO NOT | lore: The jar marked DO NOT; eggs jar seen |
 
 ## The Werewolf Den
 
@@ -175,6 +179,7 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
+| [A Reedy Inlet](https://curseofstrahd.app/wiki/locations/a-reedy-inlet.md) | A hummock ringed with half-sunk stones | Athletics 10 | Dig here | 40 gp; Potion of Healing (Greater); lore: A pedlar's second note; eggs spade second |
 | [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | Bluto's rowboat | Acrobatics 13 | Swing under the jetty from the boat | finds +1 Breastplate; on a failure: 1d4 cold damage |
 | [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | A fishers' shrine | Religion 13 | Pray at the fishers' shrine | finds +2 Trident |
 | [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md) | A flat rock above the water | Athletics 13 | Dive from the flat rock | 25 gp; on a failure: 1d4 cold damage |
@@ -189,12 +194,14 @@ Skill checks you can try out in the world, by place. Walk up to the thing and pi
 | [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md) | A roofless house | Athletics 15 | Lift the fallen beam | finds Dwarven Thrower (Warhammer) |
 | [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) | Drawings of a boy | Insight 13 | Look closely at the drawings | lore: The boy in the drawings |
 | [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md) | Bundles hanging from the beams | Arcana 16 | Study the hag's charms | finds Potion of Speed |
+| [The Marsh Track](https://curseofstrahd.app/wiki/locations/the-marsh-track.md) | A slab of old road-stone, scratched with a spade | Athletics 12 | Dig here | 60 gp; A Pedlar's Spade-Head; lore: A pedlar's last note; eggs spade third |
 
 ## Mount Baratok
 
 | Place | Thing | Check | Try | What it does |
 |---|---|---|---|---|
 | [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) | A cairn on the summit | Arcana 16 | Unpick the ward round the cairn | disarms baratok ward; on a failure: 2d8 lightning damage |
+| [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) | A bed of furs | Investigation 15 | Lift the furs | lore: Chalk on a rag; eggs orb found |
 
 ## The Tsolenka Pass
 

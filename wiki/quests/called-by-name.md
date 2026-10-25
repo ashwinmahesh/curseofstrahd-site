@@ -24,8 +24,8 @@ Then find [Big Tobar](https://curseofstrahd.app/wiki/people/big-tobar.md), the h
 
 ### Step by step
 
-1. **Hear Tobar out.** He tells you about Nelu calling "Da, come down" out of the gorge. You can try **Insight DC 12** to read whether he thinks the boy is alive (he doesn't, really); pass or fail, the conversation carries on the same way and he asks you to go to the falls after dark.
-2. **Go to [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md) at night.** In this game night runs from 7 in the evening to 6 in the morning. Take the path north from the road and head for the cairn glade on the west side, where a new spot appears: "The edge of the gorge". By day it is just a gorge and nothing happens, so wait for dark if you arrive early.
+1. **Hear Tobar out.** He tells you about Nelu calling "Da, come down" out of the gorge. You can try **Insight DC 12** to read whether he thinks the boy is alive (he doesn't, really); pass or fail, the conversation carries on the same way and he asks you to go to the falls after dark. When you agree, he adds that Nelu has been down there three days without bread and won't last three more. **The clock starts as soon as he asks,** whatever you answer: get Nelu off his ledge within three days, or the quest fails (see "Choices and endings"). The journal warns you while the time runs.
+2. **Go to [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md).** Take the path north from the road and head for the cairn glade on the west side, where a new spot appears: "The edge of the gorge". At night (7 in the evening to 6 in the morning) the voices and the fight wait there (steps 3 and 4). By day there are no lights: Nelu is curled on his ledge twenty feet down, and you can bring him up at once and skip the fight (you still get its XP). Use **Athletics DC 13** (rope off a pine), **Survival DC 12** (an old goat path down the rock), or [Misty Step](https://curseofstrahd.app/wiki/spells/level-2-spells.md#misty-step) or [Spider Climb](https://curseofstrahd.app/wiki/spells/level-2-spells.md#spider-climb) if someone knows the spell. A failed roll costs half an hour, and you can try again. Then skip to step 6.
    ![loc tser falls 1](https://curseofstrahd.app/wiki/img/shots/loc-tser-falls-1.webp)
 3. **Face the voices.** At the edge, the lights in the gorge call each of you by name in the voice of someone you've lost (your companions each hear their own), and under it all a boy's voice. The party's best makes a **Wisdom DC 14** check. Pass and you hold your ground; fail and someone walks toward the edge, and the fight starts with your party surprised.
 4. **Fight the wisps.** It's [Will-o'-Wisps](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) and what follows them. If your lowest party member is below level 4: one wisp and two [Bats](https://curseofstrahd.app/wiki/bestiary/bat.md). At level 4: two wisps and a [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), or one wisp, a Shadow and two Bats if someone walked toward the edge. At level 5 or higher: five wisps and a Shadow, or two Shadows if someone walked. The wisps have AC 19, resist slashing, piercing and bludgeoning (and acid, cold, fire and necrotic), are immune to lightning and poison, and can turn invisible. Each hit is 2d8+2 lightning, and one can finish off a party member at 0 hit points with Consume Life, so pick up anyone who drops at once. Force, radiant, psychic and thunder damage hit them at full strength.
@@ -36,14 +36,19 @@ While you're at the falls, it's worth searching around: an **Arcana DC 13** chec
 
 ### Choices and endings
 
-There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** and an [Efficient Quiver](https://curseofstrahd.app/wiki/items/magic-items.md#efficient-quiver), and Thistle (+2), Godrick (+2), Kip (+1) and Wren (+1) approve. From then on [Nelu](https://curseofstrahd.app/wiki/people/nelu.md) sits by the fire at the camp, and Zora's news changes to say the numbers match again.
+There are three endings:
+
+- **Home** (success): when you bring Nelu back, Big Tobar gives you **100 gp** and an [Efficient Quiver](https://curseofstrahd.app/wiki/items/magic-items.md#efficient-quiver), and Thistle (+2), Godrick (+2), Kip (+1) and Wren (+1) approve. From then on [Nelu](https://curseofstrahd.app/wiki/people/nelu.md) sits by the fire at the camp, and Zora's news changes to say the numbers match again.
+- **Answered** (failure): three days pass after Tobar asks you, and Nelu is still on the ledge. After that there's no fight at the falls: at night a new light hangs lowest in the gorge, calling for its Da in a boy's voice, and by day the ledge is empty. Tobar grieves at his wheels.
+- **No Fire** (failure): the camp has turned on you (see below), so Tobar is gone. A Nelu you've brought up waits at [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) by the lake outside Vallaki's west gate, and talking to him there ends the quest, with no money and no quiver.
 
 ### If you're stuck
 
 - **No option with Tobar?** You need Zora's rumour first ("Heard anything interesting?").
-- **Nothing at the edge of the gorge?** It only appears after Tobar has asked you, and only does anything at night.
+- **Nothing at the edge of the gorge?** It only appears after Tobar has asked you. The lights and the fight only come at night; by day you can climb down to Nelu instead.
+- **Don't leave it too long.** Nelu lasts three days from Tobar's ask. Once he's off the ledge, the clock stops, and Tobar will wait for you.
 - **Stay off the lip of the falls at night** unless you want a fight: stepping onto it after dark springs a [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), four [Wolves](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) on you, with your party surprised. The gorge edge you want is in the cairn glade to the south-west, off the lip.
-- **Don't fall out with the camp.** If you fight [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)'s people or threaten [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md) into turning them hostile, Big Tobar and everyone else at the fire is gone for good, and the quest can't be handed in.
+- **Don't fall out with the camp.** If you fight [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)'s people or threaten [Madam Eva](https://curseofstrahd.app/wiki/people/madam-eva.md) into turning them hostile, Big Tobar and everyone else at the fire is gone for good, and the quest can't end at *Home*.
 
 ## Rewards
 
@@ -82,6 +87,8 @@ There is one ending. When you bring Nelu back, Big Tobar gives you **100 gp** an
 >
 > **Nelu Found**: Nelu is alive, on a shelf of wet rock in the gorge, three days hungry. The lights had been calling his father in his voice.
 > *Hint:* Take Nelu back to Big Tobar at the Tser Pool camp. If the camp has turned on you, take him to the Vistani camp by the lake outside Vallaki's west gate.
+>
+> **Answered** (the end: failure): We left Tser Falls to the dark too long. By the time we came, Nelu had answered the voices below.
 >
 > **Home** (the end: success): Nelu is home. Big Tobar dropped a wheel on his own foot and didn't notice. Nelu sits with his back to the falls now, and sings over anything that calls.
 >

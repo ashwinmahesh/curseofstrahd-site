@@ -43,12 +43,13 @@ If day breaks before you get back to him after the fight, Escher returns to his 
 
 - **Done (success).** Escher burns in the sunrise and doesn't step back. In the pocket of his coat you find a [Helm of Brilliance](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-brilliance) and 250 gp. Liriel +3, Thistle +3, Wren +2, Godrick +1. His suite is empty from then on, so ask him anything you still want (about the Heart of Sorrow, the back stair to the ravens' roost or the clockwork jester) before the dawn.
 - **Waited (success).** The Persuasion works: he laughs, backs into the shadow of the stair, and gives you the same Helm of Brilliance and 250 gp, to wear at the count's funeral. Wren +2, Godrick +1, Liriel +1, Ratatouille +1. He goes back to his suite and still talks to you there.
+- **Refused (failure).** Once you've agreed, turning on him in his suite ends the petition, before or after the fight on the roof. **You're one of his. This ends now.** starts a fight with Escher, six more [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and seven [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (12,950 XP). **Intimidation DC 14: Tell us, or we open your curtains at dawn.** (offered while he hasn't yet told you about the heart) ends it too: a success gets you the heart's secret, but he won't wait for the light with people who hold it over his head; a failure is the same fight. Nobody waits at the parapet, and there's no helm.
 
-You get one helm and 250 gp either way, not both.
+Either success gives you one helm and 250 gp, never two.
 
 ### If you're stuck
 
-- **The paper option isn't there.** The lowest-level hero must be level 10, and the quest must not have started yet. If you threatened Escher into talking about the heart (Intimidation), he turns cold and only tells you to get out, so you can't ask about the paper. If you fought him, he is gone and so is this quest.
+- **The paper option isn't there.** The lowest-level hero must be level 10, and the quest must not have started yet. If you threatened Escher into talking about the heart (Intimidation), he turns cold and only tells you to get out, so you can't ask about the paper. If you fought him, he is gone and so is this quest. Fighting or threatening him after you agreed fails it (Refused).
 - **Escher isn't on the roof.** He is only there at night. By day he is back in his suite.
 - **Getting surprised by Querreth.** Only the Insight check in step 1 prevents it, and you only get one try at that.
 
