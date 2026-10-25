@@ -36,4 +36,3 @@ Clanks straight at the nearest intruder and hammers it with two slams a turn; ne
 
 - [The Undercroft](https://curseofstrahd.app/wiki/locations/the-undercroft.md): [The Silver Hoard](https://curseofstrahd.app/wiki/quests/the-silver-hoard.md) · *The silver on the tithe-keeper's armour rises like hackles, and round the walls the escort's empty harness…*
 - [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *The armor on the landing steps down off its stand.*
-- [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): *The broom against the wall has opinions about visitors.*

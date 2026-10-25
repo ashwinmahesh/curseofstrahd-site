@@ -89,7 +89,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *A shadow the size of a barn roof slides across the bridge. Then the wind comes, and the scream, and the…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [Roc](https://curseofstrahd.app/wiki/bestiary/roc.md). Scales with your level. Starts when you reach the bridge.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off and level ≥ 9: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 285 HP), The Roc's Mate ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md)) (14400 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off and level ≥ 9: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 285 HP) (7200 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off and level ≥ 8: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 160 HP) (7200 XP)
 > - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when day and not roc driven off: The Roc of Mount Ghakis ([Roc](https://curseofstrahd.app/wiki/bestiary/roc.md), 130 HP) (7200 XP)
 

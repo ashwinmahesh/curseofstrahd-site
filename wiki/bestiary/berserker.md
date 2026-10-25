@@ -36,9 +36,7 @@ A hunter or deserter gone wild: wades in with a greataxe and fights harder the m
 ## Where you meet it
 
 - [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): *Vasilka comes down off the bier like a dancer finishing a bow, and the Belviews come after her with cleavers…*
-- [The Church of St. Markovia](https://curseofstrahd.app/wiki/locations/the-church-of-st-markovia.md): *The candles go white. He doesn't draw a weapon. He opens his hands, and there is suddenly a mace of light in…*
 - [The Wards of St. Markovia](https://curseofstrahd.app/wiki/locations/the-wards-of-st-markovia.md): *The bars bang open all down the row. They come out low and fast, in every shape the Abbot ever tried, and…*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus snatches up a cleaver in one hand and a ladle in the other, weeping, and the Belview cooks come out of…*
 - [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md): [Lighter Than It Should Be](https://curseofstrahd.app/wiki/quests/lighter-than-it-should-be.md) · *They come over the north wall in a bunch, lanterns swinging: the Abbot's Brutes, hairy and patched, and…*
 - [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): *The men round the fire are big, bearded and painted green to the eyebrows. They see you, grin, and reach for…*
 - [The Crown of Yester Hill](https://curseofstrahd.app/wiki/locations/the-crown-of-yester-hill.md): *You are among them before the chant can end. The effigy cracks too soon, and what drags itself out of its…*

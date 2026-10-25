@@ -76,12 +76,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they still…*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts when you open a chained case.
+- *Skulls rise from the top shelves, each wearing a crown of green fire. They were wardens once, and they still…*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md). Scales with your level. Starts when you open a chained case.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared and level ≥ 10: 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 6 × Warden's skull ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (13000 XP)
+> - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared and level ≥ 10: 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 2 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (4400 XP)
 > - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared: 3 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (3300 XP)
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 6 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 8 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Starts from a conversation.
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)). Starts from a conversation.
 
 ### At camp here
 

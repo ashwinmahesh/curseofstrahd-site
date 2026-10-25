@@ -24,11 +24,11 @@ A young man in rags and beautiful boots sits at the edge of the mists on the Old
 
 1. **Hear him out.** "What's your name?" gets his story: Ilarion, from the house with the blue door by the well in the village under the castle, his wife Aurica, and two little ones, Petra, who is six and carries the water already, and Mihail. **Insight DC 11** (one try) lets you see the rags are many years old, with moss in the seams, while the man in them is young. It's only for your own understanding; the quest goes the same way either way.
 2. **Walk him down.** Choose "We'll walk you down to the village." The journal moves to Walking, and a dozen steps later the count's wolves come out of the fog for him. The fight depends on your lowest character's level:
-   - Level 1: five [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP, between Low and Moderate for a party of four, and a real threat at level 1).
-   - Level 2: six wolves (300 XP, under Low at that level).
+   - Level 1: three [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) and a [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (160 XP, under Low for a party of four).
+   - Level 2: four wolves (200 XP, under Low at that level).
    - Level 3 or higher: the Grey Leader, a [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), with seven wolves (550 XP, also under Low).
 
-   Wolves gang up: each has Advantage on you while a packmate is beside you, and a bite knocks you prone. Fight shoulder to shoulder so each wolf can reach as few of you as possible. The fight gets relatively easier the later you take it, so if you want to come back after [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), just say "Goodbye" instead. He keeps waiting on his stone.
+   Wolves gang up: each has Advantage on you while a packmate is beside you, and a bite knocks you prone. Fight shoulder to shoulder so each wolf can reach as few of you as possible. The pack is smallest at level 1 and stops growing at level 3, so past that the fight gets easier the later you take it. If you want to come back after [Death House](https://curseofstrahd.app/wiki/quests/death-house.md), just say "Goodbye" instead. He keeps waiting on his stone.
 3. **Talk to him again.** After the fight, speak to Ilarion once more. The journal moves to Home and you walk him down the road, while he talks about Aurica's fever and the price of a cart and keeps stopping to stare at houses that are all wrong. He leaves the road and goes on ahead.
 4. **The well.** In the [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md), find him by the well in the village square and talk to him. An old woman crossing the square with two buckets drops them both: [Goodwife Petra](https://curseofstrahd.app/wiki/people/goodwife-petra.md), his daughter. His night in the mist was fifty years. His wife waited at the door until she died, and his son Mihail, now [Old Mihail](https://curseofstrahd.app/wiki/people/old-mihail.md) the gravedigger, dug him a grave that has stood empty all this time. Ilarion pulls off his boots and gives them to you: Aurica's grandmother's, which "walk on air, a little". The journal ends at Done.
 
@@ -45,7 +45,7 @@ There is one ending. You get [Boots of Striding and Springing](https://curseofst
 ### If you're stuck
 
 - **He's not at the well.** He only sets off for the village after you've beaten the wolves and talked to him again on the road.
-- **Too many wolves.** Say goodbye and come back at a higher level; the pack grows, but more slowly than you do.
+- **Too many wolves.** Say goodbye and come back at a higher level. From level 3 the pack is a dire wolf and seven wolves, and it grows no further.
 - **These aren't the wolves in the narrows.** The pack blocking the road farther west is part of [Into the Mists](https://curseofstrahd.app/wiki/quests/into-the-mists.md) and is a separate encounter.
 
 ## Rewards
@@ -65,8 +65,8 @@ There is one ending. You get [Boots of Striding and Springing](https://curseofst
 - *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (200 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (160 XP)
 
 ## Journal
 

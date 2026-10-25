@@ -89,11 +89,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level. Starts when you reach the courtyard.
+- *Grey light pours through the broken gate: men-at-arms, translucent, shields up, charging a line that broke…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Starts when you reach the courtyard.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 8: 12 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), 2 × [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md) (12000 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 7: 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (9800 XP)
-> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate: 14 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (9800 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 8: 4 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2800 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate and level ≥ 7: 3 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (2100 XP)
+> - **[Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md)**, when night and godfrey met and not courtyard phantoms defeated and not order fate: 2 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (1400 XP)
 
 - *The men-at-arms come out of the courtyard in their grey ranks, still fighting the last battle, and turn…*, in [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md): [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)

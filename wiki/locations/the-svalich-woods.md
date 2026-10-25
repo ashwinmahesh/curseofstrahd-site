@@ -56,7 +56,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Grigor spits, nocks, and shouts a name. Arrows answer from three sides.*, in [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md): Grigor, hunt leader ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 3 × Barovian hunter ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Starts from a conversation.
+- *Grigor spits, nocks, and shouts a name. Arrows answer from three sides.*, in [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md): Grigor, hunt leader ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 3 × Barovian hunter ([Scout](https://curseofstrahd.app/wiki/bestiary/scout.md)). Starts from a conversation.
 
 ### At camp here
 

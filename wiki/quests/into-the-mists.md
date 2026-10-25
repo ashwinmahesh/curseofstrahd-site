@@ -26,7 +26,7 @@ The game opens here. Your party stands at the east end of [The Old Svalich Road]
 1. **Try the mist.** After everyone has said why they came, you can walk back into the fog to see what happens: it holds you a moment and hands you back to the road, facing west. (If the arrival plays at the wolves instead, that offer is skipped, but you can still come back and examine the fog any time.) There is no way out to the east. The road runs west through the woods, past the Gates of Barovia, to the edge of the village.
    ![mists arrival](https://curseofstrahd.app/wiki/img/cutscenes/mists-arrival.webp)
 2. **Look around the woods (optional).** Everything here is before the wolves:
-   - [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) sits on a stone right by the fog, asking what day it is. He starts [The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md). Agreeing to walk him home brings five wolves and a rat down on you at level 1, so you may prefer to come back for him later; he waits.
+   - [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) sits on a stone right by the fog, asking what day it is. He starts [The Last Traveller](https://curseofstrahd.app/wiki/quests/the-last-traveller.md). Agreeing to walk him home brings three wolves and a rat down on you at level 1, so you may prefer to come back for him later; he waits.
    - An abandoned cart in the clearing south of the road: [Rope](https://curseofstrahd.app/wiki/items/equipment.md#rope), [Torch](https://curseofstrahd.app/wiki/items/equipment.md#torch) (3), [Ration](https://curseofstrahd.app/wiki/items/equipment.md#ration) (2) and 2 gp.
    - A hunter's wolf trap hidden in the road itself, a few steps west of where you start. You spot it at DC 11 and can disarm it at DC 11; walk into it and it's a Dexterity save (DC 11) or 1d6 piercing.
    - A torn deer carcass in the clearing north of the road. Examine it and you're offered **Survival DC 12** to read the tracks. On a success you see the wolves moving in a line like a picket, which opens an easy way past them in step 3. This is one try for the whole party. Separately, the carcass's right-click check "Read the wolf sign by the carcass" (also **Survival DC 12**) shows you the trap and a traveller's pack trampled under the carcass. The pack is a hidden find (Search, DC 12) holding [Boots of the Winterlands](https://curseofstrahd.app/wiki/items/magic-items.md#boots-of-the-winterlands).
@@ -38,7 +38,7 @@ The game opens here. Your party stands at the east end of [The Old Svalich Road]
    - [Speak with Animals](https://curseofstrahd.app/wiki/spells/level-1-spells.md#speak-with-animals) (already running, or cast on the spot by someone who knows it): the lead wolf tells you its master wants to look at you, mentions an "old one in the white" if you haven't met Ilarion yet, and steps aside. No roll, and Thistle approves (+2).
    - Draw steel, or wait (which only shows you they aren't leaving).
 
-   Any failed roll means a fight. The fight is seven [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (350 XP, Moderate for a level 1 party of four): six on the far side of the gap and one coming out of the trees behind you. Wolves get Advantage when a packmate is next to you, and a bite knocks you prone, so turn someone round to deal with the one behind and hold the gap so the other six can only come through one at a time. Talked past or fought, the journal moves to The Pack.
+   Any failed roll means a fight. The fight is three [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (150 XP, below Low for a level 1 party of four): two on the far side of the gap and one coming out of the trees behind you. Wolves get Advantage when a packmate is next to you, and a bite knocks you prone, so turn someone round to deal with the one behind and hold the gap so the other two can only come through one at a time. Talked past or fought, the journal moves to The Pack.
 4. **The Gates of Barovia.** Past the narrows two headless stone knights keep a pair of iron gates that swing open by themselves. Worth a stop:
    - The wayside shrine to the Morninglord: pray at it (**Religion DC 11**) for Heroic Inspiration.
    - A loose board behind the shrine (Search, **Investigation DC 12**): a [+1 Quarterstaff](https://curseofstrahd.app/wiki/items/magic-items.md#weapon-1).
@@ -87,7 +87,7 @@ There is one ending, Village Edge, and the quest itself pays nothing; the loot i
 
 ## Fights
 
-- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
+- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md).
 
 ## Journal
 

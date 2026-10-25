@@ -87,8 +87,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Stone creaks overhead. The gargoyles on the gatehouse unfold, stretch like cats, and drop into the courtyard.*, in [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md): [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts when you reach the front courtyard.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 16 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (7200 XP; waiting)
-> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 14 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (6300 XP; waiting)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted” and level ≥ 10: 6 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (2700 XP; waiting)
+> - **[Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md)**, when night and strahd invitation isn't “accepted”: 4 × [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md) (1800 XP; waiting)
 
 ### At camp here
 

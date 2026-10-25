@@ -37,9 +37,9 @@ A shrieking cloud that envelops a creature and bites; resists weapon damage, wea
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*
+- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around.*
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *Two pale shapes rise from behind the dais, and the ceiling comes loose and becomes bats.*
-- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy. In the coffin beside his,…*
+- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy.*
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Strahd stands at the foot of his brother's tomb with one hand on the stone. He finishes what he was saying to…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *He is reading by the fire. He finishes the page before he looks up, and marks it with a ribbon, and the…*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*
@@ -53,4 +53,4 @@ A shrieking cloud that envelops a creature and bites; resists weapon damage, wea
 - [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md): *Something is waiting where the causeway meets the shore: pale figures standing very still, and above them the…*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): [The Polite Caller](https://curseofstrahd.app/wiki/quests/the-polite-caller.md) · *The carriage lamp stops at the end of the lane. Its door opens on nothing, and a tall shape in a coachman's…*
 
-On the road: [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Svalich Woods](https://curseofstrahd.app/wiki/world/random-encounters.md)

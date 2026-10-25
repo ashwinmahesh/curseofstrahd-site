@@ -42,7 +42,7 @@ You don't have to talk to them at all: taking the bones from the toy chest start
 5. **Lay them to rest.** Examine the crypts and choose "Lay the children's bones in their crypts". If the children were riding along, they climb out of you. They stand by their crypts, clear and calm, say thank you, warn you not to go downstairs, and Rose tells you Mother hid her purse under the loose board of the bottom stair in the hall, for emergencies. Then Thorn waves. The journal ends at **At Rest**.
 6. **Collect Mother's purse.** Back on [Death House, Ground Floor](https://curseofstrahd.app/wiki/locations/death-house-ground-floor.md), a loose stair riser at the foot of the main hall's stair is there now: two [Potion of Healing](https://curseofstrahd.app/wiki/items/equipment.md#potion-of-healing) and 25 gp.
 
-While you're in the crypt row: if you learned the lullaby at the harpsichord, hum it at Walter's crypt, the smallest one (Wren +2, Liriel +1). Leave Elisabeth's ticking crypt shut unless you want to fight seven [Swarms of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) and a [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). The shadows listed above belong to the Darklord's shrine elsewhere on this level and have nothing to do with the children.
+While you're in the crypt row: if you learned the lullaby at the harpsichord, hum it at Walter's crypt, the smallest one (Wren +2, Liriel +1). Leave Elisabeth's ticking crypt shut unless you want to fight a [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). The shadows listed above belong to the Darklord's shrine elsewhere on this level and have nothing to do with the children.
 
 ### Choices and endings
 
@@ -75,9 +75,9 @@ The orb and the level listed in the rewards above come from things in the same r
 
 ## Fights
 
-- *The crypt was full of something, and now the passage is.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *The crypt was full of something, and now the passage is.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md).
 
-- *Seven shadows peel off the walls, and none of them is yours.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 7 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), 2 × [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md).
+- *Five shadows peel off the walls, and none of them is yours.*, in [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): 5 × [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md).
 
 ## Journal
 

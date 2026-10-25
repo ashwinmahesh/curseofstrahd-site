@@ -82,12 +82,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Offalia wipes her hands on her apron, and keeps wiping them as they lengthen into something with knuckles…*, in [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level. Starts from a conversation or when you open the great oven. Part of [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md).
+- *Offalia wipes her hands on her apron, and keeps wiping them as they lengthen into something with knuckles…*, in [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level. Starts from a conversation or when you open the great oven. Part of [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 285 HP), 5 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (5300 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 285 HP) (1800 XP)
 > - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 5: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 > - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (1800 XP)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when not (offalia slain or offalia asleep or offalia lured): Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 200 HP), 6 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (6000 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when not (offalia slain or offalia asleep or offalia lured): Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 200 HP) (1800 XP)
 
 ### At camp here
 

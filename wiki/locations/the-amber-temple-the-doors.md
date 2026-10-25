@@ -87,18 +87,18 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts from a conversation.
+- *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 395 HP), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)), 3 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md) (12200 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 395 HP), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)) (6800 XP)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 8: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
 > - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP) (5900 XP)
 
-- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 375 HP), 6 × [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Starts when you reach the snow ledge.
+- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 375 HP). Starts when you reach the snow ledge.
 
-- *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md). Scales with your level. Starts when you reach the east guardroom.
+- *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level. Starts when you reach the east guardroom.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 5 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10700 XP; waiting)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)), 4 × Frozen warden-guard ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (9300 XP; waiting)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared and level ≥ 10: 4 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (2800 XP; waiting)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when not frozen watch cleared: 3 × Frozen warden-guard ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)) (2100 XP; waiting)
 
 ## Quests and lore
 

@@ -40,7 +40,7 @@ You need to be able to get into the tower first ([The Hunter's Tower](https://cu
 
    ![sq khazan](https://curseofstrahd.app/wiki/img/cutscenes/sq-khazan.webp)
 
-   He's courteous: he says he knows your names because you said his at the door. The quest moves to Met. You can leave him to his books and look round. The book of names on the lectern lists thousands of visitors, ending with Ezmerelda's, Van Richten's (twice) and yours, ink still wet. Then work out what keeps him alive:
+   He's courteous. If you said his name at the door, he knows yours and greets you by them. If you came in another way, he chides you for coming in without it and writes you down anyway. The quest moves to Met. You can leave him to his books and look round. The book of names on the lectern lists thousands of visitors, ending with Ezmerelda's, Van Richten's (twice) and yours, ink still wet. Then work out what keeps him alive:
    - Read the book, then tell him "You keep yourself alive in that book." He's delighted to correct you: it's the name cut over the tower door, kept alive by everyone who says it to get in.
    - Or ask "Who are you?" and then try Arcana DC 16 (one try) to feel the cold pulling up toward the door.
 

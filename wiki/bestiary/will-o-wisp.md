@@ -46,7 +46,6 @@ A drifting light that lures travellers astray: lightning jolts, hard to hit, and
 
 ## Where you meet it
 
-- [The Abbey Garden](https://curseofstrahd.app/wiki/locations/the-abbey-garden.md): *The scarecrows turn their sacking heads all together, with a noise like dry leaves, and climb down off their…*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *The scarecrows in the reeds turn their sacking heads all at once, and climb down off their poles.*
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *Lights bob up out of the flooded houses, pale and friendly, and drift toward you at the speed of a walk. They…*
 - [Lake Zarovich: the Fishers' Landing](https://curseofstrahd.app/wiki/locations/lake-zarovich-the-fishers-landing.md): [One Lantern Too Many](https://curseofstrahd.app/wiki/quests/one-lantern-too-many.md) · *The girl's light goes hard and white. The water round the jetty lights up from underneath, here and there, as…*

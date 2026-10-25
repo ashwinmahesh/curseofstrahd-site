@@ -73,7 +73,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts when you reach the lip of the falls.
+- *Something has been sitting at the edge of the trees, listening to the water with you. It stands up on two…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Starts when you reach the lip of the falls.
 
 - *The lights come up out of the gorge like lanterns climbing a stair, and every one of them is still talking in…*, in [Tser Falls](https://curseofstrahd.app/wiki/locations/tser-falls.md): [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md). Scales with your level. Starts from a conversation. Part of [Called by Name](https://curseofstrahd.app/wiki/quests/called-by-name.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)

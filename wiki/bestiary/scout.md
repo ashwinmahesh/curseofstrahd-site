@@ -37,5 +37,4 @@ Keeps its distance and fires two arrows a turn from cover, drawing a shortsword 
 - [The Svalich Woods](https://curseofstrahd.app/wiki/locations/the-svalich-woods.md): *Grigor spits, nocks, and shouts a name. Arrows answer from three sides.*
 - [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): *The fiddle stops mid-note. Every knife in the camp comes out at once.*
 - [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md): *The camp is waiting for you outside the tent: no music, no fire-talk, only knives and drawn bows.*
-- [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Her sons are gone, but Lady Wachter's money is not: hired swords shove through the crowd toward the dais.*
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): *The rider wheels his black horse in the gateway and comes back in, drawing a sabre, while Dobre's lads come…*

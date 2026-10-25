@@ -37,7 +37,7 @@ The village, roughly: the drowned lane runs up the middle, Marina's statue stand
    - **The jetty:** walking out along it alone takes Acrobatics DC 15 and pays 30 gp (a miss costs 1d6 cold).
    - **Smaller finds:** a chest in the flood (25 gp, rope, lamp), a fisherman's locker by the jetty (8 gp, net), a [Mirror](https://curseofstrahd.app/wiki/items/equipment.md#mirror) in the reeds (search DC 13) and an [Antitoxin](https://curseofstrahd.app/wiki/items/equipment.md#antitoxin) in the reeds (search DC 14).
    - **In the scarecrow field:** one scarecrow's arm is a staff (search DC 15: [Staff of Swarming Insects](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-swarming-insects)).
-   - **At night** (19:00 to 6:00), walking into the drowned lane brings friendly-looking lights out of the flooded houses: six [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) and five [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) from level 8, nine wisps and seven swarms below that.
+   - **At night** (19:00 to 6:00), walking into the drowned lane brings friendly-looking lights out of the flooded houses: three [Will-o'-Wisp](https://curseofstrahd.app/wiki/bestiary/will-o-wisp.md) and two [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) from level 8, two wisps and a swarm below that.
 
 2. **Marina's mound** (west). You can come here before or after the witch.
    - With [Ireena Kolyana](https://curseofstrahd.app/wiki/people/ireena-kolyana.md) along, she sees her own face on the statue.
@@ -56,9 +56,9 @@ The village, roughly: the drowned lane runs up the middle, Marina's statue stand
    - **Loot:** the painted dowry chest holds 150 gp and a [Robe of Scintillating Colors](https://curseofstrahd.app/wiki/items/magic-items.md#robe-of-scintillating-colors) (and your Tarokka treasure, if the reading put it here). The niche of offerings holds 30 gp.
 
 3. **The scarecrow field.** Unless you're already her guests (or she's been lured out, bargained with, killed, or broken by Strahd), the scarecrows climb off their poles as you cross the field around the stump.
-   - **At level 9:** twelve [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), seven will-o'-wisps and seven insect swarms.
-   - **At level 8:** twelve scarecrows, seven wisps and eight swarms.
-   - **Below level 8:** ten scarecrows, four wisps and twelve swarms.
+   - **At level 9:** six [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md), two will-o'-wisps and two insect swarms.
+   - **At level 8:** five scarecrows, a wisp and two swarms.
+   - **Below level 8:** four scarecrows and two swarms.
 
    Scarecrows are vulnerable to fire, and their glare can frighten and paralyze you (Wisdom DC 11), so burn them from range. She'll complain about it afterwards.
 
@@ -81,7 +81,7 @@ The village, roughly: the drowned lane runs up the middle, Marina's statue stand
 
 6. **The turn.** Once you know the truth, you choose how she ends.
    - **Fight her in her kitchen:** "Enough games. Give us the green stone, or we'll take it."
-     - **The fight:** [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) at 510 hit points with eight swarms of insects and twelve [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md)s at level 9 (10400 XP), at 105 with two swarms at level 8, at 85 with one swarm below that.
+     - **The fight:** [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) at 510 hit points with two swarms of insects at level 9 (7,400 XP), at 105 with two swarms at level 8, at 85 with one swarm below that.
      - **Why here:** inside, the hut can't fight for her, and when she dies in it, it dies with her. Below level 9 this is the most manageable of her fights.
      - **What she does:** she's a CR 11 spellcaster (save DC 17, up to Power Word Stun), she can turn into a swarm of insects, and once a rest she calls more swarms.
    - **Blackmail her:** "He'll hear about Marina from us, unless you make it worth our silence." If Ireena is with you she won't bargain; she attacks instead. Otherwise:
@@ -94,8 +94,8 @@ The village, roughly: the drowned lane runs up the middle, Marina's statue stand
 
    ![lysaga bowl](https://curseofstrahd.app/wiki/img/cutscenes/lysaga-bowl.webp)
 
-   - **The fight at the monument:** at level 9, Lysaga at 460 hit points with two insect swarms and ten scarecrows (9400 XP); at level 8, 105 with two swarms and a scarecrow; below that, 85 with two swarms.
-   - **The hut afterwards:** it waits for her. When you next step onto the stump it stands up and fights you (520 hit points with three insect swarms at level 9; alone at 160 at level 8, 120 below), unless Strahd has learned the truth by then.
+   - **The fight at the monument:** at level 9, Lysaga at 460 hit points with two insect swarms and two scarecrows (7,800 XP); at level 8, 105 with two swarms and a scarecrow; below that, 85 with two swarms.
+   - **The hut afterwards:** it waits for her. When you next step onto the stump it stands up and fights you (alone, at 520 hit points at level 9, 160 at level 8, 120 below), unless Strahd has learned the truth by then.
    - **Even after a bargain:** lighting the lamp brings her out to fight.
    - **Only once:** the lamp can only be lit once.
 
@@ -152,9 +152,9 @@ Every ending gives the milestone (a level), and the hut's pantry (3 rations, 12 
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 8: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (120 HP), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP) (14400 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (100 HP), [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (70 HP) (14400 XP)
 
-- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level.
+- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (510 HP), 8 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 12 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (10400 XP)
+> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (510 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7300 XP)
 
@@ -162,13 +162,13 @@ Every ending gives the milestone (a level), and the hut's pantry (3 rations, 12 
 
 - *A bowl of yellow bone comes skimming over the reeds, low and fast, with a tiny furious woman standing in it.…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (460 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 10 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (9400 XP)
+> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (460 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 2 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (7800 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (7600 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 
-- *The hut has been waiting for her. When you come instead, it stands up on its roots and screams through its…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level.
+- *The hut has been waiting for her. When you come instead, it stands up on its roots and screams through its…*, in [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth and level ≥ 9: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (520 HP), 3 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7500 XP)
+> - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth and level ≥ 9: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (520 HP) (7200 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth and level ≥ 8: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (160 HP) (7200 XP)
 > - **[The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md)**, when lysaga slain at monument and not creeping hut destroyed and not strahd knows marina truth: [Baba Lysaga's Creeping Hut](https://curseofstrahd.app/wiki/bestiary/baba-lysagas-creeping-hut.md) (120 HP) (7200 XP)
 

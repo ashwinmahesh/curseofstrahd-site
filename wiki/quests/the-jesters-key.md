@@ -34,7 +34,7 @@ That question is only in his menu while he is on the stair, not while he travels
 
 **While you're in the roost:**
 
-- **Calming the ravens** (talk to "The ravens") lets you open the great nest (35 gp, a mirror, and a Tarokka treasure if the reading put one here). You can hold out a hand as a friend of ravens (if you became allies of the Keepers at the Wizard of Wines, or fed the raven on the road; Thistle +2), scatter a ration (Thistle +2), or try Animal Handling DC 14 (DC 18 if you hurt the raven on the road; Thistle +1). A failed Animal Handling check brings down 6 [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md) and 8 [Wereraven](https://curseofstrahd.app/wiki/bestiary/wereraven.md)s (3,900 XP). Opening the nest unsettled brings 6 swarms and 10 wereravens (4,800 XP). The wereravens have 54 HP each. Both are below a Low fight for four heroes at level 10.
+- **Calming the ravens** (talk to "The ravens") lets you open the great nest (35 gp, a mirror, and a Tarokka treasure if the reading put one here). You can hold out a hand as a friend of ravens (if you became allies of the Keepers at the Wizard of Wines, or fed the raven on the road; Thistle +2), scatter a ration (Thistle +2), or try Animal Handling DC 14 (DC 18 if you hurt the raven on the road; Thistle +1). A failed Animal Handling check brings down 6 [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md) (300 XP), with 11 HP each. Opening the nest unsettled brings the same 6 swarms. That's far below a Low fight for four heroes at level 10.
 - **Speak with Animals** works best of all: the old raven tells you where the key is and gives you a ring from a far nest, a [Ring of Evasion](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-evasion) (Thistle +2). You can also reach that ring by climbing the rafters (Acrobatics DC 16, done alone; a fall costs 2d6) or by searching for it (DC 15).
 - A rotten board on the way across (spot DC 13; Dexterity DC 13 or 2d6).
 
@@ -64,7 +64,7 @@ That question is only in his menu while he is on the stair, not while he travels
 
 ## Fights
 
-- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): 6 × [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md), 8 × [Wereraven](https://curseofstrahd.app/wiki/bestiary/wereraven.md).
+- *The roost goes up all at once: a black storm of wings and beaks and shrieking, pouring down off the beams.*, in [Castle Ravenloft, the Ravens' Roost](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-ravens-roost.md): 6 × [Swarm of Ravens](https://curseofstrahd.app/wiki/bestiary/swarm-of-ravens.md).
 
 ## Journal
 

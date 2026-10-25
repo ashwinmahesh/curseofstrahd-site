@@ -43,9 +43,6 @@ Wades into melee so its stench sickens foes, paralyzing one with claws then biti
 
 - [Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/burgomasters-mansion.md): *The Tenant comes up the little stair on all fours, and the servants who starved with him come up behind.*
 - [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md): *In the dark beyond the pit, pale shapes stop gnawing on what the last guest left them and turn their wet…*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Dead men in the castle's livery sit up on their pallets. The suits of armour along the walls turn their empty…*
-- [Castle Ravenloft, the Larders of Ill Omen](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-larders-of-ill-omen.md): *Cyrus's shriek goes down the guards' run like a bell. Boots answer it, and some of them are not boots.*
-- [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *The door has teeth.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Supper is served.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *For one moment they are only parents, and grieving.*
 - [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): [The Nursemaid's Grave](https://curseofstrahd.app/wiki/quests/the-nursemaids-grave.md) · *The lids along the row slide back, one after another, and what the house kept down here climbs out to take…*
@@ -54,4 +51,4 @@ Wades into melee so its stench sickens foes, paralyzing one with claws then biti
 - [Wachterhaus](https://curseofstrahd.app/wiki/locations/wachterhaus.md): [The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md) · *Stella's shadow peels off the wall and stands up, and the shadows under the bed and behind the door stand up…*
 - [Yester Hill](https://curseofstrahd.app/wiki/locations/yester-hill.md): [The Barrow on Yester Hill](https://curseofstrahd.app/wiki/quests/the-barrow-on-yester-hill.md) · *The cairn comes apart, and up out of it and out of the mounds round it come the dead the druids bound to…*
 
-On the road: [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Bonegrinder Lane](https://curseofstrahd.app/wiki/world/random-encounters.md), [Krezk Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)
+On the road: [Argynvostholt Road](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Hills](https://curseofstrahd.app/wiki/world/random-encounters.md), [Zarovich Shore](https://curseofstrahd.app/wiki/world/random-encounters.md)

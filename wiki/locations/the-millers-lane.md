@@ -68,14 +68,14 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The pretty face slides off Bella like dough off a board.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level. Starts from a conversation.
+- *The pretty face slides off Bella like dough off a board.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 610 HP), 5 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (5300 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 610 HP) (1800 XP)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 
-- *Offalia drops the berries. Her hands are already longer than they were.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md). Scales with your level. Starts from a conversation.
+- *Offalia drops the berries. Her hands are already longer than they were.*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP), 6 × [Nightmare](https://curseofstrahd.app/wiki/bestiary/nightmare.md) (6000 XP)
+> - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP) (1800 XP)
 > - **[The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
 
 - *Granny Ash comes across the lane with her dogs at her heels, and in the hag garden behind her the blights…*, in [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): [Granny Ash](https://curseofstrahd.app/wiki/bestiary/granny-ash.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Needle Blight](https://curseofstrahd.app/wiki/bestiary/needle-blight.md), [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md), [Vine Blight](https://curseofstrahd.app/wiki/bestiary/vine-blight.md). Scales with your level. Starts from a conversation. Part of [The Fourth Sister](https://curseofstrahd.app/wiki/quests/the-fourth-sister.md).

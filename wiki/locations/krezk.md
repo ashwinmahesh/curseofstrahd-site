@@ -108,10 +108,10 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Shapes come up the road out of the dark on both sides, low and patient. Behind you the gate stays shut. On…*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Scales with your level. Starts when you reach the end of the road.
+- *Shapes come up the road out of the dark on both sides, low and patient. Behind you the gate stays shut. On…*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md). Scales with your level. Starts when you reach the end of the road.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open and level ≥ 7: 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 6 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (4250 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open: 4 × [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), 5 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (4000 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open and level ≥ 7: 3 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), 2 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md) (1400 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when night and not krezk gate open: 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (1150 XP)
 
 - *The watch closes in, spears levelled.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): Watchman 1 ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)), Watchman 2 ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)). Starts from a conversation.
 

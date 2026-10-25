@@ -81,11 +81,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Black Armor ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)), 2 × Balcony Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Starts when you reach the balcony.
+- *The armor on the landing steps down off its stand.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Black Armor ([Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md)). Starts when you reach the balcony.
 
-- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): The Nursemaid ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)), 2 × [Specter](https://curseofstrahd.app/wiki/bestiary/specter.md), [Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts from a conversation.
+- *She wants her baby back.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): The Nursemaid ([Specter](https://curseofstrahd.app/wiki/bestiary/specter.md)). Starts from a conversation.
 
-- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)), [Animated Armor](https://curseofstrahd.app/wiki/bestiary/animated-armor.md), [Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md), [Giant Rat](https://curseofstrahd.app/wiki/bestiary/giant-rat.md). Starts when you reach the storage room.
+- *The broom against the wall has opinions about visitors.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Broom ([Broom of Animated Attack](https://curseofstrahd.app/wiki/bestiary/broom-of-animated-attack.md)). Starts when you reach the storage room.
 
 - *Every blade on the floor has woken up.*, in [Death House, Third Floor](https://curseofstrahd.app/wiki/locations/death-house-third-floor.md): Ceremonial Blade ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)), Dress Sword ([Animated Flying Sword](https://curseofstrahd.app/wiki/bestiary/animated-flying-sword.md)). Starts when you reach the balcony.
 

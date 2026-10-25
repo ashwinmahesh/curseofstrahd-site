@@ -86,7 +86,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Starts from a conversation.
+- *The pack stops pretending.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md). Starts from a conversation.
 
 - *The marshal salutes with his blade, and his two lieutenants walk their bone horses out of the column to his…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [The Bone Marshal](https://curseofstrahd.app/wiki/bestiary/the-bone-marshal.md), [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md). Scales with your level. Starts from a conversation. Part of [The Last Muster](https://curseofstrahd.app/wiki/quests/the-last-muster.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
@@ -100,8 +100,8 @@ The containers here also get random magic items and potions, rolled for a party 
 - *The fog behind you opens like a mouth, and the count's wolves come out of it low and quick, for the man who…*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md): [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md), [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 3: The Grey Leader ([Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)), 7 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (550 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 6 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (300 XP)
-> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 5 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (260 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**, when level ≥ 2: 4 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md) (200 XP)
+> - **[The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road.md)**: 3 × [Wolf](https://curseofstrahd.app/wiki/bestiary/wolf.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) (160 XP)
 
 ### At camp here
 

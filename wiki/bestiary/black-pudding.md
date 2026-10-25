@@ -43,5 +43,5 @@ A slow, blind mass of black acid that eats armor and weapons; blades and lightni
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *Grey figures at the rack look up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *A grey figure at the rack looks up, pleased. Hands scuttle out of every corner, and the drain begins to rise.*
 - [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): *Around the cauldron, women in black rags look up all at once with the same wet smile. The brew heaves, and…*

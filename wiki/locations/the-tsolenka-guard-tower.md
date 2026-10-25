@@ -82,8 +82,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Grey soldiers draw grey swords with one sound, the way a drill sergeant would want it.*, in [The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md): [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Starts from a conversation. Part of [The Tsolenka Gate](https://curseofstrahd.app/wiki/quests/the-tsolenka-gate.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 10 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (10500 XP)
-> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 7 × [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md) (7700 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**, when level ≥ 8: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 4 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (3500 XP)
+> - **[The Tsolenka Guard Tower](https://curseofstrahd.app/wiki/locations/the-tsolenka-guard-tower.md)**: Sergeant Dorin Valcu ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)), 3 × Phantom Watchman ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (2800 XP)
 
 ### At camp here
 

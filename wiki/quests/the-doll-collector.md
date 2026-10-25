@@ -45,7 +45,7 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 
    Once he believes it, the quest ends at **Truth Told**. He won't touch her, won't let anyone else touch her, and won't break any more heads for the Baron.
 5. **Or confront him at night.** His room is off the mansion's foyer, and after dark he sits on his cot turning a doll in the candlelight. You can tell him you know about the dolls, warn him off with **Intimidation DC 16** (success: he tells you to get out; failure: he fights), or draw steel.
-   - The fight is the Izek Confrontation: at level 5, Izek (360 HP), three sergeants of the watch ([Warrior Veterans](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) and a [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md), 3,925 XP. That's between a moderate and a hard fight for four level 5 characters, and harder than hard at level 4.
+   - The fight is the Izek Confrontation: at level 5, Izek (360 HP) and two sergeants of the watch ([Warrior Veterans](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), 3,200 XP. That's between a moderate and a hard fight for four level 5 characters. At level 4 it's Izek (95 HP) and one sergeant (2,500 XP, harder than hard), and below that Izek alone (60 HP, 1,800 XP).
    - He swings his battleaxe twice a turn, and can swap a swing for a 60 ft bolt of fire.
    - Winning ends the quest at **Izek Slain**. His chest holds a [Potion of Giant Strength (Hill Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-hill-giant) and a [Potion of Giant Strength (Fire Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-fire-giant), though taking them counts as theft.
 
@@ -83,15 +83,15 @@ If Ireena isn't with you, the journal starts later, at Dolls Found, when Blinsky
 
 ## Fights
 
-- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md), [Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md). Scales with your level.
+- *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 3 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)), Town guard ([Town Guard](https://curseofstrahd.app/wiki/bestiary/town-guard.md)) (3925 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 2 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
 > - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
 > - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (60 HP) (1800 XP)
 
 - *Izek steps down off the dais, flexing the arm that isn't his. A few of the watch step down with him.*, in [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (280 HP), 6 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (6000 XP)
+> - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (280 HP), 2 × Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Izek's sergeant ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
 > - **[Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (70 HP) (1800 XP)
 

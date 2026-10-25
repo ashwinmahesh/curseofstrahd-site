@@ -39,9 +39,7 @@ Pours over the nearest creature and gnaws it; resists weapon damage and weakens 
 ## Where you meet it
 
 - [Castle Ravenloft, the West Wing](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-west-wing.md): *The guards spill apart into a boiling tide of rats that surges across the stones toward your boots.*
-- [Death House, Dungeon (Upper Level)](https://curseofstrahd.app/wiki/locations/death-house-dungeon-upper-level.md): *Part of the wall uncoils.*
-- [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md) · *Morgantha stands, and keeps standing, taller than the rafters should allow. In the corner Bella lays down her…*
+- [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md) · *Morgantha stands, and keeps standing, taller than the rafters should allow, and the sweetness goes out of her…*
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Black Roses](https://curseofstrahd.app/wiki/quests/black-roses.md) · *Two more girls come over the rooftops at Catalina's call, barefoot, in nightgowns, their arms full of black…*
 - [The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md): [The Bones of St. Andral](https://curseofstrahd.app/wiki/quests/the-bones-of-st-andral.md) · *Crate lids lift on their own, slowly, the nails squealing out one by one. What climbs out has been waiting in…*
-- [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*
 - [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md): *The water in the well climbs the shaft on its own. She comes up out of it in her wedding veil, screaming, and…*

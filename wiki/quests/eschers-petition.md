@@ -18,7 +18,7 @@ Every night for nine years Escher has slid the same petition under the count's d
 
 ### Getting the quest
 
-[Escher](https://curseofstrahd.app/wiki/people/escher.md), one of Strahd's cast-off consorts and now a vampire spawn, is locked in his suite in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md). To get there, climb the high tower stairway from the main floor (or the tower stairs from the Court of the Count) into [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md). Fight past the stair's sentries on the upper turns (8 vampire spawn and 8 swarms of bats at level 10), then take the door off the high landing.
+[Escher](https://curseofstrahd.app/wiki/people/escher.md), one of Strahd's cast-off consorts and now a vampire spawn, is locked in his suite in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md). To get there, climb the high tower stairway from the main floor (or the tower stairs from the Court of the Count) into [Castle Ravenloft, the High Tower](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-high-tower.md). Fight past the stair's sentries on the upper turns (3 vampire spawn and 3 swarms of bats at level 10), then take the door off the high landing.
 
 ![loc castle ravenloft spires rooms 1](https://curseofstrahd.app/wiki/img/shots/loc-castle-ravenloft-spires-rooms-1.webp)
 
@@ -43,7 +43,7 @@ If day breaks before you get back to him after the fight, Escher returns to his 
 
 - **Done (success).** Escher burns in the sunrise and doesn't step back. In the pocket of his coat you find a [Helm of Brilliance](https://curseofstrahd.app/wiki/items/magic-items.md#helm-of-brilliance) and 250 gp. Liriel +3, Thistle +3, Wren +2, Godrick +1. His suite is empty from then on, so ask him anything you still want (about the Heart of Sorrow, the back stair to the ravens' roost or the clockwork jester) before the dawn.
 - **Waited (success).** The Persuasion works: he laughs, backs into the shadow of the stair, and gives you the same Helm of Brilliance and 250 gp, to wear at the count's funeral. Wren +2, Godrick +1, Liriel +1, Ratatouille +1. He goes back to his suite and still talks to you there.
-- **Refused (failure).** Once you've agreed, turning on him in his suite ends the petition, before or after the fight on the roof. **You're one of his. This ends now.** starts a fight with Escher, six more [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) and seven [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (12,950 XP). **Intimidation DC 14: Tell us, or we open your curtains at dawn.** (offered while he hasn't yet told you about the heart) ends it too: a success gets you the heart's secret, but he won't wait for the light with people who hold it over his head; a failure is the same fight. Nobody waits at the parapet, and there's no helm.
+- **Refused (failure).** Once you've agreed, turning on him in his suite ends the petition, before or after the fight on the roof. **You're one of his. This ends now.** starts a fight with Escher, a [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), and two [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) (1,900 XP). **Intimidation DC 14: Tell us, or we open your curtains at dawn.** (offered while he hasn't yet told you about the heart) ends it too: a success gets you the heart's secret, but he won't wait for the light with people who hold it over his head; a failure is the same fight. Nobody waits at the parapet, and there's no helm.
 
 Either success gives you one helm and 250 gp, never two.
 
@@ -73,7 +73,7 @@ Either success gives you one helm and 250 gp, never two.
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**, when not escher note read: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (520 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP; surprise: party)
 > - **[Castle Ravenloft, the Roofs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-roofs.md)**: [Querreth](https://curseofstrahd.app/wiki/bestiary/querreth.md) (570 HP), 2 × One Who Asked ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)) (10800 XP)
 
-- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 7 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 6 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
+- *Escher's smile goes long in the teeth. The bats in the canopy of his bed come down like a dropped curtain.*, in [Castle Ravenloft, the Tower Rooms](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-tower-rooms.md): Escher ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
 
 ## Journal
 

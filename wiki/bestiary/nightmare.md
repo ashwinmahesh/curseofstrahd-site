@@ -38,11 +38,6 @@ A black horse with a burning mane and hooves of fire.
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*
-- [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md): [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md) · *Offalia wipes her hands on her apron, and keeps wiping them as they lengthen into something with knuckles…*
-- [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [The Children in the Mill](https://curseofstrahd.app/wiki/quests/the-children-in-the-mill.md) · *Morgantha stands, and keeps standing, taller than the rafters should allow, and the sweetness goes out of her…*
-- [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): *Bella's laugh comes out of a mouth that is suddenly far too wide. The rocking chair goes over.*
-- [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): *The pretty face slides off Bella like dough off a board.*
-- [The Miller's Lane](https://curseofstrahd.app/wiki/locations/the-millers-lane.md): *Offalia drops the berries. Her hands are already longer than they were.*
+- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around.*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Grey Mare](https://curseofstrahd.app/wiki/quests/the-grey-mare.md) · *The black horse in the traces stamps once, and the empty harness beside it swings. Pale shapes slide out of…*
 - [The River Ivlis Crossroads](https://curseofstrahd.app/wiki/locations/the-river-ivlis-crossroads.md): [The Count's Huntsman](https://curseofstrahd.app/wiki/quests/the-counts-huntsman.md) · *The Huntsman sets the pack on you with one note of the horn, and the hounds come up the road in silence.*

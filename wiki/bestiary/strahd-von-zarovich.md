@@ -66,16 +66,16 @@ The vampire lord of Barovia: crushing blows and a draining bite, charm, wolves a
 
 ## Where you meet it
 
-- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around. Two pale shapes step out…*
+- [Castle Ravenloft, the Catacombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-catacombs.md): *The black horse lifts its head from the manger, and the man beside it turns around.*
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is standing beside his own coffin with his hands behind his back, like a man waiting for a late carriage.…*
-- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy. In the coffin beside his,…*
+- [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *He is out of the coffin before the lid stops rocking, and he is not at all sleepy.*
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *Strahd stands at the foot of his brother's tomb with one hand on the stone. He finishes what he was saying to…*
 - [Castle Ravenloft, the Old Tombs](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-old-tombs.md): *He is sitting on the edge of the dais between his mother and his father, and the shadows of the vault stand…*
 - [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *He is on the throne, one leg over the arm of it, as if he has been waiting a long time and enjoyed every…*
 - [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): *He is reading by the fire. He finishes the page before he looks up, and marks it with a ribbon, and the…*
 - [Castle Ravenloft, the Treasury](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-treasury.md): *He sits on his hoard in a chair that has sunk to its knees in gold, turning one coin over and over in his…*
-- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him. Four of…*
+- [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him.*
 - [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*
 - [Castle Ravenloft, the Overlook](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-overlook.md): *A tall figure stands at the parapet with his back to you, looking down at the valley. He lets you come quite…*
 - [Castle Ravenloft, the Heart of Sorrow](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-heart-of-sorrow.md): *He is standing beside the heart with one hand resting on the glass, as a man rests a hand on a horse he is…*

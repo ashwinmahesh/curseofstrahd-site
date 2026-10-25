@@ -61,7 +61,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): 5 × Mourner ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Pallbearer ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Mourner in Black ([Wight](https://curseofstrahd.app/wiki/bestiary/wight.md)). Starts from a conversation.
+- *The lanterns drop into the mud, still burning. The mourners come on without them.*, in [The Old Svalich Road](https://curseofstrahd.app/wiki/locations/the-old-svalich-road-the-old-svalich-road.md): 4 × Mourner ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)), 2 × Pallbearer ([Strahd Zombie](https://curseofstrahd.app/wiki/bestiary/strahd-zombie.md)). Starts from a conversation.
 
 ### At camp here
 

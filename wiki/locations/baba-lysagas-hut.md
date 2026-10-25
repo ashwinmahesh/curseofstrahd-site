@@ -77,9 +77,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md). Scales with your level. Starts from a conversation.
+- *The door of the hut slams itself. The fire in the hearth stands up tall and green, and the jars on the shelf…*, in [Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md): [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (510 HP), 8 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md), 12 × [Scarecrow](https://curseofstrahd.app/wiki/bestiary/scarecrow.md) (10400 XP)
+> - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 9: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (510 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**, when level ≥ 8: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (105 HP), 2 × [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7400 XP)
 > - **[Baba Lysaga's Hut](https://curseofstrahd.app/wiki/locations/baba-lysagas-hut.md)**: [Baba Lysaga](https://curseofstrahd.app/wiki/bestiary/baba-lysaga.md) (85 HP), [Swarm of Insects](https://curseofstrahd.app/wiki/bestiary/swarm-of-insects.md) (7300 XP)
 
