@@ -35,8 +35,8 @@ You don't need him, though. Looking at the shapes in the ice of the gorge wall a
 4. **Choose.**
    - **Let them go.** Religion DC 14 to say the last rites for all nine, or a cleric's rites of the dead with no roll. A failed Religion check only means the lamp burns on; you can try again. The shapes fade out of the ice, the lamp drops into the snow, and under the ledge you find nine purses of offerings: 400 gp. The quest ends at Rested (Liriel +3, Godrick +2, Thistle +1).
    - **Break her out.** Mother Ecaterina falls into your arms, and the other eight come out of the wall fused into one kneeling giant of ice. That's a fight:
-     - [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) at 920 hit points with ten Pilgrim's Shadows ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) at level 11 (11,700 XP), 625 with five at level 10, 645 with four at level 9, and 170 with three below that.
-     - The Penitent hits twice with 10-foot reach, and when no one is in reach it hurls slabs of ice instead (60/240 feet). Its Winter's Embrace freezes everyone within 20 feet in place (Constitution DC 16, 4d8 cold and Restrained). It's immune to cold and poison and resists necrotic.
+     - [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (210 hit points) with ten Pilgrim's Shadows ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) at level 11 (11,700 XP), five at level 10 (9,450 XP), four at level 9 (9,000 XP), and three below that (8,550 XP).
+     - The Penitent hits twice with 10-foot reach, and when no one is in reach it hurls slabs of ice instead (60/240 feet). Twice more a round, at the end of your heroes' turns, it throws another fist or steps without provoking. Its Winter's Embrace freezes everyone within 20 feet in place (Constitution DC 16, 4d8 cold and Restrained). It's immune to cold and poison and resists necrotic.
      - The ghasts' claws can paralyze (Constitution DC 10), and their stench can poison anyone who starts a turn next to them (Constitution DC 10).
      - Clear the ghasts quickly, and don't bunch up around the giant.
 
@@ -52,7 +52,7 @@ You don't need him, though. Looking at the shapes in the ice of the gorge wall a
 
 - **No way to free or bless them?** You have to ask "Can you hear us?" first.
 - **The quest is still at Found after the fight.** Look at the ice once more.
-- **The Penitent fight grows with your level:** it brings more ghasts at levels 10 and 11, so waiting doesn't make it easier.
+- **The Penitent fight grows with your level:** it brings more ghasts at levels 9, 10 and 11, so waiting doesn't make it easier.
 
 ## Rewards
 
@@ -71,10 +71,10 @@ You don't need him, though. Looking at the shapes in the ice of the gorge wall a
 
 - *The Penitent stands up out of the gorge wall, nine pilgrims fused in grey ice, and turns all its heads toward…*, in [The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md): [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), [Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 11: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (920 HP), 10 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (11700 XP)
-> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 10: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (625 HP), 5 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9450 XP)
-> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 9: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (645 HP), 4 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9000 XP)
-> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md) (170 HP), 3 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (8550 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 11: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), 10 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (11700 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 10: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), 5 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9450 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**, when level ≥ 9: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), 4 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (9000 XP)
+> - **[The Tsolenka Pass](https://curseofstrahd.app/wiki/locations/the-tsolenka-pass.md)**: [The Penitent](https://curseofstrahd.app/wiki/bestiary/the-penitent.md), 3 × A Pilgrim's Shadow ([Ghast](https://curseofstrahd.app/wiki/bestiary/ghast.md)) (8550 XP)
 
 ## Journal
 

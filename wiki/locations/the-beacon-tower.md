@@ -82,9 +82,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*, in [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md), [Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (340 HP), 2 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7200 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (170 HP), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
-> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (150 HP) (2900 XP)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), 2 × Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)), Phantom Man-at-Arms ([Phantom Warrior](https://curseofstrahd.app/wiki/bestiary/phantom-warrior.md)) (7200 XP; lair)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won and level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), Dead Knight ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP; lair)
+> - **[The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md)**, when not beacon stand won: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP; lair)
 
 ## Quests and lore
 

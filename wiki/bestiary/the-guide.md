@@ -43,6 +43,10 @@ A lean, smiling mountain guide in furs who goes bareheaded in the snow. Somethin
 - **Whiteout.** Constitution Saving Throw: DC 16, up to three creatures the Guide can see within 60 feet. Failure: 18 (4d8) Cold damage, and the target has the Blinded condition until the end of the Guide's next turn. Success: Half damage only.
 - **Spellcasting.** The Guide casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16): once a day each, Hold Person and Cone of Cold.
 
+### Reactions
+
+- **Protective Magic.** The Guide casts Counterspell or Shield in response to that spell's trigger (twice a day).
+
 ## Where you meet it
 
 - [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md) · *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*

@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![mimic](https://curseofstrahd.app/wiki/img/portraits/mimic.webp)
+> ![tinkers wagon](https://curseofstrahd.app/wiki/img/portraits/tinkers-wagon.webp)
 > **Type:** Huge monstrosity
 > **Alignment:** neutral
 > **Challenge:** 7 (2900 XP)

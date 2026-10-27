@@ -3,7 +3,7 @@
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/people/ilarion.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
 > [!infobox]
-> ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp)
+> ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp)
 > **Title:** Of the Village of Barovia, Fifty Years Gone
 > **Region:** [Into the Mists](https://curseofstrahd.app/wiki/regions/into-the-mists.md)
 > **Starting attitude:** friendly

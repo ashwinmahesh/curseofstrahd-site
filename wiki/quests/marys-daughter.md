@@ -39,10 +39,10 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 
    [Persuasion DC 15] "He doesn't love you. He collects." also works, but it's one try, and if it fails she rings for her host. That closes the Persuasion option with Rahadin in step 5.
 
-   Then say "Come home, Gertruda. Stay close to us." She joins you as a guest and the quest moves to **Found** (Godrick +3, Kip +3, Liriel +2, Thistle +2, Wren +1, Ratatouille +1). "Not yet" leaves her waiting.
+   Then say "Come home, Gertruda. Stay close to us." She joins you as a guest who keeps back from every fight (no blow or spell ever touches her, so you needn't guard her), and the quest moves to **Found** (Godrick +3, Kip +3, Liriel +2, Thistle +2, Wren +1, Ratatouille +1). "Not yet" leaves her waiting.
 5. **Get past Rahadin.** Unless you've already beaten him, [Rahadin](https://curseofstrahd.app/wiki/people/rahadin.md) stands at the head of the grand stairs in the Court of the Count while Gertruda is with you.
    - [Persuasion DC 16] "A guest who can't leave is a prisoner..." (not offered if Gertruda warned him) or [Intimidation DC 17] "Look at us, Rahadin. You're one man." makes him step aside (Godrick +2, Thistle +1, Kip +1). A failed roll means a fight.
-   - "Then we go through you." means a fight with [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) alone (795 HP, AC 18; 5,900 XP).
+   - "Then we go through you." means a fight with [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) alone (135 HP, AC 18; 5,900 XP). Twice a round, at the end of one of your heroes' turns, he cuts with his scimitar or slips away without provoking, so he hits more often than one man should.
    - "Gertruda, go back to your room." ends the quest at **Lost**.
 6. **Bring her home.** Walk Gertruda into Mary's house. Mary is on her feet before the door is open, and the quest ends at **Home**. Mary gives you her mother's [Necklace of Prayer Beads](https://curseofstrahd.app/wiki/items/magic-items.md#necklace-of-prayer-beads).
 
@@ -76,13 +76,13 @@ Mad Mary's daughter Gertruda, sixteen and never once allowed outside, slipped ou
 
 - *Rahadin rises from his cot as if he has been expecting this, and the screaming rises with him.*, in [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (615 HP) (5900 XP)
-> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (580 HP) (5900 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md)**, when not rahadin defeated: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
 
 - *Rahadin draws a curved blade and settles on the top step as if he means to stand there for another four…*, in [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md): [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (795 HP) (5900 XP)
-> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (600 HP) (5900 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**, when gertruda with the party: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
+> - **[Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md)**: [Rahadin](https://curseofstrahd.app/wiki/bestiary/rahadin.md) (5900 XP)
 
 ## Journal
 

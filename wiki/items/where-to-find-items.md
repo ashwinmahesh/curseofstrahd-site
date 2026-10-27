@@ -640,106 +640,365 @@ Every item that has a fixed place in the world, is given by someone or is sold, 
 - [Spear](https://curseofstrahd.app/wiki/items/equipment.md#spear): In Trophy cabinet, [Castle Ravenloft, the Court of the Count](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-court-of-the-count.md) (The trophy room) (+3 more)
 - [Spell Component Ring](https://curseofstrahd.app/wiki/items/magic-items.md#spell-component-ring): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Duelist’s Trophy](https://curseofstrahd.app/wiki/items/magic-items.md#spell-duelists-trophy): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) from party level 5 (+1 more)
+- [Spell Scroll (Absorb Elements)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Aid)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+3 more)
+- [Spell Scroll (Alarm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Alter Self)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Alustriel’s Mooncloak)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Animal Friendship)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Animal Shapes)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Animate Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Animate Objects)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Antilife Shell)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
 - [Spell Scroll (Antimagic Field)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Arcane Eye)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Arcane Vigor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Armor of Agathys)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Arms of Hadar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Augury)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Aura of Evasion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Aura of Life)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Aura of Purity)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Aura of Vitality)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Backlash)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Bane)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Banishing Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
 - [Spell Scroll (Banishment)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+3 more)
+- [Spell Scroll (Barkskin)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Beacon of Hope)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), only when keepers allied
+- [Spell Scroll (Beast Sense)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Befuddlement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Bestow Curse)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Bigby's Hand)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
 - [Spell Scroll (Blade Barrier)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Blade of Disaster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
 - [Spell Scroll (Bless)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13) (+4 more)
-- [Spell Scroll (Burning Hands)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Blight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Blinding Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Blindness/Deafness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Blink)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Blur)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Burning Hands)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Cacophonic Shield)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Call Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Calm Emotions)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Catnap)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Chain Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) (+1 more)
-- [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
+- [Spell Scroll (Charm Monster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Charm Person)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Chromatic Orb)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove) (+1 more)
+- [Spell Scroll (Circle of Power)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Clairvoyance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Cloud of Daggers)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Cloudkill)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Color Spray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Command)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Commune with Nature)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Commune)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Compelled Duel)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Comprehend Languages)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Compulsion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md) from party level 5
 - [Spell Scroll (Cone of Cold)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): In a rack of the wardens' staves, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The arrow-slit gallery) (+3 more)
+- [Spell Scroll (Confusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Conjure Animals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Conjure Barrage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Conjure Celestial)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Conjure Constructs)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Conjure Elemental)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Conjure Fey)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Conjure Minor Elementals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Conjure Woodland Beings)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Contact Other Plane)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Contagion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Continual Flame)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Cordon of Arrows)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Counterspell)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+2 more)
+- [Spell Scroll (Create Undead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Crown of Madness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Crusader's Mantle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Cure Wounds)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+3 more)
+- [Spell Scroll (Darkness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Darkvision)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Daylight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) (+3 more)
+- [Spell Scroll (Death Armor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Death Ward)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+3 more)
 - [Spell Scroll (Delayed Blast Fireball)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) (+1 more)
+- [Spell Scroll (Destructive Wave)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
 - [Spell Scroll (Detect Evil and Good)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
-- [Spell Scroll (Detect Magic)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Detect Magic)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) (+1 more)
+- [Spell Scroll (Detect Poison and Disease)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Detonate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
 - [Spell Scroll (Dimension Door)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) from party level 5 (+1 more)
+- [Spell Scroll (Dirge)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Disguise Self)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Disintegrate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) (+1 more)
 - [Spell Scroll (Dispel Evil and Good)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+2 more)
 - [Spell Scroll (Dispel Magic)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): An Arcana check (DC 15) at Burned bookcases, [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md) (+4 more)
+- [Spell Scroll (Disruptive Tune)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Dissonant Whispers)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md)
+- [Spell Scroll (Distorted Distance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Divination)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Divine Favor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Divine Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Divine Word)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
-- [Spell Scroll (Dragon's Breath)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Hidden: a loose flagstone at the foot of the wall, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The dragon's vault) (found with Search, Perception DC 14)
-- [Spell Scroll (Feather Fall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
-- [Spell Scroll (Find Familiar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Dominate Beast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Dominate Monster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Dominate Person)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Doomtide)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Dragon's Breath)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Hidden: a loose flagstone at the foot of the wall, [Argynvostholt, Third Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-third-floor.md) (The dragon's vault) (found with Search, Perception DC 14) (+1 more)
+- [Spell Scroll (Earthquake)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Elemental Weapon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Elminster’s Effulgent Spheres)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Elminster’s Elusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Enervation)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Enhance Ability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Enlarge/Reduce)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Ensnaring Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Entangle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Enthrall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Entrancing Mirrors)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Etherealness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Evard's Black Tentacles)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Expeditious Retreat)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Eyebite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Faerie Fire)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (False Life)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Far Step)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Fear)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Feather Fall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Feign Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Festering Blast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Find Familiar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Find Steed)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Find the Path)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Find Traps)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Finger of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Fire Bolt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#cantrip-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Fire Shield)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
 - [Spell Scroll (Fire Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Fireball)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+2 more)
+- [Spell Scroll (Flame Blade)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Flame Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Flaming Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Flesh to Stone)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
 - [Spell Scroll (Fly)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Fog Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Forbiddance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Forcecage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Given by a cairn on the summit in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md) ([The Mad Mage of Mount Baratok](https://curseofstrahd.app/wiki/quests/the-mad-mage-of-mount-baratok.md)) (+1 more)
 - [Spell Scroll (Foresight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Fount of Moonlight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Fractured Awareness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Freedom of Movement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+2 more)
+- [Spell Scroll (Gaseous Form)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Gentle Repose)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Giant Insect)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
 - [Spell Scroll (Globe of Invulnerability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Glyph of Warding)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Goodberry)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Grasping Vine)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Grave Ground)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Grease)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Greater Invisibility)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) from party level 5 (+1 more)
 - [Spell Scroll (Greater Restoration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+2 more)
 - [Spell Scroll (Guardian of Faith)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+1 more)
+- [Spell Scroll (Guards and Wards)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Guiding Bolt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
+- [Spell Scroll (Gust of Wind)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Hail of Thorns)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Hallow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
-- [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove)
+- [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): In a chained case, [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md) (The barred alcove) (+1 more)
 - [Spell Scroll (Haste)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
 - [Spell Scroll (Heal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Healing Word)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
+- [Spell Scroll (Heat Metal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Hellish Rebuke)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Heroes' Feast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Heroism)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Hex)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Hold Monster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5
 - [Spell Scroll (Hold Person)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
 - [Spell Scroll (Holy Aura)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
-- [Spell Scroll (Identify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Holy Star of Mystra)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Hunger of Hadar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Hunter's Mark)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Hypnotic Pattern)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Ice Knife)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Ice Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Identify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Illusory Dragon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Incendiary Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Inflict Doubt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Inflict Wounds)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Insect Plague)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
 - [Spell Scroll (Invisibility)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
-- [Spell Scroll (Knock)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Invulnerability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Iron Body)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Jallarzi's Storm of Radiance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Jump)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Knock)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Laeral’s Silver Lance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Legend Lore)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Leomund's Secret Chest)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Leomund's Tiny Hut)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Lesser Restoration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+3 more)
 - [Spell Scroll (Level 1)](https://curseofstrahd.app/wiki/items/equipment.md#spell-scroll-level-1): 2 × In a warden's locker, [The Amber Temple: Hall of the Faceless God](https://curseofstrahd.app/wiki/locations/the-amber-temple-hall-of-the-faceless-god.md) (The wardens' cells) (locked, DC 14) (+6 more)
+- [Spell Scroll (Levitate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Light)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#cantrip-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Lightning Arrow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Lightning Bolt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
-- [Spell Scroll (Mage Armor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Lightning Ring)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Locate Creature)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Locate Object)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Longstrider)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Mage Armor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
 - [Spell Scroll (Mage Hand)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#cantrip-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Magic Circle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Magic Missile)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Magic Weapon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Major Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Mass Cure Wounds)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
 - [Spell Scroll (Mass Heal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 10
 - [Spell Scroll (Mass Healing Word)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Urwin Martikov](https://curseofstrahd.app/wiki/people/urwin-martikov.md), only when keepers allied
+- [Spell Scroll (Mass Suggestion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Maze)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Melf's Acid Arrow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Meteor Swarm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
 - [Spell Scroll (Mind Blank)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Mind Spike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Mirror Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Mislead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
 - [Spell Scroll (Misty Step)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
-- [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study)
+- [Spell Scroll (Moment of Prescience)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Moonbeam)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Mordenkainen's Faithful Hound)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Mordenkainen's Private Sanctum)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): In a travelling satchel, [The Mad Mage's Hut](https://curseofstrahd.app/wiki/locations/the-mad-mages-hut.md) (The study) (+1 more)
+- [Spell Scroll (Mordenkainen’s Lucubration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Negative Energy Flood)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Nondetection)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Otiluke's Freezing Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Otiluke's Resilient Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Otto's Irresistible Dance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Pass without Trace)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Passwall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Phantasmal Force)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Phantasmal Killer)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Phantom Steed)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Plane Shift)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Plant Growth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Polymorph)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) from party level 5 (+1 more)
+- [Spell Scroll (Power Word Fortify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Power Word Heal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 10
 - [Spell Scroll (Power Word Kill)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Power Word Pain)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Power Word Stun)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Prayer of Healing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
 - [Spell Scroll (Prestidigitation)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#cantrip-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Prismatic Spray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Prismatic Wall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Protection from Energy)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Protection from Evil and Good)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+3 more)
-- [Spell Scroll (Protection from Poison)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13)
+- [Spell Scroll (Protection from Poison)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13) (+1 more)
 - [Spell Scroll (Raise Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5 (+1 more)
+- [Spell Scroll (Ray of Enfeeblement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Ray of Sickness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Regenerate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Reincarnate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
 - [Spell Scroll (Remove Curse)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Given by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) in [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md) ([The Cat in the Window](https://curseofstrahd.app/wiki/quests/the-cat-in-the-window.md)) (+4 more)
 - [Spell Scroll (Resurrection)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Reverse Gravity)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
 - [Spell Scroll (Revivify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) (+3 more)
+- [Spell Scroll (Reweave Fate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Sanctuary)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
-- [Spell Scroll (Scorching Ray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
-- [Spell Scroll (See Invisibility)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Scorching Ray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Scrying)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Searing Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (See Invisibility)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Seeming)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Shapechange)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 10
+- [Spell Scroll (Shatter)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Shield of Faith)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
 - [Spell Scroll (Shield)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Shining Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Silence)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
+- [Spell Scroll (Silent Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Simbul’s Synostodweomer)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
 - [Spell Scroll (Sleep)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Sleet Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Slow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Songal’s Elemental Suffusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Speak with Animals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Speak with Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Speak with Plants)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Spellfire Flare)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Spellfire Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Spider Climb)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Spike Growth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
 - [Spell Scroll (Spirit Guardians)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) (+1 more)
+- [Spell Scroll (Spirit Lantern)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
 - [Spell Scroll (Spiritual Weapon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): In an iron-banded chest, [Death House, Upper Floor](https://curseofstrahd.app/wiki/locations/death-house-upper-floor.md) (Secret Study) (locked, DC 13) (+3 more)
+- [Spell Scroll (Staggering Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Steel Wind Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Stinking Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Stone Shape)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Stoneskin)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Storm of Vengeance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 10
+- [Spell Scroll (Suggestion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Summon Aberration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Summon Beast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Summon Celestial)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 5
+- [Spell Scroll (Summon Construct)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Summon Dinosaur)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Summon Dragon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Summon Elemental)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Summon Fey)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Summon Fiend)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Summon Plant)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Summon Undead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Sunbeam)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
 - [Spell Scroll (Sunburst)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9
+- [Spell Scroll (Swift Quiver)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Syluné’s Viper)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Synaptic Static)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Tasha's Bubbling Cauldron)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Tasha's Hideous Laughter)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
 - [Spell Scroll (Telekinesis)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5
-- [Spell Scroll (Thunderwave)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Tenser's Floating Disk)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Thunder Step)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Thunderous Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Thunderwave)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) (+1 more)
 - [Spell Scroll (Time Stop)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Tongues)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Transfix)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (True Polymorph)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
 - [Spell Scroll (True Resurrection)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 10
 - [Spell Scroll (True Seeing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) from party level 9 (+1 more)
+- [Spell Scroll (Tsunami)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Uncertain Footing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Unseen Servant)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Vampiric Touch)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Vision of Elapsing Eons)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Vitriolic Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Wail of the Banshee)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
 - [Spell Scroll (Wall of Fire)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 5
 - [Spell Scroll (Wall of Force)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) from party level 5 (+1 more)
+- [Spell Scroll (Wall of Ice)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 9
+- [Spell Scroll (Wall of Stone)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 5
+- [Spell Scroll (Wall of Thorns)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md) from party level 9
+- [Spell Scroll (Wardaway)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell Scroll (Warding Bond)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Donavich](https://curseofstrahd.app/wiki/people/father-donavich.md) (+2 more)
-- [Spell Scroll (Web)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md)
+- [Spell Scroll (Water Breathing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Waves of Exhaustion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Web)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasimir Velikov](https://curseofstrahd.app/wiki/people/kasimir-velikov.md) (+1 more)
+- [Spell Scroll (Weird)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10
+- [Spell Scroll (Wind Wall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Witch Bolt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md)
+- [Spell Scroll (Wither and Bloom)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Kasha Varo](https://curseofstrahd.app/wiki/people/kasha-varo.md)
+- [Spell Scroll (Wrathful Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
+- [Spell Scroll (Yolande's Regal Presence)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Zone of Amicability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls): Sold by [Stanimir](https://curseofstrahd.app/wiki/people/stanimir.md) from party level 5
+- [Spell Scroll (Zone of Truth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls): Sold by [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md)
 - [Spell-Slinger’s Puppet](https://curseofstrahd.app/wiki/items/magic-items.md#spell-slingers-puppet): Sold by [Gadof Blinsky](https://curseofstrahd.app/wiki/people/gadof-blinsky.md)
 - [Spellguard Shield](https://curseofstrahd.app/wiki/items/magic-items.md#spellguard-shield): Given by a heap of things in [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md) ([The Amber Debt](https://curseofstrahd.app/wiki/quests/the-amber-debt.md)) (+1 more)
 - [Sphere of Annihilation](https://curseofstrahd.app/wiki/items/magic-items.md#sphere-of-annihilation): Sold by [Xaver](https://curseofstrahd.app/wiki/people/xaver.md) from party level 10

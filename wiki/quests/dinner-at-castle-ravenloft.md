@@ -44,7 +44,7 @@ If you walk up the castle road on your own instead (two hours from [The River Iv
    - With Ratatouille in the party, **Taste the food, critically.** Strahd offers him a title and a tower of his own. Have him refuse (Ratatouille +4, and Heroic Inspiration) rather than keep eating in silence (Ratatouille -1).
    - With Kip in the party and [The Fine Print](https://curseofstrahd.app/wiki/quests/the-fine-print.md) far enough along, **Ask Strahd to sign something.** Asking for just the signature moves The Fine Print to its signed stage (Kip +6). Letting Strahd buy Kip's contract instead makes Kip Strahd's debtor (Kip -6).
 4. End the meal with **Thank him for his hospitality.** or **Draw on him.** If you aren't ready to do either, choose **(Excuse yourselves from the table for now.)** He tells you to walk about and stretch your legs: the table will keep, and so will he. The meal isn't over and the quest stays at Seated. Talk to him at the organ again whenever you like; he greets you with "You came back. I had the soup kept warm." and you're back at the table.
-5. If you draw on him, Strahd and three [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) fight you in the dining hall (13,150 XP, just past a High fight for four heroes at level 10). He fights until you bring him to 0 Hit Points, and then he leaves with a parting line instead of dying. He has 605, and until you break [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), the heart's ward soaks the first 50 damage he takes anywhere in the castle. The bats have 11 Hit Points each.
+5. If you draw on him, Strahd and three [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) fight you in the dining hall (13,150 XP, just past a High fight for four heroes at level 10). He fights until you bring him to 0 Hit Points, and then he leaves with a parting line instead of dying. He has 144, and until you break [The Heart of Sorrow](https://curseofstrahd.app/wiki/quests/the-heart-of-sorrow.md), the heart's ward soaks the first 50 damage he takes anywhere in the castle. Three times a day he answers a spell with Counterspell, and he spends it on the first spells he sees, so lead with cheap ones. The bats have 11 Hit Points each.
 
 While you are on the main floor:
 
@@ -130,7 +130,7 @@ The main floor is the hub. Every other part of the castle is one staircase away 
 
 ## Fights
 
-- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (605 HP), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
+- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md).
 
 ## Journal
 

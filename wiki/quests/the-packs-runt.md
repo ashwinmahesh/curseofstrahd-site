@@ -33,12 +33,12 @@ You first have to free the five stolen children from the werewolves' den (see [T
 ![sq grandsire](https://curseofstrahd.app/wiki/img/cutscenes/sq-grandsire.webp)
 
 4. **Fight the Grandsire** (**Grandsire**) in Krezk's square:
-   - level 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (AC 16, 310 HP), 3 Old Wolves of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)s) and 2 [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)s;
-   - level 8: the Grandsire at 330 HP, 2 werewolves and 2 dire wolves (6,800 XP);
-   - level 7: the Grandsire at 180 HP, 2 werewolves and a dire wolf;
-   - below that: the Grandsire at 140 HP with one werewolf and one dire wolf.
+   - level 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (AC 16, 180 HP at every level), 3 Old Wolves of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)s) and 2 [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md)s;
+   - level 8: the Grandsire, 2 werewolves and 2 dire wolves (6,800 XP);
+   - level 7: the Grandsire, 2 werewolves and a dire wolf;
+   - below that: the Grandsire with one werewolf and one dire wolf.
 
-   His bite knocks you prone, and everything here has Pack Tactics, so keep your fighters back to back rather than strung out alone. His howl frightens everyone within 60 feet (Wisdom save DC 15). He turns two failed saves a day into successes, and between your turns he snaps or lopes away. Kill the smaller wolves first to take away his advantage.
+   His bite knocks you prone, and everything here has Pack Tactics, so keep your fighters back to back rather than strung out alone. His howl frightens everyone within 60 feet (Wisdom save DC 15). He turns two failed saves a day into successes, and three times a round, at the end of a hero's turn, he snaps or lopes away. Kill the smaller wolves first to take away his advantage.
 5. **Talk to Petru again** after the fight. The quest ends at **Done**.
 
 ### Choices and endings
@@ -68,10 +68,10 @@ You first have to free the five stolen children from the werewolves' den (see [T
 
 - *The Grandsire comes over Krezk's wall in the moonlight with the old wolves of the pack at his heels.*, in [Krezk](https://curseofstrahd.app/wiki/locations/krezk.md): [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), [Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (310 HP), 3 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (7500 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 8: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (330 HP), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6800 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 9: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 3 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (7500 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 8: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), 2 × [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6800 XP)
 > - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**, when level ≥ 7: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), 2 × An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (6600 XP)
-> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md) (140 HP), An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5900 XP)
+> - **[Krezk](https://curseofstrahd.app/wiki/locations/krezk.md)**: [The Grandsire](https://curseofstrahd.app/wiki/bestiary/the-grandsire.md), An Old Wolf of the Pack ([Werewolf](https://curseofstrahd.app/wiki/bestiary/werewolf.md)), [Dire Wolf](https://curseofstrahd.app/wiki/bestiary/dire-wolf.md) (5900 XP)
 
 ## Journal
 

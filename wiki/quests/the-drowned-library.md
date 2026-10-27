@@ -34,7 +34,7 @@ Either way, once the quest has started, the well-head has a way down. Click the 
 2. **Meet Xaver.** Flattened against the ceiling on top of the furthest bookcase is [Xaver](https://curseofstrahd.app/wiki/people/xaver.md), Khazan's last apprentice, three hundred years down here and gone to something thin and grey with one great eye. He speaks as you come near. "What happened to you?" gets his story and his warning: it's never been him you should be frightened of. Insight DC 13 ("Watch where his eye goes") shows that his eye never leaves the catalogue desk, whose brass handles are the only clean thing in the room. A miss tells you nothing and costs nothing else.
 
 3. **The desk.** Look at it and you get the choice to open a drawer or leave it alone. You can't finish the quest without opening one. When you do, every drawer opens, every one has teeth, and two reading chairs stand up.
-   - **The fight:** [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md) (390 hit points here, AC 14, CR 9) and two Reading Chairs ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), 5900 XP, in its own lair.
+   - **The fight:** [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md) (157 hit points, AC 14, CR 9) and two Reading Chairs ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)), 5900 XP, in its own lair.
    - **The Index:** it bites and lashes out with two sticky pseudopods that grapple (escape DC 16). Every so often it sprays acid-soaked pages at three of you within 30 feet (Dexterity DC 15, 5d8 acid, half on a save). It's immune to acid and has Legendary Resistance twice a day.
    - **The chairs:** they stick to whatever touches them.
 
@@ -66,7 +66,7 @@ Either way, once the quest has started, the well-head has a way down. Click the 
 
 ## Fights
 
-- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md) (390 HP), 2 × A Reading Chair ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)).
+- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md), 2 × A Reading Chair ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)).
 
 ## Journal
 

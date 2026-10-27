@@ -80,7 +80,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level. Starts from a conversation. Part of [The Forgotten Storm](https://curseofstrahd.app/wiki/quests/the-forgotten-storm.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
 
 ### At camp here
 

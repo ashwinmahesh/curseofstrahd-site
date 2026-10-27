@@ -43,6 +43,11 @@ A towering construct of polished amber: two crushing fists and a pulse of magic 
 
 - **Slow.** Recharge 5-6. Casts Slow (Con, DC 17) as a Bonus Action.
 
+### Lair actions
+
+- **The Amber Hardens.** Liquid amber wells up out of the floor round one creature the golem can see within 120 feet and hardens. It makes a DC 15 Strength saving throw or has the Restrained condition until the end of the golem's next turn.
+- **Amber Shards.** The amber in the walls cracks and sprays shards at up to two creatures the golem can see within 120 feet. Each makes a DC 15 Dexterity saving throw, taking 11 (2d10) Piercing damage on a failure or half as much on a success.
+
 ## Where you meet it
 
 - [Under the Vaults](https://curseofstrahd.app/wiki/locations/under-the-vaults.md): *Something blinks inside the nearest block of amber. Then the amber blinks back, everywhere, and the little…*

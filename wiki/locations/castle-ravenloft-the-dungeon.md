@@ -110,12 +110,12 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *He laughs, and two more shapes unfold from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Brother Anatol ([Vampire](https://curseofstrahd.app/wiki/bestiary/vampire.md)), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Starts from a conversation.
 
-- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 104 HP). Starts from a conversation.
+- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)). Starts from a conversation.
 
 - *At the head of the table of bones, your host rises. Along both sides, the chairs stand up with him.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md). Scales with your level. Starts when you reach the hall of bones.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (500 HP), 6 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (13300 XP; lair)
-> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 6 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (13300 XP; lair)
+> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 6 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (13300 XP; lair)
+> - **[Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 6 × Guest of Bone ([Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md)) (13300 XP; lair)
 
 ## Quests and lore
 

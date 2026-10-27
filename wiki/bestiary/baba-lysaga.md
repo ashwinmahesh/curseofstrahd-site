@@ -46,6 +46,15 @@ An ancient witch: three staff blows, a 16th-level wizard's spells, swarms of ins
 - **Shapechange.** Text only for the engine.
 - **Summon Swarms of Insects.** They stay until killed or until she dismisses them as an action. Text only for the engine.
 
+### Reactions
+
+- **Protective Magic.** Baba Lysaga casts Counterspell or Shield in response to that spell's trigger (three times a day).
+
+### Lair actions
+
+- **The Hut Lurches.** The hut heaves on its great legs. Up to three creatures Baba Lysaga can see make a DC 16 Dexterity saving throw; on a failure a creature falls Prone.
+- **The Walls Swarm.** Biting insects boil out of the hut's walls onto up to two creatures she can see. Each makes a DC 16 Constitution saving throw, taking 10 (3d6) Piercing damage on a failure or half as much on a success.
+
 ## Where you meet it
 
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): *The stump heaves. Roots as thick as a man tear out of the mud, and the hut rises on them, swaying, its door…*

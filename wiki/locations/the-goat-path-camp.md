@@ -53,7 +53,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md) (155 HP), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Starts from a conversation. Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
+- *The guide gets up. His shadows stand up off the snow without him, and out of the drifts below the shelf come…*, in [The Goat Path Camp](https://curseofstrahd.app/wiki/locations/the-goat-path-camp.md): [The Guide](https://curseofstrahd.app/wiki/bestiary/the-guide.md), 5 × One He Led Up ([Wraith](https://curseofstrahd.app/wiki/bestiary/wraith.md)), 2 × One of His Shadows ([Shadow](https://curseofstrahd.app/wiki/bestiary/shadow.md)). Starts from a conversation. Part of [The Guide to the Temple](https://curseofstrahd.app/wiki/quests/the-guide-to-the-temple.md).
 
 ### At camp here
 

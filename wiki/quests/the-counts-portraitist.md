@@ -30,9 +30,9 @@ This is a late quest. [Haralamb](https://curseofstrahd.app/wiki/people/haralamb.
 3. **Face the great canvas.** It hangs against the far wall in a gilt frame taller than a door. When you examine it, the painted woman's mouth moves, and the count speaks to you through it. You can ask who's talking, or put a light to the canvas straight away. Either way, every portrait in the room turns its head toward you and the fight begins.
 
    ![sq counts likeness](https://curseofstrahd.app/wiki/img/cutscenes/sq-counts-likeness.webp)
-4. **The fight (`counts_likeness`).** This is the same at every level: [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP here, AC 13) and seven *Copies* ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s, 22 HP each).
-   - **The Likeness** hits in melee with its swinging frame. The Count's Regard is a DC 16 Wisdom save against 5d10 psychic damage and fear, and it can also use the Regard between your turns. Once each per day it casts Hypnotic Pattern and Hold Person.
-   - **Its defences.** It shrugs off two failed saves a day, and it can't be charmed, frightened, paralysed or knocked prone. Damage spells work better against it than spells that try to control it.
+4. **The fight (`counts_likeness`).** This is the same at every level: [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (181 HP, AC 13) and seven *Copies* ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)s, 22 HP each).
+   - **The Likeness** hits in melee with its swinging frame. The Count's Regard is a DC 16 Wisdom save against 5d10 psychic damage and fear, and once a round, at the end of one of your heroes' turns, it can use the Regard again. Once each per day it casts Hypnotic Pattern and Hold Person.
+   - **Its defences.** It shrugs off two failed saves a day against anything that would lay a condition on it, and it can't be charmed, frightened, paralysed or knocked prone. Damage spells work better against it than spells that try to control it. Twice a day it answers with Counterspell or Shield, so spend those on a lesser spell before you cast your best one.
    - **The Copies** go down fast, so clear them early to cut down the number of attacks coming at you.
    
    Winning burns the canvas, and the journal moves to *Burned*.
@@ -62,7 +62,7 @@ There's one ending. You get Nolzur's Marvelous Pigments, 150 gp, and approval fr
 
 ## Fights
 
-- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)).
+- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)).
 
 ## Journal
 

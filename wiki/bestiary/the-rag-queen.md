@@ -40,6 +40,11 @@ Baba Lysaga's masterpiece: a scarecrow twice the height of a man, stitched from 
 - **Fearsome Claw.** Hit: 19 (3d8 + 6) Slashing damage, and the target has the Frightened condition until the end of the Rag Queen's next turn.
 - **Terrifying Glare.** One creature the Rag Queen can see within 30 feet makes a DC 16 Wisdom saving throw. Failure: the target has the Frightened and Paralyzed conditions until the end of the Rag Queen's next turn.
 
+### Lair actions
+
+- **The Scarecrows Turn Their Heads.** Every scarecrow in the field turns its head toward up to two creatures the Rag Queen can see. Each makes a DC 15 Wisdom saving throw or has the Frightened condition until the start of her next turn.
+- **Rag Wind.** A wind full of torn rags, straw and pins whips across the field at up to two creatures. Each makes a DC 15 Dexterity saving throw, taking 9 (2d8) Slashing damage on a failure or half as much on a success.
+
 ## Where you meet it
 
 - [The Ruins of Berez](https://curseofstrahd.app/wiki/locations/the-ruins-of-berez.md): [The One-Horned Billy](https://curseofstrahd.app/wiki/quests/the-one-horned-billy.md) · *The Rag Queen steps down off her post, twice the height of a man, all rotten silk and lace and faces in the…*

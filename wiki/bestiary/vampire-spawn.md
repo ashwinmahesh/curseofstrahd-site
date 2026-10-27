@@ -52,7 +52,6 @@ Grabs a victim with its claws, bites to heal itself, and disengages freely; shun
 - [Castle Ravenloft, Strahd's Tomb](https://curseofstrahd.app/wiki/locations/castle-ravenloft-strahds-tomb.md): *Two pale shapes rise from behind the dais, and the ceiling comes loose and becomes bats.*
 - [Castle Ravenloft, the Lesser Vaults](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-lesser-vaults.md): Cat Sasha
 - [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*
-- [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): *Ludmilla closes her book. Volenta claps her hands. Anastrasya turns her face to the wall and does not move.*
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *His hand closes on the nearest throat, and two more shapes drop from the vault above the passage.*
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *He laughs, and two more shapes unfold from the vault above the passage.*
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*

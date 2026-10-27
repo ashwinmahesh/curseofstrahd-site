@@ -98,9 +98,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Izek comes off the cot in one movement, and the arm that isn't his starts to glow like a coal someone has…*, in [The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md): [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md). Scales with your level. Starts from a conversation. Part of [The Doll Collector](https://curseofstrahd.app/wiki/quests/the-doll-collector.md).
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (360 HP), 2 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (95 HP), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
-> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (60 HP) (1800 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 5: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), 2 × Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (3200 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**, when level ≥ 4: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md), Sergeant of the watch ([Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)) (2500 XP)
+> - **[The Burgomaster's Mansion](https://curseofstrahd.app/wiki/locations/the-burgomasters-mansion.md)**: [Izek Strazni](https://curseofstrahd.app/wiki/bestiary/izek-strazni.md) (1800 XP)
 
 ## Quests and lore
 

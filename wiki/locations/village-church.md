@@ -93,7 +93,7 @@ The containers here also get random magic items and potions, rolled for a party 
 - *Doru drops from the ceiling without a sound. Whatever was left of the priest's son is gone behind his eyes.*, in [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md): [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed and level ≥ 3: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
-> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 45 HP) (1800 XP)
+> - **[Village Church](https://curseofstrahd.app/wiki/locations/village-church.md)**, when not doru destroyed and not doru freed: Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (1800 XP)
 
 ### At camp here
 

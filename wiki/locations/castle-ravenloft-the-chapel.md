@@ -79,8 +79,8 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Someone is kneeling at the altar. He finishes whatever he was saying, rises, and turns. In the front pews,…*, in [Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md). Scales with your level. Starts when you reach the nave.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (455 HP), 2 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (16600 XP; lair)
-> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (350 HP), 2 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (16600 XP; lair)
+> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**, when carrying sunsword: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 2 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (16600 XP; lair)
+> - **[Castle Ravenloft, the Chapel](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-chapel.md)**: [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 2 × A thrall in the pews ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)) (16600 XP; lair)
 
 ### At camp here
 

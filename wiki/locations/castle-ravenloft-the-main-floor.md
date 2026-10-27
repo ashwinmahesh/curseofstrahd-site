@@ -107,7 +107,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) (605 HP), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Starts from a conversation.
+- *Strahd sets down his glass. At my table, he says, almost fondly. The candles gutter, and the dark above the…*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md), 3 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md). Starts from a conversation.
 
 - *Suits of black armour step down from their stands at once, as if someone had called the watch.*, in [Castle Ravenloft, the Main Floor](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-main-floor.md): [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md). Scales with your level. Starts when you reach the east turret post.
 > [!example]- Every version (the first whose condition holds is the fight you get)

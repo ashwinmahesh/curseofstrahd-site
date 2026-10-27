@@ -51,7 +51,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md) (395 HP). Starts from a conversation. Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
+- *The quarry floor sits up, and then stands up, three times a man's height, with a hole in its chest.*, in [The Ghakis Quarry](https://curseofstrahd.app/wiki/locations/the-ghakis-quarry.md): [Grandfather Stone](https://curseofstrahd.app/wiki/bestiary/grandfather-stone.md). Starts from a conversation. Part of [The Mountain's Heart](https://curseofstrahd.app/wiki/quests/the-mountains-heart.md).
 
 ### At camp here
 

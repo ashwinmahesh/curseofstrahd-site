@@ -56,5 +56,6 @@ A true vampire: grappling strikes and a draining bite, charm, bat and mist shape
 
 ## Where you meet it
 
+- [Castle Ravenloft, the Rooms of Weeping](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-rooms-of-weeping.md): *Ludmilla closes her book. Volenta claps her hands. Anastrasya turns her face to the wall and does not move.*
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *His hand closes on the nearest throat, and two more shapes drop from the vault above the passage.*
 - [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): *He laughs, and two more shapes unfold from the vault above the passage.*

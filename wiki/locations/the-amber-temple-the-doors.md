@@ -89,11 +89,11 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *The colossus steps down off its plinth, and the ledge shakes. High on the facade, two stone shapes unfold…*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), [Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 395 HP), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)) (6800 XP)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 8: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP)
-> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 130 HP) (5900 XP)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 10: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)), 2 × Facade gargoyle ([Gargoyle](https://curseofstrahd.app/wiki/bestiary/gargoyle.md)) (6800 XP; lair)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**, when level ≥ 8: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP; lair)
+> - **[The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md)**: The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)) (5900 XP; lair)
 
-- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md), 375 HP). Starts when you reach the snow ledge.
+- *NOTHING LEAVES, says the colossus, and steps down to make sure of it.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): The Amber Sentinel ([Amber Golem](https://curseofstrahd.app/wiki/bestiary/amber-golem.md)). Starts when you reach the snow ledge.
 
 - *The figures in the frost turn their heads. Ice cracks off their mail as they stand.*, in [The Amber Temple: the Doors](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-doors.md): [Wight](https://curseofstrahd.app/wiki/bestiary/wight.md). Scales with your level. Starts when you reach the east guardroom.
 > [!example]- Every version (the first whose condition holds is the fight you get)

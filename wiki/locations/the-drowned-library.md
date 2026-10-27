@@ -56,7 +56,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md) (390 HP), 2 × A Reading Chair ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)). Starts from a conversation. Part of [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md).
+- *The catalogue desk opens all its drawers at once, and every one of them has teeth. Round the room, two…*, in [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md): [The Index](https://curseofstrahd.app/wiki/bestiary/the-index.md), 2 × A Reading Chair ([Mimic](https://curseofstrahd.app/wiki/bestiary/mimic.md)). Starts from a conversation. Part of [The Drowned Library](https://curseofstrahd.app/wiki/quests/the-drowned-library.md).
 
 ### At camp here
 

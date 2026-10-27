@@ -43,6 +43,11 @@ The revenant commander of a fallen order: two greatsword strokes, wounds that cl
 - **Greatsword.** Against Strahd the hit deals an extra 14 (4d6) Slashing damage.
 - **Vengeful Glare.** Paralyzed until this creature damages him or until the end of its next turn; then Frightened for 1 minute (repeat save each turn). Text only for the engine.
 
+### Lair actions
+
+- **The Order's Dead Hold Fast.** Grey hands rise from the beacon's floor round one creature Vladimir can see. It makes a DC 14 Strength saving throw or has the Restrained condition until the end of his next turn.
+- **The Cold Flame.** The beacon's dead flame gutters cold and reaches out for up to two creatures. Each makes a DC 14 Constitution saving throw, taking 9 (2d8) Necrotic damage on a failure or half as much on a success.
+
 ## Where you meet it
 
 - [The Beacon Tower](https://curseofstrahd.app/wiki/locations/the-beacon-tower.md): *Vladimir comes off the last step with his greatsword already moving. Behind him on the stair, dead knights in…*

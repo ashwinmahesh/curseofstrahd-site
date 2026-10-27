@@ -81,7 +81,7 @@ The containers here also get random magic items and potions, rolled for a party 
 > - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared and level ≥ 10: 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)), 2 × [Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md) (4400 XP)
 > - **[The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md)**, when not library wardens cleared: 3 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)) (3300 XP)
 
-- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md) (130 HP), 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)). Starts from a conversation.
+- *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*, in [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): [Exethanter](https://curseofstrahd.app/wiki/bestiary/exethanter.md), 2 × Warden's skull ([Flameskull](https://curseofstrahd.app/wiki/bestiary/flameskull.md)). Starts from a conversation.
 
 ### At camp here
 

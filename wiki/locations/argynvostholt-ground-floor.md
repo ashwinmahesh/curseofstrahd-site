@@ -90,9 +90,9 @@ The containers here also get random magic items and potions, rolled for a party 
 
 - *Vladimir rises from the winged chair for the first time, and all down the table dead heads turn to watch. He…*, in [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level. Starts from a conversation.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (290 HP), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 8: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md), Vladimir's second ([Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md)) (4700 XP)
 > - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**, when level ≥ 7: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
-> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (140 HP) (2900 XP)
+> - **[Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md)**: [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) (2900 XP)
 
 - *The kneeling figures rise together in scorched black plate, lifting their helms from the stone without a…*, in [Argynvostholt, Ground Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-ground-floor.md): [Revenant](https://curseofstrahd.app/wiki/bestiary/revenant.md). Scales with your level. Starts when you reach the chapel.
 > [!example]- Every version (the first whose condition holds is the fight you get)

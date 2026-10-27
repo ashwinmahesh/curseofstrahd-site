@@ -59,7 +59,7 @@ The mill is two hours from the Village of Barovia or from the River Ivlis Crossr
 3. **The bakery: Offalia.** Inside the mill, Offalia turns from the oven with a hot tray in her bare hands and takes you for deliveries. Deal with her one of three ways:
    - **Feed her.** "Have a pastry. One of your mother's." She eats it in one bite and falls asleep on the floor.
    - **Fool her.** **Deception DC 13**: "Your mother's down on the road, calling for you." She runs off down the hill and is loose on the lane afterwards. If it fails, she tells Mother you fib, and Morgantha won't accept your word of peace later.
-   - **Fight her.** "Step away from the oven, Offalia. Now." She fights without her sisters, as a [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md) with 60 HP below level 5, 80 at level 5, and 285 from level 6. Opening the great oven while she's awake also starts this fight, with her at 200 HP.
+   - **Fight her.** "Step away from the oven, Offalia. Now." She fights without her sisters, as a [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md) with 112 HP at every level. Opening the great oven while she's awake also starts this fight.
 
    Any of these moves the journal to *Bakery Cleared*. Night hags have AC 17, resist fire and cold, have Magic Resistance, and cast 4th-level Magic Missile at will and Phantasmal Killer twice a day. A hag at a quarter of her HP slips away into the Ethereal, which ends her part in the fight.
 
@@ -90,10 +90,10 @@ The mill is two hours from the Village of Barovia or from the River Ivlis Crossr
    - **Walk away.** "Keep them. We want no part of this." The quest fails (*Children Abandoned*), with heavy disapproval from every companion: Kip and Godrick −6, Liriel, Thistle and Wren −5, Ratatouille −4.
    - **Fight.** "Then we'll take them from you." Whichever daughters you haven't dealt with join her. If both would, she warns you first, and "Wait. Not like this." backs you out. Before you choose, **Insight DC 13** shows she doesn't want to do this alone.
 
-   The fight (`coven_last_stand`):
-   - **Morgantha alone:** 85 HP with a [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) below level 5, 100 HP with two swarms at level 5 (just under a Low fight), and 300 HP with three swarms from level 6.
-   - **One daughter with her:** below level 6, Morgantha (95 HP) and Offalia or Bella (60 HP). From level 6, Morgantha and Offalia at 340 HP each, or Morgantha and Bella at 110 HP each.
-   - **The whole coven:** Morgantha (95), Bella (60) and Offalia (60) below level 6; Morgantha (310), Bella (195) and Offalia (195) from level 6. That's three casters of Phantasmal Killer and Magic Missile, above High at level 5.
+   The fight (`coven_last_stand`), where every hag has 112 HP at every level:
+   - **Morgantha alone:** with a [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md) below level 5, two swarms at level 5 (just under a Low fight), and three swarms from level 6.
+   - **One daughter with her:** Morgantha and Offalia, or Morgantha and Bella.
+   - **The whole coven:** Morgantha, Bella and Offalia, above High at level 5. While all three stand within 30 feet of each other, each can cast the coven's shared spells as well as her own: Ray of Sickness, Hold Person, Bestow Curse, Counterspell, Lightning Bolt, Phantasmal Killer, Polymorph and Eyebite (DC 15). Split them up, or drop one fast, and the coven magic stops.
 
    Rat swarms shrug off weapon blows, so use area spells on them. Winning moves the journal to *Coven Broken*.
 
@@ -109,7 +109,7 @@ The mill is two hours from the Village of Barovia or from the River Ivlis Crossr
    - **Bella, if you made the pact.** She settles into the rocking chair and asks for her mother's soul bags:
      - "A deal's a deal." She gets the mill and the bags (Liriel −3, Godrick −1, Kip +1).
      - **Persuasion DC 14**: she keeps the mill and you cut the bags open (Liriel +3, Godrick +2, Kip and Wren +1). If it fails, she fights.
-     - "Our deal ends here, Bella. So do you." (Thistle and Wren +1, Godrick and Kip −1.) She fights alone, with 80 HP, or 300 HP from level 6.
+     - "Our deal ends here, Bella. So do you." (Thistle and Wren +1, Godrick and Kip −1.) She fights alone, with 112 HP.
    - **The soul bags**, if nobody has a claim on them: "Cut them open." (Liriel +3, Godrick and Wren +1). If someone sold Morgantha a dream, it comes home.
    - **A sleeping Offalia** on the bakery floor: end her while she sleeps (Thistle +1, Godrick and Liriel −1), or leave her to wake and wander.
    - **The sail brake** in the loft lets the sails turn again.
@@ -134,7 +134,7 @@ The mill is two hours from the Village of Barovia or from the River Ivlis Crossr
   - **Broken:** Morgantha dead, a daughter still loose. The trade dwindles.
   - **Bella's mill:** the pact was kept. She sells "lighter" pastries from her cart on the miller's lane, where "This ends here, Bella." starts a fight with her.
   - **Bargain:** Morgantha keeps rocking and baking. "Your bargaining days are over." lets you come back and fight her; breaking a sworn truce is felt.
-- **Loose daughters.** A fooled Offalia sits crying in a hedge on the miller's lane. While Morgantha lives, you can send her home, and she'll be back at the oven. Otherwise you can fight her: 80 HP, or 300 from level 6.
+- **Loose daughters.** A fooled Offalia sits crying in a hedge on the miller's lane. While Morgantha lives, you can send her home, and she'll be back at the oven. Otherwise you can fight her: 112 HP.
 - **Where the children went.** Whether they went home or to the Blue Water Inn changes what their mother, [Goodwife Sarnov](https://curseofstrahd.app/wiki/people/goodwife-sarnov.md), says in [The Fourth Sister](https://curseofstrahd.app/wiki/quests/the-fourth-sister.md). That quest opens once the children are out and Morgantha is dead. Only if they went home are Ilka and Toma there for its happiest ending.
 - **Ilinca's word.** Ilinca now vouches for you. [Davian Martikov](https://curseofstrahd.app/wiki/people/davian-martikov.md) greets you by it at the Wizard of Wines. One day a line of ravens drops a Potion of Healing at your feet on the lane. The epilogue mentions the Keepers.
 
@@ -162,22 +162,22 @@ The mill is two hours from the Village of Barovia or from the River Ivlis Crossr
 
 - *Morgantha stands, and keeps standing, taller than the rafters should allow. In the corner Bella lays down her…*, in [Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), [Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 310 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 195 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 195 HP) (5400 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (5400 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 340 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 340 HP) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 110 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 110 HP) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 95 HP), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (3600 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 300 HP), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1950 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 5: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 100 HP), 2 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1900 XP)
-> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 85 HP), Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1850 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (5400 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (5400 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when offalia in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand and level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when bella in last stand: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Bella Sunbane ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (3600 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 6: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), 3 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1950 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**, when level ≥ 5: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), 2 × Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1900 XP)
+> - **[Old Bonegrinder, the Loft](https://curseofstrahd.app/wiki/locations/old-bonegrinder-the-loft.md)**: Morgantha ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)), Rats from the grain bins ([Swarm of Rats](https://curseofstrahd.app/wiki/bestiary/swarm-of-rats.md)) (1850 XP)
 
 - *Offalia wipes her hands on her apron, and keeps wiping them as they lengthen into something with knuckles…*, in [Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md): [Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 285 HP) (1800 XP)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 5: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 80 HP) (1800 XP)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 60 HP) (1800 XP)
-> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when not (offalia slain or offalia asleep or offalia lured): Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md), 200 HP) (1800 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 6: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when level ≥ 5: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**: Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
+> - **[Old Bonegrinder](https://curseofstrahd.app/wiki/locations/old-bonegrinder.md)**, when not (offalia slain or offalia asleep or offalia lured): Offalia Wormwiggle ([Night Hag](https://curseofstrahd.app/wiki/bestiary/night-hag.md)) (1800 XP)
 
 ## Journal
 

@@ -38,13 +38,13 @@ You may already have seen the storm strike if the lightning-ridge event came up 
 3. **Answer it.** "(Say her name: Corvina.)" only appears if you know her name: from the letter fused into this same ring of glass ([The Mage's Lost Pages](https://curseofstrahd.app/wiki/quests/the-mages-lost-pages.md)), from Mordenkainen after you bring him all three letters, or from the slip of paper in her coat once you've beaten her in the castle catacombs and used her crypt again ([The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)). When the storm has her name:
    - **"She's at rest. Her name's on her crypt. You can stop now."** This only appears once you've laid Corvina to rest in the castle catacombs ([The Unnamed Crypt](https://curseofstrahd.app/wiki/quests/the-unnamed-crypt.md)). The storm lets go of itself and drifts off over the lake as rain, with no fight (Liriel +2, Wren +2, Godrick +1).
    - **"In the count's castle, in a crypt with no name."** The storm tears off east toward the castle, hits a wall in the sky, and comes back smaller and furious: "AND HIM." You fight it weakened, at 110 hit points.
-   - **"(Stand your ground.)"** You fight it at full strength, at 430 hit points.
+   - **"(Stand your ground.)"** You fight it at full strength, at 152 hit points.
 
 4. **The fight.** [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) and a Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md) at 90 hit points), 6800 XP, on the storm's own ground (it has lair actions).
    - **Its attacks:** two thunderous slams, Lightning on two of you (Dexterity DC 16, 6d8, half on a save), and a Whirlwind that throws whoever is in its space 20 feet and knocks them prone (Strength DC 16, 4d10+2 thunder).
    - **Its defences:** it resists weapon damage and lightning, is immune to thunder, and has Legendary Resistance once a day.
 
-   Spells that aren't lightning or thunder are your best damage. Keep apart so the lightning only finds two of you. Sending it east first takes 320 hit points off it, so it's worth it if you can't yet tell it she's at rest. Winning (or the peaceful ending) moves the quest to Broken.
+   Spells that aren't lightning or thunder are your best damage. Keep apart so the lightning only finds two of you. Sending it east first takes 42 hit points off it, so it's worth it if you can't yet tell it she's at rest. Winning (or the peaceful ending) moves the quest to Broken.
 
 5. **Look at the glass again.** Sunk where the storm stood is the brass censer the mage dropped on the road forty years ago: a [Censer of Controlling Air Elementals](https://curseofstrahd.app/wiki/items/magic-items.md#censer-of-controlling-air-elementals).
 
@@ -80,7 +80,7 @@ You may already have seen the storm strike if the lightning-ridge event came up 
 - *The storm comes down off the ring of glass at you, and the lightning comes down out of it.*, in [Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md): [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), [Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md). Scales with your level.
 > [!example]- Every version (the first whose condition holds is the fight you get)
 > - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**, when storm sent east: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (110 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
-> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md) (430 HP), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
+> - **[Mount Baratok](https://curseofstrahd.app/wiki/locations/mount-baratok.md)**: [The Forgotten Storm](https://curseofstrahd.app/wiki/bestiary/the-forgotten-storm.md), A Squall ([Air Elemental](https://curseofstrahd.app/wiki/bestiary/air-elemental.md)) (6800 XP; lair)
 
 ## Journal
 

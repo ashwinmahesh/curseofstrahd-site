@@ -2,7 +2,7 @@
 
 > From the Curse of Strahd game wiki (it covers the whole game, spoilers included): https://curseofstrahd.app/wiki/bestiary/all-creatures.html. Unofficial Fan Content permitted under the Fan Content Policy, not approved or endorsed by Wizards of the Coast.
 
-Every creature the party can fight: 151 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
+Every creature the party can fight: 152 of them, with their stat blocks' numbers. A fight can give a boss Hit Points of its own (its page's fight lists say so). The journal's Bestiary tab fills in as you meet, fell and Study them.
 
 | | Creature | Type | Size | CR | XP | AC | HP | Speed | Str | Dex | Con | Int | Wis | Cha |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -119,7 +119,8 @@ Every creature the party can fight: 151 of them, with their stat blocks' numbers
 | ![mage](https://curseofstrahd.app/wiki/img/portraits/mage.webp) | [Mage](https://curseofstrahd.app/wiki/bestiary/mage.md) | humanoid | medium | 6 | 2300 | 15 | 81 | 30 ft | 9 | 14 | 11 | 17 | 12 | 11 |
 | ![strahds animated armor](https://curseofstrahd.app/wiki/img/portraits/strahds-animated-armor.webp) | [Strahd's Animated Armor](https://curseofstrahd.app/wiki/bestiary/strahds-animated-armor.md) | construct | medium | 6 | 2300 | 21 | 112 | 30 ft | 17 | 13 | 16 | 9 | 10 | 9 |
 | ![vrock](https://curseofstrahd.app/wiki/img/portraits/vrock.webp) | [Vrock](https://curseofstrahd.app/wiki/bestiary/vrock.md) | fiend | large | 6 | 2300 | 15 | 152 | 40 ft, fly 60 ft | 17 | 15 | 18 | 8 | 13 | 8 |
-| ![mimic](https://curseofstrahd.app/wiki/img/portraits/mimic.webp) | [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) | monstrosity | huge | 7 | 2900 | 14 | 171 | 30 ft | 20 | 12 | 17 | 6 | 13 | 8 |
+| ![ismark](https://curseofstrahd.app/wiki/img/portraits/ismark.webp) | [Ismark Kolyanovich](https://curseofstrahd.app/wiki/bestiary/ismark-kolyanovich.md) | humanoid | medium | 7 | 2900 | 17 | 90 | 30 ft | 18 | 12 | 16 | 10 | 12 | 14 |
+| ![tinkers wagon](https://curseofstrahd.app/wiki/img/portraits/tinkers-wagon.webp) | [The Tinker's Wagon](https://curseofstrahd.app/wiki/bestiary/the-tinkers-wagon.md) | monstrosity | huge | 7 | 2900 | 14 | 171 | 30 ft | 20 | 12 | 17 | 6 | 13 | 8 |
 | ![tree blight](https://curseofstrahd.app/wiki/img/portraits/tree-blight.webp) | [Tree Blight](https://curseofstrahd.app/wiki/bestiary/tree-blight.md) | plant | huge | 7 | 2900 | 15 | 115 | 30 ft | 23 | 10 | 20 | 6 | 10 | 3 |
 | ![vladimir horngaard](https://curseofstrahd.app/wiki/img/portraits/vladimir-horngaard.webp) | [Vladimir Horngaard](https://curseofstrahd.app/wiki/bestiary/vladimir-horngaard.md) | undead | medium | 7 | 2900 | 17 | 195 | 30 ft | 18 | 14 | 18 | 13 | 16 | 18 |
 | ![ezmerelda](https://curseofstrahd.app/wiki/img/portraits/ezmerelda.webp) | [Ezmerelda d'Avenir](https://curseofstrahd.app/wiki/bestiary/ezmerelda-davenir.md) | humanoid | medium | 8 | 3900 | 17 | 82 | 30 ft | 14 | 19 | 16 | 16 | 11 | 17 |
@@ -153,7 +154,7 @@ Every creature the party can fight: 151 of them, with their stat blocks' numbers
 | ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Corvina, the Doorkeeper](https://curseofstrahd.app/wiki/bestiary/corvina-the-doorkeeper.md) | undead | medium | 12 | 8400 | 16 | 165 | 30 ft | 16 | 18 | 16 | 20 | 14 | 14 |
 | ![beholder](https://curseofstrahd.app/wiki/img/portraits/beholder.webp) | [The Eye Below](https://curseofstrahd.app/wiki/bestiary/the-eye-below.md) | aberration | large | 13 | 10000 | 18 | 180 | fly 20 ft, hover True ft | 10 | 14 | 18 | 17 | 15 | 17 |
 | ![vampire](https://curseofstrahd.app/wiki/img/portraits/vampire.webp) | [Vampire](https://curseofstrahd.app/wiki/bestiary/vampire.md) | undead | medium | 13 | 10000 | 16 | 195 | 40 ft, climb 40 ft | 18 | 18 | 18 | 17 | 15 | 18 |
-| ![exethanter](https://curseofstrahd.app/wiki/img/portraits/exethanter.webp) | [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) | undead | medium | 14 | 11500 | 18 | 190 | 30 ft | 11 | 16 | 20 | 21 | 14 | 16 |
 | ![strahd](https://curseofstrahd.app/wiki/img/portraits/strahd.webp) | [Strahd von Zarovich](https://curseofstrahd.app/wiki/bestiary/strahd-von-zarovich.md) | undead | medium | 15 | 13000 | 16 | 144 | 30 ft | 18 | 18 | 18 | 20 | 15 | 18 |
 | ![iron golem](https://curseofstrahd.app/wiki/img/portraits/iron-golem.webp) | [Iron Golem](https://curseofstrahd.app/wiki/bestiary/iron-golem.md) | construct | large | 16 | 15000 | 20 | 252 | 30 ft | 24 | 9 | 20 | 3 | 11 | 1 |
+| ![exethanter](https://curseofstrahd.app/wiki/img/portraits/exethanter.webp) | [Khazan](https://curseofstrahd.app/wiki/bestiary/khazan.md) | undead | medium | 23 | 50000 | 24 | 315 | 30 ft | 13 | 16 | 20 | 27 | 21 | 20 |
 | ![draconic spirit](https://curseofstrahd.app/wiki/img/portraits/draconic-spirit.webp) | [Sarkhaza](https://curseofstrahd.app/wiki/bestiary/sarkhaza.md) | dragon | gargantuan | 24 | 62000 | 22 | 507 | 40 ft, climb 40 ft, fly 80 ft | 30 | 10 | 29 | 18 | 15 | 27 |

@@ -49,7 +49,7 @@ You can do steps 4 to 6 in a different order. If Cyrus isn't helping yet, tell N
 **The other prisoners:**
 
 - **[Brother Anatol](https://curseofstrahd.app/wiki/people/brother-anatol.md)**, in the first cell of the south row, says he is a monk from St. Andral's. He is a [Vampire](https://curseofstrahd.app/wiki/bestiary/vampire.md), and his shackle was never locked. Unmask him with any of these: ask how long he's been here and then point out that his breath doesn't fog; Insight DC 15 (spent if it fails); Religion DC 12 to pray the dawn prayer with him (one try; on a success he gets it wrong); mention [Father Lucian](https://curseofstrahd.app/wiki/people/father-lucian.md) if you have met him; mention the cook's soup; or have a cleric or paladin raise a holy symbol. Unmasked, he fights with two [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md) off the ceiling (13,600 XP), or you can leave him sitting in his cell. **Don't free him**: "We're getting you out" starts the same fight with your party surprised. It's a boss fight: Anatol has 195 Hit Points and legendary actions, and he's starving, so he gets +1 to hit and to his save DCs and 1d6 extra necrotic damage on every hit. The spawn have 90 HP each. Come rested, and go for him first.
-- **[Doru](https://curseofstrahd.app/wiki/people/doru.md)**, in the second cell of the north row, is only here if you let him out of the undercroft in the Village of Barovia. He begs for an end. **We could end this, Doru** gives him rest (Liriel +2, Thistle +1, Godrick +1). Striking his chains off makes the hunger win, and he attacks you alone (104 HP, 1,800 XP; Kip -2, Liriel -1).
+- **[Doru](https://curseofstrahd.app/wiki/people/doru.md)**, in the second cell of the north row, is only here if you let him out of the undercroft in the Village of Barovia. He begs for an end. **We could end this, Doru** gives him rest (Liriel +2, Thistle +1, Godrick +1). Striking his chains off makes the hunger win, and he attacks you alone (90 HP, 1,800 XP; Kip -2, Liriel -1).
 
 **Worth grabbing:** a loose stone in the south cells (search DC 14, a potion of healing), the satchel in the open cell (a potion of healing and 12 gp, but it's bait over a 40-foot pit: spot DC 15, or let the dead prisoner next door warn you, below), and the jailers' chest (manacles, a hooded lantern, a holy symbol, 26 gp).
 
@@ -89,7 +89,7 @@ None of these pay anything themselves. The rations and the Ioun Stone come from 
 
 ## Fights
 
-- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 104 HP).
+- *The chain falls. For a breath he is only grateful. Then the hunger reaches you first.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Doru ([Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md)).
 
 - *He laughs, and two more shapes unfold from the vault above the passage.*, in [Castle Ravenloft, the Dungeon](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-dungeon.md): Brother Anatol ([Vampire](https://curseofstrahd.app/wiki/bestiary/vampire.md)), 2 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md).
 

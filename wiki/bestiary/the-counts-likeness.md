@@ -41,6 +41,10 @@ A great canvas in a gilt frame: a young woman in a white gown, painted as no liv
 - **The Count's Regard.** Wisdom Saving Throw: DC 16, one creature the Likeness can see within 60 feet. Failure: 27 (5d10) Psychic damage, and the target has the Frightened condition until the end of the Likeness's next turn. Success: Half damage only.
 - **Spellcasting.** The Likeness casts one of the following spells, using Charisma as the spellcasting ability (spell save DC 16): once a day each, Hypnotic Pattern and Hold Person.
 
+### Reactions
+
+- **Protective Magic.** The Likeness casts Counterspell or Shield in response to that spell's trigger (twice a day).
+
 ## Where you meet it
 
 - [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md) · *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*

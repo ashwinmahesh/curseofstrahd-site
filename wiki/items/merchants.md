@@ -19,19 +19,19 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 |---|---|---|
 | [Arik](https://curseofstrahd.app/wiki/items/merchants.md#arik) | [Blood of the Vine](https://curseofstrahd.app/wiki/locations/blood-of-the-vine.md) | 3 always for sale |
 | [Bildrath Cantemir](https://curseofstrahd.app/wiki/items/merchants.md#bildrath-cantemir) | [Bildrath's Mercantile](https://curseofstrahd.app/wiki/locations/bildraths-mercantile.md) | 87 always for sale |
-| [Gadof Blinsky](https://curseofstrahd.app/wiki/items/merchants.md#gadof-blinsky) | [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md) | 17 always for sale, 64 magic items |
+| [Gadof Blinsky](https://curseofstrahd.app/wiki/items/merchants.md#gadof-blinsky) | [Blinsky Toys](https://curseofstrahd.app/wiki/locations/blinsky-toys.md) | 17 always for sale, 66 magic items |
 | [Davian Martikov](https://curseofstrahd.app/wiki/items/merchants.md#davian-martikov) | [The Wizard of Wines](https://curseofstrahd.app/wiki/locations/the-wizard-of-wines.md) | 3 always for sale, 27 magic items |
 | [Dmitri Krezkov](https://curseofstrahd.app/wiki/items/merchants.md#dmitri-krezkov) | [The Krezkovs' House](https://curseofstrahd.app/wiki/locations/the-krezkovs-house.md) | 53 always for sale, 72 magic items |
 | [Father Donavich](https://curseofstrahd.app/wiki/items/merchants.md#father-donavich) | [Village Church](https://curseofstrahd.app/wiki/locations/village-church.md), [Village of Barovia](https://curseofstrahd.app/wiki/locations/village-of-barovia.md) | 22 always for sale, 19 magic items |
-| [Father Lucian](https://curseofstrahd.app/wiki/items/merchants.md#father-lucian) | [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 23 always for sale, 57 magic items |
+| [Father Lucian](https://curseofstrahd.app/wiki/items/merchants.md#father-lucian) | [St. Andral's Church](https://curseofstrahd.app/wiki/locations/st-andrals-church.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 23 always for sale, 126 magic items |
 | [Gunther Arasek](https://curseofstrahd.app/wiki/items/merchants.md#gunther-arasek) | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 63 always for sale, 77 magic items |
 | [Henrik van der Voort](https://curseofstrahd.app/wiki/items/merchants.md#henrik-van-der-voort) | [The Coffin Maker's Shop](https://curseofstrahd.app/wiki/locations/the-coffin-makers-shop.md) | 10 always for sale |
-| [Kasha Varo](https://curseofstrahd.app/wiki/items/merchants.md#kasha-varo) | [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) | 22 always for sale, 49 magic items |
+| [Kasha Varo](https://curseofstrahd.app/wiki/items/merchants.md#kasha-varo) | [The Pool of the White Sun](https://curseofstrahd.app/wiki/locations/the-pool-of-the-white-sun.md) | 22 always for sale, 128 magic items |
 | [Kasimir Velikov](https://curseofstrahd.app/wiki/items/merchants.md#kasimir-velikov) | [Castle Ravenloft, the Gates](https://curseofstrahd.app/wiki/locations/castle-ravenloft-the-gates.md), [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 22 always for sale, 61 magic items |
-| [Xaver](https://curseofstrahd.app/wiki/items/merchants.md#xaver) | [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md) | 147 magic items |
+| [Xaver](https://curseofstrahd.app/wiki/items/merchants.md#xaver) | [The Drowned Library](https://curseofstrahd.app/wiki/locations/the-drowned-library.md) | 176 magic items |
 | [Rictavio](https://curseofstrahd.app/wiki/items/merchants.md#rictavio) | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower-van-richtens-tower.md), [Van Richten's Tower](https://curseofstrahd.app/wiki/locations/van-richtens-tower.md) | 23 always for sale, 12 magic items |
 | [Sir Godfrey Gwilym](https://curseofstrahd.app/wiki/items/merchants.md#sir-godfrey-gwilym) | [Argynvostholt, Upper Floor](https://curseofstrahd.app/wiki/locations/argynvostholt-upper-floor.md), [Argynvostholt](https://curseofstrahd.app/wiki/locations/argynvostholt.md) | 20 always for sale |
-| [Stanimir](https://curseofstrahd.app/wiki/items/merchants.md#stanimir) | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | 13 always for sale, 61 magic items |
+| [Stanimir](https://curseofstrahd.app/wiki/items/merchants.md#stanimir) | [Tser Pool Encampment](https://curseofstrahd.app/wiki/locations/tser-pool-encampment.md) | 13 always for sale, 157 magic items |
 | [Urwin Martikov](https://curseofstrahd.app/wiki/items/merchants.md#urwin-martikov) | [The Blue Water Inn](https://curseofstrahd.app/wiki/locations/the-blue-water-inn.md), [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 29 always for sale, 7 magic items |
 | [Vadoma](https://curseofstrahd.app/wiki/items/merchants.md#vadoma) | [The Vistani Camp](https://curseofstrahd.app/wiki/locations/the-vistani-camp.md) | 1 always for sale, a changing stock drawn from 55 |
 | [Master Costel](https://curseofstrahd.app/wiki/items/merchants.md#master-costel) | [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md) | 43 magic items |
@@ -176,7 +176,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Painter's Supplies](https://curseofstrahd.app/wiki/items/equipment.md#painters-supplies) | 15 gp | 1 |  |
 | [A Puppet with No Reflection](https://curseofstrahd.app/wiki/items/equipment.md#a-puppet-with-no-reflection) | 9 gp | 1 | eggs puppet seen |
 
-**Magic items (64):** sold at their own price whatever the markup; each shows once the party reaches its level.
+**Magic items (66):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
 | Item | Rarity | Price | Stock | From party level |
 |---|---|---|---|---|
@@ -205,6 +205,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Pole of Angling](https://curseofstrahd.app/wiki/items/magic-items.md#pole-of-angling) | common | 100 gp | 1 | 1 |
 | [Pot of Awakening](https://curseofstrahd.app/wiki/items/magic-items.md#pot-of-awakening) | common | 100 gp | 1 | 1 |
 | [Ruby of the War Mage](https://curseofstrahd.app/wiki/items/magic-items.md#ruby-of-the-war-mage) | common | 100 gp | 1 | 1 |
+| [Spell Scroll (Dissonant Whispers)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
 | [Staff of Adornment](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-adornment) | common | 100 gp + the weapon | 1 | 1 |
 | [Staff of Birdcalls](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-birdcalls) | common | 100 gp + the weapon | 1 | 1 |
 | [Staff of Flowers](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-flowers) | common | 100 gp + the weapon | 1 | 1 |
@@ -239,6 +240,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Instrument of the Bards (Canaith Mandolin)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-canaith-mandolin) | rare | 12,500 gp | 1 | 5 |
 | [Instrument of the Bards (Cli Lyre)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-cli-lyre) | rare | 12,500 gp | 1 | 5 |
 | [Rhythm-Maker's Drum, +2](https://curseofstrahd.app/wiki/items/magic-items.md#rhythm-makers-drum-2) | rare | 12,500 gp | 1 | 5 |
+| [Spell Scroll (Compulsion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
 | [Figurine of Wondrous Power (Obsidian Steed)](https://curseofstrahd.app/wiki/items/magic-items.md#figurine-of-wondrous-power-obsidian-steed) | very rare | 90,000 gp | 1 | 9 |
 | [Instrument of the Bards (Anstruth Harp)](https://curseofstrahd.app/wiki/items/magic-items.md#instrument-of-the-bards-anstruth-harp) | very rare | 90,000 gp | 1 | 9 |
 | [Nolzur's Marvelous Pigments](https://curseofstrahd.app/wiki/items/magic-items.md#nolzurs-marvelous-pigments) | very rare | 12,500 gp | 1 | 9 |
@@ -523,17 +525,57 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Salt and Silver](https://curseofstrahd.app/wiki/items/equipment.md#salt-and-silver) | 25 gp | ∞ |  |
 | [Ruby Dust](https://curseofstrahd.app/wiki/items/equipment.md#ruby-dust) | 50 gp | ∞ |  |
 
-**Magic items (57):** sold at their own price whatever the markup; each shows once the party reaches its level.
+**Magic items (126):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
 | Item | Rarity | Price | Stock | From party level |
 |---|---|---|---|---|
+| [Spell Scroll (Bane)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Command)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Compelled Duel)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Detect Magic)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Detect Poison and Disease)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Divine Favor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Divine Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Heroism)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Inflict Wounds)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Searing Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Thunderous Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Wardaway)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Wrathful Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
 | [Amulet of the Devout, +1](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-1) | uncommon | 1,250 gp | 1 | 1 |
 | [Brooch of Shielding](https://curseofstrahd.app/wiki/items/magic-items.md#brooch-of-shielding) | uncommon | 1,250 gp | 1 | 1 |
+| [Spell Scroll (Animate Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Augury)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Aura of Vitality)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Bestow Curse)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Blinding Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Blindness/Deafness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Calm Emotions)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Clairvoyance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Continual Flame)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Crusader's Mantle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
 | [Spell Scroll (Daylight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
 | [Spell Scroll (Dispel Magic)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Elemental Weapon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Enhance Ability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Feign Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Find Steed)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Find Traps)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Gentle Repose)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Glyph of Warding)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Laeral’s Silver Lance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Locate Object)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Magic Circle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Magic Weapon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Protection from Energy)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Protection from Poison)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
 | [Spell Scroll (Remove Curse)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
 | [Spell Scroll (Revivify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Shining Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Speak with Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
 | [Spell Scroll (Spirit Guardians)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Tongues)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Zone of Truth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
 | [Amulet of the Devout, +2](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-2) | rare | 12,500 gp | 1 | 5 |
 | [Horn of Valhalla (Brass)](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-valhalla-brass) | rare | 8,400 gp | 1 | 5 |
 | [Horn of Valhalla (Silver)](https://curseofstrahd.app/wiki/items/magic-items.md#horn-of-valhalla-silver) | rare | 5,600 gp | 1 | 5 |
@@ -547,16 +589,34 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Scroll of Protection (Fiend)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-fiend) | rare | 625 gp | 3 | 5 |
 | [Scroll of Protection (Plant)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-plant) | rare | 625 gp | 3 | 5 |
 | [Scroll of Protection (Undead)](https://curseofstrahd.app/wiki/items/magic-items.md#scroll-of-protection-undead) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Aura of Life)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Aura of Purity)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Banishing Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Banishment)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Circle of Power)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Commune)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Contagion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Death Ward)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Destructive Wave)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Dispel Evil and Good)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Divination)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Doomtide)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
 | [Spell Scroll (Flame Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Freedom of Movement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Grave Ground)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Greater Restoration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Guardian of Faith)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
 | [Spell Scroll (Hallow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Insect Plague)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Legend Lore)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Locate Creature)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
 | [Spell Scroll (Mass Cure Wounds)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Spell Scroll (Raise Dead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Scrying)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Spirit Lantern)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Staggering Smite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Stone Shape)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Celestial)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Staff of Healing](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-healing) | rare | 12,500 gp + the weapon | 1 | 5 |
 | [Amulet of the Devout, +3](https://curseofstrahd.app/wiki/items/magic-items.md#amulet-of-the-devout-3) | very rare | 28,000 gp | 1 | 9 |
 | [Candle of Invocation](https://curseofstrahd.app/wiki/items/magic-items.md#candle-of-invocation) | very rare | 12,500 gp | 1 | 9 |
@@ -564,13 +624,24 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Manual of Quickness of Action](https://curseofstrahd.app/wiki/items/magic-items.md#manual-of-quickness-of-action) | very rare | 12,500 gp | 1 | 9 |
 | [Rod of Security](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-security) | very rare | 90,000 gp | 1 | 9 |
 | [Spell Scroll (Blade Barrier)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Conjure Celestial)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Create Undead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Dirge)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Divine Word)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Earthquake)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Etherealness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Find the Path)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Fire Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Forbiddance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Harm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Heal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Heroes' Feast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Holy Aura)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Holy Star of Mystra)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Power Word Fortify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Regenerate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Resurrection)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Reweave Fate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Sunbeam)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Sunburst)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (True Seeing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
@@ -795,7 +866,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Holy Water](https://curseofstrahd.app/wiki/items/equipment.md#holy-water) | 25 gp | ∞ |  |
 | [Salt and Silver](https://curseofstrahd.app/wiki/items/equipment.md#salt-and-silver) | 25 gp | ∞ |  |
 
-**Magic items (49):** sold at their own price whatever the markup; each shows once the party reaches its level.
+**Magic items (128):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
 | Item | Rarity | Price | Stock | From party level |
 |---|---|---|---|---|
@@ -803,6 +874,22 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Lucky Foot](https://curseofstrahd.app/wiki/items/magic-items.md#lucky-foot) | common | 55 gp | 3 | 1 |
 | [Perfume of Bewitching](https://curseofstrahd.app/wiki/items/magic-items.md#perfume-of-bewitching) | common | 55 gp | 3 | 1 |
 | [Potion of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-climbing) | common | 100 gp | 3 | 1 |
+| [Spell Scroll (Absorb Elements)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Alarm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Animal Friendship)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Charm Person)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Ensnaring Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Entangle)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Faerie Fire)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Fog Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Goodberry)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Hail of Thorns)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Hunter's Mark)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Ice Knife)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Jump)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Longstrider)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Speak with Animals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Thunderwave)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
 | [Black Potion of Dragon’s Breath](https://curseofstrahd.app/wiki/items/magic-items.md#black-potion-of-dragons-breath) | uncommon | 150 gp | 3 | 1 |
 | [Blue Potion of Dragon’s Breath](https://curseofstrahd.app/wiki/items/magic-items.md#blue-potion-of-dragons-breath) | uncommon | 150 gp | 3 | 1 |
 | [Green Potion of Dragon’s Breath](https://curseofstrahd.app/wiki/items/magic-items.md#green-potion-of-dragons-breath) | uncommon | 150 gp | 3 | 1 |
@@ -825,6 +912,32 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Potion of Tirelessness](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-tirelessness) | uncommon | 200 gp | 3 | 1 |
 | [Potion of Water Breathing](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-water-breathing) | uncommon | 180 gp | 3 | 1 |
 | [Red Potion of Dragon’s Breath](https://curseofstrahd.app/wiki/items/magic-items.md#red-potion-of-dragons-breath) | uncommon | 150 gp | 3 | 1 |
+| [Spell Scroll (Barkskin)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Beast Sense)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Call Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Conjure Animals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Conjure Barrage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Cordon of Arrows)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Darkvision)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Enlarge/Reduce)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Flame Blade)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Flaming Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Gust of Wind)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Heat Metal)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Lightning Arrow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Moonbeam)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Nondetection)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Pass without Trace)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Plant Growth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Sleet Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Speak with Plants)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Spike Growth)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Summon Beast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Summon Fey)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Syluné’s Viper)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Water Breathing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Wind Wall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Wither and Bloom)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
 | [White Potion of Dragon’s Breath](https://curseofstrahd.app/wiki/items/magic-items.md#white-potion-of-dragons-breath) | uncommon | 150 gp | 3 | 1 |
 | [Elixir of Health](https://curseofstrahd.app/wiki/items/magic-items.md#elixir-of-health) | rare | 625 gp | 3 | 5 |
 | [Oil of Etherealness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-etherealness) | rare | 1,920 gp | 3 | 5 |
@@ -837,6 +950,30 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Potion of Healing (Superior)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-healing-superior) | rare | 625 gp | 3 | 5 |
 | [Potion of Heroism](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-heroism) | rare | 625 gp | 3 | 5 |
 | [Potion of Invulnerability](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-invulnerability) | rare | 3,840 gp | 3 | 5 |
+| [Spell Scroll (Alustriel’s Mooncloak)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Antilife Shell)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Blight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Charm Monster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Commune with Nature)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Confusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Conjure Elemental)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Conjure Minor Elementals)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Conjure Woodland Beings)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Dominate Beast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Festering Blast)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Fire Shield)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Fount of Moonlight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Giant Insect)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Grasping Vine)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Ice Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Reincarnate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Songal’s Elemental Suffusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Steel Wind Strike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Stoneskin)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Elemental)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Plant)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Swift Quiver)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Wall of Stone)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
 | [Oil of Sharpness](https://curseofstrahd.app/wiki/items/magic-items.md#oil-of-sharpness) | very rare | 6,250 gp | 3 | 9 |
 | [Potion of Flying](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-flying) | very rare | 6,250 gp | 3 | 9 |
 | [Potion of Giant Strength (Cloud Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-cloud-giant) | very rare | 6,250 gp | 3 | 9 |
@@ -845,8 +982,21 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Potion of Longevity](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-longevity) | very rare | 9,000 gp | 3 | 9 |
 | [Potion of Speed](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-speed) | very rare | 6,250 gp | 3 | 9 |
 | [Potion of Vitality](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-vitality) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Animal Shapes)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Befuddlement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Conjure Fey)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Elminster’s Effulgent Spheres)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Flesh to Stone)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Incendiary Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Lightning Ring)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Reverse Gravity)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Summon Dinosaur)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Tsunami)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Wall of Thorns)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Potion of Giant Strength (Storm Giant)](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-giant-strength-storm-giant) | legendary | 45,000 gp | 3 | 10 |
 | [Sovereign Glue](https://curseofstrahd.app/wiki/items/magic-items.md#sovereign-glue) | legendary | 90,000 gp | 1 | 10 |
+| [Spell Scroll (Shapechange)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Storm of Vengeance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Universal Solvent](https://curseofstrahd.app/wiki/items/magic-items.md#universal-solvent) | legendary | 45,000 gp | 3 | 10 |
 
 ## Kasimir Velikov
@@ -954,7 +1104,7 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 
 *markup ×1; pays 0% of value; open only when index destroyed; buys magic items at 50% of their price*
 
-**Magic items (147):** sold at their own price whatever the markup; each shows once the party reaches its level.
+**Magic items (176):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
 | Item | Rarity | Price | Stock | From party level |
 |---|---|---|---|---|
@@ -1063,17 +1213,38 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Rod of the Pact Keeper, +3](https://curseofstrahd.app/wiki/items/magic-items.md#rod-of-the-pact-keeper-3) | very rare | 28,000 gp | 1 | 9 |
 | [Somniferous Blossom Rod](https://curseofstrahd.app/wiki/items/magic-items.md#somniferous-blossom-rod) | very rare | 12,500 gp | 1 | 9 |
 | [Spell Scroll (Antimagic Field)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Aura of Evasion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Chain Lightning)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Circle of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Delayed Blast Fireball)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Disintegrate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Dominate Monster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Entrancing Mirrors)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Eyebite)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Finger of Death)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Forcecage)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Fractured Awareness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Globe of Invulnerability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Guards and Wards)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Illusory Dragon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Iron Body)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Mass Suggestion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Maze)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Mind Blank)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Moment of Prescience)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Mordenkainen's Sword)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Otiluke's Freezing Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Otto's Irresistible Dance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Plane Shift)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Power Word Pain)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (Power Word Stun)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-8-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Prismatic Spray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Simbul’s Synostodweomer)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Summon Fiend)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Tasha's Bubbling Cauldron)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Transfix)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-7-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Spell Scroll (True Seeing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
+| [Spell Scroll (Wall of Ice)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-6-scrolls) | very rare | 6,250 gp | 3 | 9 |
 | [Staff of Fire](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-fire) | very rare | 16,000 gp + the weapon | 1 | 9 |
 | [Staff of Frost](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-frost) | very rare | 26,000 gp + the weapon | 1 | 9 |
 | [Staff of Power](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-power) | very rare | 90,000 gp + the weapon | 1 | 9 |
@@ -1095,10 +1266,18 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Ioun Stone (Regeneration)](https://curseofstrahd.app/wiki/items/magic-items.md#ioun-stone-regeneration) | legendary | 90,000 gp | 1 | 10 |
 | [Iron Flask](https://curseofstrahd.app/wiki/items/magic-items.md#iron-flask) | legendary | 90,000 gp | 1 | 10 |
 | [Ring of Djinni Summoning](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-djinni-summoning) | legendary | 90,000 gp | 1 | 10 |
+| [Spell Scroll (Blade of Disaster)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Detonate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Spell Scroll (Foresight)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Invulnerability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Spell Scroll (Meteor Swarm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Spell Scroll (Power Word Kill)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Prismatic Wall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Spell Scroll (Time Stop)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (True Polymorph)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Vision of Elapsing Eons)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Wail of the Banshee)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
+| [Spell Scroll (Weird)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-9-scrolls) | legendary | 45,000 gp | 3 | 10 |
 | [Sphere of Annihilation](https://curseofstrahd.app/wiki/items/magic-items.md#sphere-of-annihilation) | legendary | 90,000 gp | 1 | 10 |
 | [Staff of the Magi](https://curseofstrahd.app/wiki/items/magic-items.md#staff-of-the-magi) | legendary | 95,500 gp + the weapon | 1 | 10 |
 | [Talisman of Ultimate Evil](https://curseofstrahd.app/wiki/items/magic-items.md#talisman-of-ultimate-evil) | legendary | 90,000 gp | 1 | 10 |
@@ -1212,12 +1391,35 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Onyx](https://curseofstrahd.app/wiki/items/equipment.md#onyx) | 50 gp | ∞ |  |
 | [Ruby Dust](https://curseofstrahd.app/wiki/items/equipment.md#ruby-dust) | 50 gp | ∞ |  |
 
-**Magic items (61):** sold at their own price whatever the markup; each shows once the party reaches its level.
+**Magic items (157):** sold at their own price whatever the markup; each shows once the party reaches its level.
 
 | Item | Rarity | Price | Stock | From party level |
 |---|---|---|---|---|
 | [Potion of Climbing](https://curseofstrahd.app/wiki/items/magic-items.md#potion-of-climbing) | common | 100 gp | 3 | 1 |
 | [Spell Component Ring](https://curseofstrahd.app/wiki/items/magic-items.md#spell-component-ring) | common | 100 gp | 1 | 1 |
+| [Spell Scroll (Armor of Agathys)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Arms of Hadar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Burning Hands)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Chromatic Orb)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Color Spray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Comprehend Languages)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Disguise Self)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Expeditious Retreat)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (False Life)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Feather Fall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Find Familiar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Grease)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Hellish Rebuke)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Hex)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Identify)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Mage Armor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Ray of Sickness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Silent Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Spellfire Flare)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Tasha's Hideous Laughter)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Tenser's Floating Disk)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Unseen Servant)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
+| [Spell Scroll (Witch Bolt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-1-scrolls) | common | 50 gp | 3 | 1 |
 | [Boon Companions’ Bands](https://curseofstrahd.app/wiki/items/magic-items.md#boon-companions-bands) | uncommon | 1,250 gp | 1 | 1 |
 | [Dust of Disappearance](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-disappearance) | uncommon | 300 gp | 3 | 1 |
 | [Dust of Dryness](https://curseofstrahd.app/wiki/items/magic-items.md#dust-of-dryness) | uncommon | 120 gp | 3 | 1 |
@@ -1237,6 +1439,48 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Ring of Jumping](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-jumping) | uncommon | 1,250 gp | 1 | 1 |
 | [Ring of Swimming](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-swimming) | uncommon | 1,250 gp | 1 | 1 |
 | [Ring of Warmth](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-warmth) | uncommon | 1,000 gp | 1 | 1 |
+| [Spell Scroll (Alter Self)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Arcane Vigor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Blink)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Blur)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Cacophonic Shield)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Catnap)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Cloud of Daggers)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Conjure Constructs)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Crown of Madness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Darkness)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Death Armor)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Disruptive Tune)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Dragon's Breath)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Elminster’s Elusion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Enthrall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Fear)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Gaseous Form)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Hunger of Hadar)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Hypnotic Pattern)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Inflict Doubt)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Knock)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Leomund's Tiny Hut)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Levitate)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Major Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Melf's Acid Arrow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Mind Spike)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Mirror Image)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Phantasmal Force)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Phantom Steed)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Ray of Enfeeblement)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Scorching Ray)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (See Invisibility)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Shatter)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Slow)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Spider Climb)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Stinking Cloud)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Suggestion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Summon Undead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Thunder Step)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Uncertain Footing)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
+| [Spell Scroll (Vampiric Touch)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-3-scrolls) | uncommon | 200 gp | 3 | 1 |
+| [Spell Scroll (Web)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-2-scrolls) | uncommon | 120 gp | 3 | 1 |
 | [Stone of Good Luck (Luckstone)](https://curseofstrahd.app/wiki/items/magic-items.md#stone-of-good-luck-luckstone) | uncommon | 1,250 gp | 1 | 1 |
 | [Feather Token (Anchor)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-anchor) | rare | 625 gp | 3 | 5 |
 | [Feather Token (Bird)](https://curseofstrahd.app/wiki/items/magic-items.md#feather-token-bird) | rare | 3,000 gp | 3 | 5 |
@@ -1263,6 +1507,37 @@ Every merchant's whole stock is listed below: what they always sell, their magic
 | [Ring of Spell Storing](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-spell-storing) | rare | 12,500 gp | 1 | 5 |
 | [Ring of X-ray Vision](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-x-ray-vision) | rare | 6,000 gp | 1 | 5 |
 | [Ring of the Ram](https://curseofstrahd.app/wiki/items/magic-items.md#ring-of-the-ram) | rare | 5,000 gp | 1 | 5 |
+| [Spell Scroll (Animate Objects)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Arcane Eye)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Backlash)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Bigby's Hand)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Cloudkill)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Contact Other Plane)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Distorted Distance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Dominate Person)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Enervation)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Evard's Black Tentacles)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Far Step)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Jallarzi's Storm of Radiance)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Leomund's Secret Chest)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Mislead)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Mordenkainen's Faithful Hound)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Mordenkainen's Private Sanctum)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Mordenkainen’s Lucubration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Negative Energy Flood)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Otiluke's Resilient Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Passwall)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Phantasmal Killer)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Seeming)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Spellfire Storm)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Aberration)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Construct)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Summon Dragon)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Synaptic Static)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Vitriolic Sphere)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
+| [Spell Scroll (Waves of Exhaustion)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Yolande's Regal Presence)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-5-scrolls) | rare | 640 gp | 3 | 5 |
+| [Spell Scroll (Zone of Amicability)](https://curseofstrahd.app/wiki/items/spell-scrolls.md#level-4-scrolls) | rare | 625 gp | 3 | 5 |
 | [Carpet of Flying (3 by 5 ft)](https://curseofstrahd.app/wiki/items/magic-items.md#carpet-of-flying-3-by-5-ft) | very rare | 12,500 gp | 1 | 9 |
 | [Carpet of Flying (4 by 6 ft)](https://curseofstrahd.app/wiki/items/magic-items.md#carpet-of-flying-4-by-6-ft) | very rare | 12,500 gp | 1 | 9 |
 | [Carpet of Flying (5 by 7 ft)](https://curseofstrahd.app/wiki/items/magic-items.md#carpet-of-flying-5-by-7-ft) | very rare | 12,500 gp | 1 | 9 |

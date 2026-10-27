@@ -87,7 +87,7 @@ Party members and guests the player runs who stand next to each other in the ini
 ### A guest who keeps out of fights
 A story ally whose NPC says `guest_fights: false` is never in the encounter: she takes no turn, can't be targeted or caught in an area spell of either side, and can't fall. Her figure stays on the board as a bystander whose square blocks like any bystander's, and she steps to the nearest free square away from the foes if the fight starts on one someone will stand on. The Narrator says so once and now and then after
 
-*Why:* Ireena is a CR 1/8 noble with about 9 Hit Points, which made players leave her behind and so lose her story; the field is per NPC and can be turned back on in data
+*Why:* Ireena is a CR 1/8 noble with about 9 Hit Points, which made players leave her behind and so lose her story; Gertruda is a commoner with 4 Hit Points taken home to her mother, and a fight would only be where she dies; the field is per NPC and can be turned back on in data
 
 ### Flanking
 The 2024 DMG's optional Flanking rule is on: a creature has Advantage on melee attack rolls against a foe when it and an ally are both next to that foe on opposite sides or corners of its space (for a bigger creature, on sides across from each other). The ally must be able to act and see the foe, and so must the attacker. Heroes and foes alike; the odds on hover name it. Foes on Tactician and Honour move to flank; on Story and Balanced they fight as before and take the Advantage only when it falls their way. Settings, Game, Flanking: Off plays without it
@@ -155,7 +155,7 @@ Cast with the Reaction in place of an Opportunity Attack (War Caster's Reactive 
 *Why:* The rules leave the DC to the DM
 
 ### Weapon sets (2024: a weapon is equipped or unequipped as part of each attack of the Attack action, or with the free object interaction)
-A character attacks only with what it has equipped: the weapons in hand and its second weapon set (the inventory's set II). An attack with a weapon of the second set takes that set in hand first, and Swap weapons on the hotbar does the same, both free and as often as it likes; a Shield goes with its set. A weapon that's only in the pack can't be drawn in a fight. New heroes, and older saves once as they load, get a second Light weapon in a free off hand beside a Light one and the best weapon of the other kind (a bow beside a sword) in an empty second set
+A character attacks only with what it has equipped: the weapons in hand and its second weapon set (the inventory's set II). An attack with a weapon of the second set takes that set in hand first, and Swap weapons on the hotbar does the same, both free and as often as it likes (only the player's own attack does: an Opportunity Attack, any other reaction and a foe's move use what is in hand, so the sets never swap on their own, Ashwin 2026-10-26); a Shield goes with its set. A weapon that's only in the pack can't be drawn in a fight. New heroes, and older saves once as they load, get a second Light weapon in a free off hand beside a Light one and the best weapon of the other kind (a bow beside a sword) in an empty second set
 
 *Why:* Owner, 2026-10-09: "we shouldn't be allowed to use weapons that aren't equipped", with Baldur's Gate 3's two weapon sets and their free switch as the model; replaces the weapon-juggling deviation of 2026-10-08
 
@@ -330,7 +330,7 @@ Refused while enemies remain anywhere in the building or dungeon: its indoor map
 *Why:* Owner's rule (2026-10-09): what waits on another floor would find a sleeping party; the 2024 rules leave where to rest to the DM
 
 ### Changing spells without a rest
-Where the 2024 rules have a caster change spells when they finish a Long Rest, the game lets them do it any time outside a fight, no rest needed: a Cleric's, Druid's, Wizard's, Paladin's or Ranger's prepared spells, a Wizard's or High Elf's cantrip, a Circle of the Land Druid's land and a Scion of the Three's allegiance (the spells each grants). The Prepare Spells screen (the sheet's Spells tab, the rest screen, the camp's bar, and the one a finished rest offers) takes any number of changes at once, so a Paladin's or Ranger's one spell and a Wizard's or High Elf's one cantrip per Long Rest no longer limit anything. Always-prepared spells (a domain's, an oath's) stay; spell slots already spent aren't given back; concentration and spells already cast carry on. Bards, Sorcerers and Warlocks (who change spells at a level up) and the choices only a rest changes (Weapon Mastery, Wild Shape forms, a Transmuter's stone) keep their rules. In a fight nothing changes: the button is off and says why (ui/screens/prepare_screen.gd)
+Where the 2024 rules have a caster change spells when they finish a Long Rest, the game lets them do it any time outside a fight, no rest needed: a Cleric's, Druid's, Wizard's, Paladin's or Ranger's prepared spells, a Wizard's or High Elf's cantrip, a Circle of the Land Druid's land and a Scion of the Three's allegiance (the spells each grants). The Prepare Spells screen (the sheet's Spells tab, the rest screen, the camp's bar, and the one a finished rest offers) takes any number of changes at once, so a Paladin's or Ranger's one spell and a Wizard's or High Elf's one cantrip per Long Rest no longer limit anything. Always-prepared spells (a domain's, an oath's) stay; spell slots already spent aren't given back; concentration and spells already cast carry on. Bards, Sorcerers and Warlocks (who change spells at a level up) and the choices only a rest changes (Weapon Mastery, Wild Shape forms, a Transmuter's stone) keep their rules. In a fight nothing changes: the button is off and says why (addons/dnd_core/ui/screens/prepare_screen.gd)
 
 *Why:* Owner's call (2026-10-14): resting only to prepare different spells is a chore, and a caster should be able to ready the right spell before a fight
 
@@ -398,6 +398,11 @@ A flyer rises and sinks 5 ft at a time where it stands (1 ft of movement per foo
 A readied attack or spell waits for one of three triggers, picked with a right-click: an enemy the creature can see comes within its reach or range, or one already within it attacks or casts a spell. The Reaction comes once that attack or spell is done
 
 *Why:* The 2024 trigger is any perceivable circumstance; a grid fight can't take free-form triggers, and these are the ones that matter in one
+
+### Readying a spell takes no Concentration (Ashwin's house rule, 2026-10-24)
+A spell readied with the Ready action is held without Concentration: readying one doesn't end the Concentration the caster keeps, damage doesn't lose the held spell, and it still lapses at the start of the caster's next turn (the slot spent) unless released or let go with Unready (a free hotbar slot while anything is readied). A spell that needs Concentration begins its own when it is released, which ends the first as casting it would. An attack or spell by an Invisible foe gives it away: a readied attack or spell goes off at it right after, in range, even when it is unseen again by then
+
+*Why:* The 2024 rule holds the spell with Concentration and ends any other; the table wants to keep a buff going while holding a response, and to answer an unseen attacker whose position was just given away
 
 ### D20 Test choices made in the middle of a roll (Indomitable, Stroke of Luck, Mage Slayer's Guarded Mind, Heroic Inspiration on a save, Tactical Mind, a Bardic Inspiration die, Countercharm, Bend Luck, Dark One's Own Luck, Fanatical Focus, Steel Yourself, Symbiote's Vigor, Mist Step, Knowledge from a Past Life, Shared Resilience, Noble Scion, Alustriel's Mooncloak, the save responses of feats and spells)
 Asked (or settled by the creature's rule) wherever the roll can pause: spells' saves (Sleep, Command, Polymorph, Banishment and Resilient Sphere included), monsters' save actions, auras and the riders on their hits, Topple, lair actions, the areas a creature starts or ends its turn in, repeated saves, Death Saving Throws, Concentration saves (see below) and attack rolls. Only asked when it could change the result. Elsewhere (saves inside other spells' own code such as Eyebite and the high-level spells' rays, features' and items' saves, areas a creature walks into, ability checks) the roll still can't wait, so each is used on a failure unless its rule is Off, or only on Automatic for the Reactions that were Automatic-only before
@@ -1054,6 +1059,16 @@ Legendary Resistance counts per fight (monsters are rebuilt for each fight). A l
 
 *Why:* Monster state isn't carried between fights; the lair has no body on the grid; the map has no edges to arrive from; the harassment fights must not kill him; the engine doesn't track who harmed whom
 
+### Legendary Resistance
+A boss spends a use only on a failed save that would put a condition on it, or on one against a spell of 5th level or higher, as cast, that does no damage on a success (Disintegrate, Hold Monster, Banishment cast at 5th). A Fireball or a Cone of Cold is taken on the chin, and the uses wait for what matters (`Legendary.worth_resisting`, the save keys SpellSaves adds)
+
+*Why:* The 2024 rule lets it turn any failed save, and the AI spent its uses on damage spells the party can throw every turn
+
+### Legendary actions
+A legendary creature acts only at the end of a hero's turn (a player character on the party's side), never after a guest's, a summon's, a steed's or another foe's; the AI saves a spare use for the last hero turn before its own (`Legendary.opens_window`, BossBrain._turns_before_own)
+
+*Why:* The 2024 rule lets it act after any other creature's turn: "Legendary actions are only allowed after a player characters turn (shouldnt trigger after an NPC)"
+
 ### Castle Ravenloft blocks (P6-02)
 Strahd: resistance to nonmagical weapons (and the mist's immunity to them) is left out, Unarmed Strike grapples and still deals its Bludgeoning damage, a creature he Charmed counts as willing for the Bite, Children of the Night calls at most 8 wolves. Rahadin's Deathly Choir hits his enemies within 10 ft at the start of his turn (the book: a Bonus Action, on everyone hearing it). The rug of smothering crushes its victim at the start of the rug's turn (the book: the victim's)
 
@@ -1193,3 +1208,8 @@ A Drop Concentration slot (free) on the Common tab of the creature holding a spe
 The game chooses: up to that many foes in sight, nearest first, those that can be Frightened before those immune to it, none already under an Abjure Foes. A foe that takes Frightened can move, take an action or take a Bonus Action, one of the three (the AI never spends its Bonus Action then, and a Dazed foe strikes from where it stands or only closes in)
 
 *Why:* A feature on the hotbar has no way yet to pick several targets; the nearest threats are the usual pick, and a foe immune to Frightened is never worth a use
+
+### A night hag's Coven Magic (2025 Monster Manual: six divinations and utilities, each once per Long Rest, while two hag allies are within 30 feet)
+In a fight that seats a whole coven (the three hags' last stand at Old Bonegrinder, the fight's `coven` state), each hag instead casts the 2014 Monster Manual's Shared Spellcasting while two coven sisters are within 30 feet of her: Ray of Sickness, Hold Person, Bestow Curse, Counterspell, Lightning Bolt, Phantasmal Killer, Polymorph and Eyebite at DC 15 and +7, from slots the coven shares (4/3/3/3 and one 6th). The divinations and their 5th-level slots are left out; "within 30 feet of one another" is checked from the caster
+
+*Why:* Owner, 2026-10-27 ("Build it", the boss plan's last part): the 2025 trait gives a coven nothing to do in a fight

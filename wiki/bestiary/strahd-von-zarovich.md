@@ -57,6 +57,10 @@ The vampire lord of Barovia: crushing blows and a draining bite, charm, wolves a
 - **Ray of Frost.** Ranged spell attack: +10 to hit, range 60 ft. Hit: 9 (2d8) Cold damage, and the target's Speed is 10 feet lower until the start of his next turn (the slow is text only for the engine).
 - **Spellcasting.** Strahd casts spells as a 9th-level wizard, using Intelligence (spell save DC 18, +10 to hit with spell attacks). Cantrips (at will): Mage Hand, Prestidigitation, Ray of Frost. 1st level (4 slots): Comprehend Languages, Fog Cloud, Sleep. 2nd level (3 slots): Gust of Wind, Mirror Image. 3rd level (3 slots): Animate Dead, Fireball, Nondetection. 4th level (3 slots): Blight, Greater Invisibility, Polymorph. 5th level (1 slot): Animate Objects, Scrying.
 
+### Reactions
+
+- **Counterspell.** Strahd casts Counterspell in response to a spell he can see being cast (three times a day). He has no Shield.
+
 ### Lair actions
 
 - **Through the Walls.** Until initiative count 20 of the next round, Strahd moves through solid walls, doors, ceilings and floors as if they weren't there. The engine lets him cross walls as Difficult Terrain.

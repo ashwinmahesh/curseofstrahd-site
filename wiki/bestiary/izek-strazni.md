@@ -36,6 +36,10 @@ The Baron's enforcer: two brutal axe blows up close, and fire hurled from his fi
 - **Battleaxe.** Melee attack: +7 to hit, reach 5 ft. Hit: 13 (2d8 + 4) Slashing damage, or 15 (2d10 + 4) Slashing damage when he swings it with both hands.
 - **Hurl Flame.** Ranged attack: +5 to hit, range 60 ft., one target. Hit: 10 (3d6) Fire damage. A flammable object that nobody is wearing or carrying bursts into flame.
 
+### Reactions
+
+- **Parry.** Reaction: +3 AC against one melee attack that would hit him, while holding a weapon.
+
 ## Where you meet it
 
 - [Vallaki](https://curseofstrahd.app/wiki/locations/vallaki.md): [Lady Wachter's Book Club](https://curseofstrahd.app/wiki/quests/lady-wachters-book-club.md) · *Izek vaults off the dais with his strange arm already smoking. The Baron's watch closes ranks behind him.*

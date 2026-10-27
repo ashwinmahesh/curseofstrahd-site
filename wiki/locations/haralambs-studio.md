@@ -50,7 +50,7 @@ The containers here also get random magic items and potions, rolled for a party 
 
 ## Fights
 
-- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md) (495 HP), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)). Starts from a conversation. Part of [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md).
+- *The great canvas leans out of its frame on its own, and the portraits round the walls come with it, frames…*, in [Haralamb's Studio](https://curseofstrahd.app/wiki/locations/haralambs-studio.md): [The Count's Likeness](https://curseofstrahd.app/wiki/bestiary/the-counts-likeness.md), 7 × A Copy ([Guardian Portrait](https://curseofstrahd.app/wiki/bestiary/guardian-portrait.md)). Starts from a conversation. Part of [The Count's Portraitist](https://curseofstrahd.app/wiki/quests/the-counts-portraitist.md).
 
 ### At camp here
 

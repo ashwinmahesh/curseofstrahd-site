@@ -42,6 +42,10 @@ An ancient lich whose mind is failing: a paralyzing touch and a few cantrips, an
 - **Paralyzing Touch.** The target repeats the save at the end of each of its turns, ending the paralysis on a success. Text only for the engine.
 - **Spellcasting.** Intelligence is his spellcasting ability (spell save DC 17, +9 to hit). Cantrips: Mage Hand, Prestidigitation, Ray of Frost. Whatever leveled spells he still recalls are not entered yet.
 
+### Reactions
+
+- **Protective Magic.** Exethanter casts Counterspell or Shield in response to that spell's trigger (at will).
+
 ## Where you meet it
 
 - [The Amber Temple: the Library](https://curseofstrahd.app/wiki/locations/the-amber-temple-the-library.md): *The sparks in Exethanter's eyes go from candle to forge. Somewhere in the shelves, two skulls catch fire.*

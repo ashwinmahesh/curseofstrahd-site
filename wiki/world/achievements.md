@@ -19,6 +19,5 @@
 | None Left Behind | Reach an ending without losing a hero for good. |
 | Proving Grounds | Win a Skirmish. |
 | Against All Odds | Win a Skirmish rated beyond High. |
-| Dress Rehearsal | Defeat Strahd in a Skirmish. |
 
 Reaching each ending is an achievement too.

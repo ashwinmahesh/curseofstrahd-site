@@ -8,7 +8,7 @@
 > **Region:** [The Village of Barovia](https://curseofstrahd.app/wiki/regions/the-village-of-barovia.md)
 > **Starting attitude:** indifferent
 > **Pronouns:** he/him
-> **In a fight:** [Warrior Veteran](https://curseofstrahd.app/wiki/bestiary/warrior-veteran.md)
+> **In a fight:** [Ismark Kolyanovich](https://curseofstrahd.app/wiki/bestiary/ismark-kolyanovich.md)
 > **Travels with you:** yes, as a guest
 
 ## About

@@ -8,7 +8,7 @@
 
 | | Who | Title |
 |---|---|---|
-| ![commoner](https://curseofstrahd.app/wiki/img/portraits/commoner.webp) | [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) | Of the Village of Barovia, Fifty Years Gone |
+| ![villager](https://curseofstrahd.app/wiki/img/portraits/villager.webp) | [Ilarion](https://curseofstrahd.app/wiki/people/ilarion.md) | Of the Village of Barovia, Fifty Years Gone |
 | ![phantom warrior](https://curseofstrahd.app/wiki/img/portraits/phantom-warrior.webp) | [Marshal Dragomir](https://curseofstrahd.app/wiki/people/marshal-dragomir.md) | Marshal of the Count's Vanguard |
 | ![wolf](https://curseofstrahd.app/wiki/img/portraits/wolf.webp) | [The Wolves](https://curseofstrahd.app/wiki/people/the-wolves.md) | The Pack on the Road |
 
