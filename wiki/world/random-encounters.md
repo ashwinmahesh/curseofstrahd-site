@@ -259,9 +259,9 @@ When a night at camp in a risky place is interrupted, one of these comes out of 
 
 | Party level | What comes | XP |
 |---|---|---|
-| 1–3 | *The sky over the camp fills with wings, and the dead climb up out of the dark after them.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) | 160 |
-| 4–6 | *Bats first, a cloud of them, and then the castle's dead and the things that eat them, crawling toward the warmth.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 810 |
-| 7–11 | *Pale figures walk out of the dark behind the bats, smiling, in no hurry at all.* 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |
+| 1–3 | *A rush of leathery wings fills the dark, and heavy, dead feet drag across the stone behind them.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), [Zombie](https://curseofstrahd.app/wiki/bestiary/zombie.md), [Bat](https://curseofstrahd.app/wiki/bestiary/bat.md) | 160 |
+| 4–6 | *Bats come first in a blind black rush, and behind them the castle's dead, drawn by the sound of breathing.* 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md), 3 × [Ghoul](https://curseofstrahd.app/wiki/bestiary/ghoul.md), 2 × [Skeleton](https://curseofstrahd.app/wiki/bestiary/skeleton.md), [Rat](https://curseofstrahd.app/wiki/bestiary/rat.md) | 810 |
+| 7–11 | *Behind the rush of bats, pale figures step out of the shadows, smiling, in no hurry at all.* 3 × [Vampire Spawn](https://curseofstrahd.app/wiki/bestiary/vampire-spawn.md), 2 × [Swarm of Bats](https://curseofstrahd.app/wiki/bestiary/swarm-of-bats.md) | 5500 |
 
 ### Town
 
