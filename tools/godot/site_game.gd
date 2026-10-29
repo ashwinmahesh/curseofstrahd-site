@@ -15,7 +15,7 @@ const MENU := "res://scenes/main_menu.tscn"
 const FIGHTERS: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "ratatoille", "kip_smudgewick"]
 const FRONT := "Godrick"
 ## Kip speaks for the party in conversations (owner, 2026-10-08).
-const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "thistle", "liriel_dawnsong"]
+const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "ratatoille", "liriel_dawnsong"]
 ## Each conversation still has a different hero speaking for the party, so the site shows that every one has a bust
 ## (owner, 2026-10-08): Kip at the inn, Liriel with Blinsky, and Godrick rolling the check.
 const CHECK_SPEAKER := "liriel_dawnsong"
@@ -41,11 +41,6 @@ var _weather: Dictionary = {}
 func _ready() -> void:
 	_own = "user://capture_site_%d" % OS.get_process_id()
 	GameSettings.path = _own + "_settings.cfg"
-	WhatsNew.seen_path = _own + "_whats_new.cfg"
-	# Nothing is new to this run's title screen.
-	var cfg := ConfigFile.new()
-	cfg.set_value("whats_new", "seen_at", int(WhatsNew.build().get("committed_at", 0)) + 3600)
-	cfg.save(WhatsNew.seen_path)
 	InputActions.ensure()
 	Look.set_style("modern", false)
 	Graphics.set_preset("high", false)
@@ -63,7 +58,7 @@ func _ready() -> void:
 
 
 func _exit_tree() -> void:
-	for f: String in [GameSettings.path, WhatsNew.seen_path]:
+	for f: String in [GameSettings.path]:
 		if FileAccess.file_exists(f):
 			DirAccess.remove_absolute(f)
 
@@ -197,8 +192,11 @@ func _title() -> void:
 
 ## A fight in the village square at night with the party at level 7: the foes stand off to the camera's right of the
 ## party (FOES, or `foes`). Waits for the party's first turn. Returns false if it couldn't start.
-func _fight(foes: Array = FOES, hour: int = 23) -> bool:
-	await _game("village_of_barovia", hour, FIGHTERS, 7, "fog")
+## In Vallaki's open square by night in the rain unless the shot names a place of its own (owner, 2026-10-28: in the
+## village the houses cut the foes off; each fight shot in a different place).
+func _fight(foes: Array = FOES, hour: int = 20, loc: String = "vallaki", weather: String = "rain",
+		at: Array = [18, 13]) -> bool:
+	await _game(loc, hour, FIGHTERS, 7, weather, at)
 	var view := _view()
 	if OS.get_environment("SITE_DEBUG") != "":
 		_shot("debug_1_before_fight")
@@ -229,6 +227,11 @@ func _fight(foes: Array = FOES, hour: int = 23) -> bool:
 			cv.call("_answer", false, "ask")
 		if cv.mode == CombatView.Mode.IDLE and cv.e.current().side == &"party":
 			break
+	# A place's own conversation (the Abbey's gatekeeper greeting the party) can open over the staged fight: closed,
+	# with the exploring party panel it brings back.
+	if root.get("dialogue") != null:
+		root.call("_leave_dialogue_for_fight")
+		_hud().visible = false
 	await _wait(30)
 	return true
 
@@ -403,6 +406,13 @@ func _laugh(d: DialogueUI, roll_seed: int) -> bool:
 		if str((d.options_shown[i] as Dictionary).get("text", "")).contains("laugh"):
 			d.call("_choose", i)
 			break
+	# The Guidance offer goes unanswered: the check rolls as it stands.
+	for i in 90:
+		if d.guidance != null:
+			d.guidance.decline_button.pressed.emit()
+		if d.d20 != null:
+			break
+		await get_tree().process_frame
 	return d.d20 != null and bool(d.d20.result.get("success", false))
 
 
@@ -415,7 +425,7 @@ func _seed_that_lands() -> int:
 		return _good_seed
 	for roll_seed: int in [7, 3, 5, 9, 13, 21, 34, 55]:
 		var d := await _talk(ROLL_SPEAKER)
-		if d != null and _laugh(d, roll_seed):
+		if d != null and await _laugh(d, roll_seed):
 			_good_seed = roll_seed
 			return roll_seed
 	_good_seed = 7
@@ -432,13 +442,13 @@ func _still_dialogue_d20() -> void:
 	var d := await _talk(ROLL_SPEAKER)
 	if d == null:
 		return
-	_laugh(d, roll_seed)
+	await _laugh(d, roll_seed)
 	await _wait(30)
 	_shot("dialogue_d20")
 
 
 func _still_combat_odds() -> void:
-	if not await _fight():
+	if not await _fight(FOES, 15, "krezk", "snow", [18, 14]):
 		return
 	var godrick := _hero(FRONT)
 	var foe := _foes()[0]
@@ -483,13 +493,13 @@ func _still_combat_fireball() -> void:
 		events.append({"type": "damage", "id": f.id, "amount": 28})
 	_play(events)
 	# Several moments of the blast, to pick from.
-	for k: int in [12, 20, 28, 40]:
+	for k: int in [12, 20, 28, 40, 52, 64, 76, 88]:
 		await _wait(8)
 		_shot("combat_fireball_%d" % k)
 
 
 func _still_combat_battlefield() -> void:
-	if not await _fight():
+	if not await _fight(FOES, 17, "argynvostholt", "fog", []):
 		return
 	# Liriel's Spirit Guardians wheel round her among the dead, and Kip's Hunger of Hadar swallows the foes beside her.
 	# Both sit in the middle of the frame, where the edge blur (Wide, the default) leaves the view sharp; each quarter
@@ -594,7 +604,7 @@ func _zone(caster: Combatant, spell: String, at: Vector2i) -> void:
 
 func _still_combat_boss() -> void:
 	BossBar.entrances = false
-	var ok := await _fight([["strahd_von_zarovich", 5, 0], ["dire_wolf", 4, -2], ["dire_wolf", 4, 2]])
+	var ok := await _fight([["strahd_von_zarovich", 5, 0], ["dire_wolf", 4, -2], ["dire_wolf", 4, 2]], 20, "abbey_of_st_markovia", "snow", [14, 16])
 	BossBar.entrances = true
 	if not ok:
 		return
@@ -682,7 +692,7 @@ func _clip_dialogue() -> void:
 	if d == null:
 		return
 	var n := await _record("dialogue", 2.5)
-	_laugh(d, roll_seed)
+	await _laugh(d, roll_seed)
 	n = await _record("dialogue", 3.0, n)
 	d.call("_advance")
 	await _record("dialogue", 2.0, n)
@@ -965,7 +975,7 @@ func _clip_d20_roll() -> void:
 	if d == null:
 		return
 	await _wait(10)
-	_laugh(d, roll_seed)
+	await _laugh(d, roll_seed)
 	await _record("d20_roll", 4.5)
 
 

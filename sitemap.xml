@@ -3,7 +3,7 @@
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url>
     <loc>https://curseofstrahd.app/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <image:image><image:loc>https://curseofstrahd.app/media/shots/combat_fireball.webp</image:loc></image:image>
     <image:image><image:loc>https://curseofstrahd.app/media/shots/village_day.webp</image:loc></image:image>
     <image:image><image:loc>https://curseofstrahd.app/media/shots/dialogue_busts.webp</image:loc></image:image>
@@ -19,22 +19,22 @@
     <image:image><image:loc>https://curseofstrahd.app/media/shots/st_andrals.webp</image:loc></image:image>
     <image:image><image:loc>https://curseofstrahd.app/media/shots/argynvostholt_hall.webp</image:loc></image:image>
     <video:video>
-      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v4-poster.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v5-poster.jpg</video:thumbnail_loc>
       <video:title>Curse of Strahd (unofficial fan game) - gameplay trailer</video:title>
       <video:description>Gameplay recorded in the game, with its own sound and voices, narrated by Strahd. An unofficial fan game.</video:description>
-      <video:content_loc>https://curseofstrahd.app/media/trailer-v4.mp4</video:content_loc>
-      <video:duration>88</video:duration>
+      <video:content_loc>https://curseofstrahd.app/media/trailer-v5.mp4</video:content_loc>
+      <video:duration>90</video:duration>
     </video:video>
   </url>
   <url>
     <loc>https://curseofstrahd.app/trailer/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-28</lastmod>
     <video:video>
-      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v4-poster.jpg</video:thumbnail_loc>
+      <video:thumbnail_loc>https://curseofstrahd.app/media/trailer-v5-poster.jpg</video:thumbnail_loc>
       <video:title>Curse of Strahd (unofficial fan game) - gameplay trailer</video:title>
       <video:description>Gameplay recorded in the game, with its own sound and voices, narrated by Strahd. An unofficial fan game.</video:description>
-      <video:content_loc>https://curseofstrahd.app/media/trailer-v4.mp4</video:content_loc>
-      <video:duration>88</video:duration>
+      <video:content_loc>https://curseofstrahd.app/media/trailer-v5.mp4</video:content_loc>
+      <video:duration>90</video:duration>
     </video:video>
   </url>
   <url>

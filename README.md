@@ -21,10 +21,11 @@ browsers.)
 | `css/site.css`, `js/site.js` | The look (the game's crimson, black and gold) and the small interactions. |
 | `media/shots/`, `media/thumbs/` | Screenshots at 1920 wide and 640 wide thumbnails (WebP). |
 | `media/companions/` | The six companions' dialogue busts from the game. |
-| `media/trailer-v4.mp4`, `media/trailer-v4-poster.jpg` | The trailer and its poster frame (v3 kept for rollback). |
+| `media/trailer-v5.mp4`, `media/trailer-v5-poster.jpg` | The trailer (90 s, 1080p at 5.5 Mbps) and its poster frame (v4 and v3 kept for rollback). |
 | `tools/godot/` | The capture scenes, copied into a game worktree's `tools/capture/` to run. |
 | `tools/capture.py` | Runs a capture scene off screen in a game worktree and stops it if it hangs. |
-| `tools/make_trailer.py` | Cuts the trailer from the clips and the storybook art on the music, and encodes it. |
+| `tools/make_trailer.py` | Cuts the older trailers (v1 to v4) from the clips and the storybook art on the music, and encodes them. |
+| `tools/make_trailer_v5.py`, `tools/godot/trailer_world.gd`, `trailer_game.gd` | Trailer v5 (2026-10-28): the capture scenes for its shots with the party of Godrick, Ratatouille, Kip and Liriel, and the cut, with the music at one level throughout and Strahd's lines on its quiet passages. The plan is the vault note *Trailer v5 Plan - 2026-10-28*. |
 | `tools/encode.swift`, `tools/envelope.swift` | The Mac's own video encoder, and the music's loudness curve for placing cuts. |
 | `tools/build.py` | Screenshots from the raw captures, the gallery, the credits from the game's `art/credits.json`. |
 

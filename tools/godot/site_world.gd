@@ -5,9 +5,10 @@ extends Node3D
 ##   tools/godot --path . [--fixed-fps 30] res://tools/capture/capture.tscn -- --scene=res://tools/capture/site_world.tscn
 ##     --out=<dir>/w --frames=10 --size=1920x1080 [--motion]
 ## Environment: SITE_MODE=stills|clips, SITE_ONLY=village_night,castle_vista (default: every shot of the mode).
-## Settings, saves and What's new use files of this run's own (removed at the end), never the player's.
+## Settings and saves use files of this run's own (removed at the end), never the player's.
 
-const PARTY: Array[String] = ["godrick_pendlebrook", "liriel_dawnsong", "thistle", "ratatoille"]
+## Godrick, Ratatouille, Kip and Liriel in every shot (owner, 2026-10-28).
+const PARTY: Array[String] = ["godrick_pendlebrook", "ratatoille", "kip_smudgewick", "liriel_dawnsong"]
 const BESIDE: Array[Vector2i] = [Vector2i.ZERO, Vector2i(1, 0), Vector2i(0, 1), Vector2i(1, 1)]
 
 ## Each still: the place, the hour, the weather, where the party stands (else the place's spawn), the camera's
@@ -15,13 +16,16 @@ const BESIDE: Array[Vector2i] = [Vector2i.ZERO, Vector2i(1, 0), Vector2i(0, 1), 
 ## ([x, z] or "middle") to hold the camera over a square instead of the party.
 ## The 1.0.7 look (owner, 2026-10-12: "highlight the new aesthetics", "a lot of the different regions"): each region's
 ## own hue, weather, ground, trees and landmarks, seen wide like a diorama, and each indoor place's own light.
-const W := {"look": "middle", "zoom": 26.0, "tilt": 0.4}
-const IN := {"look": "middle", "zoom": 22.0, "hour": 20}
+## 2026-10-28 (owner: fresh shots with the party of four): the party stands in the middle of the place and the camera
+## holds on them, close enough to see them, far enough to see the place.
+const W := {"look": "middle", "zoom": 17.0, "tilt": 0.4}
+const IN := {"look": "middle", "zoom": 14.0, "hour": 20}
 var STILLS := {
 	# Outdoors, one or two a region.
-	"village_day": W.merged({"loc": "village_of_barovia", "hour": 11, "weather": "overcast"}),
-	"village_night": W.merged({"loc": "village_of_barovia", "hour": 21, "weather": "fog", "zoom": 22.0}),
-	"road_dusk": {"loc": "into_the_mists_road", "hour": 17, "weather": "fog", "at": [12, 15], "zoom": 17.0},
+	"village_day": {"loc": "village_of_barovia", "hour": 11, "weather": "overcast", "at": [20, 12], "zoom": 15.0,
+		"tilt": 0.4},
+	"village_night": {"loc": "village_of_barovia", "hour": 21, "weather": "fog", "at": [16, 12], "zoom": 14.0},
+	"road_dusk": {"loc": "into_the_mists_road", "hour": 17, "weather": "fog", "at": [26, 14], "zoom": 13.0},
 	"castle_vista": {"loc": "village_of_barovia", "hour": 11, "weather": "overcast", "zoom": 30.0, "tilt": 1.0,
 		"face": "castle"},
 	"tser_pool_camp": W.merged({"loc": "tser_pool", "hour": 17, "weather": "overcast"}),
@@ -114,7 +118,6 @@ var _own := ""
 func _ready() -> void:
 	_own = "user://capture_site_%d" % OS.get_process_id()
 	GameSettings.path = _own + "_settings.cfg"
-	WhatsNew.seen_path = _own + "_whats_new.cfg"
 	InputActions.ensure()
 	Look.set_style("modern", false)
 	Graphics.set_preset("high", false)
@@ -122,7 +125,7 @@ func _ready() -> void:
 
 
 func _exit_tree() -> void:
-	for f: String in [GameSettings.path, WhatsNew.seen_path]:
+	for f: String in [GameSettings.path]:
 		if FileAccess.file_exists(f):
 			DirAccess.remove_absolute(f)
 
@@ -155,11 +158,28 @@ func capture_shots(tool: Node, out: String) -> void:
 			continue
 		var shot := list[id] as Dictionary
 		_build(shot)
+		if not clips and str(shot.get("look", "")) == "middle":
+			# The party moves to the open square nearest the place's middle, and the camera follows them there; where
+			# that walks them into a fight's trigger, they stay at the place's own spawn instead.
+			var mid := _open_near(Vector2i(view.grid.width / 2, view.grid.depth / 2))
+			var moved := shot.duplicate()
+			moved.erase("look")
+			moved["at"] = [mid.x, mid.y]
+			_build(moved)
+			await tool.call("wait_frames", 30)
+			if view.get("combat_view") != null:
+				print("site_world: %s's middle starts a fight; the party stays at the spawn" % id)
+				moved.erase("at")
+				_build(moved)
+			shot = moved
 		await tool.call("wait_frames", 50 if not clips else 20)
 		if clips:
 			await _clip(shot, "%s/%s" % [out.get_base_dir(), id])
 		else:
 			await tool.call("wait_frames", 10)
+			_bare()
+			await tool.call("wait_frames", 1)
+			_bare()
 			tool.call("_shot", "%s/%s.png" % [out.get_base_dir(), id])
 
 
@@ -288,3 +308,17 @@ func _face_castle(loc_id: String) -> void:
 		view.rig.snap_to_target()
 	view.rig.rotate_step(best)
 	view.rig.snap_to_target()
+
+
+## No rings, bars or names under anyone, so the party shows as it is.
+func _bare() -> void:
+	for tok: Node in view.find_children("*", "", true, false):
+		if not tok is CombatToken:
+			continue
+		for part: String in ["_ring", "_active_ring", "_bar_back", "_bar_fill", "_label"]:
+			var n: Variant = tok.get(part)
+			if n is Node3D:
+				(n as Node3D).scale = Vector3.ZERO
+		for c: Node in tok.get_children():
+			if c is Label3D or c.name == "Aura":
+				(c as Node3D).scale = Vector3.ZERO
