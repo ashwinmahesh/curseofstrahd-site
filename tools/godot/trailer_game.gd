@@ -16,9 +16,9 @@ const FRONT := "Godrick"
 const TALKERS: Array[String] = ["kip_smudgewick", "godrick_pendlebrook", "ratatoille", "liriel_dawnsong"]
 const SHOTS: Array[String] = ["strahd_road", "fight", "eva", "dinner", "boss_strahd", "boss_lysaga", "boss_dragon",
 	"castle", "camp", "talk", "fight_open",
-	"boss_entrance", "big_spells"]
+	"boss_entrance", "big_spells", "rahadin", "izek"]
 ## The shots whose voices the trailer keeps (the dinner's Strahd line); the rest keep their sound effects only.
-const VOICED: Array[String] = ["dinner"]
+const VOICED: Array[String] = ["dinner", "rahadin", "izek"]
 
 ## The village fight: who stands where, as offsets from the party's leader along the camera's right and away from it.
 const FOES := [["strahd_zombie", 4, 1], ["zombie", 5, -1], ["zombie", 6, 1], ["ghoul", 4, -2], ["strahd_zombie", 7, 0]]
@@ -114,9 +114,12 @@ func _record(clip: String, seconds: float, first: int = 0) -> int:
 			await get_tree().process_frame
 		return first + n
 	if not clips:
+		var clean_still := OS.get_environment("SITE_NO_HUD") != "" and _is_fight_clip(clip)
 		for i in n:
 			if _bare_frames:
 				_no_interface()
+			if clean_still:
+				_fight_bare()
 			await get_tree().process_frame
 			if i == 2 or i == n / 2 or i == n - 1:
 				_shot("%s_%04d" % [clip, first + i])
@@ -125,9 +128,12 @@ func _record(clip: String, seconds: float, first: int = 0) -> int:
 	DirAccess.make_dir_recursive_absolute(to)
 	# With Movie Maker on, the sound for these frames is in the movie: its frame numbers are the engine's process frames.
 	print("segment %s %d %d %d" % [clip, first, Engine.get_process_frames() + 1, n])
+	var clean := OS.get_environment("SITE_NO_HUD") != "" and _is_fight_clip(clip)
 	for i in n:
 		if _bare_frames:
 			_no_interface()
+		if clean:
+			_fight_bare()
 		await get_tree().process_frame
 		get_viewport().get_texture().get_image().save_jpg("%s/f%04d.jpg" % [to, first + i], 0.93)
 	print("capture: %s (%d frames)" % [to, first + n])
@@ -170,7 +176,7 @@ func _game(loc: String, hour: int, party: Array[String], level: int, weather: St
 	add_child(root)
 	await _wait(40)
 	# A cold start (the first game of a run) can take longer to build the place.
-	for i in 600:
+	for i in 2400:
 		if root.get("view") != null:
 			break
 		await _wait(1)
@@ -645,15 +651,22 @@ func _fight_clips(loc: String, hour: int, weather: String, at: Array, smite: boo
 	cv.overlay.clear_all()
 	_put(godrick, foes[0].cell - axes[0] * 4)
 	cv.call("_refresh_all")
-	# The Fireball: Ratatouille's cast, the burst.
-	_frame([wiz] + foes, 10.0)
+	# The Fireball: Ratatouille's cast close up (owner, 2026-10-30: show his casting animation), then the burst.
+	_frame([wiz], 5.5)
+	cv.rig.shot_pitch = 10.0
 	await _wait(20)
 	var events: Array = [{"type": "spell", "caster": wiz.id, "spell": "fireball", "cells": _ball(foes[1].cell), "targets": []}]
 	for f in foes:
 		f.creature.hp = 1
 		events.append({"type": "damage", "id": f.id, "amount": 26})
+	# The game's turn of the camera to a big spell waits, so the cast plays on him.
+	CombatImpact.enabled = false
 	_play(events)
-	await _record("fight_fireball", 4.0)
+	var fb := await _record("fight_fireball", 0.8)
+	CombatImpact.enabled = true
+	cv.rig.shot_pitch = 0.0
+	_frame(foes, 9.0)
+	await _record("fight_fireball", 3.2, fb)
 	# Kip's Eldritch Blast, two beams.
 	foes = _foes()
 	if not foes.is_empty():
@@ -821,6 +834,7 @@ func _shot_boss_strahd() -> void:
 		return
 	var strahd := _foe_named("Strahd")
 	var p := _party()
+	_hall_places(strahd)
 	_frame([p["godrick"], strahd], 8.5)
 	await _wait(20)
 	var n := await _record("boss_strahd", 0.6)
@@ -834,17 +848,38 @@ func _shot_boss_strahd() -> void:
 
 ## Baba Lysaga's creeping hut at Berez stamping in on the party.
 func _shot_boss_lysaga() -> void:
-	if await _staged("berez", 17, "fog", [], [["baba_lysagas_creeping_hut", 0, 4], ["baba_lysaga", 2, 3]], true) == null:
+	if await _staged("berez", 17, "fog", [20, 20], [["baba_lysagas_creeping_hut", 0, 6], ["baba_lysaga", 2, 5]], true) == null:
 		return
 	var hut := _foe_named("Hut")
+	var lysaga: Combatant = null
+	for f in _foes():
+		if f.name().contains("Lysaga") and not f.name().contains("Hut"):
+			lysaga = f
 	if hut == null:
 		hut = _foes()[0]
+	var bosses: Array = [hut]
+	if lysaga != null and lysaga != hut:
+		bosses.append(lysaga)
+	_face_off(bosses, 4, 15.0)
+	await _wait(30)
 	var p := _party()
-	_frame([p["godrick"], hut], 9.0)
-	await _wait(20)
-	_play([{"type": "attack", "attacker": hut.id, "target": (p["godrick"] as Combatant).id, "hit": true},
-		{"type": "damage", "id": (p["godrick"] as Combatant).id, "amount": 14}])
-	await _record("boss_lysaga", 3.0)
+	var godrick: Combatant = p["godrick"]
+	# Godrick has stepped up under the hut, which stamps down on him (owner, 2026-10-30: show the hut attacking).
+	var axes := _ground_axes(cv.rig)
+	# The square just off the hut's corner nearest the camera.
+	var corner := hut.cell + Vector2i(maxi(axes[1].x, 0) * hut.size_cells + mini(axes[1].x, 0),
+		maxi(axes[1].y, 0) * hut.size_cells + mini(axes[1].y, 0))
+	_put(godrick, corner)
+	(cv.tokens[godrick.id] as CombatToken).face(cv.e.center_of(hut) - cv.e.center_of(godrick), false)
+	cv.call("_refresh_all")
+	await _wait(10)
+	var n := await _record("boss_lysaga", 0.4)
+	_play([{"type": "attack", "attacker": hut.id, "target": godrick.id, "hit": true},
+		{"type": "damage", "id": godrick.id, "amount": 14},
+		{"type": "attack", "attacker": hut.id, "target": godrick.id, "hit": true},
+		{"type": "damage", "id": godrick.id, "amount": 11}])
+	await _record("boss_lysaga", 3.2, n)
+
 
 
 ## Castle Ravenloft's climax in the dining hall: Strahd strikes Godrick and Kip (their hurt), then Godrick, with the
@@ -857,6 +892,7 @@ func _shot_castle() -> void:
 	var strahd := _foe_named("Strahd")
 	var p := _party()
 	var godrick: Combatant = p["godrick"]
+	_hall_places(strahd)
 	_frame([godrick, strahd], 8.0)
 	await _wait(30)
 	_play([{"type": "attack", "attacker": strahd.id, "target": godrick.id, "hit": true},
@@ -899,11 +935,30 @@ func _shot_camp() -> void:
 ## Sarkhaza, the ancient red, breathing fire across the party in her lair (the engine's own Fire Breath, aimed at the
 ## middle of the party; the party is levelled up so the heroes take it on their feet).
 func _shot_boss_dragon() -> void:
-	if await _staged("ghakis_lair", 22, "", [], [["sarkhaza", 0, 8]], true, false, "boss_dragon", 6.0, true) == null:
+	if await _staged("ghakis_lair", 22, "", [13, 19], [["sarkhaza", 0, 8]], true, false, "", 0.0, true) == null:
 		return
+	var dragon := _foe_named("Sarkhaza")
+	if dragon == null:
+		push_warning("trailer_game: no Sarkhaza")
+		return
+	_face_off([dragon], 4, 18.0, true)
+	await _wait(30)
+	var n := await _record("boss_dragon", 0.6)
+	# Her Fire Breath down onto the party (owner, 2026-10-30): the game's own cone effect and the damage it does.
 	var p := _party()
-	for c: Combatant in [p["godrick"], p["wiz"], p["kip"], p["liriel"]]:
-		print("trailer_game: %s at %d HP after the dragon's turn" % [c.name(), c.creature.hp])
+	var heroes: Array = [p["godrick"], p["wiz"], p["kip"], p["liriel"]]
+	var mid := Vector2.ZERO
+	for h: Combatant in heroes:
+		mid += Vector2(h.cell.x + 0.5, h.cell.y + 0.5)
+	mid /= heroes.size()
+	var cells := cv.e.grid.cone_from(dragon.cell, dragon.size_cells, mid, 90)
+	var events: Array = [{"type": "ability", "source": "monster", "by": dragon.id, "key": "sarkhaza.fire_breath",
+		"targets": heroes.map(func(h: Combatant) -> String: return h.id), "cells": cells}]
+	for h: Combatant in heroes:
+		events.append({"type": "damage", "id": h.id, "amount": 46})
+	_play(events)
+	await _record("boss_dragon", 3.6, n)
+
 
 
 ## The Vine Mother at Yester Hill with a legendary action on the party.
@@ -992,7 +1047,8 @@ func _shot_big_spells() -> void:
 	# Lightning Bolt: a line from Ratatouille through Strahd and his spawn.
 	_make_current(p["wiz"])
 	var wiz: Combatant = p["wiz"]
-	_frame([wiz, strahd], 10.0)
+	# Ratatouille's cast close up, then the bolt across the hall.
+	_frame([wiz], 5.5)
 	await _wait(20)
 	var sd2 := Compendium.shared().spell_data("lightning_bolt")
 	var aim := Vector2(strahd.cell.x + 0.5, strahd.cell.y + 0.5)
@@ -1002,5 +1058,197 @@ func _shot_big_spells() -> void:
 	for f in _foes():
 		if f.cell in cells2:
 			events2.append({"type": "damage", "id": f.id, "amount": 28})
+	CombatImpact.enabled = false
 	_play(events2)
-	await _record("spell_bolt", 3.0)
+	var bn := await _record("spell_bolt", 0.8)
+	CombatImpact.enabled = true
+	_frame([wiz, strahd], 8.0)
+	await _record("spell_bolt", 2.2, bn)
+
+
+## Strahd and the party inside the lit dining hall (squares 1-12 by 4-14), not out in the dark beyond it.
+func _hall_places(strahd: Combatant) -> void:
+	var p := _party()
+	_put(strahd, Vector2i(6, 6))
+	var others := _foes().filter(func(f: Combatant) -> bool: return f != strahd)
+	var spots: Array[Vector2i] = [Vector2i(3, 7), Vector2i(9, 7)]
+	for i in mini(others.size(), spots.size()):
+		_put(others[i], spots[i])
+	_put(p["godrick"], Vector2i(6, 9))
+	_put(p["liriel"], Vector2i(5, 11))
+	_put(p["wiz"], Vector2i(3, 11))
+	_put(p["kip"], Vector2i(8, 11))
+	cv.call("_refresh_all")
+
+
+## A boss standoff seen the way the owner asked (2026-10-30): the bosses at the top of the frame facing the camera, the
+## party in a row at the bottom facing them, `gap` squares apart, and the camera on the space between.
+func _face_off(bosses: Array, gap: int, dist: float = 14.0, only_fight: bool = false) -> void:
+	var p := _party()
+	var axes := _ground_axes(cv.rig)
+	var right: Vector2i = axes[0]
+	var fwd: Vector2i = axes[1]
+	var base := (p["godrick"] as Combatant).cell
+	var row: Array = [p["wiz"], p["godrick"], p["liriel"], p["kip"]]
+	for i in row.size():
+		_put(row[i], base + right * (i * 2 - 3))
+	for i in bosses.size():
+		var b := bosses[i] as Combatant
+		# The axes' "forward" points back toward the camera: the bosses go the other way, up the screen.
+		_put(b, base - fwd * (gap + b.size_cells / 2) + right * (i * 4 - (bosses.size() - 1) * 2))
+	cv.call("_refresh_all")
+	var boss_mid := Vector2.ZERO
+	for b: Combatant in bosses:
+		boss_mid += cv.e.center_of(b)
+	boss_mid /= bosses.size()
+	var party_mid := Vector2(base.x + 0.5, base.y + 0.5)
+	for h: Combatant in row:
+		var t := cv.tokens[h.id] as CombatToken
+		t.face(boss_mid - cv.e.center_of(h), false)
+	for b: Combatant in bosses:
+		(cv.tokens[b.id] as CombatToken).face(party_mid - cv.e.center_of(b), false)
+	# Nothing else in the place (Sarkhaza's own figure lying in her lair) stands in for the fight.
+	if only_fight:
+		var ours := cv.tokens.values()
+		for t: Node in root.find_children("*", "", true, false):
+			if t is CombatToken and not t in ours:
+				(t as Node3D).visible = false
+	# The camera's point toward the bosses, flatter than play and far enough back for their whole height.
+	_frame(row + bosses, dist)
+	cv.rig.shot_pitch = 12.0
+	var boss_pos := Vector3.ZERO
+	for b: Combatant in bosses:
+		boss_pos += (cv.tokens[b.id] as Node3D).global_position
+	boss_pos /= bosses.size()
+	_focus.global_position = _focus.global_position.lerp(boss_pos + Vector3(0, 0.8, 0), 0.45)
+	cv.rig.snap_to_target()
+	print("trailer_game: face-off base %s, fwd %s, party %s, bosses %s" % [base, fwd,
+		row.map(func(h: Combatant) -> Vector2i: return h.cell), bosses.map(func(b: Combatant) -> Vector2i: return b.cell)])
+
+
+## The fight clips (as opposed to the conversations and the camp).
+func _is_fight_clip(clip: String) -> bool:
+	for p: String in ["fight_", "boss_", "spell_", "castle_strike", "sunsword"]:
+		if clip.begins_with(p):
+			return true
+	return false
+
+
+## SITE_NO_HUD (owner, 2026-10-30): over a fight the big panels go (the hotbar and spell slots, the turn order, the
+## party frames, the log, the Initiative and round banners, End Turn), and what reads the fight stays: the damage
+## numbers, the odds and area tooltips, the rings and health bars under the figures, and the bosses' bars.
+func _fight_bare() -> void:
+	if root == null:
+		return
+	if cv != null and cv.hud != null:
+		for part: String in ["_strip_panel", "_party_box", "_log_panel", "_hot_panel", "_slot_box", "_end_turn",
+				"_undo_move", "_banner", "_controls", "_details", "_confirm", "_prompt"]:
+			var n: Variant = cv.hud.get(part)
+			if n is CanvasItem:
+				(n as CanvasItem).visible = false
+	for n: Node in root.find_children("*", "", true, false):
+		if n is CanvasLayer and not n is BossBar and (cv == null or n != cv.hud):
+			(n as CanvasLayer).visible = false
+		elif n is CombatToken:
+			# The big name over whoever's turn it is; the damage numbers are labels of the view's own and stay.
+			var l: Variant = n.get("_label")
+			if l is Node3D:
+				(l as Node3D).scale = Vector3.ZERO
+			for c: Node in n.get_children():
+				if c.name == "Aura":
+					(c as Node3D).scale = Vector3.ZERO
+
+
+## Rahadin on the castle's stairs (owner, 2026-10-30: a conversation with someone other than Strahd): Kip asks him to
+## stand aside (Persuasion DC 16), the d20 rolls and fails, and Rahadin answers in his own voice before the fight.
+func _shot_rahadin() -> void:
+	await _clear()
+	var seeds: Array[int] = [3, 5, 7, 9, 13, 21, 34, 55, 2, 4]
+	for roll_seed in seeds:
+		# Six squares off, so his own greeting (he speaks first within five) doesn't open over this one.
+		await _game("castle_ravenloft_court", 21, TALKERS, 9, "", [21, 18])
+		if root.get("dialogue") != null:
+			root.call("_leave_dialogue_for_fight")
+		_hud().visible = false
+		root.call("start_dialogue", "castle_ravenloft/court_rahadin:intercept_menu", "rahadin")
+		var d := root.get("dialogue") as DialogueUI
+		if d == null:
+			push_warning("trailer_game: Rahadin's conversation didn't start")
+			return
+		await _wait(20)
+		var pick := -1
+		for i in d.options_shown.size():
+			if str((d.options_shown[i] as Dictionary).get("text", "")).contains("prisoner"):
+				pick = i
+		if pick < 0:
+			push_warning("trailer_game: no Persuasion option for Rahadin")
+			return
+		Dice.reseed(roll_seed)
+		var n := 0
+		if clips:
+			n = await _record("rahadin", 1.5)
+		d.call("_choose", pick)
+		for i in 90:
+			if d.guidance != null:
+				d.guidance.decline_button.pressed.emit()
+			if d.d20 != null:
+				break
+			await get_tree().process_frame
+		var failed := d.d20 != null and not bool(d.d20.result.get("success", true))
+		print("trailer_game: Rahadin seed %d, roll %s" % [roll_seed, "failed" if failed else "passed"])
+		if not failed and roll_seed != seeds[-1]:
+			continue
+		n = await _record("rahadin", 3.0, n)
+		for p: Node in root.find_children("*", "CheckAidPrompt", true, false):
+			(p as CheckAidPrompt).stand_button.pressed.emit()
+		await _wait(2)
+		d.call("_advance")
+		await _record("rahadin", 4.0, n)
+		return
+
+
+## Izek in his room at the Baron's mansion by night (owner, 2026-10-30: someone whose voice he picked, not Rahadin):
+## Kip warns him off Ireena (Intimidation DC 16), the d20 fails, and Izek answers in his own voice, angry.
+func _shot_izek() -> void:
+	await _clear()
+	var seeds: Array[int] = [3, 5, 7, 9, 13, 21, 34, 55, 2, 4]
+	for roll_seed in seeds:
+		await _game("vallaki_burgomaster_mansion", 22, TALKERS, 7, "", [7, 10])
+		if root.get("dialogue") != null:
+			root.call("_leave_dialogue_for_fight")
+		_hud().visible = false
+		root.call("start_dialogue", "vallaki/izek:at_home_menu", "izek")
+		var d := root.get("dialogue") as DialogueUI
+		if d == null:
+			push_warning("trailer_game: Izek's conversation didn't start")
+			return
+		await _wait(20)
+		var pick := -1
+		for i in d.options_shown.size():
+			if str((d.options_shown[i] as Dictionary).get("text", "")).contains("kill you"):
+				pick = i
+		if pick < 0:
+			push_warning("trailer_game: no Intimidation option for Izek")
+			return
+		Dice.reseed(roll_seed)
+		var n := 0
+		if clips:
+			n = await _record("izek", 1.5)
+		d.call("_choose", pick)
+		for i in 90:
+			if d.guidance != null:
+				d.guidance.decline_button.pressed.emit()
+			if d.d20 != null:
+				break
+			await get_tree().process_frame
+		var failed := d.d20 != null and not bool(d.d20.result.get("success", true))
+		print("trailer_game: Izek seed %d, roll %s" % [roll_seed, "failed" if failed else "passed"])
+		if not failed and roll_seed != seeds[-1]:
+			continue
+		n = await _record("izek", 3.0, n)
+		for p: Node in root.find_children("*", "CheckAidPrompt", true, false):
+			(p as CheckAidPrompt).stand_button.pressed.emit()
+		await _wait(2)
+		d.call("_advance")
+		await _record("izek", 6.5, n)
+		return

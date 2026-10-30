@@ -79,6 +79,36 @@ var SHOTS := {
 		"pitch_to": 12.0, "seconds": 3.0},
 	"d_tser": {"loc": "tser_pool", "hour": 19, "weather": "overcast", "at": [24, 16], "zoom": 9.0, "zoom_to": 7.5,
 		"pitch": 8.0, "pitch_to": 12.0, "seconds": 3.5},
+	# Round four (owner, 2026-10-30): six outdoor places of different colours, a second of walking each.
+	"w_village": {"loc": "village_of_barovia", "hour": 21, "weather": "rain", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_tser": {"loc": "tser_pool", "hour": 18, "weather": "overcast", "lane": true, "steps": 14, "seconds": 3.0},
+	"w_tser2": {"loc": "tser_pool", "hour": 18, "weather": "overcast", "lane": true, "steps": 12, "near": [26, 20],
+		"seconds": 3.0},
+	"w_tser3": {"loc": "tser_pool", "hour": 18, "weather": "overcast", "lane": true, "steps": 10, "near": [20, 9],
+		"seconds": 3.0},
+	"w_amber_road": {"loc": "amber_temple_road", "hour": 13, "weather": "snow", "lane": true, "steps": 16,
+		"seconds": 3.0},
+	"w_yester": {"loc": "yester_hill", "hour": 17, "weather": "overcast", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_berez": {"loc": "berez", "hour": 11, "weather": "fog", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_krezk": {"loc": "krezk", "hour": 13, "weather": "snow", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_winery": {"loc": "wizard_of_wines", "hour": 17, "weather": "rain", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_abbey": {"loc": "abbey_of_st_markovia", "hour": 18, "weather": "snow", "lane": true, "steps": 16, "seconds": 3.0},
+	"w_bonegrinder": {"loc": "old_bonegrinder_hill", "hour": 12, "weather": "overcast", "lane": true, "steps": 16,
+		"seconds": 3.0},
+	"w_lake": {"loc": "lake_zarovich", "hour": 17, "weather": "overcast", "lane": true, "steps": 16, "seconds": 3.0},
+	# The interiors he named: Strahd's castle, the Amber Temple, Baba Lysaga's hut, the Vallaki inn and the abbey.
+	"i_castle": {"loc": "castle_ravenloft_chapel", "hour": 22, "mid": true, "zoom": 10.0, "zoom_to": 8.5, "pitch": 6.0,
+		"pitch_to": 12.0, "seconds": 3.0},
+	"i_amber": {"loc": "amber_temple_vault", "hour": 14, "mid": true, "zoom": 10.0, "zoom_to": 8.5, "pitch": 6.0,
+		"pitch_to": 12.0, "seconds": 3.0},
+	"i_amber_god": {"loc": "amber_temple_faceless_god", "hour": 14, "mid": true, "zoom": 10.0, "zoom_to": 8.5,
+		"pitch": 6.0, "pitch_to": 12.0, "seconds": 3.0},
+	"i_hut": {"loc": "berez_baba_lysagas_hut", "hour": 20, "mid": true, "zoom": 9.0, "zoom_to": 7.5, "pitch": 6.0,
+		"pitch_to": 12.0, "seconds": 3.0},
+	"i_inn": {"loc": "vallaki_blue_water_inn", "hour": 20, "at": [3, 3], "zoom": 9.0, "zoom_to": 7.5, "pitch": 6.0,
+		"pitch_to": 12.0, "seconds": 3.0},
+	"i_abbey": {"loc": "abbey_of_st_markovia_shrine", "hour": 20, "mid": true, "zoom": 10.0, "zoom_to": 8.5,
+		"pitch": 6.0, "pitch_to": 12.0, "seconds": 3.0},
 	# The castle's crypts, the party sneaking by lantern light.
 	"sneak": {"loc": "castle_ravenloft_catacombs", "hour": 23, "lane": true, "steps": 12, "sneak": true, "seconds": 4.0},
 	# Inside the castle: the party walking into the dining hall.
@@ -129,6 +159,19 @@ func capture_shots(tool: Node, out: String) -> void:
 		if bool(shot.get("lane", false)):
 			shot = _lane(shot)
 			_build(shot)
+		elif shot.has("at") and _crowded(shot):
+			# Someone of the place stands where the party would (Godrick on a patron at the inn): the nearest spot clear.
+			shot = shot.duplicate()
+			var near := shot["at"] as Array
+			shot["at"] = _clear_spot(Vector2i(int(near[0]), int(near[1])))
+			print("site_world: %s moved the party to %s, clear of the place's people" % [id, shot["at"]])
+			_build(shot)
+		elif bool(shot.get("mid", false)):
+			# The party in the open square nearest the room's middle, the camera on them.
+			var mid := _open_near(Vector2i(view.grid.width / 2, view.grid.depth / 2))
+			shot = shot.duplicate()
+			shot["at"] = [mid.x, mid.y]
+			_build(shot)
 		await tool.call("wait_frames", 50 if not clips else 20)
 		_bare()
 		if clips:
@@ -174,11 +217,31 @@ func _build(shot: Dictionary) -> void:
 		var at := shot["at"] as Array
 		st.location = loc_id
 		st.visited[loc_id] = true
-		for b in BESIDE:
-			st.positions.append(Vector2i(int(at[0]), int(at[1])) + b)
+		if shot.has("column"):
+			# Already in marching order, a column behind the leader along the walk, so nobody has to swing round.
+			var cd := Vector2i(int((shot["column"] as Array)[0]), int((shot["column"] as Array)[1]))
+			for i in PARTY.size():
+				st.positions.append(Vector2i(int(at[0]), int(at[1])) - cd * i)
+		else:
+			for b in BESIDE:
+				st.positions.append(Vector2i(int(at[0]), int(at[1])) + b)
 		spawn = ""
 	view = LocationView.create(loc_id, st, Narrator.new(), Dice.roller, spawn)
 	view.input_locked = true
+	# No fight starts while the party walks through (a walk into Berez's or the vineyard's fight area): every
+	# encounter of the place counts as fought.
+	var fought := st.loc_state(loc_id)["encounters"] as Dictionary
+	for en: Variant in view.loc.get("encounters", []):
+		fought[str((en as Dictionary)["id"])] = true
+	# Nor does anyone walk up to talk (the Abbey's gatekeeper, a Vistani at the camp), which stops the walk.
+	var seen := st.loc_state(loc_id)["props"] as Dictionary
+	for n: Variant in view.loc.get("npcs", []):
+		var spec := n as Dictionary
+		if int(spec.get("approach", 0)) > 0:
+			seen["approach:%s:%s" % [spec.get("npc", ""), spec.get("dialogue", "")]] = true
+	for pr: Variant in view.loc.get("props", []):
+		if str((pr as Dictionary).get("call", "")) != "":
+			seen["call:%s" % (pr as Dictionary).get("id", "")] = true
 	add_child(view)
 	view.update_daylight()
 	view.atmosphere.settle()
@@ -209,8 +272,17 @@ func _start_walk(shot: Dictionary) -> void:
 		view.set_sneaking(true)
 	if shot.has("walk"):
 		var to := shot["walk"] as Array
-		view.walk_to(Vector2i(int(to[0]), int(to[1])) if bool(shot.get("lane", false)) else
+		var ok := view.walk_to(Vector2i(int(to[0]), int(to[1])) if bool(shot.get("lane", false)) else
 			_open_near(Vector2i(int(to[0]), int(to[1]))))
+		if not ok and bool(shot.get("lane", false)):
+			# The far end is taken (someone standing there): the nearest square short of it that the party can reach.
+			var start := view.leader().cell
+			var end := Vector2i(int(to[0]), int(to[1]))
+			var step := Vector2i(signi(end.x - start.x), signi(end.y - start.y))
+			while end != start and not ok:
+				end -= step
+				ok = view.walk_to(end)
+		print("site_world: walk to %s %s" % [to, "started" if ok else "refused"])
 	elif shot.has("walk_by"):
 		var by := shot["walk_by"] as Array
 		var g := view.rig.ground_basis()
@@ -330,39 +402,98 @@ func _party_middle() -> Vector3:
 ## A montage shot's start and end: the clear lane of `steps` squares to the camera's right (with a square clear on
 ## each side, and room behind for the party's formation) nearest "near" or the place's middle.
 func _lane(shot: Dictionary) -> Dictionary:
-	# Along the grid's east (toward the camera's right and front, so their faces show), the same way in every place, so
-	# the party walks the same way on screen; long straight runs that way are what roads and streets give.
-	var dir := Vector2i(int((shot.get("dir", [1, 0]) as Array)[0]), int((shot.get("dir", [1, 0]) as Array)[1]))
-	var steps := int(shot.get("steps", 12))
+	# Straight down the screen toward the camera (owner, 2026-10-30: all aligned, walking forwards, facing the camera),
+	# the same way in every place. The camera basis's first axis points away from the camera, up the screen.
+	var g := view.rig.ground_basis()[0]
+	var down := -Vector2i(signi(roundi(g.x * 1.4)), signi(roundi(g.z * 1.4)))
+	var steps := mini(int(shot.get("steps", 10)), 10)
 	var near := Vector2i(view.grid.width / 2, view.grid.depth / 2)
 	if shot.has("near"):
 		near = Vector2i(int((shot["near"] as Array)[0]), int((shot["near"] as Array)[1]))
 	var best := Vector2i(-1, -1)
-	var best_d := INF
-	for x in view.grid.width:
-		for y in view.grid.depth:
-			var start := Vector2i(x, y)
-			var ok := true
-			for k in range(-3, steps + 1):
-				var c := start + dir * k
-				if not view.grid.in_bounds(c) or view.grid.is_solid(c) or (k > -3 and view.grid.is_cliff(c - dir, c)):
-					ok = false
-					break
-			if ok:
-				var d := Vector2(start + dir * (steps / 2) - near).length()
-				if d < best_d:
-					best_d = d
-					best = start
+	var dir := down
+	# Down and to the left (facing the camera, the four side by side in a line rather than hidden behind the leader),
+	# else down and to the right, else straight down.
+	for try_dir: Vector2i in [Vector2i(down.x, 0), Vector2i(0, down.y), down]:
+		best = _lane_from(try_dir, steps, near)
+		if best.x >= 0:
+			dir = try_dir
+			break
 	var out := shot.duplicate()
 	if best.x < 0:
 		print("site_world: no clear lane of %d squares at %s" % [steps, shot["loc"]])
 		return out
 	out["at"] = [best.x, best.y]
+	out["column"] = [dir.x, dir.y]
 	var end := best + dir * steps
 	out["walk"] = [end.x, end.y]
 	out["zoom"] = LANE_ZOOM
 	out["pitch"] = LANE_PITCH
 	out.erase("zoom_to")
 	out.erase("pitch_to")
-	print("site_world: lane at %s from %s to %s" % [shot["loc"], best, end])
+	print("site_world: lane at %s from %s to %s (dir %s)" % [shot["loc"], best, end, dir])
 	return out
+
+
+## The start of the clear lane of `steps` squares along `dir` nearest `near` (the party's column of four behind it
+## clear too, no corner cut past a wall, no ledge), or (-1, -1).
+func _lane_from(dir: Vector2i, steps: int, near: Vector2i) -> Vector2i:
+	var best := Vector2i(-1, -1)
+	var best_d := INF
+	for x in view.grid.width:
+		for y in view.grid.depth:
+			var start := Vector2i(x, y)
+			var ok := true
+			for k in range(-4, steps + 1):
+				var c := start + dir * k
+				if not view.grid.in_bounds(c) or view.grid.is_solid(c):
+					ok = false
+					break
+				if k > -4:
+					var prev := c - dir
+					if view.grid.is_cliff(prev, c) or view.grid.is_solid(prev + Vector2i(dir.x, 0)) \
+							or view.grid.is_solid(prev + Vector2i(0, dir.y)):
+						ok = false
+						break
+			if ok:
+				var d := Vector2(start + dir * (steps / 2) - near).length()
+				if d < best_d:
+					best_d = d
+					best = start
+	return best
+
+
+## The cells the place's own people stand on.
+func _people_cells() -> Dictionary:
+	var taken := {}
+	for shown: Variant in view.get("_npc_shown"):
+		taken[(shown as Dictionary)["cell"] as Vector2i] = true
+	return taken
+
+
+## Whether the party's squares at the shot's "at" (it and the three beside it) are taken by the place's people.
+func _crowded(shot: Dictionary) -> bool:
+	var at := shot["at"] as Array
+	var taken := _people_cells()
+	for b in BESIDE:
+		if taken.has(Vector2i(int(at[0]), int(at[1])) + b):
+			return true
+	return false
+
+
+## The nearest spot to `near` whose four squares (and a square round them) are open and nobody's.
+func _clear_spot(near: Vector2i) -> Array:
+	var taken := _people_cells()
+	for r in 10:
+		for dx in range(-r, r + 1):
+			for dy in range(-r, r + 1):
+				var c := near + Vector2i(dx, dy)
+				var ok := true
+				for x in range(-1, 3):
+					for y in range(-1, 3):
+						var q := c + Vector2i(x, y)
+						if not view.grid.in_bounds(q) or view.grid.is_solid(q) or taken.has(q):
+							ok = false
+				if ok:
+					return [c.x, c.y]
+	return [near.x, near.y]

@@ -43,41 +43,46 @@ EDIT = [
 	# Ravenloft in the storm, then bats become Strahd beside the party.
 	{"clip": "vista", "from": 0.2, "seconds": 4.4},
 	{"clip": "strahd_road", "from": 0.2, "seconds": 3.4},
-	# One walk through six places, half a second each, never its start or its end (owner, 2026-10-28).
-	{"clip": "m_village", "from": 1.2, "seconds": 0.5},
-	{"clip": "m_abbey", "from": 1.2, "seconds": 0.5},
-	{"clip": "m_vallaki", "from": 1.2, "seconds": 0.5},
-	{"clip": "m_argyn", "from": 1.2, "seconds": 0.5},
-	{"clip": "m_krezk", "from": 1.2, "seconds": 0.5},
-	{"clip": "m_lake", "from": 1.2, "seconds": 0.5},
-	# Each place's own light: candles in the church, the inn and the Death House, then the Vistani camp at dusk.
-	{"clip": "d_church", "from": 0.3, "seconds": 2.6, "caption": "The whole Curse of Strahd campaign"},
-	{"clip": "d_inn", "from": 0.3, "seconds": 2.6, "caption": "The whole Curse of Strahd campaign"},
-	{"clip": "d_deathhouse", "from": 0.3, "seconds": 2.8},
-	{"clip": "d_tser", "from": 0.2, "seconds": 2.4},
+	# One walk through six outdoor places, a second each and each its own colour (owner, 2026-10-30), never its start
+	# or its end: night-blue Barovia, white Krezk, green Berez, the Abbey's gold, the violet vineyard, the grey-blue lake.
+	{"clip": "w_village", "from": 0.8, "seconds": 1.0, "caption": "The whole Curse of Strahd campaign"},
+	{"clip": "w_krezk", "from": 0.8, "seconds": 1.0, "caption": "The whole Curse of Strahd campaign"},
+	{"clip": "w_berez", "from": 0.8, "seconds": 1.0, "caption": "The whole Curse of Strahd campaign"},
+	{"clip": "w_abbey", "from": 0.8, "seconds": 1.0},
+	{"clip": "w_winery", "from": 0.8, "seconds": 1.0},
+	{"clip": "w_lake", "from": 0.8, "seconds": 1.0},
+	# His five interiors, each in its own light: Strahd's chapel, the Amber Temple's faceless god, Baba Lysaga's hut,
+	# the Blue Water Inn and the Abbey's shrine. Then the walk stops at last, at the Vistani camp by Tser Pool.
+	{"clip": "i_castle", "from": 0.8, "seconds": 1.2},
+	{"clip": "i_amber_god", "from": 0.8, "seconds": 1.2},
+	{"clip": "i_hut", "from": 0.8, "seconds": 1.2},
+	{"clip": "i_inn", "from": 0.8, "seconds": 1.2},
+	{"clip": "i_abbey", "from": 0.8, "seconds": 1.2},
+	{"clip": "d_tser", "from": 0.2, "seconds": 1.4},
 	# Madam Eva turns one card over the reading's picture, and Strahd answers her: the last words before the band.
 	{"clip": "eva", "from": 0.2, "seconds": 4.8},
 	# The band hits: the fight, each moment in a place of its own.
-	{"clip": "fight_start", "from": 0.9, "seconds": 1.4, "caption": TACTICS, "hud": True},
-	{"clip": "fight_smite", "from": 0.2, "seconds": 2.0, "caption": TACTICS, "hud": True},
-	{"clip": "fight_aim", "from": 0.3, "seconds": 2.2, "caption": "Know the odds before you act", "caption_y": 470},
+	# Over the fights only the big panels are gone; the odds, damage numbers and boss bars stay (owner, 2026-10-30).
+	{"clip": "fight_smite", "from": 0.0, "seconds": 3.4, "caption": TACTICS},
+	{"clip": "fight_aim", "from": 0.3, "seconds": 2.2, "caption": "Know the odds before you act", "caption_y": 120},
 	{"clip": "fight_fireball", "from": 0.1, "seconds": 2.4},
 	{"clip": "fight_blast", "from": 0.4, "seconds": 2.4},
 	{"clip": "fight_guardians", "from": 0.3, "seconds": 2.6},
 	{"clip": "fight_hadar", "from": 0.2, "seconds": 4.2},
 	{"clip": "fight_last", "from": 0.3, "seconds": 2.8},
-	# Through the castle's crypts to dinner with Strahd.
-	{"clip": "sneak", "from": 1.0, "seconds": 2.4},
-	{"clip": "hall", "from": 1.0, "seconds": 2.6},
-	{"clip": "dinner", "from": 1.7, "seconds": 7.0, "voices": True, "caption": "Every line voiced", "caption_at": 4.0,
+	# Izek in his room at the Baron's mansion (owner, 2026-10-30: a voice he picked himself): Kip's threat fails on the
+	# big d20 and Izek answers, angry, in his own voice. Then into the castle's crypts and up to the dining hall.
+	{"clip": "izek", "from": 2.0, "seconds": 8.4, "voices": True, "caption": "Every line voiced", "caption_at": 2.6,
 		"top": True},
+	{"clip": "sneak", "from": 1.0, "seconds": 1.6},
+	{"clip": "hall", "from": 1.0, "seconds": 2.0},
 	# The climax (owner, 2026-10-28: more exciting, nothing seen before, no walking): Strahd's entrance, the party's
 	# biggest spells, the bosses, Strahd striking back and the Sunsword, the cuts quickening.
 	{"clip": "boss_entrance", "from": 1.2, "seconds": 3.0, "sound": True},
-	{"clip": "spell_flame", "from": 0.2, "seconds": 1.6, "sound": True},
-	{"clip": "spell_bolt", "from": 0.5, "seconds": 1.6, "sound": True},
-	{"clip": "boss_dragon", "from": 2.6, "seconds": 2.4, "sound": True},
-	{"clip": "boss_lysaga", "from": 0.4, "seconds": 1.6, "sound": True},
+	{"clip": "spell_flame", "from": 0.2, "seconds": 1.4, "sound": True},
+	{"clip": "spell_bolt", "from": 0.1, "seconds": 1.8, "sound": True},
+	{"clip": "boss_dragon", "from": 0.3, "seconds": 2.4, "sound": True},
+	{"clip": "boss_lysaga", "from": 0.6, "seconds": 1.6, "sound": True},
 	{"clip": "boss_strahd", "from": 0.4, "seconds": 2.0, "sound": True},
 	{"clip": "castle_strike", "from": 0.2, "seconds": 2.2, "sound": True},
 	{"clip": "sunsword", "from": 0.0, "seconds": 3.6, "sound": True},
@@ -385,7 +390,7 @@ GAME_SOUNDS = [("build/v5/audio/game_movie.wav", "build/v5/raw/clips/trailer_gam
 	("build/v5/audio/game_movie2.wav", "build/v5/raw/clips/trailer_game2.log"),
 	("build/v5/audio/game_movie3.wav", "build/v5/raw/clips/trailer_game3.log")] + [
 	# One run per fight moment in a place of its own (owner, 2026-10-28): the blast, the guardians, Hadar, the last blow.
-	("build/v5/audio/game_movie%d.wav" % n, "build/v5/raw/clips/trailer_game%d.log" % n) for n in range(4, 9)]
+	("build/v5/audio/game_movie%d.wav" % n, "build/v5/raw/clips/trailer_game%d.log" % n) for n in range(4, 31)]
 
 
 def game_sound(edit: list) -> list:
