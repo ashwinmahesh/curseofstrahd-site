@@ -50,5 +50,5 @@ lists them all.
 - [Download](https://curseofstrahd.app/#download)
 - [Release notes](https://curseofstrahd.app/releases/)
 - [Wiki (spoilers)](https://curseofstrahd.app/wiki/)
-- [macOS download (disk image), version 1.0.11](https://downloads.curseofstrahd.app/1.0.11/CurseOfStrahd-1.0.11-macos.dmg)
-- [Windows download, version 1.0.11](https://downloads.curseofstrahd.app/1.0.11/CurseOfStrahd-1.0.11-windows.zip)
+- [macOS download (disk image), version 1.0.12](https://downloads.curseofstrahd.app/1.0.12/CurseOfStrahd-1.0.12-macos.dmg)
+- [Windows download, version 1.0.12](https://downloads.curseofstrahd.app/1.0.12/CurseOfStrahd-1.0.12-windows.zip)
